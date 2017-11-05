@@ -1,1 +1,38 @@
-site_name: My Docs
+site_name: CoRA Docs
+site_url: http://www.mkdocs.org
+site_description: CoRA documentation with Markdown.
+site_author: Sachin Pawaskar
+
+repo_url: ttps://github.com/spawaskar-cora/cora-docs
+edit_uri: ""
+
+pages:
+    - Home: index.md
+    - User Guide:
+        - Writing Your Docs: user-guide/writing-your-docs.md
+        - Styling Your Docs: user-guide/styling-your-docs.md
+        - Configuration: user-guide/configuration.md
+        - Deploying Your Docs: user-guide/deploying-your-docs.md
+        - Custom Themes: user-guide/custom-themes.md
+        - Plugins: user-guide/plugins.md
+    - Technical Guide:
+        - Writing Your Docs: user-guide/writing-your-docs.md
+    - About:
+        - Release Notes: about/release-notes.md
+        - Contributing: about/contributing.md
+        - License: about/license.md
+
+extra_css:
+    - css/extra.css
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition
+    - def_list
+
+copyright: Copyright &copy; 2016 - 2018 <a href="https://sachinpawaskaruno.github.io">Sachin Pawaskar</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">CoRA Team</a>.
+# google_analytics: ['UA-27795084-5', 'mkdocs.org']
+
+plugins:
+    - search
