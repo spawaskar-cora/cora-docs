@@ -9,6 +9,7 @@ edit_uri: ""
 pages:
     - Home: index.md
     - User Guide:
+        - Projects: user-guide/projects.md
 #        - Writing Your Docs: user-guide/writing-your-docs.md
 #        - Styling Your Docs: user-guide/styling-your-docs.md
 #        - Configuration: user-guide/configuration.md
@@ -19,7 +20,7 @@ pages:
 #        - Writing Your Docs: user-guide/writing-your-docs.md
     - About:
 #        - Release Notes: about/release-notes.md
-#        - Contributing: about/contributing.md
+        - Contributing: about/contributing.md
 #        - License: about/license.md
 
 #extra_css:
