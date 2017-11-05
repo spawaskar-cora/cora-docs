@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Welcome to CoRA Docs
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Documentation for CoRA - Commingled Remains Analytics
 
-## Commands
+## What is CoRA?
+Commingled human remains are often encountered in archaeological and forensic contexts. A bone by bone inventory is an important step in determining the minimum number of individuals present and segregating commingled remains into individuals. This process must occur for individual identification to be possible. The **Commingled Remains and Analytics (CoRA)** web application, database and APIs are a `community resource` for inventorying assemblages of commingled human remains, while `providing a framework of analytic methods and tools` to assist in the segregation and identification process.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Contribution Guidelines
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+If you are submitting documentation for the **current stable release**, submit it to the corresponding branch. For example, documentation for CoRA 1.0 would be submitted to the `1.0` branch. Documentation intended for the next release of Laravel should be submitted to the `master` branch.
