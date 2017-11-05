@@ -3,8 +3,8 @@ site_name: CoRA Docs
 site_description: CoRA documentation with Markdown.
 site_author: Sachin Pawaskar
 
-#repo_url: ttps://github.com/spawaskar-cora/cora-docs
-#edit_uri: ""
+repo_url: ttps://github.com/spawaskar-cora/cora-docs-mkdocs
+edit_uri: ""
 
 #pages:
 #    - Home: index.md
