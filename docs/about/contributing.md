@@ -1,4 +1,4 @@
-# Contributing to CoRA Docs
+# Contributing to CoRA and CoRA Docs
 
 An introduction to contributing to the CoRA and CoRA Docs project.
 
