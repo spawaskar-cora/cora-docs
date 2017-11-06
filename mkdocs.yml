@@ -13,6 +13,8 @@ pages:
     - About:
         - Contributing: about/contributing.md
 
+theme: mkdocs
+
 #extra_css:
 #    - css/extra.css
 
