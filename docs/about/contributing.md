@@ -25,7 +25,7 @@ traceback.
 ## Testing the Development Version
 
 If you want to just install and try out the latest development version of
-CoRA you can do so by going to [CoRA DEV]: http://cora-dev.herokuapp.com. 
+CoRA you can do so by going to [CoRA DEV]. 
 This can be useful if you want to provide feedback for a new feature or want
 to confirm if a bug you have encountered is fixed in the git master. 
 It is **strongly** recommended that you do this within a [virtualenv].
