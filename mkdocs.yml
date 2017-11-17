@@ -10,6 +10,9 @@ pages:
     - Home: index.md
     - User Guide:
         - Projects: user-guide/projects.md
+    - Forensic Anthro Guide:
+        - Measurements: forensics-anthro-guide/measurements.md
+            - Maximum Femur Length: forensics-anthro-guide/measurements/max-fem-length.md
     - About:
         - Contributing: about/contributing.md
 
