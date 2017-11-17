@@ -11,6 +11,7 @@ pages:
     - User Guide:
         - Projects: user-guide/projects.md
     - Forensic Anthro Guide:
+        - Methods: forensics-anthro-guide/methods.md
         - Measurements: forensics-anthro-guide/measurements.md
     - About:
         - Contributing: about/contributing.md
