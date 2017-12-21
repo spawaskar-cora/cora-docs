@@ -2,28 +2,26 @@
 In this section we present an annotated bibliography of analytical methods available in CoRA. This list will be updated as new methods are developed, published and added to the CoRA environment.  
 
 
+
 * **Albert AM, Maples WR (1995).** Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method of age determination for teenage and young adult skeletons.  Journal of Forensic Sciences 40:623-633.
-  * Age estimation by scoring fusion of thoracic and lumbar vertebral centra. Reference population consists of 55 black and white males and females between the ages of 11 and 32 years.  The correlation between stages of union and known age was 0.78 (P < .0001). 
+  * Age estimation by scoring fusion of thoracic and lumbar vertebral centra. Reference population consists of 55 black and white males and females between the ages of 11 and 32 years.  The correlation between stages of union and known age was 0.78 (P < .0001).
 
 * **Berg GE (2008).** Pubic bone age estimation in adult women. Journal of Forensic Sciences, 53(3):569-577.
-  * Age estimation for older females, re-defining the Suchey-Brooks phases V and VI, and adding phase VII. Reference population data derived from Balkan (n = 85) and Eastern Tennessee (n = 104) samples, totaling 189 females.  
+  * Age estimation for older females, re-defining the Suchey-Brooks phases V and VI, and adding phase VII. Reference population data derived from Balkan (n = 85) and Eastern Tennessee (n = 104) samples, totaling 189 females.
 
-* **Blankenship JA, Mincer HH, Anderson KM, Woods MA, Burton EL (2007).** Third molar development in the estimation of chronologic age in American Blacks as compared with Whites. Journal of Forensic Sciences, 52(2):428-433.  
-  * Age estimation of African American populations by scoring third molar development radiographically using the
-Demirjian et al. stages.  Reference population data derived 637 African Americans between the ages of 14 and 24
-compared to 563 American Whites from Demirjian’s prior study. Black–White differences were significant with developmental stages occurring in blacks a year or so earlier than whites. The empirical likelihood that an African American male with fully developed M3's is at least 18 years old is 93% and that for African American female is 84%. Corresponding risks for whites are 90% and 93%. 
+* **Blankenship JA, Mincer HH, Anderson KM, Woods MA, Burton EL (2007).** Third molar development in the estimation of chronologic age in American Blacks as compared with Whites. Journal of Forensic Sciences, 52(2):428-433.  * Age estimation of African American populations by scoring third molar development radiographically using the
+Demirjian et al. stages.  Reference population data derived 637 African Americans between the ages of 14 and 24compared to 563 American Whites from Demirjian’s prior study. Black–White differences were significant with developmental stages occurring in blacks a year or so earlier than whites. The empirical likelihood that an African American male with fully developed M3's is at least 18 years old is 93% and that for African American female is 84%. Corresponding risks for whites are 90% and 93%. 
 
 * **Brooks S, Suchey JM (1990).** Skeletal age determination based upon the os pubis:  A comparison of
-the Acsádi-Nemeskéri and Suchey-Brooks methods. Human Evolution, 5:227-238.  
-  * The Suchey-Brooks system is a 6-phase system (I-VI) for age estimation for males and females that utilizes
-the morphology of the entire symphyseal surface following the six phase system for males described by Katz and Suchey (1986). Reference data are derived from 1,225 individuals of known ages at death from the Los Angeles Medical Examiner’s Office. 
+the Acsádi-Nemeskéri and Suchey-Brooks methods. Human Evolution, 5:227-238.  * The Suchey-Brooks system is a 6-phase system (I-VI) for age estimation for males and females that utilizes
+the morphology of the entire symphyseal surface following the six phase system for males described by Katz and Suchey (1986). Reference data are derived from 1,225 individuals of known ages at death from the Los Angeles Medical Examiner’s Office.
 
-* **Buckberry JL, Chamberlain AT (2002).** Age estimation from the auricular surface of the ilium:  Arevised method.  American Journal of Physical Anthropology, 119:231-239.  
-  * A composite scoring method for ageestimation from the auricular surface. This method is a revision of the
-existing auricular surface aging method by Lovejoy et al (1985), and scores independent components of the auricular surface, rather than the gestalt. Reference data are derived from a known-age skeletal collection from Christ Church, Spitalfields, London (n = 180). 
+* **Buckberry JL, Chamberlain AT (2002).** Age estimation from the auricular surface of the ilium:  Arevised method.  American Journal of Physical Anthropology, 119:231-239.
+  * A composite scoring method for ageestimation from the auricular surface. This method is a revision of the existing auricular surface aging method by Lovejoy et al (1985), and scores independent components of the auricular surface, rather than the gestalt. Reference data are derived from a known-age skeletal collection from Christ Church, Spitalfields, London (n = 180).
 
-* **Buikstra JE, Ubelaker DH (1994).** Standards for Data Collection from Human Skeletal Remains.  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.   * Data collection standardization from skeletal remains. This source consolidates multiple non-metric methods and measurements into a single source. 
-
+* **Buikstra JE, Ubelaker DH (1994).** Standards for Data Collection from Human Skeletal Remains.  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.
+ * Data collection standardization from skeletal remains. This source consolidates multiple non-metric methods and measurements into a single source.
+ 
 * **Edgar HJH (2013).** Estimation of ancestry using dental morphological characteristics. Journal of Forensic Sciences 58:S3-S8.2013 
   * Ancestry estimation using nonmetric morphological dental traits to distinguish European American, African American,
 and Hispanic American individuals. The dental traits and scoring definitions are derived from The ASU dental series (see Turner et al. 1991). The reference population includes 509 individuals of Hispanic, African and European ancestry.
@@ -33,62 +31,30 @@ dental anthropology system. In: Advances in Dental Anthropology, Kelley M, Larse
 
 * **Gill GW (1998).** Craniofacial Criteria in the Skeletal Attribution of Race. In *Forensic Osteology:
 Advances in the Identification of Human Remains,* 2nd ed., Reichs K (ed), pp.293-317. Charles C. Thomas, Springfield, IL.
-  * Ancestry estimation based on nonmetric craniofacial morphology. These data represent a mid-1990s collective
-assessment of observers’ experiences in the field. The variation of twenty-two traits of the skull are compared and described as typical features of American Indian, Black, East Asian, Polynesian, and White populations. The authors state that while all of the presented traits can be useful for ancestry estimation, those of the nose and mouth have shown to be the most useful. The user should
-be cautious when applying this method as little attention is provided to the underlying distribution of traits among the populations surveyed. Method should be deprecated. 
+  * Ancestry estimation based on nonmetric craniofacial morphology. These data represent a mid-1990s collectiveassessment of observers’ experiences in the field. The variation of twenty-two traits of the skull are compared and described as typical features of American Indian, Black, East Asian, Polynesian, and White populations. The authors state that while all of the presented traits can be useful for ancestry estimation, those of the nose and mouth have shown to be the most useful. The user shouldbe cautious when applying this method as little attention is provided to the underlying distribution of traits among the populations surveyed. Method should be deprecated.
 
 * **Hefner J (2009).** Cranial nonmetric variation and estimating ancestry. Journal of Forensic Sciences, 54(5):985-995.
-  * Provides underlying frequency distributions by ancestry for 11 commonly used cranial nonmetric traits. The
-reference sample consists of 747 individuals from four skeletal collections,
-comprised of prehistoric and contemporary individuals, which are separated into
-an African, Asian, European, and Native American. Ten of the 11 traits examined
-had frequency distributions with significant differences (p < 0.001) between
-groups, but the range in variation of these traits, particularly within groups,
-suggests that ancestry estimation cannot be conducted by visual observation
-alone.
+  * Provides underlying frequency distributions by ancestry for 11 commonly used cranial nonmetric traits. The reference sample consists of 747 individuals from four skeletal collections, comprised of prehistoric and contemporary individuals, which are separated into
+an African, Asian, European, and Native American. Ten of the 11 traits examined had frequency distributions with significant differences (p < 0.001) between groups, but the range in variation of these traits, particularly within groups, suggests that ancestry estimation cannot be conducted by visual observation alone.
 
- 
-
-Hefner J,
-Ousley SD (2014). Statistical classification
-methods for estimating ancestry using morphoscopic traits.  Journal
+* **Hefner J, Ousley SD (2014).** Statistical classification methods for estimating ancestry using morphoscopic traits.  Journal
 of Forensic Sciences, 59(4):883-890.  
-
-Ancestry estimation using six
-cranial nonmetric traits to separate American Whites and Blacks. OSSA is a
-nonparametric method that compresses morphological variation into two classes.
-To employ OSSA, all six non-metric traits are scored using the original
+  * Ancestry estimation using six cranial nonmetric traits to separate American Whites and Blacks. OSSA is anonparametric method that compresses morphological variation into two classes.To employ OSSA, all six non-metric traits are scored using the original
 character states (original ordinal categories, 0-4), and then compressed to the
-corresponding dichotomous state (0,1). 
-All six OSSA scores (0-6) are summed. Values of four or greater are
+corresponding dichotomous state (0,1). All six OSSA scores (0-6) are summed. Values of four or greater are
 classified as American White; values of three or less are classified as
 American Black.  
 
- 
-
-İşcan MY,
-Loth SR, Wright RK (1984). Age estimation from the rib
-by phase analysis: White males.  Journal of Forensic Sciences,
+* **İşcan MY, Loth SR, Wright RK (1984).** Age estimation from the rib by phase analysis: White males.  Journal of Forensic Sciences,
 29:1094-1104.  
+  * Age estimation based on the morphology of the sternal end of the fourth rib (White Males). This system is a
+9-phase system (0-8), requiring the sternal end of the 4th rib be compared to three-dimensional casts of known age exemplars. The reference population consists of 118 white males of known age at death.  
 
-Age estimation based on the
-morphology of the sternal end of the fourth rib (White Males). This system is a
-9-phase system (0-8), requiring the sternal end of the 4th rib be compared to
-three-dimensional casts of known age exemplars. The reference population
-consists of 118 white males of known age at death.  
-
- 
-
-İşcan MY,
-Loth SR, Wright RK (1985). Age estimation from the rib
-by phase analysis:  White females.  Journal
+* **İşcan MY, Loth SR, Wright RK (1985).** Age estimation from the rib by phase analysis:  White females.  Journal
 of Forensic Sciences, 30:853-863. 
-
-Age estimation based on the
-morphology of the sternal end of the fourth rib (White Females). This system is
+  * Age estimation based on themorphology of the sternal end of the fourth rib (White Females). This system is
 a 9-phase system (0-8), requiring the sternal end of the 4th rib be compared to
-three-dimensional casts of known age exemplars. 
-The reference population consists of 86 white females of known age at
+three-dimensional casts of known age exemplars. The reference population consists of 86 white females of known age at
 death.  
 
  
