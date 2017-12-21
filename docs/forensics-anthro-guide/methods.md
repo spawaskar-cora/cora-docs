@@ -4,7 +4,7 @@ In this section we present an annotated bibliography of analytical methods avail
 * **Albert AM, Maples WR (1995).** Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method of age determination for teenage and young adult skeletons.  Journal of Forensic Sciences 40:623-633.
   * Age estimation by scoring fusion of thoracic and lumbar vertebral centra. Reference population consists of 55 black and white males and females between the ages of 11 and 32 years.  The correlation between stages of union and known age was 0.78 (P < .0001).
 
-* **Berg GE (2008).** Pubic bone age estimation in adult women. Journal of Forensic Sciences, 53(3):569-577.
+* **Berg GE (2008).** Pubic bone age estimation in adult women. Journal of Forensic Sciences, 53(3):569-577.  
   * Age estimation for older females, re-defining the Suchey-Brooks phases V and VI, and adding phase VII. Reference population data derived from Balkan (n = 85) and Eastern Tennessee (n = 104) samples, totaling 189 females.
 
 * **Blankenship JA, Mincer HH, Anderson KM, Woods MA, Burton EL (2007).** Third molar development in the estimation of chronologic age in American Blacks as compared with Whites. Journal of Forensic Sciences, 52(2):428-433.
@@ -23,16 +23,16 @@ In this section we present an annotated bibliography of analytical methods avail
   * Ancestry estimation using nonmetric morphological dental traits to distinguish European American, African American, and Hispanic American individuals. The dental traits and scoring definitions are derived from The ASU dental series (see Turner et al. 1991). The reference population includes 509 individuals of Hispanic, African and European ancestry.
   * *Additional Reference:* Turner CG II, Nichol CR, Scott GR. (1991). Scoring procedures for key morphological traits of the permanent dentition: the Arizona State University dental anthropology system. In: Advances in Dental Anthropology, Kelley M, Larsen CS (eds) Wiley-Liss, New York, NY.
 
-* **Gill GW (1998).** Craniofacial Criteria in the Skeletal Attribution of Race. In *Forensic Osteology: Advances in the Identification of Human Remains,* 2nd ed., Reichs K (ed), pp.293-317. Charles C. Thomas, Springfield, IL.
+* **Gill GW (1998).** Craniofacial Criteria in the Skeletal Attribution of Race. In *Forensic Osteology: Advances in the Identification of Human Remains,* 2nd ed., Reichs K (ed), pp.293-317. Charles C. Thomas, Springfield, IL.  
   * Ancestry estimation based on nonmetric craniofacial morphology. These data represent a mid-1990s collectiveassessment of observers’ experiences in the field. The variation of twenty-two traits of the skull are compared and described as typical features of American Indian, Black, East Asian, Polynesian, and White populations. The authors state that while all of the presented traits can be useful for ancestry estimation, those of the nose and mouth have shown to be the most useful. The user shouldbe cautious when applying this method as little attention is provided to the underlying distribution of traits among the populations surveyed. Method should be deprecated.
 
 * **Hefner J (2009).** Cranial nonmetric variation and estimating ancestry. Journal of Forensic Sciences, 54(5):985-995.
   * Provides underlying frequency distributions by ancestry for 11 commonly used cranial nonmetric traits. The reference sample consists of 747 individuals from four skeletal collections, comprised of prehistoric and contemporary individuals, which are separated into an African, Asian, European, and Native American. Ten of the 11 traits examined had frequency distributions with significant differences (p < 0.001) between groups, but the range in variation of these traits, particularly within groups, suggests that ancestry estimation cannot be conducted by visual observation alone.
 
- * **Hefner J, Ousley SD (2014).** Statistical classification methods for estimating ancestry using morphoscopic traits.  Journal of Forensic Sciences, 59(4):883-890.    
+* **Hefner J, Ousley SD (2014).** Statistical classification methods for estimating ancestry using morphoscopic traits.  Journal of Forensic Sciences, 59(4):883-890.    
   * Ancestry estimation using six cranial nonmetric traits to separate American Whites and Blacks. OSSA is anonparametric method that compresses morphological variation into two classes.To employ OSSA, all six non-metric traits are scored using the original character states (original ordinal categories, 0-4), and then compressed to the corresponding dichotomous state (0,1). All six OSSA scores (0-6) are summed. Values of four or greater areclassified as American White; values of three or less are classified as American Black.  
 
-* **İşcan MY, Loth SR, Wright RK (1984).** Age estimation from the rib by phase analysis: White males.  Journal of Forensic Sciences, 29:1094-1104.  
+* **İşcan MY, Loth SR, Wright RK (1984).** Age estimation from the rib by phase analysis: White males.  Journal of Forensic Sciences, 29:1094-1104.
   * Age estimation based on the morphology of the sternal end of the fourth rib (White Males). This system is a 9-phase system (0-8), requiring the sternal end of the 4th rib be compared to three-dimensional casts of known age exemplars. The reference population consists of 118 white males of known age at death.
 
 * **İşcan MY, Loth SR, Wright RK (1985).** Age estimation from the rib by phase analysis:  White females.  Journal of Forensic Sciences, 30:853-863. 
@@ -44,7 +44,6 @@ In this section we present an annotated bibliography of analytical methods avail
 
 * **Knusel CJ, Outram AK (2004).** Fragmentation: The zonation method applied to fragmented human remains from archaeological and forensic contexts.  Environmental Archaeology, 9(1):85-98.
   * Scattered and commingled human and animal remains are commonly encountered on archaeological sites, and this contextual relationship begs the question of whether human and animals were treated in a similar manner before burial. The recording system presented here provides a means by which to confront problems of equifinality – that is, when taphonomic alterations create apparently similar patterns and, therefore, confuse behavioural inferences drawn from them. This method hinges on a standardised representation of the zones on human skeletal elements that allow comparison with those described by Dobney and Rielly (1988) for animal remains. It is anticipated that the anatomical descriptions in combination with the zone drawings presented will aid others to apply the method generally across skeletal assemblages of any date. This system could also be used to aid the curation of museum collections and as a complement to forensic recovery.
-
 * **Langley-Shirley N, Jantz RL (2010).** A Bayesian approach to age estimation in modern Americans from the clavicle. Journal of Forensic Sciences 55(3):571-583.
   * Age estimation based on a 3-phase or 5-phase system for medial clavicular fusion for modern American individuals.
 The reference sample consists of clavicles from 1289 individuals (1044 male, 245 female): 594 individuals (448 male, 146 female) between 11 and 33 years from the William F. McCormick Clavicle Collection, 354 individuals (255 male, 99 female) between 11 and 30 years from the Hamann-Todd Osteological Collection), and 341 males between 16 and 33 years from the Korean War. Due to secular trends, observed ages for each phase are provided separately for each sample. A Bayesian approach is also utilized to provide age ranges from the McCormick sample (for more modern cases).
@@ -58,55 +57,16 @@ The reference sample consists of clavicles from 1289 individuals (1044 male, 245
 * **McKern TW, Stewart TD (1957).** Skeletal Age Changes in Young American Males.  Quartermaster Research and Development Command Technical Report EP-45, Natick, MA. 
   * Age estimation by scoring epiphyseal union of various skeletal elements, as well as morphology of the pubic symphysis. The reference sample consists of American males who died as a result of the Korean War from 1950 to 1952. Because this sample is represented by military males, individuals below 17 years of age are not present, and these methods are most applicable for American males who died prior to (ca.) 1960.
   * *Epiphyseal union:* The stage of epiphyseal union is scored on a scale of 0 to 4 (0 - unfused, 1 - beginning fusion, 2 - largely fused, 3 - fused, 4 - fused with no remnant fusion line).  The stage of epiphyseal fusion can then be compared to the published standards.  McKern and Stewart present only raw data in tabular form.
-  **Pubic symphysis: The McKern-Stewart system is a
-3-component system that scores the dorsal and ventral demifaces and the rim of
-the pubic symphysis (each component having a 0-5 stage of development).
-Morphology can be compared to a cast set comprised of a representative pubic
-symphysis for a score of 1 to 5 for each component.  The scores for each component are combined
-and correspond to a given age range.        
+  * *Pubic symphysis:* The McKern-Stewart system is a 3-component system that scores the dorsal and ventral demifaces and the rim of the pubic symphysis (each component having a 0-5 stage of development). Morphology can be compared to a cast set comprised of a representative pubic symphysis for a score of 1 to 5 for each component.  The scores for each component are combined and correspond to a given age range.        
 
- 
+* **Meindl RS,Lovejoy CO (1985).** Ectocranial Suture Closure: a revised method for the determination of skeletal age at death based on the lateral-anterior sutures. American Journal of Physical Anthropology 68:57-66.
+  * Age estimation by scoring (0-open, 1-minimal closure, 2-significant closure, 3-complete obliteration) ectocranial vault and lateral anterior suture closure at ten sites. Scores are combined to produce two composite scores that correspond to estimates of age-at-death, which were found to be independent of race and sex. The reference sample consisted of 236 crania from the Hamann-Todd Collection.
 
-Meindl RS,Lovejoy CO (1985). Ectocranial Suture Closure:
-a revised method for the determination of skeletal age at death based on the lateral-anterior
-sutures. American Journal of Physical
-Anthropology 68:57-66.
+* **Mincer HH, Harris EF, Berryman HE (1993).** The A.B.F.O. study of third molar development and its use as an estimator of chronological age.  Journal of Forensic Sciences, 38:379-390.
+  * Age estimation for American Whites and Blacks by scoring third molar development radiographically using the eight-grade classification system by Demirjian et al. (1973). The reference sample consists of American males (46%) and females (54%) between the ages of 14 and 24 years (n = 823). The sample consisted of white (80%), black (19%), and “other” (1%). Although the third molar is the most variable tooth, the formation of the third molar can be useful for age estimation when other elements are unavailable.
 
-Age estimation by scoring (0-open,
-1-minimal closure, 2-significant closure, 3-complete obliteration) ectocranial
-vault and lateral anterior suture closure at ten sites. Scores are combined to
-produce two composite scores that correspond to estimates of age-at-death,
-which were found to be independent of race and sex. The reference sample
-consisted of 236 crania from the Hamann-Todd Collection.
-
- 
-
-Mincer HH, Harris EF, Berryman HE (1993).
-The A.B.F.O. study of third molar development and its use as an estimator of
-chronological age.  Journal of Forensic Sciences, 38:379-390.  
-
-Age estimation for American Whites
-and Blacks by scoring third molar development radiographically using the eight-grade
-classification system by Demirjian et al.
-(1973). The reference sample consists of American males (46%) and females (54%)
-between the ages of 14 and 24 years (n = 823). The sample consisted of white
-(80%), black (19%), and “other” (1%). Although the third molar is the most
-variable tooth, the formation of the third molar can be useful for age
-estimation when other elements are unavailable.
-
- 
-
-Nawrocki SP (1998).
-Regression formulae for the estimation of age from cranial suture closure. In Forensic Osteology: Advances in the
-Identification of Human Remains, 2nd ed., edited by Kathy Reichs,
-pp. 293-317. Charles C. Thomas, Springfield, IL.
-
-Age estimation by scoring
-ectocranial, endocranial, and maxillary suture closure and provided regression
-formulae based on observations of American White (n = 49) and Black (n = 51)
-males and females (n = 50 for each). Twenty-seven cranial landmarks are scored,including 16 from the ectocranial surface, 7 from the endocranial surface, and
-4 from the palate, on a scale of 0 to 3. Ten of the ectocranial landmarks are
-the same as Meindl and Lovejoy’s (1973) landmarks. Scores can be summed and
+* **Nawrocki SP (1998).** Regression formulae for the estimation of age from cranial suture closure. In Forensic Osteology: Advances in the Identification of Human Remains, 2nd ed., edited by Kathy Reichs, pp. 293-317. Charles C. Thomas, Springfield, IL.
+  * Age estimation by scoring ectocranial, endocranial, and maxillary suture closure and provided regression formulae based on observations of American White (n = 49) and Black (n = 51) males and females (n = 50 for each). Twenty-seven cranial landmarks are scored,including 16 from the ectocranial surface, 7 from the endocranial surface, and 4 from the palate, on a scale of 0 to 3. Ten of the ectocranial landmarks are the same as Meindl and Lovejoy’s (1973) landmarks. Scores can be summed and
 utilized in a regression equation to predict age. Eight equations for
 predicting age from all cranial suture landmarks are provided. Because
 incomplete crania are often recovered, additional formulae using only landmarks
