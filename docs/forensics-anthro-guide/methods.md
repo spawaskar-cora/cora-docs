@@ -9,7 +9,8 @@ In this section we present an annotated bibliography of analytical methods avail
 * **Berg GE (2008).** Pubic bone age estimation in adult women. Journal of Forensic Sciences, 53(3):569-577.
   * Age estimation for older females, re-defining the Suchey-Brooks phases V and VI, and adding phase VII. Reference population data derived from Balkan (n = 85) and Eastern Tennessee (n = 104) samples, totaling 189 females.
 
-* **Blankenship JA, Mincer HH, Anderson KM, Woods MA, Burton EL (2007).** Third molar development in the estimation of chronologic age in American Blacks as compared with Whites. Journal of Forensic Sciences, 52(2):428-433.  * Age estimation of African American populations by scoring third molar development radiographically using the
+* **Blankenship JA, Mincer HH, Anderson KM, Woods MA, Burton EL (2007).** Third molar development in the estimation of chronologic age in American Blacks as compared with Whites. Journal of Forensic Sciences, 52(2):428-433.
+  * Age estimation of African American populations by scoring third molar development radiographically using the
 Demirjian et al. stages.  Reference population data derived 637 African Americans between the ages of 14 and 24compared to 563 American Whites from Demirjian’s prior study. Black–White differences were significant with developmental stages occurring in blacks a year or so earlier than whites. The empirical likelihood that an African American male with fully developed M3's is at least 18 years old is 93% and that for African American female is 84%. Corresponding risks for whites are 90% and 93%. 
 
 * **Brooks S, Suchey JM (1990).** Skeletal age determination based upon the os pubis:  A comparison of
@@ -20,7 +21,7 @@ the morphology of the entire symphyseal surface following the six phase system f
   * A composite scoring method for ageestimation from the auricular surface. This method is a revision of the existing auricular surface aging method by Lovejoy et al (1985), and scores independent components of the auricular surface, rather than the gestalt. Reference data are derived from a known-age skeletal collection from Christ Church, Spitalfields, London (n = 180).
 
 * **Buikstra JE, Ubelaker DH (1994).** Standards for Data Collection from Human Skeletal Remains.  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.
- * Data collection standardization from skeletal remains. This source consolidates multiple non-metric methods and measurements into a single source.
+  * Data collection standardization from skeletal remains. This source consolidates multiple non-metric methods and measurements into a single source.
  
 * **Edgar HJH (2013).** Estimation of ancestry using dental morphological characteristics. Journal of Forensic Sciences 58:S3-S8.2013 
   * Ancestry estimation using nonmetric morphological dental traits to distinguish European American, African American,
