@@ -13,7 +13,7 @@ In this section we present an annotated bibliography of analytical methods avail
 * **Brooks S, Suchey JM (1990).** Skeletal age determination based upon the os pubis:  A comparison of the Acsádi-Nemeskéri and Suchey-Brooks methods. Human Evolution, 5:227-238.
   * The Suchey-Brooks system is a 6-phase system (I-VI) for age estimation for males and females that utilizes the morphology of the entire symphyseal surface following the six phase system for males described by Katz and Suchey (1986). Reference data are derived from 1,225 individuals of known ages at death from the Los Angeles Medical Examiner’s Office.
 
-* **Buckberry JL, Chamberlain AT (2002).** Age estimation from the auricular surface of the ilium:  Arevised method.  American Journal of Physical Anthropology, 119:231-239.
+* **Buckberry JL, Chamberlain AT (2002).** Age estimation from the auricular surface of the ilium:  Arevised method.  American Journal of Physical Anthropology, 119:231-239.  
   * A composite scoring method for ageestimation from the auricular surface. This method is a revision of the existing auricular surface aging method by Lovejoy et al (1985), and scores independent components of the auricular surface, rather than the gestalt. Reference data are derived from a known-age skeletal collection from Christ Church, Spitalfields, London (n = 180).
 
 * **Buikstra JE, Ubelaker DH (1994).** Standards for Data Collection from Human Skeletal Remains.  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.
@@ -26,7 +26,7 @@ In this section we present an annotated bibliography of analytical methods avail
 * **Gill GW (1998).** Craniofacial Criteria in the Skeletal Attribution of Race. In *Forensic Osteology: Advances in the Identification of Human Remains,* 2nd ed., Reichs K (ed), pp.293-317. Charles C. Thomas, Springfield, IL.  
   * Ancestry estimation based on nonmetric craniofacial morphology. These data represent a mid-1990s collectiveassessment of observers’ experiences in the field. The variation of twenty-two traits of the skull are compared and described as typical features of American Indian, Black, East Asian, Polynesian, and White populations. The authors state that while all of the presented traits can be useful for ancestry estimation, those of the nose and mouth have shown to be the most useful. The user shouldbe cautious when applying this method as little attention is provided to the underlying distribution of traits among the populations surveyed. Method should be deprecated.
 
-* **Hefner J (2009).** Cranial nonmetric variation and estimating ancestry. Journal of Forensic Sciences, 54(5):985-995.
+* **Hefner J (2009).** Cranial nonmetric variation and estimating ancestry. Journal of Forensic Sciences, 54(5):985-995.  
   * Provides underlying frequency distributions by ancestry for 11 commonly used cranial nonmetric traits. The reference sample consists of 747 individuals from four skeletal collections, comprised of prehistoric and contemporary individuals, which are separated into an African, Asian, European, and Native American. Ten of the 11 traits examined had frequency distributions with significant differences (p < 0.001) between groups, but the range in variation of these traits, particularly within groups, suggests that ancestry estimation cannot be conducted by visual observation alone.
 
 * **Hefner J, Ousley SD (2014).** Statistical classification methods for estimating ancestry using morphoscopic traits.  Journal of Forensic Sciences, 59(4):883-890.    
@@ -35,7 +35,7 @@ In this section we present an annotated bibliography of analytical methods avail
 * **İşcan MY, Loth SR, Wright RK (1984).** Age estimation from the rib by phase analysis: White males.  Journal of Forensic Sciences, 29:1094-1104.
   * Age estimation based on the morphology of the sternal end of the fourth rib (White Males). This system is a 9-phase system (0-8), requiring the sternal end of the 4th rib be compared to three-dimensional casts of known age exemplars. The reference population consists of 118 white males of known age at death.
 
-* **İşcan MY, Loth SR, Wright RK (1985).** Age estimation from the rib by phase analysis:  White females.  Journal of Forensic Sciences, 30:853-863. 
+* **İşcan MY, Loth SR, Wright RK (1985).** Age estimation from the rib by phase analysis:  White females.  Journal of Forensic Sciences, 30:853-863.
   * Age estimation based on themorphology of the sternal end of the fourth rib (White Females). This system is a 9-phase system (0-8), requiring the sternal end of the 4th rib be compared to three-dimensional casts of known age exemplars. The reference population consists of 86 white females of known age at death.
 
 * **Kasper KA, Austin D, Kvanli AH, Rios TR, Senn DR (2009).** Reliability of third molar development for age estimation in a Texas Hispanic population: A comparison study. Journal of Forensic Sciences, 54(3):651-657.
@@ -44,16 +44,16 @@ In this section we present an annotated bibliography of analytical methods avail
 
 * **Knusel CJ, Outram AK (2004).** Fragmentation: The zonation method applied to fragmented human remains from archaeological and forensic contexts.  Environmental Archaeology, 9(1):85-98.
   * Scattered and commingled human and animal remains are commonly encountered on archaeological sites, and this contextual relationship begs the question of whether human and animals were treated in a similar manner before burial. The recording system presented here provides a means by which to confront problems of equifinality – that is, when taphonomic alterations create apparently similar patterns and, therefore, confuse behavioural inferences drawn from them. This method hinges on a standardised representation of the zones on human skeletal elements that allow comparison with those described by Dobney and Rielly (1988) for animal remains. It is anticipated that the anatomical descriptions in combination with the zone drawings presented will aid others to apply the method generally across skeletal assemblages of any date. This system could also be used to aid the curation of museum collections and as a complement to forensic recovery.
-* **Langley-Shirley N, Jantz RL (2010).** A Bayesian approach to age estimation in modern Americans from the clavicle. Journal of Forensic Sciences 55(3):571-583.
-  * Age estimation based on a 3-phase or 5-phase system for medial clavicular fusion for modern American individuals.
-The reference sample consists of clavicles from 1289 individuals (1044 male, 245 female): 594 individuals (448 male, 146 female) between 11 and 33 years from the William F. McCormick Clavicle Collection, 354 individuals (255 male, 99 female) between 11 and 30 years from the Hamann-Todd Osteological Collection), and 341 males between 16 and 33 years from the Korean War. Due to secular trends, observed ages for each phase are provided separately for each sample. A Bayesian approach is also utilized to provide age ranges from the McCormick sample (for more modern cases).
+
+* **Langley-Shirley N, Jantz RL (2010).** A Bayesian approach to age estimation in modern Americans from the clavicle. Journal of Forensic Sciences 55(3):571-583.  
+  * Age estimation based on a 3-phase or 5-phase system for medial clavicular fusion for modern American individuals. The reference sample consists of clavicles from 1289 individuals (1044 male, 245 female): 594 individuals (448 male, 146 female) between 11 and 33 years from the William F. McCormick Clavicle Collection, 354 individuals (255 male, 99 female) between 11 and 30 years from the Hamann-Todd Osteological Collection), and 341 males between 16 and 33 years from the Korean War. Due to secular trends, observed ages for each phase are provided separately for each sample. A Bayesian approach is also utilized to provide age ranges from the McCormick sample (for more modern cases).
 
 * **Lovejoy CO, Meindl RS, Pryzbeck TR, Mensforth RP (1985).** Chronological metamorphosis of the auricular surface of the ilium:  A new method for determination of adult skeletal age at death.  American Journal of Physical Anthropology, 68:15-28.
   * An 8-phase age estimation system based on auricular surface morphology. The reference population was derived from the Todd Collection (n = 500), the Libben Collection (n = 250), and forensic cases from the Cuyahoga County Coroner’s Office, Ohio (n = 14). Two completely blind tests were conducted to assess the accuracy and bias of the new method utilizing different individuals from the Todd Collection (n = 98 and 108, respectively).
   
 * **Mann RW, Jantz RL, Bass WM, Willey PS (1991).** Maxillary suture obliteration:  A visual method for estimating skeletal age.  Journal of Forensic Sciences, 36:781-791.  
-  * Age estimation by assessing suture closure of the four maxillary (palatal) sutures. The reference sample consisted of 186 skeletons of known age, sex, and race from three skeletal collections: 46 White males, 32 White females, 64 Black males, and 44 Black females. Males exhibit more suture obliteration than females at the same age. Although this method cannot be used for exact estimates of individual age, it is valuable in establishing an estimated age range.
-  
+  * Age estimation by assessing suture closure of the four maxillary (palatal) sutures. The reference sample consisted of 186 skeletons of known age, sex, and race from three skeletal collections: 46 White males, 32 White females, 64 Black males, and 44 Black females. Males exhibit more suture obliteration than females at the same age. Although this method cannot be used for exact estimates of individual age, it is valuable in establishing an estimated age range.  
+
 * **McKern TW, Stewart TD (1957).** Skeletal Age Changes in Young American Males.  Quartermaster Research and Development Command Technical Report EP-45, Natick, MA. 
   * Age estimation by scoring epiphyseal union of various skeletal elements, as well as morphology of the pubic symphysis. The reference sample consists of American males who died as a result of the Korean War from 1950 to 1952. Because this sample is represented by military males, individuals below 17 years of age are not present, and these methods are most applicable for American males who died prior to (ca.) 1960.
   * *Epiphyseal union:* The stage of epiphyseal union is scored on a scale of 0 to 4 (0 - unfused, 1 - beginning fusion, 2 - largely fused, 3 - fused, 4 - fused with no remnant fusion line).  The stage of epiphyseal fusion can then be compared to the published standards.  McKern and Stewart present only raw data in tabular form.
@@ -71,7 +71,6 @@ utilized in a regression equation to predict age. Eight equations for
 predicting age from all cranial suture landmarks are provided. Because
 incomplete crania are often recovered, additional formulae using only landmarks
 of the calotte are also provided (Equations 9 – 15).
-
  
 
 Osborne DL, Simmons TL, Nawrocki SP (2004).Reconsidering the auricular surface as an indicator of age at death.  Journal
