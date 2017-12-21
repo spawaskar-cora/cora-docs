@@ -10,14 +10,11 @@ In this section we present an annotated bibliography of analytical methods avail
   * Method 2b
 * Method 3
 
-**Albert AM, Maples WR (1995).** Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method of age determination for teenage and young adult skeletons.  Journal of Forensic Sciences 40:623-633.
+* **Albert AM, Maples WR (1995).** Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method of age determination for teenage and young adult skeletons.  Journal of Forensic Sciences 40:623-633.
+ * Age estimation by scoring fusion of thoracic and lumbar vertebral centra. Reference population consists of 55 black and white males and females between the ages of 11 and 32 years.  The correlation between stages of union and known age was 0.78 (P < .0001). 
 
-Age estimation by scoring fusion of thoracic and lumbar vertebral centra. Reference population consists of 55 black and white males and females between the ages of 11 and 32 years.  The correlation between stages of union and known age was 0.78 (P < .0001). 
-
- 
-**Berg GE (2008).** Pubic bone age estimation in adult women. Journal of Forensic Sciences, 53(3):569-577.
-
-Age estimation for older females, re-defining the Suchey-Brooks phases V and VI,
+* **Berg GE (2008).** Pubic bone age estimation in adult women. Journal of Forensic Sciences, 53(3):569-577.
+ * Age estimation for older females, re-defining the Suchey-Brooks phases V and VI,
 and adding phase VII. Reference population data derived from Balkan (n = 85)
 and Eastern Tennessee (n = 104) samples, totaling 189 females. 
 
