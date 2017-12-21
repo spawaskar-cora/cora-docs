@@ -2,7 +2,6 @@
 In this section we present an annotated bibliography of analytical methods available in CoRA. This list will be updated as new methods are developed, published and added to the CoRA environment.  
 
 
-
 * **Albert AM, Maples WR (1995).** Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method of age determination for teenage and young adult skeletons.  Journal of Forensic Sciences 40:623-633.
   * Age estimation by scoring fusion of thoracic and lumbar vertebral centra. Reference population consists of 55 black and white males and females between the ages of 11 and 32 years.  The correlation between stages of union and known age was 0.78 (P < .0001).
 
@@ -14,7 +13,8 @@ In this section we present an annotated bibliography of analytical methods avail
 Demirjian et al. stages.  Reference population data derived 637 African Americans between the ages of 14 and 24compared to 563 American Whites from Demirjian’s prior study. Black–White differences were significant with developmental stages occurring in blacks a year or so earlier than whites. The empirical likelihood that an African American male with fully developed M3's is at least 18 years old is 93% and that for African American female is 84%. Corresponding risks for whites are 90% and 93%. 
 
 * **Brooks S, Suchey JM (1990).** Skeletal age determination based upon the os pubis:  A comparison of
-the Acsádi-Nemeskéri and Suchey-Brooks methods. Human Evolution, 5:227-238.  * The Suchey-Brooks system is a 6-phase system (I-VI) for age estimation for males and females that utilizes
+the Acsádi-Nemeskéri and Suchey-Brooks methods. Human Evolution, 5:227-238.
+  * The Suchey-Brooks system is a 6-phase system (I-VI) for age estimation for males and females that utilizes
 the morphology of the entire symphyseal surface following the six phase system for males described by Katz and Suchey (1986). Reference data are derived from 1,225 individuals of known ages at death from the Los Angeles Medical Examiner’s Office.
 
 * **Buckberry JL, Chamberlain AT (2002).** Age estimation from the auricular surface of the ilium:  Arevised method.  American Journal of Physical Anthropology, 119:231-239.
