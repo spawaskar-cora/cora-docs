@@ -757,6 +757,7 @@ Uln_05 Transverse
 (Medial-Lateral) Diameter: The distance between medial and
 lateral surfaces at the level of greatest crest development. Instrument: sliding caliper. 
 
+
 Comment: Taken
 perpendicular to anterior-posterior diameter (Moore-Jansen
 et al. 1994, #50).
@@ -769,8 +770,7 @@ spreading caliper.
 Comment:
 Do not include the styloid process or the groove between the styloid process
 and the distal articular surface (Martin and Knussmann 1988: 204, #2; Moore-Jansen et al. 1994,
-#51; Langley et al.
-2016: 76, #57). 
+#51). 
 
 Uln_07 Minimum Circumference of the Ulna: The least circumference near the distal end of the bone (Martin
 and Knussmann 1988: 204, #3; Moore-Jansen et al. 1994, #52; Langley
@@ -808,7 +808,13 @@ parallel to the shaft.  The other end of
 the calipers is applied to the medial edge of the semilunar notch to obtain the
 maximum distance. Calipers can be angled (Byrd and Adams 2003, #51C).
 
-
+Uln_12 Physiological Length: The distance between the deepest point on the articular surface of the coronoid
+process on the guiding ridge and the most inferior point on the distal articular surface of the ulna (Figure 3.17).
+Instrument: spreading caliper
+Comment: Do not include the styloid process or the groove
+between the styloid process and the distal articular surface
+(Martin and Knussmann 1988: 204, #2; Langley et al.
+2016: 76, #57). 
 
 ## HANDS
 
