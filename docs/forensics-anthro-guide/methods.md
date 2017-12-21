@@ -1,112 +1,44 @@
 # Methods
 In this section we present an annotated bibliography of analytical methods available in CoRA. This list will be updated as new methods are developed, published and added to the CoRA environment.  
 
-* Albert, A. M. and W. R. Maples. (1995). Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method of age determination for teenage and young adult skeletons.  Journal of Forensic Sciences 40:623-633.
-
-  * Abstract: Many current methods of age determination available to forensic anthropologists are limiting in that the age ranges provided are often broad, particularly for individuals in their late teens to early 20’s. This study introduces an improved method for aging teenagers and young adults. The pattern and stages of union of the superior and inferior epiphyses of the vertebral centra (or ring epiphyses) were examined in 55 individuals, females and males, black and white, between ages 11 and 32 years.  Vertebral ring epiphyseal union was found to be a good predictor of age. The correlation between stages of union and known age was 0.78 (P < .0001). The standard deviation was 2.566 years at the 99.9% confidence level. Sex differences were observed, but were not statistically significant. A larger sample size may perhaps demonstrate statistically significant differences in sex, and may or may not yield differences in race. A preliminary interobserver bias test showed high replicability. Results of this study compare favorably with results of other aging studies.  Current age information for the progress of vertebral ring epiphyseal union is supplied for young males – and for the first time – females. This improved aging method provides necessary corroborative information for use with observations from other skeletal age indicators. Data collected from epiphyseal union of the vertebral centra aid in lessening the gap for early adult age determination.
-
-* Method 2
-  * Method 2a
-  * Method 2b
-* Method 3
 
 * **Albert AM, Maples WR (1995).** Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method of age determination for teenage and young adult skeletons.  Journal of Forensic Sciences 40:623-633.
- * Age estimation by scoring fusion of thoracic and lumbar vertebral centra. Reference population consists of 55 black and white males and females between the ages of 11 and 32 years.  The correlation between stages of union and known age was 0.78 (P < .0001). 
+  * Age estimation by scoring fusion of thoracic and lumbar vertebral centra. Reference population consists of 55 black and white males and females between the ages of 11 and 32 years.  The correlation between stages of union and known age was 0.78 (P < .0001). 
 
 * **Berg GE (2008).** Pubic bone age estimation in adult women. Journal of Forensic Sciences, 53(3):569-577.
- * Age estimation for older females, re-defining the Suchey-Brooks phases V and VI,
-and adding phase VII. Reference population data derived from Balkan (n = 85)
-and Eastern Tennessee (n = 104) samples, totaling 189 females. 
+  * Age estimation for older females, re-defining the Suchey-Brooks phases V and VI, and adding phase VII. Reference population data derived from Balkan (n = 85) and Eastern Tennessee (n = 104) samples, totaling 189 females.  
 
- 
-**Blankenship JA, Mincer HH, Anderson KM, Woods MA, Burton EL (2007).** Third molar development in the estimation of chronologic age in American Blacks as compared with Whites. Journal of Forensic Sciences, 52(2):428-433.  
-
-Age estimation of African American populations by scoring third molar development radiographically using the
+* **Blankenship JA, Mincer HH, Anderson KM, Woods MA, Burton EL (2007).** Third molar development in the estimation of chronologic age in American Blacks as compared with Whites. Journal of Forensic Sciences, 52(2):428-433.  
+  * Age estimation of African American populations by scoring third molar development radiographically using the
 Demirjian et al. stages.  Reference population data derived 637 African Americans between the ages of 14 and 24
-compared to 563 American Whites from Demirjian’s prior study. Black–White differences were significant with developmental stages occurring in blacks a year or so earlier than whites. The empirical likelihood that an African American male with fully developed M3's is at least 18 years old is 93% and that for African American female is 84%. Corresponding risks for whites are 90% and 93%.
+compared to 563 American Whites from Demirjian’s prior study. Black–White differences were significant with developmental stages occurring in blacks a year or so earlier than whites. The empirical likelihood that an African American male with fully developed M3's is at least 18 years old is 93% and that for African American female is 84%. Corresponding risks for whites are 90% and 93%. 
 
- 
-**Brooks S, Suchey JM (1990).** Skeletal age determination based upon the os pubis:  A comparison of
+* **Brooks S, Suchey JM (1990).** Skeletal age determination based upon the os pubis:  A comparison of
 the Acsádi-Nemeskéri and Suchey-Brooks methods. Human Evolution, 5:227-238.  
+  * The Suchey-Brooks system is a 6-phase system (I-VI) for age estimation for males and females that utilizes
+the morphology of the entire symphyseal surface following the six phase system for males described by Katz and Suchey (1986). Reference data are derived from 1,225 individuals of known ages at death from the Los Angeles Medical Examiner’s Office. 
 
-The Suchey-Brooks system is a 6-phase system (I-VI) for age estimation for males and females that utilizes
-the morphology of the entire symphyseal surface following the six phase system
-for males described by Katz and Suchey (1986). Reference data are derived from
-1,225 individuals of known ages at death from the Los Angeles Medical
-Examiner’s Office. 
+* **Buckberry JL, Chamberlain AT (2002).** Age estimation from the auricular surface of the ilium:  Arevised method.  American Journal of Physical Anthropology, 119:231-239.  
+  * A composite scoring method for ageestimation from the auricular surface. This method is a revision of the
+existing auricular surface aging method by Lovejoy et al (1985), and scores independent components of the auricular surface, rather than the gestalt. Reference data are derived from a known-age skeletal collection from Christ Church, Spitalfields, London (n = 180). 
 
- 
-**Buckberry JL, Chamberlain AT (2002).** Age estimation from the auricular surface of the ilium:  A
-revised method.  American Journal of Physical Anthropology, 119:231-239.  
+* **Buikstra JE, Ubelaker DH (1994).** Standards for Data Collection from Human Skeletal Remains.  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.   * Data collection standardization from skeletal remains. This source consolidates multiple non-metric methods and measurements into a single source. 
 
-A composite scoring method for age
-estimation from the auricular surface. This method is a revision of the
-existing auricular surface aging method by Lovejoy et al (1985), and scores
-independent components of the auricular surface, rather than the gestalt.
-Reference data are derived from a known-age skeletal collection from Christ
-Church, Spitalfields, London (n = 180). 
-
- 
-**Buikstra JE, Ubelaker DH (1994).** Standards for Data Collection from Human Skeletal Remains.  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR. 
-
-Data collection standardization from
-skeletal remains. This source consolidates multiple non-metric methods and
-measurements into a single source. 
-
- 
-
-Edgar HJH
-(2013). Estimation of ancestry using dental morphological characteristics.
-
-Journal of
-Forensic Sciences 58:S3-S8.2013 
-
-Ancestry estimation using nonmetric
-morphological dental traits to distinguish European American, African American,
-and Hispanic American individuals. The dental traits and scoring definitions
-are derived from The ASU dental series (see Turner et al. 1991). The reference
-population includes 509 individuals of Hispanic, African and European ancestry.
-
-
- 
-
-Additional Reference:
-Turner CG II, Nichol CR, Scott GR. (1991). Scoring procedures for key
+* **Edgar HJH (2013).** Estimation of ancestry using dental morphological characteristics. Journal of Forensic Sciences 58:S3-S8.2013 
+  * Ancestry estimation using nonmetric morphological dental traits to distinguish European American, African American,
+and Hispanic American individuals. The dental traits and scoring definitions are derived from The ASU dental series (see Turner et al. 1991). The reference population includes 509 individuals of Hispanic, African and European ancestry.
+  * *Additional Reference:* Turner CG II, Nichol CR, Scott GR. (1991). Scoring procedures for key
 morphological traits of the permanent dentition: the Arizona State University
-dental anthropology system. In: Advances
-in Dental Anthropology, Kelley M, Larsen CS (eds) Wiley-Liss, New York, NY.
+dental anthropology system. In: Advances in Dental Anthropology, Kelley M, Larsen CS (eds) Wiley-Liss, New York, NY.
 
- 
+* **Gill GW (1998).** Craniofacial Criteria in the Skeletal Attribution of Race. In *Forensic Osteology:
+Advances in the Identification of Human Remains,* 2nd ed., Reichs K (ed), pp.293-317. Charles C. Thomas, Springfield, IL.
+  * Ancestry estimation based on nonmetric craniofacial morphology. These data represent a mid-1990s collective
+assessment of observers’ experiences in the field. The variation of twenty-two traits of the skull are compared and described as typical features of American Indian, Black, East Asian, Polynesian, and White populations. The authors state that while all of the presented traits can be useful for ancestry estimation, those of the nose and mouth have shown to be the most useful. The user should
+be cautious when applying this method as little attention is provided to the underlying distribution of traits among the populations surveyed. Method should be deprecated. 
 
-Gill GW (1998).
-Craniofacial Criteria in the Skeletal Attribution of Race. In Forensic
-
-Osteology:
-Advances in the Identification of Human
-Remains, 2nd ed., Reichs K (ed), pp.293-317. Charles C. Thomas,
-Springfield, IL.
-
-Ancestry estimation based on
-nonmetric craniofacial morphology. These data represent a mid-1990s collective
-assessment of observers’ experiences in the field. The variation of twenty-two
-traits of the skull are compared and described as typical features of American
-Indian, Black, East Asian, Polynesian, and White populations. The authors state
-that while all of the presented traits can be useful for ancestry estimation,
-those of the nose and mouth have shown to be the most useful. The user should
-be cautious when applying this method as little attention is provided to the
-underlying distribution of traits among the populations surveyed. Method should
-be deprecated. 
-
- 
-
- 
-
-Hefner J (2009).
-Cranial nonmetric variation and estimating ancestry. Journal of Forensic Sciences,
-54(5):985-995.
-
-Provides underlying frequency
-distributions by ancestry for 11 commonly used cranial nonmetric traits. The
+* **Hefner J (2009).** Cranial nonmetric variation and estimating ancestry. Journal of Forensic Sciences, 54(5):985-995.
+  * Provides underlying frequency distributions by ancestry for 11 commonly used cranial nonmetric traits. The
 reference sample consists of 747 individuals from four skeletal collections,
 comprised of prehistoric and contemporary individuals, which are separated into
 an African, Asian, European, and Native American. Ten of the 11 traits examined
