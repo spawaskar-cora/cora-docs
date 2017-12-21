@@ -723,7 +723,7 @@ sliding caliper.
 
 ## ULNA
 
-Uln_01 Maximum Length of the Ulna: The distance between the most proximal point on the olecranon
+ Uln_01 Maximum Length of the Ulna: The distance between the most proximal point on the olecranon
 and the most distal point on the styloid process. Instrument: osteometric board. 
 
 Comment: Place the proximal end of the ulna against the vertical
@@ -733,7 +733,7 @@ Martin and Knussmann 1988: 204, #1; Moore-Jansen et al. 1994, #48; Langley
 et al. 2016: 75-76, #54). 
 
 Uln_02 Maximum Midshaft Diameter of the Ulna: The maximum diameter of the diaphysis at midshaft. Instrument: sliding caliper 
-
+ 
 Comment:
 Mark the midshaft of the bone with a pencil. Using sliding calipers to measure
 with one hand, rotate the bone with the other hand until the maximum
@@ -752,7 +752,7 @@ Uln_04 Dorso-Volar
 diaphysis where the crest exhibits the greatest development in the
 anterior-posterior (dorso-volar) plane (Moore-Jansen
 et al. 1994, #49). Instrument: sliding caliper.
-
+ 
 Uln_05 Transverse
 (Medial-Lateral) Diameter: The distance between medial and
 lateral surfaces at the level of greatest crest development. Instrument: sliding caliper. 
@@ -762,8 +762,7 @@ Comment: Taken
 perpendicular to anterior-posterior diameter (Moore-Jansen
 et al. 1994, #50).
 
-Uln_06 Physiological Length of the Ulna: The distance between the deepest point on the articular surface
-of the coronoid process on the guiding ridge and the most inferior point on the
+Uln_06 Physiological Length of the Ulna: The distance between the deepest point on the articular surfaceof the coronoid process on the guiding ridge and the most inferior point on the
 distal articular surface of the ulna. Instrument:
 spreading caliper.
 
@@ -808,7 +807,7 @@ parallel to the shaft.  The other end of
 the calipers is applied to the medial edge of the semilunar notch to obtain the
 maximum distance. Calipers can be angled (Byrd and Adams 2003, #51C).
 
-Uln_12 Physiological Length: The distance between the deepest point on the articular surface of the coronoid
+Uln_12 Physiological Length (2016): The distance between the deepest point on the articular surface of the coronoid
 process on the guiding ridge and the most inferior point on the distal articular surface of the ulna (Figure 3.17).
 Instrument: spreading caliper
 Comment: Do not include the styloid process or the groove
