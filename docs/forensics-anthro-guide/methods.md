@@ -9,7 +9,7 @@ In this section we present an annotated bibliography of analytical methods avail
 * **Brooks S, Suchey JM (1990).** Skeletal age determination based upon the os pubis:  A comparison of the Acsádi-Nemeskéri and Suchey-Brooks methods. Human Evolution, 5:227-238.
   * The Suchey-Brooks system is a 6-phase system (I-VI) for age estimation for males and females that utilizes the morphology of the entire symphyseal surface following the six phase system for males described by Katz and Suchey (1986). Reference data are derived from 1,225 individuals of known ages at death from the Los Angeles Medical Examiner’s Office.
 * **Buckberry JL, Chamberlain AT (2002).** Age estimation from the auricular surface of the ilium:  Arevised method.  American Journal of Physical Anthropology, 119:231-239.
-  * A composite scoring method for ageestimation from the auricular surface. This method is a revision of the existing auricular surface aging method by Lovejoy et al (1985), and scores independent components of the auricular surface, rather than the gestalt. Reference data are derived from a known-age skeletal collection from Christ Church, Spitalfields, London (n = 180).
+   * A composite scoring method for ageestimation from the auricular surface. This method is a revision of the existing auricular surface aging method by Lovejoy et al (1985), and scores independent components of the auricular surface, rather than the gestalt. Reference data are derived from a known-age skeletal collection from Christ Church, Spitalfields, London (n = 180).
 * **Buikstra JE, Ubelaker DH (1994).** Standards for Data Collection from Human Skeletal Remains.  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.
   * Data collection standardization from skeletal remains. This source consolidates multiple non-metric methods and measurements into a single source.
 * **Edgar HJH (2013).** Estimation of ancestry using dental morphological characteristics. Journal of Forensic Sciences 58:S3-S8.2013 
@@ -35,44 +35,11 @@ In this section we present an annotated bibliography of analytical methods avail
 The reference sample consists of clavicles from 1289 individuals (1044 male, 245 female): 594 individuals (448 male, 146 female) between 11 and 33 years from the William F. McCormick Clavicle Collection, 354 individuals (255 male, 99 female) between 11 and 30 years from the Hamann-Todd Osteological Collection), and 341 males between 16 and 33 years from the Korean War. Due to secular trends, observed ages for each phase are provided separately for each sample. A Bayesian approach is also utilized to provide age ranges from the McCormick sample (for more modern cases).
 * **Lovejoy CO, Meindl RS, Pryzbeck TR, Mensforth RP (1985).** Chronological metamorphosis of the auricular surface of the ilium:  A new method for determination of adult skeletal age at death.  American Journal of Physical Anthropology, 68:15-28.
   * An 8-phase age estimation system based on auricular surface morphology. The reference population was derived from the Todd Collection (n = 500), the Libben Collection (n = 250), and forensic cases from the Cuyahoga County Coroner’s Office, Ohio (n = 14). Two completely blind tests were conducted to assess the accuracy and bias of the new method utilizing different individuals from the Todd Collection (n = 98 and 108, respectively).
-
- 
-
-Mann RW, Jantz RL, Bass WM, Willey PS
-(1991). Maxillary suture obliteration:  A
-visual method for estimating skeletal age. 
-Journal of Forensic Sciences,
-36:781-791.  
-
-Age estimation by assessing suture
-closure of the four maxillary (palatal) sutures. The reference sample consisted
-of 186 skeletons of known age, sex, and race from three skeletal collections:
-46 White males, 32 White females, 64 Black males, and 44 Black females. Males
-exhibit more suture obliteration than females at the same age. Although this
-method cannot be used for exact estimates of individual age, it is valuable in
-establishing an estimated age range.
-
- 
-
-McKern TW, Stewart TD (1957). Skeletal Age Changes in Young American Males.  Quartermaster Research and Development
-Command Technical Report EP-45, Natick, MA. 
-
-
-Age estimation by scoring epiphyseal
-union of various skeletal elements, as well as morphology of the pubic
-symphysis. The reference sample consists of American males who died as a result
-of the Korean War from 1950 to 1952. Because this sample is represented by
-military males, individuals below 17 years of age are not present, and these
-methods are most applicable for American males who died prior to (ca.) 1960.
-
- 
-
-Epiphyseal
-union: The stage of epiphyseal union is scored on a scale of 0 to
-4 (0 - unfused, 1 - beginning fusion, 2 - largely fused, 3 - fused, 4 - fused
-with no remnant fusion line).  The stage
-of epiphyseal fusion can then be compared to the published standards.  McKern and Stewart present only raw data in
-tabular form. 
+* **Mann RW, Jantz RL, Bass WM, Willey PS (1991).** Maxillary suture obliteration:  A visual method for estimating skeletal age.  Journal of Forensic Sciences, 36:781-791.  
+  * Age estimation by assessing suture closure of the four maxillary (palatal) sutures. The reference sample consisted of 186 skeletons of known age, sex, and race from three skeletal collections: 46 White males, 32 White females, 64 Black males, and 44 Black females. Males exhibit more suture obliteration than females at the same age. Although this method cannot be used for exact estimates of individual age, it is valuable in establishing an estimated age range.
+* **McKern TW, Stewart TD (1957).** Skeletal Age Changes in Young American Males.  Quartermaster Research and Development Command Technical Report EP-45, Natick, MA. 
+  * Age estimation by scoring epiphyseal union of various skeletal elements, as well as morphology of the pubic symphysis. The reference sample consists of American males who died as a result of the Korean War from 1950 to 1952. Because this sample is represented by military males, individuals below 17 years of age are not present, and these methods are most applicable for American males who died prior to (ca.) 1960.
+  * *Epiphyseal union:* The stage of epiphyseal union is scored on a scale of 0 to 4 (0 - unfused, 1 - beginning fusion, 2 - largely fused, 3 - fused, 4 - fused with no remnant fusion line).  The stage of epiphyseal fusion can then be compared to the published standards.  McKern and Stewart present only raw data in tabular form. 
 
  
 
