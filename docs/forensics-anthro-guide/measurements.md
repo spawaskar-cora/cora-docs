@@ -1,161 +1,59 @@
-# Measurements
 Cranial and postcranial interlandmark distances for skeletal biology.
 
+# CRANIAL
 
-## CRANIAL
+## Cranium
 **Cra_01 Maximum Cranial Length (g-op, GOL):** The straight-line distance from glabella (g) to opisthocranion (op) in the midsagittal plane. *Instrument:* spreading caliper.
-* *Comment:* Set the skull on its base. Place one caliper point in the glabellar region in the midline and hold with fingers while the other caliper point is applied to the posterior portion of the skull in the midsagittal plane and moved up and down until the maximum length is obtained. On finding this, move the left point up and down slightly to make sure the reading is maximum (Howells 1973: 170; Martin and Knussmann 1988: 168, #1; Moore-Jansen et al. 1994, #1; Langley et al. 2016: 65, #1).
+* *Comment:* Set the skull on its base. Place one caliper point in the glabellar region in the midline and hold with fingers while the other caliper point is applied to the posterior portion of the skull in the midsagittal plane and moved up and down until the maximum length is obtained. On finding this, move the left point up and down slightly to make sure the reading is maximum (Howells 1973: 170; Martin and Knussmann 1988:168, #1; Moore-Jansen et al. 1994, #1; Langley et al. 2016:65, #1).
 
 **Cra_02 Nasio-occipital Length (NOL):** Maximum length in the midsagittal plane, measured from nasion (n). *Instrument:* spreading caliper.
-* *Comments:* With the skull in position as for glabello-occipital length (Maximum Cranial Length), place the one caliper point at nasion and move the other point along the occiput in the midline for the maximum reading (Howells 1973: 171; Langley et al. 2016: 65, #2).
+* *Comments:* With the skull in position as for glabello-occipital length (Maximum Cranial Length), place the one caliper point at nasion and move the other point along the occiput in the midline for the maximum reading (Howells 1973:171; Langley et al. 2016:65, #2).
 
 **Cra_03 Maximum Cranial Breadth (eu-eu, XCB):** The maximum width of the skull perpendicular to the mid-sagittal plane wherever it is located with the exception of the inferior temporal line and the immediate area surround the latter (i.e. the posterior roots of the zygomatic arches and supramastoid crest). *Instrument:* spreading caliper.
-* *Comments:* Maximum Cranial Breadth is measured with the skull resting either on its base or on the occiput. The two measuring points (eurya) should lie in the same horizontal and frontal planes. Place the arms of the caliper at the same level while maintaining the hinge joint of the caliper in the mid-sagittal plane. Hold the ends of the caliper in each hand and apply to the lateral portions of the skull, making circular motions. Make sure you include areas below the squamosal suture, where the maximum is sometimes found. (Howells 1973:172; Hrdlicka 1920:14; Martin and Knussmann 1988: 170, #8; Moore-Jansen et al. 1994, #2; Langley et al. 2016: 65, #3). 
+* *Comments:* Maximum Cranial Breadth is measured with the skull resting either on its base or on the occiput. The two measuring points (eurya) should lie in the same horizontal and frontal planes. Place the arms of the caliper at the same level while maintaining the hinge joint of the caliper in the mid-sagittal plane. Hold the ends of the caliper in each hand and apply to the lateral portions of the skull, making circular motions. Make sure you include areas below the squamosal suture, where the maximum is sometimes found. (Howells 1973:172; Hrdlicka 1920:14; Martin and Knussmann 1988:170, #8; Moore-Jansen et al. 1994, #2; Langley et al. 2016:65, #3). 
 
 **Cra_04 Bizygomatic Breadth (zy-zy, ZYB):** The maximum breadth across the zygomatic arches, wherever found, perpendicular to the mid-sagittal plane. *Instrument:* sliding or spreading calipers.
-* *Comments:* Place the skull on its occiput, base toward observer, and apply the blunt points of the caliper to the zygomatic arches and locate the maximum breadth perpendicular to the mid-sagittal plane. (Howells 1973: 173; Moore-Jansen et al. 1994, #3; Langley et al. 2016: 66, #4). 
+* *Comments:* Place the skull on its occiput, base toward observer, and apply the blunt points of the caliper to the zygomatic arches and locate the maximum breadth perpendicular to the mid-sagittal plane. (Howells 1973:173; Moore-Jansen et al. 1994, #3; Langley et al. 2016:66, #4). 
 
 **Cra_05 Basion-Bregma Height (ba-b, BBH):** The distance from basion (ba) to bregma (b). *Instrument:* spreading caliper.
-* *Comments:* Place the skull on its occiput with the right side facing the observer. Apply the endpoint of one of the arms of the caliper at basion and support with fingers. Then apply the endpoint of the second arm of the caliper to bregma (Howells 1973: 172; Moore-Jansen et al. 1994, #4; Langley et al. 2016: 66, #5). 
+* *Comments:* Place the skull on its occiput with the right side facing the observer. Apply the endpoint of one of the arms of the caliper at basion and support with fingers. Then apply the endpoint of the second arm of the caliper to bregma (Howells 1973:172; Moore-Jansen et al. 1994, #4; Langley et al. 2016:66, #5). 
 
 **Cra_06 Cranial Base Length (ba-n, BNL):** The distance from nasion (n) to basion (ba). *Instrument:* spreading calipers.
-* *Comments:* Rest the skull on the cranial vault and apply the endpoint of the one arm of caliper to nasion (n) while applying the other to basion (ba). (Howells 1973: 171-172, Martin and Knussmann 1988: 169, #5; Moore-Jansen et al. 1994, #5; Langley et al. 2016: 66, #6). 
+* *Comments:* Rest the skull on the cranial vault and apply the endpoint of the one arm of caliper to nasion (n) while applying the other to basion (ba). (Howells 1973:171-172, Martin and Knussmann 1988:169, #5; Moore-Jansen et al. 1994, #5; Langley et al. 2016:66, #6). 
 
 **Cra_07 Basion-Prosthion Length (ba-pr, BPL):** The distance from basion (ba) to prosthion (pr). *Instrument:* spreading or sliding calipers.
-* *Comments:* Apply the fixed point of the sliding caliper or one tip of the spreading caliper to prosthion (pr). Then bring the movable point of the sliding caliper or the other tip of the spreading caliper to basion (ba) (Howells 1973: 174; Moore-Jansen et al. 1994, #6; Langley et al. 2016: 66, #7). 
+* *Comments:* Apply the fixed point of the sliding caliper or one tip of the spreading caliper to prosthion (pr). Then bring the movable point of the sliding caliper or the other tip of the spreading caliper to basion (ba) (Howells 1973:174; Moore-Jansen et al. 1994, #6; Langley et al. 2016:66, #7). 
 
-Cra_08 Maxillo-Alveolar Breadth
-(ecm-ecm, MAB): The maximum breadth across the
-alveolar borders of the maxilla measured on the lateral surfaces at the
-location of the second maxillary molars (ecm). Instrument: spreading caliper.
+**Cra_08 Maxillo-Alveolar Breadth (ecm-ecm, MAB):** The maximum breadth across the alveolar borders of the maxilla measured on the lateral surfaces at the location of the second maxillary molars (ecm). *Instrument:* spreading caliper.
+* *Comments:* The points of measurement (ecm) are not found on the alveolar processes when reactive alveolar bone is present; in these cases ecm is located on the bony segment superior to the second maxillary molars. Apply both arms of the caliper to the alveolar borders above the tooth row from an anterior position (Howells 1973:176; Martin and Knussmann 1988:182 #61; Moore-Jansen et al. 1994, #7; Langley et al. 2016:66, #8).
 
-Comments:
-The points of measurement (ecm) are not found on the alveolar processes when
-reactive alveolar bone is present; in these cases ecm is located on the bony
-segment superior to the second maxillary molars. Apply both arms of the caliper
-to the alveolar borders above the tooth row from an anterior position (Howells
-1973:176; Martin and Knussmann 1988: 182 #61; Moore-Jansen et al. 1994, #7; Langley et al. 2016: 66, #8). 
+**Cra_09 Maxillo-Alveolar Length (pr-alv, MAL):** The distance from prosthion (pr) to alveolon (alv). *Instrument:* spreading or sliding caliper.
+* *Comments:* Place the skull so the base faces up. Apply a thin wire, rubber band, or other similar implement to the posterior borders of the alveolar arch and measure the distance from prosthion (pr) to the middle of the wire/band in the mid-sagittal plane (alv). (Martin and Knussmann 1988:182 #60; Moore-Jansen et al. 1994, #8; Langley et al. 2016:66, #9).
 
+**Cra_10 Biauricular Breadth (ra-ra, AUB):** The least exterior breadth across the roots of the zygomatic processes (ra). *Instrument:* sliding caliper.
+* *Comments:* With the skull resting on the occiput and with the base toward the observer measure to the outside of the roots of the zygomatic processes at their deepest incurvature, generally slightly anterior to the external auditory meatus, with the sharp points of the caliper (Howells 1973:173; Martin and Knussmann 1988:170, #11b; Moore-Jansen et al. 1994, #9; Langley et al. 2016:66, #10).
 
-Cra_09 Maxillo-Alveolar Length
-(pr-alv, MAL): The distance from prosthion (pr) to
-alveolon (alv). Instrument: spreading
-or sliding caliper.
+**Cra_11 Nasion-Prosthion Height (n-pr, NPH):** The distance from nasion (n) to prosthion (pr), upper facial height. *Instrument:* sliding caliper.
+* *Comments:* Place the fixed point of the caliper on nasion and apply the movable point to prosthion. If the alveolar process exhibits slight resorption or erosion at the point of prosthion, the projection of the process may be estimated when the alveolar process of the lateral incisors is still intact. When resorption or erosion is more pronounced this measurement should not be taken (Howells 1973:174; Moore-Jansen et al. 1994, #10; Langley et al. 2016:66-67, #11).
 
-Comments:
-Place the skull so the base faces up. Apply a thin wire, rubber band, or other
-similar implement to the posterior borders of the alveolar arch and measure the
-distance from prosthion (pr) to the middle of the wire/band in the mid-
-sagittal plane (alv). (Martin and Knussmann 1988: 182 #60; Moore-Jansen et al. 1994, #8; Langley
-et al. 2016: 66, #9). 
+**Cra_12 Minimum Frontal Breadth (ft-ft, WFB):** The distance between the right and left frontotemporale (ft). *Instrument:* sliding caliper.
+* *Comments:* Place the skull on its base. The two endpoints of the caliper are placed on the temporal ridges at the two frontotemporale. When taking this measurement make certain that the least distance between both temporal lines on the frontal bone
+is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen et al. 1994, #11; Langley et al. 2016:67, #12). 
 
+**Cra_13 Upper Facial Breadth (fmt-fmt):** The distance between the right and left frontomalare temporale (fmt). *Instrument:* sliding caliper.
+* *Comments:* The measurement is taken between the two external points on the frontomalar suture (Martin and Knussmann 1988:179, #43; Moore-Jansen et al. 1994, #12; Langley et al. 2016:67, #13). 
 
-Cra_10 Biauricular Breadth (ra-ra,
-AUB): The least exterior breadth across the roots
-of the zygomatic processes (ra). Instrument:
-sliding caliper.
+**Cra_14 Nasal Height (n-ns, NLH):** The average height from nasion (n) to the lowest point on the border of the nasal aperture on either side (ns). *Instrument:* sliding caliper.
+* *Comments:* Place the skull on its occiput, base to the right, and measure the distance from nasion to the inferior border of the nasal aperture on each side and take the average of these two measurements to the nearest whole millimeter. The lower border of the aperture is well defined in most populations. It is not always the most anterior edge, but the beginning of the actual floor of the nasal cavity. It is the hinder border, not the forward border, of any prenasal gutter or fossa. (Howells 1973:175; Moore-Jansen et al. 1994, #13; Langley et al. 2016:67, #14). 
 
-Comments:
-With the skull resting on the occiput and with the base toward the observer
-measure to the outside of the roots of the zygomatic processes at their deepest
-incurvature, generally slightly anterior to the external auditory meatus, with
-the sharp points of the caliper (Howells 1973:173; Martin and Knussmann 1988:
-170, #11b; Moore-Jansen et al. 1994,
-#9; Langley et al.
-2016: 66, #10). 
+**Cra_15 Nasal Breadth (al-al, NLB):** The maximum breadth of the nasal aperture (al-al). *Instrument:* sliding caliper.
+* *Comments:* Carefully place the points of the instrument on the sharp lateral margins of the nasal aperture at its most lateral curvature; this is not an inside measurement. The measurement is perpendicular to the mid-sagittal plane and recorded to the nearest millimeter (Howells 1973: 176; Martin and Knussmann 1988:181 #54; Moore-Jansen et al. 1994, #14; Langley et al. 2016:68, #15). 
 
+**Cra_16 Orbital Breadth (d-ec, OBB):** The distance from dacryon (d) to ectoconchion (ec). *Instrument:* sliding caliper.
+* *Comments:* The inside jaws of the calipers are useful for this measurement. For standardization and practical reasons measure the left orbit. Measure the right orbit if the left orbit is damaged and record the side measured on the recording sheet. (Howells 1973: 175; Martin and Knussmann l988:181, #51a; Moore-Jansen et al. 1994, #15; Langley et al. 2016:68, #16). 
 
-Cra_11 Nasion-Prosthion Height
-(n-pr, NPH): The distance from nasion (n) to
-prosthion (pr), upper facial height.
-Instrument: sliding caliper.
-
-Comments:
-Place the fixed point of the caliper on nasion and apply the movable point to
-prosthion. If the alveolar process exhibits slight resorption or erosion at the
-point of prosthion, the projection of the process may be estimated when the
-alveolar process of the lateral incisors is still intact. When resorption or
-erosion is more pronounced this measurement should not be taken (Howells 1973:
-174; Moore-Jansen et al. 1994, #10; Langley
-et al. 2016: 66-67, #11). 
-
-
-Cra_12 Minimum Frontal Breadth
-(ft-ft, WFB): The distance between the right and
-left frontotemporale (ft). Instrument: sliding
-caliper.
-
-Comments:
-Place the skull on its base. The two endpoints of the caliper are placed on the
-temporal ridges at the two frontotemporale. When taking this measurement make
-certain that the least distance between both temporal lines on the frontal bone
-is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988: 170, #9; Moore-Jansen
-et al. 1994, #11; Langley
-et al. 2016: 67, #12). 
-
-
-Cra_13 Upper Facial Breadth
-(fmt-fmt): The distance between the right and left
-frontomalare temporale (fmt). Instrument:
-sliding caliper.
-
-Comments:
-The measurement is taken between the two external points on the frontomalar
-suture (Martin and Knussmann 1988: 179, #43; Moore-Jansen et al. 1994, #12; Langley et al. 2016: 67, #13). 
-
-
-Cra_14 Nasal Height (n-ns, NLH): The average height from nasion (n) to the lowest point on
-the border of the nasal aperture on either side (ns). Instrument: sliding caliper.
-
-Comments:
-Place the skull on its occiput, base to the right, and measure the distance
-from nasion to the inferior border of the nasal aperture on each side and take
-the average of these two measurements to the nearest whole millimeter. The
-lower border of the aperture is well defined in most populations. It is not
-always the most anterior edge, but the beginning of the actual floor of the
-nasal cavity. It is the hinder border, not the forward border, of any prenasal
-gutter or fossa. (Howells 1973: 175; Moore-Jansen et al. 1994, #13; Langley et al. 2016: 67, #14). 
-
-
-Cra_15 Nasal Breadth (al-al,
-NLB): The maximum breadth of the nasal aperture (al-al).
-Instrument: sliding caliper.
-
-Comments:
-Carefully place the points of the instrument on the sharp lateral margins of
-the nasal aperture at its most lateral curvature; this is not an inside
-measurement. The measurement is perpendicular to the mid-sagittal plane and
-recorded to the nearest millimeter (Howells 1973: 176; Martin and Knussmann
-1988: 181 #54; Moore-Jansen et al. 1994,
-#14; Langley et al.
-2016: 68, #15). 
-
-
-Cra_16 Orbital Breadth (d-ec,
-OBB): The distance from dacryon (d) to ectoconchion
-(ec). Instrument: sliding caliper.
-
-Comments:
-The inside jaws of the calipers are useful for this measurement. For
-standardization and practical reasons measure the left orbit. Measure the right
-orbit if the left orbit is damaged and record the side measured on the
-recording sheet. (Howells 1973: 175; Martin and Knussmann l988: 181, #51a; Moore-Jansen
-et al. 1994, #15; Langley
-et al. 2016: 68, #16). 
-
-
-Cra_17 Orbital Height (OBH): The distance between the superior and inferior orbital
-margins perpendicular to orbital breadth and bisecting the orbit into equal
-medial and lateral halves. Instrument: sliding
-caliper.
-
-Comments:
-Orbital height is measured perpendicular to orbital breadth. Any notches or
-depressions on either superior or inferior borders should be avoided; if there
-is deep notching, move the caliper medially slightly. The inside jaws of the
-calipers are useful for this measurement. (Howells 1973: 175; Martin and
-Knussmann 1988: 181, #52; Moore-Jansen et
-al. 1994, #16; Langley et al. 2016: 68, #17). 
+**Cra_17 Orbital Height (OBH):** The distance between the superior and inferior orbital margins perpendicular to orbital breadth and bisecting the orbit into equal medial and lateral halves. *Instrument:* sliding caliper.
+* *Comments:* Orbital height is measured perpendicular to orbital breadth. Any notches or depressions on either superior or inferior borders should be avoided; if there is deep notching, move the caliper medially slightly. The inside jaws of the calipers are useful for this measurement. (Howells 1973: 175; Martin and Knussmann 1988:181, #52; Moore-Jansen et al. 1994, #16; Langley et al. 2016:68, #17). 
 
 
 Cra_18
@@ -267,7 +165,7 @@ sliding caliper.
 
 
 
-## MANDIBLE
+## Mandible
 
 Man_01 Chin
 Height (id-gn): The distance from
@@ -358,9 +256,9 @@ place by pressing down on the second molars (Martin and Knussmann 1988: 185,
 2016: 72, #37). 
 
 
+# POSTCRANIAL
 
-## CLAVICLE
-
+## Clavicle
 Cla_01
 Maximum Length of the Clavicle: The maximum distance between the
 most extreme ends of the clavicle. Instrument:
