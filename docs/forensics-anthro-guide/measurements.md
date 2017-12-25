@@ -1,6 +1,5 @@
-Cranial and postcranial interlandmark distances for skeletal biology.
-
-# CRANIAL
+# SKULL
+Interlandmark distances of the cranium and mandible for skeletal biology.
 
 ## Cranium
 **Cra_01 Maximum Cranial Length (g-op, GOL):** The straight-line distance from glabella (g) to opisthocranion (op) in the midsagittal plane. *Instrument:* spreading caliper.
@@ -55,114 +54,34 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 **Cra_17 Orbital Height (OBH):** The distance between the superior and inferior orbital margins perpendicular to orbital breadth and bisecting the orbit into equal medial and lateral halves. *Instrument:* sliding caliper.
 * *Comments:* Orbital height is measured perpendicular to orbital breadth. Any notches or depressions on either superior or inferior borders should be avoided; if there is deep notching, move the caliper medially slightly. The inside jaws of the calipers are useful for this measurement. (Howells 1973: 175; Martin and Knussmann 1988:181, #52; Moore-Jansen et al. 1994, #16; Langley et al. 2016:68, #17). 
 
+**Cra_18 Biorbital Breadth (ec-ec, EKB):** The distance from left to right ectoconchion (ec) (Howells 1973:178; Moore-Jansen et al. 1994, #17; Langley et al. 2016:68, #18). *Instrument:* sliding caliper.
 
-Cra_18
-Biorbital Breadth (ec-ec, EKB): The distance from left to right ectoconchion (ec)
-(Howells 1973:178; Moore-Jansen et al. 1994,
-#17; Langley et al. 2016: 68, #18). Instrument: sliding
-caliper.
+**Cra_19 Interorbital Breadth (d-d, DKB):** The distance between right and left dacryon (d) (Howells 1973:178; Moore-Jansen et al. 1994, #18; Langley et al. 2016:69, #19). *Instrument:* sliding caliper.
 
+**Cra_20 Frontal Chord (n-b, FRC):** The distance from nasion (n) to bregma (b) taken in the mid-sagittal plane. *Instrument:* sliding caliper 
+* *Comments:* Place the tips of the instrument on the bone surface or at the level of the bone surface and not in a suture or other depression (Howells 1973:181; Martin and Knussmann 1988:174, #29; Moore-Jansen et al. 1994, #19; Langley et al. 2016:69, #20). 
 
-Cra_19
-Interorbital Breadth (d-d, DKB): The distance between right and left dacryon (d) (Howells 1973: 178; Moore-Jansen et al. 1994, #18; Langley et al. 2016: 69, #19). Instrument: sliding caliper.
+**Cra_21 Parietal Chord (b-l, PAC):** The distance from bregma (b) to lambda (l) taken in the mid-sagittal plane. *Instrument:* sliding caliper. 
+* *Comments:* Place the tips of the instrument on the bone surface or at the level of the bone surface and not in a suture or other depression (Howells 1973:182; Martin and Knussmann 1988:175, #30; Moore-Jansen et al. 1994, #20; Langley et al. 2016:69, #21). 
 
+**Cra_22 Occipital Chord (l-o, OCC):** The distance from lambda (l) to opisthion (o) taken in the mid-sagittal plane (Howells 1973:182; Martin and Knussmann 1988:175 #31; Moore-Jansen et al. 1994, #21; Langley et al. 2016:69, #22). *Instrument:* sliding caliper.
 
-Cra_20 Frontal Chord (n-b, FRC):
-The distance from nasion (n) to bregma (b) taken in
-the mid-sagittal plane. Instrument:
-sliding caliper 
+**Cra_23 Foramen Magnum Length (ba-o, FOL):** The mid-sagittal distance from the most anterior point on the foramen magnum margin to opisthion (o). *Instrument:* sliding caliper.
+* *Comments:* Measure with the skull base up, using the inside jaws of the calipers. (Martin and Knussmann 1988:169 #7; Moore-Jansen et al. 1994, #22; Langley et al. 2016:69, #23). 
 
-Comments:
-Place the tips of the instrument on the bone surface or at the level of the
-bone surface and not in a suture or other depression (Howells 1973:181; Martin
-and Knussmann 1988: 174, #29; Moore-Jansen et
-al. 1994, #19; Langley et al. 2016: 69, #20). 
+**Cra_24 Foramen Magnum Breadth (FOB):** The distance between the lateral margins of the foramen magnum at the point of greatest lateral curvature. *Instrument:* sliding caliper. 
+* *Comments:* Measure with the skull base up using the inside jaws of the calipers (Martin and Knussmann 1988:171, #16; Moore-Jansen et al. 1994, #23; Langley et al. 2016:69, #24). 
 
+**Cra_25 Mastoid Height (MDH):** The direct distance between porion (po) and mastoidale (ms). *Instrument:* sliding caliper.
+* *Comments:* Note that both right and left sides are measured. Place the fixed arm of the caliper on porion and move the movable arm until it touches mastoidale. This may be most easily accomplished by holding the calipers in a coronal plane. Howells (1973:176) and Martin and Knussmann (1988:172, #19a) define this measurement similarly, though their measurement technique differs from that described here. When only one value is needed, average the right and left measurements. If the discrepancy between the sides is more than 2mm repeat as a check (Moore-Jansen et al. 1994, #24; Langley et al. 2016:69-70, #25).  
 
-Cra_21 Parietal Chord (b-l, PAC):
-The distance from bregma (b) to lambda (l) taken in
-the mid-sagittal plane. Instrument:
-sliding caliper 
+**Cra_26 Biasterionic Breadth (ast-ast, ASB):** The straight-line distance from left to right asterion (ast). *Instrument:* sliding caliper.
+* *Comments:* With the skull resting so that the occiput is facing the observer, measure the distance using the sharp points of the calipers (Howells 1973:174; Martin and Knussmann 1988:171, #12; Langley et al. 2016:70, #26).  
 
-Comments:
-Place the tips of the instrument on the bone surface or at the level of the
-bone surface and not in a suture or other depression (Howells 1973:182; Martin
-and Knussmann 1988: 175, #30; Moore-Jansen et
-al. 1994, #20; Langley et al. 2016: 69, #21). 
+**Cra_27 Bimaxillary Breadth (zma-zma, ZMB):** The breadth across the maxillae, from the left to right zygomaxillare anterior (zma). *Instrument:* sliding caliper.
+* *Comments:* The endpoints of the measurement are located on the facial surface and not on the inferior aspect of the zygomaxillary suture (Howells 1973:177; Langley et al. 2016:70, #27).  
 
-
-Cra_22
-Occipital Chord (l-o, OCC): The distance from lambda (l) to opisthion (o) taken in the
-mid-sagittal plane (Howells 1973:182; Martin and Knussmann 1988: 175 #31; Moore-Jansen
-et al. 1994, #21; Langley et al. 2016: 69, #22). Instrument:
-sliding caliper.
-
-
-Cra_23
-Foramen Magnum Length (ba-o, FOL): The mid-sagittal distance from the most anterior point on
-the foramen magnum margin to opisthion (o). Instrument:
-sliding caliper.
-
-Comments:
-Measure with the skull base up, using the inside jaws of the calipers. (Martin
-and Knussmann 1988: 169 #7; Moore-Jansen et
-al. 1994, #22; Langley et al. 2016: 69, #23). 
-
-
-Cra_24
-Foramen Magnum Breadth (FOB): The
-distance between the lateral margins of the foramen magnum at the point of
-greatest lateral curvature. Instrument:
-sliding caliper 
-
-Comments:
-Measure with the skull base up using the inside jaws of the calipers (Martin
-and Knussmann 1988: 171, #16; Moore-Jansen et
-al. 1994, #23; Langley et al. 2016: 69, #24). 
-
-
-Cra_25
-Mastoid Height (MDH): The direct distance between porion (po) and mastoidale
-(ms). Instrument: sliding caliper.
-
-Comments:
-Note that both right and left sides are measured. Place the fixed arm of the
-caliper on porion and move the movable arm until it touches mastoidale. This
-may be most easily accomplished by holding the calipers in a coronal plane.
-Howells (1973: 176) and Martin and Knussmann (1988: 172, #19a) define this
-measurement similarly, though their measurement technique differs from that described
-here. When only one value is needed, average the right and left measurements.
-If the discrepancy between the sides is more than 2mm repeat as a check (Moore-Jansen
-et al. 1994, #24; Langley
-et al. 2016: 69-70, #25).  
-
-
-Cra_26
-Biasterionic Breadth (ast-ast, ASB): The straight-line distance from left to right asterion
-(ast). Instrument: sliding caliper.
-
-Comments:
-With the skull resting so that the occiput is facing the observer, measure the
-distance using the sharp points of the calipers (Howells 1973: 174; Martin and
-Knussmann 1988: 171, #12; Langley et al. 2016: 70, #26).  
-
-
-Cra_27
-Bimaxillary Breadth (zma-zma, ZMB): The breadth across the maxillae, from the left to right
-zygomaxillare anterior (zma). Instrument:
-sliding caliper.
-
-Comments:
-The endpoints of the measurement are located on the facial surface and not on
-the inferior aspect of the zygomaxillary suture (Howells 1973: 177; Langley
-et al. 2016: 70, #27).  
-
-
-Cra_28
-Zygoorbitale Breadth (zo-zo, ZOB): The
-distance between right and left zygoorbitale (zo) (Langley et al. 2016: 70, #28). Instrument:
-sliding caliper.
-
+**Cra_28 Zygoorbitale Breadth (zo-zo, ZOB):** The distance between right and left zygoorbitale (zo) (Langley et al. 2016: 70, #28). *Instrument:* sliding caliper.
 
 
 ## Mandible
@@ -257,6 +176,7 @@ place by pressing down on the second molars (Martin and Knussmann 1988: 185,
 
 
 # POSTCRANIAL
+Postcranial interlandmark distances for skeletal biology.
 
 ## Clavicle
 Cla_01
