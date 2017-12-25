@@ -2,87 +2,27 @@
 Cranial and postcranial interlandmark distances for skeletal biology.
 
 
-
 ## CRANIAL
 **Cra_01 Maximum Cranial Length (g-op, GOL):** The straight-line distance from glabella (g) to opisthocranion (op) in the midsagittal plane. *Instrument:* spreading caliper.
+* *Comment:* Set the skull on its base. Place one caliper point in the glabellar region in the midline and hold with fingers while the other caliper point is applied to the posterior portion of the skull in the midsagittal plane and moved up and down until the maximum length is obtained. On finding this, move the left point up and down slightly to make sure the reading is maximum (Howells 1973: 170; Martin and Knussmann 1988: 168, #1; Moore-Jansen et al. 1994, #1; Langley et al. 2016: 65, #1).
 
-* *Comment:* Set the skull on its base. Place one
-caliper point in the glabellar region in the midline and hold with fingers
-while the other caliper point is applied to the posterior portion of the skull
-in the midsagittal plane and moved up and down until the maximum length is
-obtained. On finding this, move the left point up and down slightly to make
-sure the reading is maximum (Howells 1973: 170; Martin and Knussmann 1988: 168,
-#1; Moore-Jansen et al. 1994, #1; Langley et
-al. 2016: 65, #1).
+**Cra_02 Nasio-occipital Length (NOL):** Maximum length in the midsagittal plane, measured from nasion (n). *Instrument:* spreading caliper.
+* *Comments:* With the skull in position as for glabello-occipital length (Maximum Cranial Length), place the one caliper point at nasion and move the other point along the occiput in the midline for the maximum reading (Howells 1973: 171; Langley et al. 2016: 65, #2).
 
+**Cra_03 Maximum Cranial Breadth (eu-eu, XCB):** The maximum width of the skull perpendicular to the mid-sagittal plane wherever it is located with the exception of the inferior temporal line and the immediate area surround the latter (i.e. the posterior roots of the zygomatic arches and supramastoid crest). *Instrument:* spreading caliper.
+* *Comments:* Maximum Cranial Breadth is measured with the skull resting either on its base or on the occiput. The two measuring points (eurya) should lie in the same horizontal and frontal planes. Place the arms of the caliper at the same level while maintaining the hinge joint of the caliper in the mid-sagittal plane. Hold the ends of the caliper in each hand and apply to the lateral portions of the skull, making circular motions. Make sure you include areas below the squamosal suture, where the maximum is sometimes found. (Howells 1973:172; Hrdlicka 1920:14; Martin and Knussmann 1988: 170, #8; Moore-Jansen et al. 1994, #2; Langley et al. 2016: 65, #3). 
 
-**Cra_02 Nasio-occipital Length (NOL):** Maximum length in the midsagittal plane, measured from nasion (n). *Instrument:*
-spreading caliper.
+**Cra_04 Bizygomatic Breadth (zy-zy, ZYB):** The maximum breadth across the zygomatic arches, wherever found, perpendicular to the mid-sagittal plane. *Instrument:* sliding or spreading calipers.
+* *Comments:* Place the skull on its occiput, base toward observer, and apply the blunt points of the caliper to the zygomatic arches and locate the maximum breadth perpendicular to the mid-sagittal plane. (Howells 1973: 173; Moore-Jansen et al. 1994, #3; Langley et al. 2016: 66, #4). 
 
-* *Comments:* With the skull in position as for
-glabello-occipital length (Maximum Cranial Length), place the one caliper point
-at nasion and move the other point along the occiput in the midline for the
-maximum reading (Howells 1973: 171; Langley et
-al. 2016: 65, #2).
+**Cra_05 Basion-Bregma Height (ba-b, BBH):** The distance from basion (ba) to bregma (b). *Instrument:* spreading caliper.
+* *Comments:* Place the skull on its occiput with the right side facing the observer. Apply the endpoint of one of the arms of the caliper at basion and support with fingers. Then apply the endpoint of the second arm of the caliper to bregma (Howells 1973: 172; Moore-Jansen et al. 1994, #4; Langley et al. 2016: 66, #5). 
 
+**Cra_06 Cranial Base Length (ba-n, BNL):** The distance from nasion (n) to basion (ba). *Instrument:* spreading calipers.
+* *Comments:* Rest the skull on the cranial vault and apply the endpoint of the one arm of caliper to nasion (n) while applying the other to basion (ba). (Howells 1973: 171-172, Martin and Knussmann 1988: 169, #5; Moore-Jansen et al. 1994, #5; Langley et al. 2016: 66, #6). 
 
-**Cra_03 Maximum Cranial Breadth (eu-eu, XCB):** The maximum width of the skull
-perpendicular to the mid-sagittal plane wherever it is located with the
-exception of the inferior temporal line and the immediate area surround the
-latter (i.e. the posterior roots of the zygomatic arches and supramastoid
-crest). *Instrument:* spreading caliper.
-
-* *Comments:* Maximum Cranial Breadth is measured with the skull resting either on its base
-or on the occiput. The two measuring points (eurya) should lie in the same
-horizontal and frontal planes. Place the arms of the caliper at the same level
-while maintaining the hinge joint of the caliper in the mid-sagittal plane.
-Hold the ends of the caliper in each hand and apply to the lateral portions of
-the skull, making circular motions. Make sure you include areas below the
-squamosal suture, where the maximum is sometimes found. (Howells 1973:172;
-Hrdlicka 1920:14; Martin and Knussmann 1988: 170, #8; Moore-Jansen et al. 1994, #2; Langley
-et al. 2016: 65, #3). 
-
-
-**Cra_04 Bizygomatic Breadth (zy-zy, ZYB):** The maximum breadth across the zygomatic
-arches, wherever found, perpendicular to the mid-sagittal plane. *Instrument:* sliding or spreading
-calipers.
-
-* *Comments:* Place the skull on its occiput, base toward observer, and apply the blunt
-points of the caliper to the zygomatic arches and locate the maximum breadth
-perpendicular to the mid-sagittal plane. (Howells 1973: 173; Moore-Jansen et al. 1994, #3; Langley
-et al. 2016: 66, #4). 
-
-
-**Cra_05 Basion-Bregma Height (ba-b, BBH):** The distance from basion (ba) to bregma (b). *Instrument:* spreading
-caliper.
-
-* *Comments:* Place the skull on its occiput with the right side facing the observer. Apply
-the endpoint of one of the arms of the caliper at basion and support with
-fingers. Then apply the endpoint of the second arm of the caliper to bregma
-(Howells 1973: 172; Moore-Jansen et al. 1994, #4; Langley et al. 2016: 66, #5). 
-
-
-Cra_06 Cranial Base Length (ba-n,
-BNL): The distance from nasion (n) to basion (ba). Instrument: spreading calipers.
-
-Comments:
-Rest the skull on the cranial vault and apply the endpoint of the one arm of
-caliper to nasion (n) while applying the other to basion (ba). (Howells 1973:
-171-172, Martin and Knussmann 1988: 169, #5; Moore-Jansen et al. 1994, #5; Langley et al. 2016: 66, #6). 
-
-
-Cra_07 Basion-Prosthion Length
-(ba-pr, BPL): The distance from basion (ba) to
-prosthion (pr). Instrument: spreading
-or sliding calipers.
-
-Comments:
-Apply the fixed point of the sliding caliper or one tip of the spreading
-caliper to prosthion (pr). Then bring the movable point of the sliding caliper
-or the other tip of the spreading caliper to basion (ba) (Howells 1973: 174; Moore-Jansen
-et al. 1994, #6; Langley
-et al. 2016: 66, #7). 
-
+**Cra_07 Basion-Prosthion Length (ba-pr, BPL):** The distance from basion (ba) to prosthion (pr). *Instrument:* spreading or sliding calipers.
+* *Comments:* Apply the fixed point of the sliding caliper or one tip of the spreading caliper to prosthion (pr). Then bring the movable point of the sliding caliper or the other tip of the spreading caliper to basion (ba) (Howells 1973: 174; Moore-Jansen et al. 1994, #6; Langley et al. 2016: 66, #7). 
 
 Cra_08 Maxillo-Alveolar Breadth
 (ecm-ecm, MAB): The maximum breadth across the
