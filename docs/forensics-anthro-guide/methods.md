@@ -66,137 +66,31 @@ In this section we present an annotated bibliography of analytical methods avail
   * Age estimation for American Whites and Blacks by scoring third molar development radiographically using the eight-grade classification system by Demirjian et al. (1973). The reference sample consists of American males (46%) and females (54%) between the ages of 14 and 24 years (n = 823). The sample consisted of white (80%), black (19%), and “other” (1%). Although the third molar is the most variable tooth, the formation of the third molar can be useful for age estimation when other elements are unavailable.
 
 * **Nawrocki SP (1998).** Regression formulae for the estimation of age from cranial suture closure. In Forensic Osteology: Advances in the Identification of Human Remains, 2nd ed., edited by Kathy Reichs, pp. 293-317. Charles C. Thomas, Springfield, IL.
-  * Age estimation by scoring ectocranial, endocranial, and maxillary suture closure and provided regression formulae based on observations of American White (n = 49) and Black (n = 51) males and females (n = 50 for each). Twenty-seven cranial landmarks are scored,including 16 from the ectocranial surface, 7 from the endocranial surface, and 4 from the palate, on a scale of 0 to 3. Ten of the ectocranial landmarks are the same as Meindl and Lovejoy’s (1973) landmarks. Scores can be summed and
-utilized in a regression equation to predict age. Eight equations for
-predicting age from all cranial suture landmarks are provided. Because
-incomplete crania are often recovered, additional formulae using only landmarks
-of the calotte are also provided (Equations 9 – 15).
- 
+  * Age estimation by scoring ectocranial, endocranial, and maxillary suture closure and provided regression formulae based on observations of American White (n = 49) and Black (n = 51) males and females (n = 50 for each). Twenty-seven cranial landmarks are scored,including 16 from the ectocranial surface, 7 from the endocranial surface, and 4 from the palate, on a scale of 0 to 3. Ten of the ectocranial landmarks are the same as Meindl and Lovejoy’s (1973) landmarks. Scores can be summed and utilized in a regression equation to predict age. Eight equations for predicting age from all cranial suture landmarks are provided. Because incomplete crania are often recovered, additional formulae using only landmarks of the calotte are also provided (Equations 9 – 15).
 
-Osborne DL, Simmons TL, Nawrocki SP (2004).Reconsidering the auricular surface as an indicator of age at death.  Journal
-of Forensic Sciences, 49:905-911.  
+* **Osborne DL, Simmons TL, Nawrocki SP (2004).** Reconsidering the auricular surface as an indicator of age at death.  Journal of Forensic Sciences, 49:905-911.
+  * Age estimation based on auricular surface morphology. This method is a modified 6-phase system of the existing 8-phase auricular surface aging method by Lovejoy et al (1985). The sample for this study consisted of 266 individuals of documented age, sex, and ancestry from the Terry and Bass Donated Collections which represent early 20th century and late 20th century individuals, respectively.
 
-Age estimation based on auricular
-surface morphology. This method is a modified 6-phase system of the existing
-8-phase auricular surface aging method by Lovejoy et al (1985). The sample for
-this study consisted of 266 individuals of documented age, sex, and ancestry
-from the Terry and Bass Donated Collections which represent early 20th century
-and late 20th century individuals, respectively.
+* **Phenice TW (1969).** A newly developed visual method of sexing the os pubis.  American Journal of Physical Anthropology, 30:297-301.  
+  * Sex estimation based on three features of the adult os coxa: the ventral arc, subpubic concavity, and the ischiopubic ramus. A test of 275 Black and White males (n = 180) and females (n = 95) from the Terry Skeletal Collection yielded an overall accuracy rate of 96%.
 
- 
+* **Rhine S (1990).** Non-metric skull racing.  In Skeletal Attribution of Race: Methods for Forensic Anthropology, edited by G. W. Gill and S. Rhine, pp. 9-20. Maxwell Museum Anthropological Papers No. 4, Albuquerque, NM.
+  * Ancestry estimation based on cranial morphology (Asian, Black, White). Forty-five cranial and dental traits commonly used by Mountain, Desert, and Coastal Forensic Anthropologists were assessed for distinguishing between “American Caucasoid,” “Southwestern Mongoloid,” and “American Black:” 18 from the braincase, 13 from the face, 7 dental, and 7 from the mandible. The traits determined to be the most useful in ancestry assessment are provided for each group.
 
-Phenice TW (1969). A newly developed visual
-method of sexing the os pubis.  American Journal of Physical Anthropology,
-30:297-301.  
+* **Rogers TL  (1999).** A visual method of determining the sex of skeletal remains using the distal humerus.  Journal of Forensic Sciences, 44:57-60.
+  * Sex estimation based on the scoring of four dimorphic features of the distal humerus: trochlear constriction, trochlear asymmetry, olecranon fossa shape and depth, and the angle of the medial epicondyle. Note:  In ambiguous cases (two traits scored asmale, two traits scored as female), greater weight should be given to the olecranon fossa.  The greatest accuracy is achieved when all four features are present and scorable. The technique was developed on a 20th century anatomy series, the University of Toronto Grant Skeletal Collection, and was tested on 35 known individuals from the University of New Mexico Documented Collection and 93 individuals from the William M. Bass Donated Skeletal Collection.
 
-Sex estimation based on three
-features of the adult os coxa: the ventral arc, subpubic concavity, and the
-ischiopubic ramus. A test of 275 Black and White males (n = 180) and females (n
-= 95) from the Terry Skeletal Collection yielded an overall accuracy rate of
-96%.
+* **Rogers NL, Flournoy LE, McCormick WF (2000).** The rhomboid fossa of the clavicle as a sex and age estimator. Journal of Forensic Sciences, 45:61-67.
+  * Sex estimation based on clavicle morphology, specifically, the presence or absence of the rhomboid fossa.  A rhomboid fossa is defined as a pitted ordepressed marking on the inferior sternal end of the clavicle.  Males are more likely than females to have a rhomboid fossa, and rhomboid fossa are more commonly exhibited in younger individuals than older individuals. This method includes posterior probabilities for the presence/absence of the fossa. This method was derived from a large contemporary sample (n = 344: 113 females, 231 males).
 
- 
+* **Samworth R, Gowland R (2007).** Estimation of adult skeletal age-at-death: Statistical assumptions and applications. International Journal of Osteoarchaeology, 17:174-188.
+  * Age estimation based on features of the os coxa. This method provides 90% prediction intervals for each combination of pubic symphysis (scored following the Suchey-Brooks method, n = 376) andauricular surface (scored following the Lovejoy method, n = 448) that they observed in a combined sample of 18th-century English and 20th-century Portuguese.  These prediction intervals have been found to be accurate for 20th-century Americans as well (Passalacqua 2010).  When both scores can be observed on the same individual, a combined age estimate may be produced in this manner.  Such a combined age estimate maybe more precise than the pubic symphysis alone, particularly for individuals whose pubic symphyses are in phases 3-6. 
 
-Rhine S (1990). Non-metric skull
-racing.  In Skeletal Attribution of Race: Methods for Forensic Anthropology, edited by G. W. Gill and S.
-Rhine, pp. 9-20. Maxwell Museum Anthropological Papers No. 4, Albuquerque,
-NM.  
+* **Schaefer M, Black S, Scheuer L (2009).** Juvenile Osteology: A Laboratory and Field Manual. Academic Press, Burlington, MA.
+  * Age estimation based on epiphyseal fusion. Age ranges for developmental stages throughout the skeleton are provided. This method is meant for aging the juvenile skeleton. This manual is a compilation of aging data from numerous sources from the last hundred years from a variety of journals and texts.
 
-Ancestry estimation based on cranial
-morphology (Asian, Black, White). Forty-five cranial and dental traits commonly
-used by Mountain, Desert, and Coastal Forensic Anthropologists were assessed
-for distinguishing between “American Caucasoid,” “Southwestern Mongoloid,” and
-“American Black:” 18 from the braincase, 13 from the face, 7 dental, and 7 from
-the mandible. The traits determined to be the most useful in ancestry
-assessment are provided for each group. 
- 
+* **Walker PL (2005).** Greater sciatic notch morphology:  Sex, age, and population differences.  American Journal of Physical Anthropology, 127:385-391.
+  * Provides empirical probabilities of being male or female for a given sciatic notch score, following Buikstra and Ubelaker (1994). A score of 1 typically indicates a female, while a score of 3 or greater usually indicates a male.  A score of 2 represents intermediate morphology, although a larger percentage of males than females exhibit this degree of expression. There is also a relationship between age-at-death and sciatic notch score, with younger people tending to have wider greater sciatic notches. The reference sample consists of American males and females (n = 114 and 97, respectively) who died between 1915-1955, as well as London males and females (n = 51 and 34, respectively) who died between 1761-1851.
 
-Rogers TL  (1999).
-A visual method of determining the sex of skeletal remains using the distal
-humerus.  Journal of Forensic Sciences, 44:57-60.  
-
-Sex
-estimation based on the scoring of four dimorphic features of the distal
-humerus: trochlear constriction, trochlear asymmetry, olecranon fossa shape and
-depth, and the angle of the medial epicondyle. Note:  In ambiguous cases (two traits scored asmale, two traits scored as female), greater weight should be given to the
-olecranon fossa.  The greatest accuracy
-is achieved when all four features are present and scorable. The technique was
-developed on a 20th century anatomy series, the University of Toronto Grant
-Skeletal Collection, and was tested on 35 known individuals from the University
-of New Mexico Documented Collection and 93 individuals from the William M. Bass
-Donated Skeletal Collection.
-
- 
-
-Rogers NL, Flournoy LE, McCormick WF (2000).
-The rhomboid fossa of the clavicle as a sex and age estimator. 
-Journal of Forensic Sciences, 45:61-67.
-
-Sex estimation based on clavicle
-morphology, specifically, the presence or absence of the rhomboid fossa.  A rhomboid fossa is defined as a pitted ordepressed marking on the inferior sternal end of the clavicle.  Males are more likely than females to have a
-rhomboid fossa, and rhomboid fossa are more commonly exhibited in younger
-individuals than older individuals. This method includes posterior
-probabilities for the presence/absence of the fossa. This method was derived
-from a large contemporary sample (n = 344: 113 females, 231 males).
-
- 
-
-Samworth R,
-Gowland R (2007). Estimation of adult skeletal
-age-at-death: Statistical assumptions and applications. International Journal of Osteoarchaeology, 17:174-188.
-Age estimation based on features of
-the os coxa. This method provides 90% prediction intervals for each combination
-of pubic symphysis (scored following the Suchey-Brooks method, n = 376) andauricular surface (scored following the Lovejoy method, n = 448) that they
-observed in a combined sample of 18th-century English and 20th-century
-Portuguese.  These prediction intervals
-have been found to be accurate for 20th-century Americans as well (Passalacqua
-2010).  When both scores can be observed
-on the same individual, a combined age estimate may be produced in this
-manner.  Such a combined age estimate maybe more precise than the pubic symphysis alone, particularly for individuals
-whose pubic symphyses are in phases 3-6. 
-
- 
-
-Schaefer M,
-Black S, Scheuer L (2009). Juvenile Osteology: A Laboratory and Field Manual. Academic Press,
-Burlington, MA.
-
-Age estimation based on epiphyseal
-fusion. Age ranges for developmental stages throughout the skeleton are
-provided. This method is meant for aging the juvenile skeleton. This manual is
-a compilation of aging data from numerous sources from the last hundred years
-from a variety of journals and texts. 
-
- 
- 
-Walker PL (2005).
-Greater sciatic notch morphology:  Sex,
-age, and population differences.  American Journal of Physical Anthropology,
-127:385-391.
-
-Provides empirical probabilities of
-being male or female for a given sciatic notch score, following Buikstra and
-Ubelaker (1994). A score of 1 typically indicates a female, while a score of 3
-or greater usually indicates a male.  A
-score of 2 represents intermediate morphology, although a larger percentage of
-males than females exhibit this degree of expression. There is also a
-relationship between age-at-death and sciatic notch score, with younger people
-tending to have wider greater sciatic notches. The reference sample consists of
-American males and females (n = 114 and 97, respectively) who died between
-1915-1955, as well as London males and females (n = 51 and 34, respectively)
-who died between 1761-1851.
-
- 
-
-Walker PL (2008).
-Sexing skulls using discriminant function analysis of visually assessed traits.  American
-Journal of Physical Anthropology, 136:39-50.
-
-Provides empirical probabilities of
-being male for a given score of observed cranial morphology following the
-ordinal scales presented in Buikstra and Ubelaker (1994).  The sectioning point is 0, and scores less
-than 0 are more likely to be male, and scores greater than 0 are more likely to
-be female.  The probability distributions
-are based on 304 skulls of known sex from European American, African American,
-English (British), and 156 Native American individuals.
-
+* **Walker PL (2008).** Sexing skulls using discriminant function analysis of visually assessed traits.  American Journal of Physical Anthropology, 136:39-50.
+  * Provides empirical probabilities of being male for a given score of observed cranial morphology following the ordinal scales presented in Buikstra and Ubelaker (1994).  The sectioning point is 0, and scores less than 0 are more likely to be male, and scores greater than 0 are more likely to be female.  The probability distributions are based on 304 skulls of known sex from European American, African American, English (British), and 156 Native American individuals.
