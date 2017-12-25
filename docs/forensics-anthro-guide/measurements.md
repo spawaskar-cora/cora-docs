@@ -142,7 +142,7 @@ Postcranial interlandmark distances for skeletal biology.
 **Cla_09 Maximum Anterior-Posterior Width at the Proximal End:**  The maximum anterior-posterior width of the proximal end (be sure to hold in anatomical position) (Byrd and Adams 2015, #37D). *Instrument:* sliding caliper.
 
 
-## SCAPULA
+## Scapula
 **Sca_01 Height of the Scapula (Anatomical Height):**  The distance from the most superior point of the cranial angle to the most interior point on the caudal angle (Martin and Knussmann 1988:197, #1; Moore-Jansen et al. 1994, #38; Langley et al. 2016:74, #41). *Instrument:* sliding caliper or osteometric board.
 
 **Sca_02 Breadth of the Scapula (Anatomical Breadth):**  The distance from the midpoint on the dorsal border of the glenoid fossa to midway between the two ridges of the scapular spine on the vertebral border. *Instrument:* sliding or spreading caliper.
@@ -156,7 +156,7 @@ Postcranial interlandmark distances for skeletal biology.
 **Sca_05 Minimum Length from Scapular Notch to Axillary Border:**  This measurement is the minimum distance from the superior border (typically in the notch) to the axillary border. Anchor a jaw of the caliper in the notch and use the other jaw to find the minimum distance to a point on the axillary border (Byrd and Adams 2015, #39D). *Instrument:* sliding caliper.
 
 
-## HUMERUS
+## Humerus
 Hum_01 Maximum Length of the Humerus: The distance from the most superior point on the head of the
 humerus to the most inferior point on the trochlea. Instrument: osteometric board.
 
