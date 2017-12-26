@@ -157,431 +157,147 @@ Postcranial interlandmark distances for skeletal biology.
 
 
 ## Humerus
-Hum_01 Maximum Length of the Humerus: The distance from the most superior point on the head of the
-humerus to the most inferior point on the trochlea. Instrument: osteometric board.
+**Hum_01 Maximum Length of the Humerus:**  The distance from the most superior point on the head of the humerus to the most inferior point on the trochlea. *Instrument:* osteometric board.
+* *Comment:*  Place the humerus on the osteometric board so that its long axis parallels theinstrument. Place the head of the humerus against the vertical end board and press the movable upright against the trochlea. Move the bone up, down and sideways to determine the maximum distance (Hrdlicka 1920:126; Moore-Jansen et al. 1994, #40; Langley et al. 2016:74, #45). 
 
-Comment:
-Place the humerus on the osteometric board so that its long axis parallels the
-instrument. Place the head of the humerus against the vertical end board and
-press the movable upright against the trochlea. Move the bone up, down and
-sideways to determine the maximum distance (Hrdlicka 1920:126; Moore-Jansen et al. 1994,
-#40; Langley et al.
-2016: 74, #45). 
+**Hum_02 Epicondylar Breadth of the Humerus:**  The distance from the most laterally protruding point on the lateral epicondyle to the corresponding projection on the medial epicondyle (Martin and Knussmann 1988:199, #4; Moore-Jansen et al. 1994, #41; Langley et al. 2016:74, #46). *Instrument:* osteometric board or sliding calipers.
 
-Hum_02 Epicondylar Breadth of the Humerus: The distance from the most laterally protruding point on the
-lateral epicondyle to the corresponding projection on the medial epicondyle (Martin
-and Knussmann 1988: 199, #4; Moore-Jansen et al. 1994, #41; Langley
-et al. 2016: 74, #46). Instrument:
-osteometric board or sliding calipers.
+**Hum_03 Maximum Vertical Diameter of Head:**  The distance between the most superior and inferior points on the border of the articular surface. *Instrument:* sliding caliper. 
+* *Comment:*  Do not include arthritic lipping which may be present on the perimeter of the joint surface. This diameter is not necessarily the maximum head diameter (Martin and Knussmann 1988:200, #10; Moore-Jansen et al. 1994, #42; Langley et al. 2016:74, #47). 
 
-Hum_03 Maximum Vertical Diameter of Head: The distance between the most superior and inferior points on
-the border of the articular surface. Instrument:
-sliding caliper. 
+**Hum_04 Maximum Diameter of the Humerus at Midshaft:**  The maximum diameter of the humeral shaft at midshaft. *Instrument:* sliding caliper.
+* *Comment:*  Determine the midpoint of the diaphysis on the osteometric board and mark with a pencil. Using sliding calipers to measure with one hand, rotate the bone with the other hand until the maximum diameter is obtained. (Martin and Knussmann 1988:199, #5; Moore-Jansen et al. 1994, #43; Langley et al. 2016:74-75, #48). 
 
-Comment:
-Do not include arthritic lipping which may be present on the perimeter of the
-joint surface. This diameter is not necessarily the maximum head diameter
-(Martin and Knussmann 1988: 200, #10; Moore-Jansen et al. 1994, #42; Langley
-et al. 2016: 74, #47). 
+**Hum_05 Minimum Diameter of the Humerus at Midshaft:**  The minimum diameter of the humeral shaft at midshaft. *Instrument:* sliding caliper.
+* *Comment:*  Determine the midpoint of the diaphysis on the osteometric board and mark with a pencil. Using sliding calipers to measure with one hand, rotate the bone with the other hand until the minimum diameter is obtained. (Martin and Knussmann 1988:199, #6; Moore-Jansen et al. 1994, #44; Langley et al. 2016:75, #49). 
 
-Hum_04 Maximum Diameter of the Humerus at Midshaft: The maximum diameter of the humeral shaft at midshaft. Instrument: sliding caliper.
+**Hum_06 Total Breadth of the Capitulum-Trochlea:**  The breadth of the capitulum and trochlea at the distal humerus. One end of the sliding calipers is positioned parallel to the flat, spool-shaped surface of the trochlea (medial), and the other end is moved until it comes into contact with the capitulum (lateral) (Byrd and Adams 2003, #41A). *Instrument:* sliding caliper.
 
-Comment:
-Determine the midpoint of the diaphysis on the osteometric board and mark with
-a pencil. Using sliding calipers to measure with one hand, rotate the bone with
-the other hand until the maximum diameter is obtained. (Martin and Knussmann
-1988: 199, #5; Moore-Jansen et al. 1994, #43; Langley
-et al. 2016: 74-75, #48). 
+**Hum_07 Anterior-Posterior Breadth of the Head:**  The maximum breadth of the humeral head taken in the anterior-posterior direction on the articular surface.  This measurement is taken perpendicular from the vertical diameter of the humeral head (Byrd and Adams 2003, #42A). *Instrument:* sliding caliper.
 
-Hum_05 Minimum Diameter of the Humerus at Midshaft: The minimum diameter of the humeral shaft at midshaft. Instrument: sliding caliper.
+**Hum_08 Minimum Diameter of the Diaphysis:**  The minimum diameter of the humeral diaphysis taken in any direction perpendicular to the shaft.  This measurement should be taken on the oval part of the shaft, superior to the flattening observed around the olecranon fossa and the lateral supracondylar ridge. Often it is found near midshaft (Byrd and Adams 2003, #44B). *Instrument:* sliding caliper.
 
-Comment:
-Determine the midpoint of the diaphysis on the osteometric board and mark with
-a pencil. Using sliding calipers to measure with one hand, rotate the bone with
-the other hand until the minimum diameter is obtained. (Martin and Knussmann
-1988: 199, #6; Moore-Jansen et al. 1994, #44; Langley
-et al. 2016: 75, #49). 
-
-Hum_06 Total
-Breadth of the Capitulum-Trochlea: The breadth of the capitulum and
-trochlea at the distal humerus.  One end
-of the sliding calipers is positioned parallel to the flat, spool-shaped
-surface of the trochlea (medial), and the other end is moved until it comes
-into contact with the capitulum (lateral) (Byrd and Adams 2003, #41A). Instrument: sliding caliper.
-
- 
-
-Hum_07 Anterior-Posterior
-Breadth of the Head: The maximum breadth of the humeral
-head taken in the anterior-posterior direction on the articular surface.  This measurement is taken perpendicular from
-the vertical diameter of the humeral head (Byrd and Adams 2003, #42A). Instrument: sliding caliper.
-
- 
-
-Hum_08 Minimum
-Diameter of the Diaphysis: The minimum diameter of the humeral
-diaphysis taken in any direction perpendicular to the shaft.  This measurement should be taken on the oval
-part of the shaft, superior to the flattening observed around the olecranon
-fossa and the lateral supracondylar ridge. 
-Often it is found near midshaft (Byrd and Adams 2003, #44B). Instrument: sliding caliper.
-
-Hum_09 Maximum
-Diameter of Diaphysis at the Deltoid Tuberosity: The
-maximum diameter of the diaphysis within the length of the deltoid tuberosity.
-Rotate and slide the element to find the maximum diameter (Byrd and Adams 2015,
-#44D). Instrument: sliding caliper.
+**Hum_09 Maximum Diameter of Diaphysis at the Deltoid Tuberosity:**  The maximum diameter of the diaphysis within the length of the deltoid tuberosity. Rotate and slide the element to find the maximum diameter (Byrd and Adams 2015, #44D). *Instrument:* sliding caliper.
 
 
+## Radius
+**Rad_01 Maximum Length of the Radius:**  The distance from the most proximally positioned point on the head of the radius to the tip of the styloid process without regard to the long axis of the bone. *Instrument:* osteometric board.
+* *Comment:*  Place the proximal end against the vertical upright of the osteometric board and press the movable upright against the distal end. Move the bone up, down and sideways to obtain the maximum length (Martin and Knussmann 1988:201, #1; Hrdlicka 1920:127; Moore-Jansen et al. 1994, #45; Langley et al. 2016:75, #50). 
 
-## RADIUS
+**Rad_02 Maximum Diameter of the Radius at Midshaft:**  The maximum diameter of the radial shaft taken at midshaft. *Instrument:* sliding caliper.
+* *Comment:*  Mark the midshaft of the bone with a pencil. Using sliding calipers to measure with one hand, rotate the bone with the other hand until the minimum diameter is obtained (Langley et al. 2016:75, #51).
 
-Rad_01 Maximum Length of the Radius: The distance from the most proximally positioned point on the
-head of the radius to the tip of the styloid process without regard to the long
-axis of the bone. Instrument:
-osteometric board.
+**Rad_03 Minimum Diameter of the Radius at Midshaft:**  The minimum diameter of the radial shaft taken at midshaft. *Instrument:* sliding caliper.
+* *Comment:*  Mark the midshaft of the bone with a pencil. Using sliding calipers to measure with one hand, rotate the bone with the other hand until the minimum diameter is obtained (Langley et al. 2016:75, #52). 
 
-Comment:
-Place the proximal end against the vertical upright of the osteometric board
-and press the movable upright against the distal end. Move the bone up, down
-and sideways to obtain the maximum length (Martin and Knussmann 1988: 201, #1;
-Hrdlicka 1920: 127; Moore-Jansen et al. 1994, #45; Langley
-et al. 2016: 75, #50). 
+**Rad_04 Maximum Diameter of the Head:**  The maximum diameter of the radial head measured on the margin of the head that articulates with the ulna. The bone is rotated until the maximum distance is obtained (Montagu 1960:68; Langley et al. 2016:75, #53; Byrd and Adams 2003, #47D). *Instrument:* sliding caliper.
 
-Rad_02
-Maximum Diameter of the Radius at Midshaft: The maximum
-diameter of the radial shaft taken at midshaft. Instrument: sliding caliper.
+**Rad_05 Sagittal (Anterior-Posterior) Diameter at Midshaft:**  The distance between anterior and posterior surfaces at midshaft. *Instrument:* sliding caliper.
+* *Comment:*  Determine the midpoint of the diaphysis on the osteometric board and mark with a pencil. Measure sagittal diameter at that point. This measurement is almost always less than the medial-lateral diameter (Moore-Jansen et al. 1994, #46).
 
-Comment: Mark
-the midshaft of the bone with a pencil. Using sliding calipers to measure with
-one hand, rotate the bone with the other hand until the minimum diameter is
-obtained (Langley et al. 2016: 75,
-#51).
+**Rad_06 Transverse (Medial-Lateral) Diameter at Midshaft:**  The distance between medial and lateral surfaces at midshaft. *Instrument:* sliding caliper.
+* *Comment:*  Perpendicular to anterior-posterior diameter (Moore-Jansen et al. 1994, #47).
 
-Rad_03 Minimum Diameter of the Radius at Midshaft: The minimum diameter of the radial shaft taken at midshaft. Instrument: sliding caliper.
+**Rad_07 Maximum Diameter at the Radial Tuberosity:**  The maximum shaft diameter on the radial tuberosity.  Position the calipers around the tuberosity and rotate the bone until the maximum distance is obtained (Byrd and Adams 2003, #47A). *Instrument:* sliding caliper.
 
-Comment:
-Mark the midshaft of the bone with a pencil. Using sliding calipers to measure
-with one hand, rotate the bone with the other hand until the minimum diameter
-is obtained (Langley et al.
-2016: 75, #52). 
+**Rad_08 Maximum Diameter of the Diaphysis Distal to the Radial Tuberosity:**  The maximum shaft diameter distal to the radial tuberosity, positioned along the interosseous crest.  The bone should be rotated to find the maximum distance (Byrd and Adams 2003, #47B). *Instrument:* sliding caliper.
 
-Rad_04
-Maximum Diameter of the Head: The maximum diameter
-of the radial head measured on the margin of the head that articulates with the
-ulna. The bone is rotated until the maximum distance is obtained (Montagu 1960:
-68; Langley et al.
-2016: 75, #53; Byrd and Adams 2003, #47D). Instrument: sliding caliper.
+**Rad_09 Minimum Diameter of the Diaphysis Distal to the Radial Tuberosity:**  The minimum shaft diameter anywhere distal to the radial tuberosity.  The bone may be rotated to find the minimum distance (Byrd and Adams 2003, #47C). *Instrument:* sliding caliper.
 
-Rad_05 Sagittal (Anterior-Posterior) Diameter at Midshaft: The
-distance between anterior and posterior surfaces at midshaft. Instrument: sliding caliper.
-
-Comment: Determine the midpoint of the
-diaphysis on the osteometric board and mark with a pencil. Measure sagittal
-diameter at that point. This measurement is almost always less than the
-medial-lateral diameter (Moore-Jansen et al. 1994, #46).
-
-Rad_06 Transverse
-(Medial-Lateral) Diameter at Midshaft: The distance
-between medial and lateral surfaces at midshaft. Instrument: sliding caliper.
-
-Comment: Perpendicular
-to anterior-posterior diameter (Moore-Jansen et al. 1994, #47).
-
-Rad_07 Maximum
-Diameter at the Radial Tuberosity: The maximum shaft diameter on the
-radial tuberosity.  Position the calipers
-around the tuberosity and rotate the bone until the maximum distance is
-obtained (Byrd and Adams 2003, #47A). Instrument:
-sliding caliper.
-
-Rad_08 Maximum
-Diameter of the Diaphysis Distal to the Radial Tuberosity: The
-maximum shaft diameter distal to the radial tuberosity, positioned along the
-interosseous crest.  The bone should be
-rotated to find the maximum distance (Byrd and Adams 2003, #47B). Instrument: sliding caliper.
-
-Rad_09 Minimum
-Diameter of the Diaphysis Distal to the Radial Tuberosity: The
-minimum shaft diameter anywhere distal to the radial tuberosity.  The bone may be rotated to find the minimum
-distance (Byrd and Adams 2003, #47C). Instrument:
-sliding caliper.
-
-Rad_10 Breadth
-of the Distal Epiphysis: The maximum distance from the ulnar
-notch to the lateral aspect of the styloid process.  The medial protrusions (articular borders of
-the ulnar notch) are placed against the vertical endboard of the osteometric
-board (sliding calipers may also be used) and the movable portion is applied to
-the lateral surface of the styloid process to find the maximum breadth (Byrd
-and Adams 2015, #47E). Instrument:
-sliding caliper.
+**Rad_10 Breadth of the Distal Epiphysis:**  The maximum distance from the ulnar notch to the lateral aspect of the styloid process.  The medial protrusions (articular borders of the ulnar notch) are placed against the vertical endboard of the osteometric board (sliding calipers may also be used) and the movable portion is applied to the lateral surface of the styloid process to find the maximum breadth (Byrd and Adams 2015, #47E). *Instrument:* sliding caliper.
 
 
+## Ulna
+**Uln_01 Maximum Length of the Ulna:**  The distance between the most proximal point on the olecranon and the most distal point on the styloid process. *Instrument:* osteometric board. 
+* *Comment:*  Place the proximal end of the ulna against the vertical end board. Press the movable upright against the distal end while moving the bone up, down and sideways to obtain the maximum length (Hrdlicka 1920:127; Martin and Knussmann 1988:204, #1; Moore-Jansen et al. 1994, #48; Langley et al. 2016:75-76, #54). 
 
-## ULNA
+**Uln_02 Maximum Midshaft Diameter of the Ulna:**  The maximum diameter of the diaphysis at midshaft. *Instrument:* sliding caliper 
+* *Comment:*  Mark the midshaft of the bone with a pencil. Using sliding calipers to measure with one hand, rotate the bone with the other hand until the maximum diameter is obtained (Langley et al. 2016:76, #55). 
 
- Uln_01 Maximum Length of the Ulna: The distance between the most proximal point on the olecranon
-and the most distal point on the styloid process. Instrument: osteometric board. 
+**Uln_03 Minimum Midshaft Diameter of the Ulna:**  The minimum diameter of the diaphysis at midshaft. *Instrument:* sliding caliper.
+* *Comment:*  Mark the midshaft of the bone with a pencil. Using sliding calipers to measure with one hand, rotate the bone with the other hand until the minimum diameter is obtained (Langley et al. 2016:76, #56). 
 
-Comment: Place the proximal end of the ulna against the vertical
-end board. Press the movable upright against the distal end while moving the
-bone up, down and sideways to obtain the maximum length (Hrdlicka 1920; 127;
-Martin and Knussmann 1988: 204, #1; Moore-Jansen et al. 1994, #48; Langley
-et al. 2016: 75-76, #54). 
-
-Uln_02 Maximum Midshaft Diameter of the Ulna: The maximum diameter of the diaphysis at midshaft. Instrument: sliding caliper 
+**Uln_04 Dorso-Volar (Anterior-Posterior) Diameter:**  The maximum diameter of the diaphysis where the crest exhibits the greatest development in the anterior-posterior (dorso-volar) plane (Moore-Jansen et al. 1994, #49). *Instrument:* sliding caliper.
  
-Comment:
-Mark the midshaft of the bone with a pencil. Using sliding calipers to measure
-with one hand, rotate the bone with the other hand until the maximum
-diameter is obtained (Langley et al. 2016: 76, #55). 
-
-Uln_03 Minimum Midshaft Diameter of the Ulna: The minimum diameter of the diaphysis at midshaft. Instrument: sliding caliper.
-
-Comment:
-Mark the midshaft of the bone with a pencil. Using sliding calipers to measure
-with one hand, rotate the bone with the other hand until the minimum diameter
-is obtained (Langley et al. 2016:
-76, #56). 
-
-Uln_04 Dorso-Volar
-(Anterior-Posterior) Diameter: The maximum diameter of the
-diaphysis where the crest exhibits the greatest development in the
-anterior-posterior (dorso-volar) plane (Moore-Jansen
-et al. 1994, #49). Instrument: sliding caliper.
- 
-Uln_05 Transverse
-(Medial-Lateral) Diameter: The distance between medial and
-lateral surfaces at the level of greatest crest development. Instrument: sliding caliper. 
-
-
-Comment: Taken
-perpendicular to anterior-posterior diameter (Moore-Jansen
-et al. 1994, #50).
-
-Uln_06 Physiological Length of the Ulna: The distance between the deepest point on the articular surfaceof the coronoid process on the guiding ridge and the most inferior point on the
-distal articular surface of the ulna. Instrument:
-spreading caliper.
-
-Comment:
-Do not include the styloid process or the groove between the styloid process
-and the distal articular surface (Martin and Knussmann 1988: 204, #2; Moore-Jansen et al. 1994,
-#51). 
-
-Uln_07 Minimum Circumference of the Ulna: The least circumference near the distal end of the bone (Martin
-and Knussmann 1988: 204, #3; Moore-Jansen et al. 1994, #52; Langley
-et al. 2016: 76, #58). Instrument: tape.
-
-Uln_08 Olecranon Breadth: The
-maximum breadth of the olecranon process, taken perpendicular to the
-longitudinal axis of
-the semilunar notch (Martin and Knussmann 1988: 206, #6; Langley
-et al. 2016: 76, #59). Instrument:
-sliding caliper.
-
-Uln_09 Minimum
-Diameter of the Diaphysis including Interosseous Crest: Locate
-the minimum diameter of the diaphysis along the portion of the bone that
-includes the interosseous crest.  This
-measurement may not necessarily include the interosseous crest, but should be
-taken on that part of the shaft that exhibits the crest.  This measurement is not always near the
-distal end of the crest (Byrd and Adams 2003, #51A). Instrument: sliding caliper.
-
-Uln_10 Minimum
-Diameter of the Diaphysis: This measurement will be found near
-the distal epiphysis of the ulna.  The bone
-should be rotated in order to locate the minimum distance (Byrd and Adams 2003,
-#51B). Instrument: sliding caliper.
-
-Uln_11 Breadth
-of the Semilunar Notch: This is a measure of only the distal
-surface of the semilunar notch (the base). Instrument:
-sliding caliper.
-
-Comment: In order to obtain the distance, one end of the
-calipers is positioned within the radial notch (approximate midpoint), roughly
-parallel to the shaft.  The other end of
-the calipers is applied to the medial edge of the semilunar notch to obtain the
-maximum distance. Calipers can be angled (Byrd and Adams 2003, #51C).
-
-Uln_12 Physiological Length (2016): The distance between the deepest point on the articular surface of the coronoid
-process on the guiding ridge and the most inferior point on the distal articular surface of the ulna (Figure 3.17).
-Instrument: spreading caliper
-Comment: Do not include the styloid process or the groove
-between the styloid process and the distal articular surface
-(Martin and Knussmann 1988: 204, #2; Langley et al.
-2016: 76, #57). 
-
-## HANDS
+**Uln_05 Transverse (Medial-Lateral) Diameter:**  The distance between medial and lateral surfaces at the level of greatest crest development. *Instrument:* sliding caliper. 
+* *Comment:*  Taken perpendicular to anterior-posterior diameter (Moore-Jansen et al. 1994, #50).
 
-MC1_01 Maximum
-Length of the 1st Metacarpal: This is the
-maximum length of the bone.  Instrument: sliding calipers.  
+**Uln_06 Physiological Length of the Ulna:**  The distance between the deepest point on the articular surfaceof the coronoid process on the guiding ridge and the most inferior point on the distal articular surface of the ulna. *Instrument:* spreading caliper.
+* *Comment:*  Do not include the styloid process or the groove between the styloid process and the distal articular surface (Martin and Knussmann 1988:204, #2; Moore-Jansen et al. 1994, #51). 
 
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5A).
+**Uln_07 Minimum Circumference of the Ulna:**  The least circumference near the distal end of the bone (Martin and Knussmann 1988:204, #3; Moore-Jansen et al. 1994, #52; Langley et al. 2016:76, #58). Instrument: tape.
 
-MC2_01 Maximum
-Length of the 2nd Metacarpal: This is the
-maximum length of the bone.  Instrument: sliding calipers.  
+**Uln_08 Olecranon Breadth:**  The maximum breadth of the olecranon process, taken perpendicular to the longitudinal axis of the semilunar notch (Martin and Knussmann 1988:206, #6; Langley et al. 2016:76, #59). *Instrument:* sliding caliper.
 
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5B).
+**Uln_09 Minimum Diameter of the Diaphysis including Interosseous Crest:**  Locate the minimum diameter of the diaphysis along the portion of the bone that includes the interosseous crest. This measurement may not necessarily include the interosseous crest, but should be taken on that part of the shaft that exhibits the crest. This measurement is not always near the distal end of the crest (Byrd and Adams 2003, #51A). *Instrument:* sliding caliper.
 
-MC3_01 Maximum
-Length of the 3rd Metacarpal: This is the
-maximum length of the bone.  Instrument: sliding calipers.  
+**Uln_10 Minimum Diameter of the Diaphysis:**  This measurement will be found near the distal epiphysis of the ulna. The bone should be rotated in order to locate the minimum distance (Byrd and Adams 2003, #51B). *Instrument:* sliding caliper.
 
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5C).
+**Uln_11 Breadth of the Semilunar Notch:**  This is a measure of only the distal surface of the semilunar notch (the base). *Instrument:* sliding caliper.
+* *Comment:*  In order to obtain the distance, one end of the calipers is positioned within the radial notch (approximate midpoint), roughly parallel to the shaft. The other end of the calipers is applied to the medial edge of the semilunar notch to obtain the maximum distance. Calipers can be angled (Byrd and Adams 2003, #51C).
 
-MC4_01 Maximum
-Length of the 4th Metacarpal: This is the
-maximum length of the bone.  Instrument: sliding calipers.  
+**Uln_12 Physiological Length (2016):**  The distance between the deepest point on the articular surface of the coronoid process on the guiding ridge and the most inferior point on the distal articular surface of the ulna. *Instrument:* spreading caliper.
+* *Comment:*  Do not include the styloid process or the groove between the styloid process and the distal articular surface (Langley et al. 2016:76, #57). *This is an update to the **Physiological Length** measurement definition in Moore-Jansen et al.'s 1994 publication (measurement #51).*
 
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5D).
 
-MC5_01 Maximum
-Length of the 5th Metacarpal: This is the
-maximum length of the bone.  Instrument: sliding calipers.  
+## Hands
+**MC1_01 Maximum Length of the 1st Metacarpal:**  This is the maximum length of the bone. *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5A).
 
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5E).
+**MC2_01 Maximum Length of the 2nd Metacarpal:**  This is the maximum length of the bone. *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5B).
 
-Scp_01 Maximum
-Length of the Scaphoid: This is the maximum length of the
-bone.  Instrument: sliding calipers. 
+**MC3_01 Maximum Length of the 3rd Metacarpal:**  This is the maximum length of the bone.  *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5C).
 
+**MC4_01 Maximum Length of the 4th Metacarpal:**  This is the maximum length of the bone.  *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5D).
 
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5F).
+**MC5_01 Maximum Length of the 5th Metacarpal:** This is the maximum length of the bone.  *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5E).
 
-Lun_01 Maximum
-Length of the Lunate: This is the maximum length of the
-bone.  Instrument: sliding calipers. 
+**Scp_01 Maximum Length of the Scaphoid:**  This is the maximum length of the bone.  *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5F).
 
+**Lun_01 Maximum Length of the Lunate:**  This is the maximum length of the bone.  *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5G).
 
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5G).
+**Tri_01 Maximum Length of the Triquetral:**  This is the maximum length of the bone.  *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5H).
 
-Tri_01 Maximum
-Length of the Triquetral: This is the maximum length of the
-bone.  Instrument: sliding calipers. 
+**Pis_01 Maximum Length of the Pisiform:** This is the maximum length of the bone.  *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5I).
 
+**Tzm_01 Maximum Length of the Trapezium:** This is the maximum length of the bone.  *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5J).
 
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5H).
+**Tzd_01 Maximum Length of the Trapezoid:** This is the maximum length of the bone.  *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5K).
 
-Pis_01 Maximum
-Length of the Pisiform: This is the maximum length of the
-bone.  Instrument: sliding calipers. 
+**Cap_01 Maximum Length of the Capitate:** This is the maximum length of the bone.  *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5L).
 
+**Ham_01 Maximum Length of the Hamate:** This is the maximum length of the bone.  *Instrument:* sliding calipers.  
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5M).
 
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5I).
 
-Tzm_01 Maximum
-Length of the Trapezium: This is the maximum length of the
-bone.  Instrument: sliding calipers. 
+## Sacrum
 
+**Sac_01 Anterior Height of the Sacrum:**  The distance from the point on the promontory in the mid-sagittal plane to the corresponding point on the anterior border of the distal tip of the sacrum. *Instrument:* sliding caliper.
+* *Comment:*  Place the pointed tips of the caliper on the promontory and the anterior inferior border of the fifth sacral vertebra. The measurement is taken in the mid- sagittal plane. If a sacrum exhibits more than five segments, measure to the bottom segment and indicate the number of segments on the recording form. If the coccyx is fused to the sacrum do not include in the measurement. (Martin and Knussmann 1988:195, #2; Moore-Jansen et al. 1994, #53; Langley et al. 2016:76, #60). 
 
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5J).
+**Sac_02 Anterior Breadth of the Sacrum:**  The maximum transverse breadth of the sacrum at most anterior projection of the auricular surfaces (Martin and Knussmann 1988:195, #5; Moore-Jansen et al. 1994, #54; Langley et al. 2016:76, #61). *Instrument:* sliding caliper.
 
-Tzd_01 Maximum
-Length of the Trapezoid: This is the maximum length of the
-bone.  Instrument: sliding calipers. 
+**Sac_03 Transverse Diameter of Sacral Segment 1:**  The distance between the two most lateral points on the superior articular surface measured perpendicular to the mid-sagittal plane (Martin and Knussmann 1988:195, #19). *Instrument:* sliding caliper.
+* *Comment:*  The measurement should be taken on the superior articular surface of S1. When lipping of the articular surface is present approximate the original articular borders. This measurement is perpendicular to the AP Diameter of S1 (Moore-Jansen et al. 1994, #55; Langley et al. 2016:77, #62).
 
+**Sac_04 Anterior-Posterior Diameter of Sacral Segment 1:**  The distance between the anterior and posterior borders of the superior articular surface of S1, taken in the mid-sagittal plane (Martin and Knussmann 1988:195, #18). *Instrument:* sliding caliper.
+* *Comment:*  The measurement should be taken on the superior articular surface of S1. When lipping of the articular surface is present approximate the original articular borders. This measurement is perpendicular to the Transverse Diameter of S1 (Langley et al. 2016:77, #63). 
 
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5K).
+**Sac_05 Maximum Breadth with the Osteometric Board:**  Position the sacrum on the osteometric board and find the maximum breadth of the alae (Byrd and Adams 2015, #55J). *Instrument:* osteometric board.
 
-Cap_01 Maximum
-Length of the Capitate: This is the maximum length of the
-bone.  Instrument: sliding calipers. 
 
-
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5L).
-
-Ham_01 Maximum
-Length of the Hamate: This is the maximum length of the
-bone.  Instrument: sliding calipers. 
-
-
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance (Byrd
-and Adams 2015, #52.5M).
-
-
-
-## SACRUM
-
-Sac_01 Anterior Height of the Sacrum: The distance from the point on the promontory in the
-mid-sagittal plane to the corresponding point on the anterior border of the
-distal tip of the sacrum. Instrument:
-sliding caliper.
-
-Comment:
-Place the pointed tips of the caliper on the promontory and the anterior
-inferior border of the fifth sacral vertebra. The measurement is taken in the
-mid- sagittal plane. If a sacrum exhibits more than five segments, measure to
-the bottom segment and indicate the number of segments on the recording form.
-If the coccyx is fused to the sacrum do not include in the measurement. (Martin
-and Knussmann 1988: 195, #2; Moore-Jansen et al. 1994, #53; Langley
-et al. 2016: 76, #60). 
-
-Sac_02 Anterior Breadth of the Sacrum: The maximum transverse breadth of the sacrum at most anterior
-projection of the auricular surfaces (Martin and Knussmann 1988: 195, #5; Moore-Jansen et al. 1994,
-#54; Langley et al.
-2016: 76, #61). Instrument:
-sliding caliper.
-
-Sac_03 Transverse Diameter of Sacral Segment 1: The distance between the two most lateral points on the superior
-articular surface measured perpendicular to the mid-sagittal plane (Martin and
-Knussmann 1988: 195, #19). Instrument:
-sliding caliper.
-
-Comment:
-The measurement should be taken on the superior articular surface of S1. When
-lipping of the articular surface is present approximate the original articular
-borders. This measurement is perpendicular to the AP Diameter of S1 (Moore-Jansen et al. 1994,
-#55; Langley et al.
-2016: 77, #62).
-
-Sac_04 Anterior-Posterior Diameter of Sacral
-Segment 1: The distance between
-the anterior and posterior borders of the superior articular surface of S1,
-taken in the mid-sagittal plane. (Martin and Knussmann 1988: 195, #18). Instrument: sliding caliper.
-
-Comment:
-The measurement should be taken on the superior articular surface of S1. When
-lipping of the articular surface is present approximate the original articular
-borders. This measurement is perpendicular to the Transverse Diameter of S1 (Langley
-et al. 2016: 77, #63). 
-
-Sac_05
-Maximum Breadth with the Osteometric Board: Position
-the sacrum on the osteometric board and find the maximum breadth of the alae
-(Byrd and Adams 2015, #55J). Instrument: osteometric
-board.
-
-
-
-## OS COXA
-
+## Os coxa
 Osc_01 Maximum Innominate Height: The distance from the most superior point on the iliac crest to
 the most inferior point on the ischial tuberosity (Martin and Knussmann 1988:
 213, #1). Instrument: osteometric
