@@ -1,6 +1,7 @@
 # CRANIAL MEASUREMENTS
 Interlandmark distances of the cranium and mandible for skeletal biology.
 
+
 ## Cranium
 **Cra_01 Maximum Cranial Length (g-op, GOL):**  The straight-line distance from glabella (g) to opisthocranion (op) in the midsagittal plane. *Instrument:* spreading caliper.
 * *Comment:*  Set the skull on its base. Place one caliper point in the glabellar region in the midline and hold with fingers while the other caliper point is applied to the posterior portion of the skull in the midsagittal plane and moved up and down until the maximum length is obtained. On finding this, move the left point up and down slightly to make sure the reading is maximum (Howells 1973: 170; Martin and Knussmann 1988:168, #1; Moore-Jansen et al. 1994, #1; Langley et al. 2016:65, #1).
@@ -84,6 +85,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 **Cra_28 Zygoorbitale Breadth (zo-zo, ZOB):**  The distance between right and left zygoorbitale (zo) (Langley et al. 2016: 70, #28). *Instrument:* sliding caliper.
 
 
+
 ## Mandible
 **Man_01 Chin Height (id-gn):**  The distance from infradentale (id) to gnathion (gn). *Instrument:* sliding caliper.
 * *Comments:*  When the mandibular alveolar process is damaged between the central incisors, estimates of this measurement are recorded by using the intact alveolar process at the position of the lateral incisors. Any estimate or adjustment should be indicated on the recording form. In mandibles where the alveolar process exhibit pronounced erosion or resorption, this measurement is not taken (Martin and Knussmann 1988:183, #69; Moore-Jansen et al. 1994, #25; Langley et al. 2016:71, #29). 
@@ -111,6 +113,7 @@ sliding caliper.
 
 **Man_10 Mandibular Angle:**  The angle formed by inferior border of the corpus and the posterior border of the ramus. *Instrument:* mandibulometer.
 * *Comment:*  In case of “rocker jaws”, the bone is held in place by pressing down on the second molars (Martin and Knussmann 1988:185, #79; Moore-Jansen et al. 1994, #34; Langley et al. 2016:72, #37). 
+
 
 
 
