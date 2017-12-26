@@ -114,8 +114,10 @@ sliding caliper.
 
 
 
+
 # POSTCRANIAL MEASUREMENTS
 Postcranial interlandmark distances for skeletal biology.
+
 
 ## Clavicle
 **Cla_01 Maximum Length of the Clavicle:**  The maximum distance between the most extreme ends of the clavicle. *Instrument:* osteometric board. 
@@ -140,6 +142,7 @@ Postcranial interlandmark distances for skeletal biology.
 **Cla_08 Maximum Thickness at the Inflexion Point at the Distal End:**  The maximum thickness in the same vertical plane as the previous measurement (take perpendicular to breadth at the inflection point measurement) (Byrd and Adams 2015, #37C). *Instrument:* sliding caliper.
 
 **Cla_09 Maximum Anterior-Posterior Width at the Proximal End:**  The maximum anterior-posterior width of the proximal end (be sure to hold in anatomical position) (Byrd and Adams 2015, #37D). *Instrument:* sliding caliper.
+
 
 
 ## Scapula
