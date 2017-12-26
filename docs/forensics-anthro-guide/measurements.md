@@ -85,7 +85,6 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 **Cra_28 Zygoorbitale Breadth (zo-zo, ZOB):**  The distance between right and left zygoorbitale (zo) (Langley et al. 2016: 70, #28). *Instrument:* sliding caliper.
 
 
-
 ## Mandible
 **Man_01 Chin Height (id-gn):**  The distance from infradentale (id) to gnathion (gn). *Instrument:* sliding caliper.
 * *Comments:*  When the mandibular alveolar process is damaged between the central incisors, estimates of this measurement are recorded by using the intact alveolar process at the position of the lateral incisors. Any estimate or adjustment should be indicated on the recording form. In mandibles where the alveolar process exhibit pronounced erosion or resorption, this measurement is not taken (Martin and Knussmann 1988:183, #69; Moore-Jansen et al. 1994, #25; Langley et al. 2016:71, #29). 
@@ -145,7 +144,6 @@ Postcranial interlandmark distances for skeletal biology.
 **Cla_08 Maximum Thickness at the Inflexion Point at the Distal End:**  The maximum thickness in the same vertical plane as the previous measurement (take perpendicular to breadth at the inflection point measurement) (Byrd and Adams 2015, #37C). *Instrument:* sliding caliper.
 
 **Cla_09 Maximum Anterior-Posterior Width at the Proximal End:**  The maximum anterior-posterior width of the proximal end (be sure to hold in anatomical position) (Byrd and Adams 2015, #37D). *Instrument:* sliding caliper.
-
 
 
 ## Scapula
@@ -288,7 +286,6 @@ Postcranial interlandmark distances for skeletal biology.
 
 
 ## Sacrum
-
 **Sac_01 Anterior Height of the Sacrum:**  The distance from the point on the promontory in the mid-sagittal plane to the corresponding point on the anterior border of the distal tip of the sacrum. *Instrument:* sliding caliper.
 * *Comment:*  Place the pointed tips of the caliper on the promontory and the anterior inferior border of the fifth sacral vertebra. The measurement is taken in the mid- sagittal plane. If a sacrum exhibits more than five segments, measure to the bottom segment and indicate the number of segments on the recording form. If the coccyx is fused to the sacrum do not include in the measurement. (Martin and Knussmann 1988:195, #2; Moore-Jansen et al. 1994, #53; Langley et al. 2016:76, #60). 
 
@@ -304,336 +301,108 @@ Postcranial interlandmark distances for skeletal biology.
 
 
 ## Os coxa
-Osc_01 Maximum Innominate Height: The distance from the most superior point on the iliac crest to
-the most inferior point on the ischial tuberosity (Martin and Knussmann 1988:
-213, #1). Instrument: osteometric
-board or spreading caliper.
-
-Comment:
-When using an osteometric board, place the ischium against the vertical end
-board and press the movable upright against the iliac crest. Move the ilium
-sideways and up and down to obtain the maximum distance (Hrdlicka 1920: 135; Moore-Jansen et al. 1994,
-#56; Langley et al.
-2016: 77, #64). 
-
-Osc_02 Maximum Iliac Breadth: The distance from the anterior superior iliac spine to the
-posterior superior iliac spine (Martin and Knussmann 1988: 213, #2; Moore-Jansen et al. 1994,
-#57; Langley et al.
-2016: 77, #65). Instrument:
-spreading caliper.
-
-Osc_03 Pubis
-Length: The distance from the point in the acetabulum where the
-three elements of the os coxae meet to the upper end of the pubic symphysis. Instrument: sliding caliper.
-
-Comment: The
-measuring point in the acetabulum may be identified in the adult by (1) an
-irregularity which is frequently visible, both on the acetabular and pelvic
-surfaces; (2) a change in thickness which may be seen by holding the bone up to
-a light; (3) a notch often present in the border of the articular surface in the
-acetabulum. In measuring the pubis, care should be taken to hold the caliper
-parallel to the long axis of the bone (Moore-Jansen
-et al. 1994, #58).
-
-Osc_04 Ischium
-Length: The measuring point in the acetabulum is defined under Pubis Length. The distance from the
-point in the acetabulum where the three elements meet to the deepest point on
-the ischial tuberosity. Instrument: sliding
-caliper.
-
-Comment: Ischium
-length should be measured approximately perpendicular to pubis length (Moore-Jansen et al.
-1994, #59).
-
-Osc_05
-Minimum Iliac Breadth (WIB): The minimum distance measured from the
-area below the anterior inferior iliac spine to the most inward curvature of
-the greater sciatic notch (Langley et
-al. 2016: 77, #66; Byrd and Adams 2015, #59D). Instrument: sliding caliper.
-
-Osc_06 Maximum Pubis Length (XPL): The
-distance between symphysion (the most superior point on the symphyseal face) to
-the farthest point on the acetabular rim. Instrument:
-spreading caliper.
-
-Comment: The
-measurement is taken to the rim itself (not inside or outside the rim) (Langley
-et al. 2016: 77, #67).
-
-Osc_07 Minimum Pubis Length (WPL): The
-distance between symphysion (the most superior point on the symphyseal face) to
-the closest point on the acetabular rim. Instrument:
-spreading caliper.
-
-Comment: The
-measurement is taken to the rim itself (not inside or outside the rim) (Langley
-et al. 2016: 77, #68).
-
-Osc_08 Ischial Length (ISL): The
-distance from the point on the acetabular rim where the iliac blade meets the
-acetabulum to the most medial point on the epiphysis of the ischial tuberosity.
-Instrument: sliding caliper.
-
-Comment: If
-the borders of the epiphysis cannot be determined, do not take this measurement
-(Langley et al.
-2016: 77, #69).
-
-Osc_09 Minimum Ischial Length (WISL): The
-distance from the most medial point on the epiphysis of the ischial tuberosity
-to the closest point on the acetabular rim. Instrument:
-sliding caliper.
-
-Comment: If
-the borders of the epiphysis cannot be determined, do not take this measurement
-(Langley et al.
-2016: 78, #70).
-
-Osc_10 Maximum Ischiopubic Ramus Length (XIRL): The
-distance from the most inferior point on the symphyseal face to the most
-distant point on the ischial tuberosity (Langley et al. 2016: 78, #71). Instrument: sliding caliper.
-
-Osc_11 Anterior Superior Iliac Spine to Symphysion (ASISS): The
-measurement from the apex of the anterior superior iliac spine (most projecting
-area or point) to symphysion (Langley et al. 2016: 78, #72). Instrument: sliding caliper.
-
-Osc_12 Maximum Posterior Superior Iliac Spine to Symphysion (PSISS): The maximum
-measurement from the posterior border of the posterior superior iliac spine to
-symphysion (Langley et al.
-2016: 78, #73). Instrument:
-sliding caliper.
-
-Osc_13 Maximum Apical Border to Symphysion (WAS): The
-minimum measurement from symphysion to the apex (anterior border) of the
-auricular surface (Langley et al.
-2016: 78, #74). Instrument:
-sliding caliper.
-
-Osc_14 Thickness
-of the Ilium at the Sciatic Notch: Position one end of the calipers
-along the arcuate line, adjacent to the apex of the auricular surface.  Slide the opposing end of the calipers to the
-posterior surface of the ilium to obtain the measurement (Byrd 2008, #59A). Instrument: sliding caliper.
-
-Osc_15 Maximum
-Breadth of the Ischium: Position one end of the calipers in
-the obturator foramen and place the other end on the ischial tuberosity. Move
-the calipers around to find the maximum distance (Byrd and Adams 2015, #59B). Instrument: sliding caliper.
-
-Osc_16 Minimum
-Breadth of the Pubis: Position the calipers along the
-iliopubic ramus; rotate and slide the calipers to find the minimum distance.
-Use the pointed edges of the calipers instead of the flat so as not to obstruct
-the measurement (Byrd and Adams 2015, #59C). Instrument: sliding caliper.
-
-Osc_17
-Maximum Diameter of the Acetabulum: The
-maximum distance of the acetabulum taken at any two points along the articular
-border of the lunate surface (look at the acetabulum from the side and take the
-measurement at the peaks of the ridges). 
-This distance is commonly found in line with the iliac crest and the
-ischial tuberosity (Byrd 2008, #59E). Instrument:
-sliding caliper.
-
-
-
-## FEMUR
-
-Fem_01 Maximum Length of the Femur: The distance from the most proximal point on the head of the
-femur to the most distal point on the medial or lateral femoral condyle (Martin
-and Knussmann 1988: 216, #1). Instrument:
-osteometric board.
-
-Comment:
-Place the femur parallel to the long axis of the osteometric board and resting
-on its posterior surface. Press the medial or lateral condyle against the
-vertical end board while applying the movable upright to the femoral head. Move
-the bone up, down, and sideways until the maximum length is obtained (Hrdlicka
-1920: 128; Moore-Jansen et al. 1994, #60; Langley et al. 2016: 78, #75). 
-
-Fem_02 Bicondylar Length of the Femur: The distance from the most proximal point on the head of the
-femur to a plane drawn between the inferior surfaces of the distal condyles
-. Instrument: osteometric board. 
-
-Comment:
-Place the femur on the osteometric board so that the bone is resting on its
-posterior surface. Press both distal condyles against the vertical end board
-while applying the movable upright to the head of the femur (Hrdlicka 1920:
-128; Martin and Knussmann 1988: 216, #2; Moore-Jansen et al. 1994, #61; Langley
-et al. 2016: 78, #76). 
-
-Fem_03 Epicondylar Breadth of the Femur: The distance between the two most projecting points on the epicondyles.
-Instrument: osteometric board. 
-
-Comment:
-Place the femur on the osteometric board so
-that it is resting on its posterior
-surface. Press one of the epicondyles against the vertical end board while
-applying the movable upright to the other condyle. (Martin and Knussmann 1988:
-218, #21; Moore-Jansen et al. 1994, #63; Langley et al. 2016: 79, #77). 
-
-Fem_04 Maximum Diameter of the Femur Head: The maximum diameter of the femur head measured on the border of
-the articular surface. Instrument:
-sliding caliper.
-
-Comment:
-Rotate the arms of the caliper around the femur head to find the maximum
-diameter. (Dwight 1905: 21; Montagu 1960: 70; Moore-Jansen et al.
-1994, #63; Langley et al.
-2016: 79, #78).
-
-Fem_05 Medial-Lateral (Transverse) Subtrochanteric Diameter
-of the Femur: The transverse
-diameter of the proximal portion of the diaphysis at the point of its greatest
-lateral expansion. Instrument:
-sliding caliper.
-
-Comment:
-The transverse diameter is oriented parallel to the anterior surface of the
-femur neck. Close attention should be paid to assessing this plane in femoral
-necks with a significant degree of torsion. In cases where this cannot be
-determined (e.g. where the lateral surfaces remain parallel) this measurement
-is recorded in the region 2-5 cm below the lesser trochanter (Martin and
-Knussman 1988: 217 #9; Moore-Jansen et al. 1994, #65; Langley
-et al. 2016: 79-80, #79). 
-
-Fem_06 Anterior-Posterior (Sagittal) Subtrochanteric
-Diameter of the Femur: The anterior-posterior
-diameter of the proximal end of
-the diaphysis measured perpendicular to the
-transverse diameter at the point of the greatest lateral expansion (See
-definition Fem_05 for approximate
-location on the femoral shaft for this measurement). This diameter is oriented
-perpendicular to the anterior surface of the femur neck (Martin and Knussman
-1988: 217, #10; Moore-Jansen et al. 1994, #64; Langley
-et al. 2016: 80, #80). Instrument:
-sliding caliper.
-
-Fem_07 Anterior-Posterior
-(Sagittal) Midshaft Diameter: The distance between anterior and
-posterior surfaces measured approximately at the midpoint of the diaphysis, at
-the highest elevation of linea aspera. Instrument:
-sliding caliper.
-
-Comment: The
-sagittal diameter should be measured perpendicular to the anterior bone surface
-(Moore-Jansen et
-al. 1994, #66).
-
-Fem_08 Medial-Lateral
-(Transverse) Midshaft Diameter: The distance between the medial and
-lateral surfaces at midshaft, measured perpendicular to the anterior-posterior
-diameter (Moore-Jansen et al. 1994, #67). Instrument:
-sliding caliper.
-
-Fem_09 Maximum Midshaft Diameter of the Femur: The maximum diameter of the femoral shaft taken at midshaft. Instrument: sliding caliper.
-
-Comment:
-Mark the midshaft of the bone with a pencil. Using sliding calipers to measure
-with one hand, rotate the bone with the other hand until the maximum diameter
-is obtained (Langley et al. 2016: 80, #81). 
-
-Fem_10 Minimum Midshaft Diameter of the Femur: The minimum diameter of the femoral shaft taken at midshaft. Instrument: sliding caliper.
-
-Comment:
-Mark the midshaft of the bone with a pencil. Using sliding calipers to measure
-with one hand, rotate the bone with the other hand until the minimum diameter
-is obtained (Langley et al. 2016: 80, #82).
-
-Fem_11 Circumference of the Femur at Midshaft: The circumference measured at the midshaft. Instrument: tape.
-
-Comment:
-If the linea aspera is unusually hypertrophied at midshaft, this measurement
-should be recorded approximately 10 mm above the midshaft (Martin and Knussmann
-1988: 217, #8; Moore-Jansen et al. 1994, #68; Langley
-et al. 2016: 80, #83). 
-
-Fem_12 Maximum Anterio-posterior Length of the Lateral
-Condyle: The distance between
-the most anterior and posterior points on the articular surface of the lateral
-condyle (Martin and Knussman 1988: 219, #23). Instrument: sliding caliper.
-
-Comment:
-Holding the femur with the distal end up, orient the measuring arms of the
-caliper with the long axis of the bone to obtain this measurement (Langley
-et al. 2016: 80, #84). 
-
-Fem_13 Maximum Anterio-posterior Length of the Medial
-Condyle: The distance between
-the most anterior and posterior points on the articular surface of the medial
-condyle (Martin and Knussman 1988: 219, #24). Instrument: sliding caliper.
-
-Comment:
-Holding the femur with the distal end up, orient the measuring arms of the caliper
-with the long axis of the bone to obtain this measurement (Langley
-et al. 2016: 80-81, #85). 
-
-Fem_14 Minimum
-Anterior-Posterior Diameter of the Diaphysis: The
-minimum anterior-posterior diameter anywhere along the diaphysis.  The linea aspera and condyles should be
-utilized in order to orient the bone in anatomical position (use the condyles
-to orient) (Byrd and Adams 2003, #68A). Instrument:
-sliding caliper.
-
-Fem_15 Minimum
-Medial-Lateral Diameter of the Diaphysis: The minimum
-medial-lateral diameter anywhere along the diaphysis.  The linea aspera and condyles should be
-utilized in order to orient the bone (should be taken in a perpendicular
-orientation to 68A) (Byrd and Adams 2003, #68B). Instrument: sliding caliper.
-
-Fem_16 Minimum
-Superior-Inferior Neck Diameter: The minimum distance from the
-superior surface to the inferior surface on the femoral neck (Seidemann et al. 1998). Place caliper in the
-saddle of the neck (superior) and close inferior caliper arm, moving as
-necessary to find the minimum (Byrd and Adams 2015, #68D). Instrument: sliding caliper.
-
-Fem_17 Maximum
-Diameter along the Linea Aspera: The maximum shaft diameter at any
-point along the linea aspera.  As the
-bone should be rotated to obtain the maximum distance, the measurement does not
-necessarily have to include the linea aspera, though it likely will (Byrd and
-Adams 2003, #68E). Instrument:
-sliding caliper.
-
-Fem_18 Upper
-Breadth of Femur (VHA): The distance from the apex of the
-head of the femur to the lateral side of the femur diaphysis, measured in line
-with the neck of the femur such that the line of measurement bisects the
-neck.  Using sliding calipers, place the
-fixed jaw on the most prominent point on the femur head.  Place the movable jaw on the lateral margin
-of the femur diaphysis so that the line formed between the two points splits
-the neck into two equal portions (Simmons et
-al. 1990). Instrument: sliding caliper.
-
-Fem_19
-Lateral Condyle Height (LCH): On
-the lateral condyle of the distal femur, it is the distance from the most
-superior point on the condyle to the most inferior point.  Holding the femur in anatomical position with
-the distal condyles facing the observer, place the fixed jaw of the sliding
-caliper on the top of the condyle and place the movable jaw on the most
-inferior point on the condyle.  The femur
-should be held so that it is possible to accurately judge the location of the
-most inferior point (Simmons et al. 1990).
-Instrument: sliding caliper.
-
-
-
-## PATELLA
-
-Pat_01
-Maximum Length of the Patella: Find the maximum length (superior to
-inferior) of the patella (Byrd and Adams 2015, #74.5A). Instrument: sliding calipers.
-
-Pat_02
-Maximum Breadth: Find the maximum breadth (medial to
-lateral) of the patella (Byrd and Adams 2015, #74.5B). Instrument: sliding calipers.
-
-Pat_03
-Maximum Thickness: Find the maximum thickness (anterior
-to posterior) of the patella (Byrd and Adams 2015, #74.5C). Instrument: sliding calipers.
-
-
-
-## TIBIA
+**Osc_01 Maximum Innominate Height:**  The distance from the most superior point on the iliac crest to the most inferior point on the ischial tuberosity (Martin and Knussmann 1988:213, #1). *Instrument:* osteometric board or spreading caliper.
+* *Comment:*  When using an osteometric board, place the ischium against the vertical end board and press the movable upright against the iliac crest. Move the ilium sideways and up and down to obtain the maximum distance (Hrdlicka 1920:135; Moore-Jansen et al. 1994, #56; Langley et al. 2016:77, #64). 
+
+**Osc_02 Maximum Iliac Breadth:**  The distance from the anterior superior iliac spine to the posterior superior iliac spine (Martin and Knussmann 1988:213, #2; Moore-Jansen et al. 1994, #57; Langley et al. 2016:77, #65). *Instrument:* spreading caliper.
+
+**Osc_03 Pubis Length:**  The distance from the point in the acetabulum where the three elements of the os coxae meet to the upper end of the pubic symphysis. *Instrument:* sliding caliper.
+* *Comment:*  The measuring point in the acetabulum may be identified in the adult by (1) an irregularity which is frequently visible, both on the acetabular and pelvic surfaces; (2) a change in thickness which may be seen by holding the bone up to a light; (3) a notch often present in the border of the articular surface in the acetabulum. In measuring the pubis, care should be taken to hold the caliper parallel to the long axis of the bone (Moore-Jansen et al. 1994, #58).
+
+**Osc_04 Ischium Length:**  The measuring point in the acetabulum is defined under Pubis Length. The distance from the point in the acetabulum where the three elements meet to the deepest point on the ischial tuberosity. *Instrument:* sliding caliper.
+* *Comment:*  Ischium length should be measured approximately perpendicular to pubis length (Moore-Jansen et al. 1994, #59).
+
+**Osc_05 Minimum Iliac Breadth (WIB):**  The minimum distance measured from the area below the anterior inferior iliac spine to the most inward curvature of the greater sciatic notch (Langley et al. 2016:77, #66; Byrd and Adams 2015, #59D). *Instrument:* sliding caliper.
+
+**Osc_06 Maximum Pubis Length (XPL):**  The distance between symphysion (the most superior point on the symphyseal face) to the farthest point on the acetabular rim. *Instrument:* spreading caliper.
+* *Comment:*  The measurement is taken to the rim itself (not inside or outside the rim) (Langley et al. 2016:77, #67).
+
+**Osc_07 Minimum Pubis Length (WPL):**  The distance between symphysion (the most superior point on the symphyseal face) to the closest point on the acetabular rim. *Instrument:* spreading caliper.
+* *Comment:*  The measurement is taken to the rim itself (not inside or outside the rim) (Langley et al. 2016:77, #68).
+
+**Osc_08 Ischial Length (ISL):**  The distance from the point on the acetabular rim where the iliac blade meets the acetabulum to the most medial point on the epiphysis of the ischial tuberosity. *Instrument:* sliding caliper.
+* *Comment:*  If the borders of the epiphysis cannot be determined, do not take this measurement (Langley et al. 2016:77, #69).
+
+**Osc_09 Minimum Ischial Length (WISL):**  The distance from the most medial point on the epiphysis of the ischial tuberosity to the closest point on the acetabular rim. *Instrument:* sliding caliper.
+* *Comment:*  If the borders of the epiphysis cannot be determined, do not take this measurement (Langley et al. 2016:78, #70).
+
+**Osc_10 Maximum Ischiopubic Ramus Length (XIRL):**  The distance from the most inferior point on the symphyseal face to the most distant point on the ischial tuberosity (Langley et al. 2016:78, #71). *Instrument:* sliding caliper.
+
+**Osc_11 Anterior Superior Iliac Spine to Symphysion (ASISS):**  The measurement from the apex of the anterior superior iliac spine (most projecting area or point) to symphysion (Langley et al. 2016:78, #72). *Instrument:* sliding caliper.
+
+**Osc_12 Maximum Posterior Superior Iliac Spine to Symphysion (PSISS):**  The maximum measurement from the posterior border of the posterior superior iliac spine to symphysion (Langley et al. 2016:78, #73). *Instrument:* sliding caliper.
+
+**Osc_13 Maximum Apical Border to Symphysion (WAS):**  The minimum measurement from symphysion to the apex (anterior border) of the auricular surface (Langley et al. 2016:78, #74). *Instrument:* sliding caliper.
+
+**Osc_14 Thickness of the Ilium at the Sciatic Notch:**  Position one end of the calipers along the arcuate line, adjacent to the apex of the auricular surface.  Slide the opposing end of the calipers to the posterior surface of the ilium to obtain the measurement (Byrd 2008, #59A). *Instrument:* sliding caliper.
+
+**Osc_15 Maximum Breadth of the Ischium:**  Position one end of the calipers in the obturator foramen and place the other end on the ischial tuberosity. Move the calipers around to find the maximum distance (Byrd and Adams 2015, #59B). *Instrument:* sliding caliper.
+
+**Osc_16 Minimum Breadth of the Pubis:**  Position the calipers along the iliopubic ramus; rotate and slide the calipers to find the minimum distance. Use the pointed edges of the calipers instead of the flat so as not to obstruct the measurement (Byrd and Adams 2015, #59C). *Instrument:* sliding caliper.
+
+**Osc_17 Maximum Diameter of the Acetabulum:**  The maximum distance of the acetabulum taken at any two points along the articular border of the lunate surface (look at the acetabulum from the side and take the measurement at the peaks of the ridges). This distance is commonly found in line with the iliac crest and the ischial tuberosity (Byrd 2008, #59E). *Instrument:* sliding caliper.
+
+
+## Femur
+**Fem_01 Maximum Length of the Femur:**  The distance from the most proximal point on the head of the femur to the most distal point on the medial or lateral femoral condyle (Martin and Knussmann 1988:216, #1). *Instrument:* osteometric board.
+* *Comment:*  Place the femur parallel to the long axis of the osteometric board and resting on its posterior surface. Press the medial or lateral condyle against the vertical end board while applying the movable upright to the femoral head. Move the bone up, down, and sideways until the maximum length is obtained (Hrdlicka 1920:128; Moore-Jansen et al. 1994, #60; Langley et al. 2016:78, #75). 
+
+**Fem_02 Bicondylar Length of the Femur:**  The distance from the most proximal point on the head of the femur to a plane drawn between the inferior surfaces of the distal condyles. *Instrument:* osteometric board. 
+* *Comment:*  Place the femur on the osteometric board so that the bone is resting on its posterior surface. Press both distal condyles against the vertical end board while applying the movable upright to the head of the femur (Hrdlicka 1920:128; Martin and Knussmann 1988:216, #2; Moore-Jansen et al. 1994, #61; Langley et al. 2016:78, #76). 
+
+**Fem_03 Epicondylar Breadth of the Femur:** The distance between the two most projecting points on the epicondyles. *Instrument:* osteometric board. 
+* *Comment:*  Place the femur on the osteometric board so that it is resting on its posterior surface. Press one of the epicondyles against the vertical end board while applying the movable upright to the other condyle. (Martin and Knussmann 1988:218, #21; Moore-Jansen et al. 1994, #63; Langley et al. 2016:79, #77). 
+
+**Fem_04 Maximum Diameter of the Femur Head:**  The maximum diameter of the femur head measured on the border of the articular surface. *Instrument:* sliding caliper.
+* *Comment:*  Rotate the arms of the caliper around the femur head to find the maximum diameter. (Dwight 1905:21; Montagu 1960:70; Moore-Jansen et al. 1994, #63; Langley et al. 2016:79, #78).
+
+**Fem_05 Medial-Lateral (Transverse) Subtrochanteric Diameter of the Femur:**  The transverse diameter of the proximal portion of the diaphysis at the point of its greatest lateral expansion. *Instrument:* sliding caliper.
+* *Comment:*  The transverse diameter is oriented parallel to the anterior surface of the femur neck. Close attention should be paid to assessing this plane in femoral necks with a significant degree of torsion. In cases where this cannot be determined (e.g. where the lateral surfaces remain parallel) this measurement is recorded in the region 2-5 cm below the lesser trochanter (Martin and Knussman 1988:217 #9; Moore-Jansen et al. 1994, #65; Langley et al. 2016:79-80, #79). 
+
+**Fem_06 Anterior-Posterior (Sagittal) Subtrochanteric Diameter of the Femur:**  The anterior-posterior diameter of the proximal end of the diaphysis measured perpendicular to the transverse diameter at the point of the greatest lateral expansion (See definition Fem_05 for approximate location on the femoral shaft for this measurement). This diameter is oriented perpendicular to the anterior surface of the femur neck (Martin and Knussman 1988:217, #10; Moore-Jansen et al. 1994, #64; Langley et al. 2016:80, #80). *Instrument:* sliding caliper.
+
+**Fem_07 Anterior-Posterior (Sagittal) Midshaft Diameter:**  The distance between anterior and posterior surfaces measured approximately at the midpoint of the diaphysis, at the highest elevation of linea aspera. *Instrument:* sliding caliper.
+* *Comment:*  The sagittal diameter should be measured perpendicular to the anterior bone surface (Moore-Jansen et al. 1994, #66).
+
+**Fem_08 Medial-Lateral (Transverse) Midshaft Diameter:**  The distance between the medial and lateral surfaces at midshaft, measured perpendicular to the anterior-posterior diameter (Moore-Jansen et al. 1994, #67). *Instrument:* sliding caliper.
+
+**Fem_09 Maximum Midshaft Diameter of the Femur:**  The maximum diameter of the femoral shaft taken at midshaft. *Instrument:* sliding caliper.
+* *Comment:*  Mark the midshaft of the bone with a pencil. Using sliding calipers to measure with one hand, rotate the bone with the other hand until the maximum diameter is obtained (Langley et al. 2016:80, #81). 
+
+**Fem_10 Minimum Midshaft Diameter of the Femur:**  The minimum diameter of the femoral shaft taken at midshaft. *Instrument:* sliding caliper.
+* *Comment:*  Mark the midshaft of the bone with a pencil. Using sliding calipers to measure with one hand, rotate the bone with the other hand until the minimum diameter is obtained (Langley et al. 2016:80, #82).
+
+**Fem_11 Circumference of the Femur at Midshaft:**  The circumference measured at the midshaft. *Instrument:* tape.
+* *Comment:*  If the linea aspera is unusually hypertrophied at midshaft, this measurement should be recorded approximately 10 mm above the midshaft (Martin and Knussmann 1988:217, #8; Moore-Jansen et al. 1994, #68; Langley et al. 2016:80, #83). 
+
+**Fem_12 Maximum Anterio-posterior Length of the Lateral Condyle:**  The distance between the most anterior and posterior points on the articular surface of the lateral condyle (Martin and Knussman 1988:219, #23). *Instrument:* sliding caliper.
+* *Comment:*  Holding the femur with the distal end up, orient the measuring arms of the caliper with the long axis of the bone to obtain this measurement (Langley et al. 2016:80, #84). 
+
+**Fem_13 Maximum Anterio-posterior Length of the Medial Condyle:**  The distance between the most anterior and posterior points on the articular surface of the medial condyle (Martin and Knussman 1988:219, #24). *Instrument:* sliding caliper.
+* *Comment:*  Holding the femur with the distal end up, orient the measuring arms of the caliper with the long axis of the bone to obtain this measurement (Langley et al. 2016:80-81, #85). 
+
+**Fem_14 Minimum Anterior-Posterior Diameter of the Diaphysis:**  The minimum anterior-posterior diameter anywhere along the diaphysis. The linea aspera and condyles should be utilized in order to orient the bone in anatomical position (use the condyles to orient) (Byrd and Adams 2003, #68A). *Instrument:* sliding caliper.
+
+**Fem_15 Minimum Medial-Lateral Diameter of the Diaphysis:**  The minimum medial-lateral diameter anywhere along the diaphysis.  The linea aspera and condyles should be utilized in order to orient the bone (should be taken in a perpendicular orientation to 68A) (Byrd and Adams 2003, #68B). *Instrument:* sliding caliper.
+
+**Fem_16 Minimum Superior-Inferior Neck Diameter:**  The minimum distance from the superior surface to the inferior surface on the femoral neck (Seidemann et al. 1998). Place caliper in the saddle of the neck (superior) and close inferior caliper arm, moving as necessary to find the minimum (Byrd and Adams 2015, #68D). *Instrument:* sliding caliper.
+
+**Fem_17 Maximum Diameter along the Linea Aspera:**  The maximum shaft diameter at any point along the linea aspera. As the bone should be rotated to obtain the maximum distance, the measurement does not necessarily have to include the linea aspera, though it likely will (Byrd and Adams 2003, #68E). *Instrument:* sliding caliper.
+
+**Fem_18 Upper Breadth of Femur (VHA):**  The distance from the apex of the head of the femur to the lateral side of the femur diaphysis, measured in line with the neck of the femur such that the line of measurement bisects the neck. Using sliding calipers, place the fixed jaw on the most prominent point on the femur head. Place the movable jaw on the lateral margin of the femur diaphysis so that the line formed between the two points splits the neck into two equal portions (Simmons et al. 1990). *Instrument:* sliding caliper.
+
+**Fem_19 Lateral Condyle Height (LCH):**  On the lateral condyle of the distal femur, it is the distance from the most superior point on the condyle to the most inferior point. Holding the femur in anatomical position with the distal condyles facing the observer, place the fixed jaw of the sliding caliper on the top of the condyle and place the movable jaw on the most inferior point on the condyle. The femur should be held so that it is possible to accurately judge the location of the most inferior point (Simmons et al. 1990). *Instrument:* sliding caliper.
+
+
+## Patella
+**Pat_01 Maximum Length of the Patella:**  Find the maximum length (superior to inferior) of the patella (Byrd and Adams 2015, #74.5A). *Instrument:* sliding calipers.
+
+**Pat_02 Maximum Breadth:**  Find the maximum breadth (medial to lateral) of the patella (Byrd and Adams 2015, #74.5B). *Instrument:* sliding calipers.
+
+**Pat_03 Maximum Thickness:**  Find the maximum thickness (anterior to posterior) of the patella (Byrd and Adams 2015, #74.5C). *Instrument:* sliding calipers.
+
+
+## Tibia
 
 Tib_01 Length of the Tibia: The distance from the superior articular surface of the lateral
 condyle of the tibia to the tip of the medial malleolus (Martin and Knussmann
