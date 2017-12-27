@@ -403,381 +403,113 @@ Postcranial interlandmark distances for skeletal biology.
 
 
 ## Tibia
+**Tib_01 Length of the Tibia:**  The distance from the superior articular surface of the lateral condyle of the tibia to the tip of the medial malleolus (Martin and Knussmann 1988:220, #1). *Instrument:* osteometric board. 
+* *Comment:*  An osteometric board with a hole for the intercondylar eminence makes this measurement easier to take. Place the tibia on the osteometric board resting on its posterior surface with the longitudinal axis of the bone parallel to the board (Hrdlicka 1920:129). If using an osteometric board without a hole, place the tibia on the osteometric board so that it the long axis is parallel to the board. The measurement is taken from the lateral condyle to the tip of the medial malleolus (Moore-Jansen et al. 1994, #69; Langley et al. 2016:81, #86). 
 
-Tib_01 Length of the Tibia: The distance from the superior articular surface of the lateral
-condyle of the tibia to the tip of the medial malleolus (Martin and Knussmann
-1988: 220, #1). Instrument:
-osteometric board. 
+**Tib_02 Maximum Proximal Epiphyseal Breadth of the Tibia:**  The maximum distance between the two most projecting point on the margins of the medial and lateral condyles of the proximal epiphysis. *Instrument:* osteometric board. 
+* *Comment:*  Place the tibia on the osteometric board resting on its posterior surface. Press the lateral condyle against the vertical end board, and place the movable upright against the medial condyle. Tibiae exhibiting marked torsion may have to be rotated to obtain the maximum breadth (Martin and Knussmann 1988:221, #3; Moore-Jansen et al. 1994, #70; Langley et al. 2016:81, #87). 
 
-Comment:
-An osteometric board with a hole for the intercondylar eminence makes this
-measurement easier
-to take. Place the tibia on the osteometric board resting
-on
-its posterior surface with the longitudinal axis of the bone parallel to the
-board (Hrdlicka 1920: 129). If using an osteometric board without a hole, place
-the tibia on the osteometric board so that it the long axis is parallel to the
-board. The measurement is taken from the lateral condyle to the tip of the
-medial malleolus (Moore-Jansen et al. 1994, #69; Langley
-et al. 2016: 81, #86). 
+**Tib_03 Maximum Distal Epiphyseal Breadth:**  The distance between the most medial point on the medial malleolus and the lateral surface of the distal epiphysis. *Instrument:* osteometric board. 
+* *Comment:*  Place the two lateral protrusions of the distal epiphysis against the fixed side of the osteometric board and move the sliding board until it contacts the medial malleolus (Martin and Knussmann 1988:221, #6; Moore-Jansen et al. 1994, #71; Langley et al. 2016:81, #88). 
 
-Tib_02 Maximum Proximal Epiphyseal Breadth of the Tibia: The maximum distance between the two most projecting point on
-the margins of the medial and lateral condyles of the proximal epiphysis. Instrument: osteometric board. 
+**Tib_04 Maximum Diameter at the Nutrient Foramen:**  The distance between the anterior crest and the posterior surface at the level of the nutrient foramen (Moore-Jansen et al. 1994, #72). *Instrument:* sliding caliper.
 
-Comment:
-Place the tibia on the osteometric board resting on its posterior surface.
-Press the lateral condyle against the vertical end board, and place the movable
-upright against the medial condyle. Tibiae exhibiting marked torsion may have
-to be rotated to obtain the maximum breadth (Martin and Knussmann 1988: 221,
-#3; Moore-Jansen et al. 1994, #70; Langley et al. 2016: 81, #87). 
+**Tib_05 Transverse (Medial-Lateral) Diameter at the Nutrient Foramen:**  The straight line distance from the medial margin to the interosseous crest at the level of the nutrient foramen (Moore-Jansen et al. 1994, #73). *Instrument:* sliding caliper.
+* *Comment:*  This is taken perpendicular to Maximum Diameter at the Nutrient Foramen.
 
-Tib_03 Maximum Distal Epiphyseal Breadth: The distance between the most medial point on the medial
-malleolus and the lateral surface of the distal epiphysis. Instrument: osteometric board. 
+**Tib_06 Circumference at the Nutrient Foramen:**  The circumference measured at the level of the nutrient foramen (Moore-Jansen et al. 1994, #74). *Instrument:* tape.
 
-Comment:
-Place the two lateral protrusions of the distal epiphysis against the fixed
-side of the osteometric board and move the sliding board until it contacts the
-medial malleolus (Martin and Knussmann 1988: 221, #6; Moore-Jansen et al. 1994,
-#71; Langley et al.
-2016: 81, #88). 
+**Tib_07 Maximum Midshaft Diameter of the Tibia:**  The maximum diameter of the tibial shaft taken at midshaft. *Instrument:* sliding caliper. 
+* *Comment:*  Mark the midshaft of the bone with a pencil. Using sliding calipers to measure with one hand, rotate the bone with the other hand until the maximum diameter is obtained (Langley et al. 2016:81, #89). 
 
-Tib_04 Maximum
-Diameter at the Nutrient Foramen: The distance between the anterior
-crest and the posterior surface at the level of the nutrient foramen (Moore-Jansen et al.
-1994, #72). Instrument: sliding
-caliper.
+**Tib_08 Minimum Midshaft Diameter of the Tibia:**  The minimum diameter of the tibial shaft taken at midshaft. *Instrument:* sliding caliper. 
+* *Comment:*  Mark the midshaft of the bone with a pencil. Using sliding calipers to measure with one hand, rotate the bone with the other hand until the minimum diameter is obtained (Martin and Knussmann 1988:573, #9a; Langley et al. 2016:81, #90). 
 
-Tib_05 Transverse
-(Medial-Lateral) Diameter at the Nutrient Foramen: The
-straight line distance from the medial margin to the interosseous crest at the
-level of the nutrient foramen (Moore-Jansen et al. 1994, #73). Instrument: sliding caliper.
+**Tib_09 Circumference of the Tibia at the Midshaft:**  The circumference measured at the level of the midshaft (Martin and Knussmann 1988:574, #10a; Langley et al. 2016:82, #91). *Instrument:* tape. 
 
-Comment:
-This is taken perpendicular to Maximum Diameter at the Nutrient Foramen.
+**Tib_10 Maximum Anterior-Posterior Diameter Distal to the Popliteal Line:**  This measurement should be taken at the most distal point of the popliteal line where it intersects with the margin of the diaphysis. The calipers are rotated to find the maximum distance (this is the maximum diameter of the diaphysis at this point).  Note that the correct location may be difficult to determine in very gracile individuals (Byrd and Adams 2003, #74A). *Instrument:* sliding calipers.
 
-Tib_06 Circumference
-at the Nutrient Foramen: The circumference measured at the
-level of the nutrient foramen (Moore-Jansen et al. 1994, #74). Instrument: tape.
+**Tib_11 Minimum Anterior-Posterior Diameter:**  Locate the minimum anterior-posterior distance at any point on the tibial shaft. Use the medial malleolus and anterior crest to orient the bone, particularly when torsion is present (Byrd and Adams 2003, #74B). *Instrument:* sliding calipers.
 
-Tib_07 Maximum Midshaft Diameter of the Tibia: The maximum diameter of the tibial shaft taken at midshaft. Instrument: sliding caliper. 
+**Tib_12 Maximum Anterior-Posterior Distance of the Distal Articular Surface:**  Locate the maximum anterior-posterior distance of the distal articular surface by viewing the element from the side to find the peaks of the articular surface and measuring the distance between them. Use the medial malleolus to orient the bone (Byrd and Adams 2015, #74F). *Instrument:* sliding calipers.
 
-Comment:
-Mark the midshaft of the bone with a pencil. Using sliding calipers to measure
-with one hand, rotate the bone with the other hand until the maximum diameter
-is obtained (Langley et al. 2016: 81, #89). 
+**Tib_13 Biarticular Breadth (BB):**  Maximum breadth of the proximal articular surface of the tibia as measured from the lateral edge of the lateral condyle to the medial edge of the medial condyle.  This is not the maximum breadth of the proximal tibia, but rather the maximum breadth of the articular surface.  Holding the tibia so that the proximal articular surface is in plain view, place the fixed jaw of the digital caliper on the most lateral edge of the lateral condyle.  Extend the movable jaw to what appears to be the most medial edge of the medial condyle. Pivot the movable jaw slightly to ensure that the maximum measure is found (Holland 1992). *Instrument:* sliding caliper.
 
-Tib_08 Minimum Midshaft Diameter of the Tibia: The minimum diameter of the tibial shaft taken at midshaft. Instrument: sliding caliper. 
+**Tib_14 Medial Condyle Articular Width (MCW):**  Maximum transverse width of the medial condyle as measured from lateral to medial edges.  The surface of the condyle generally is circumscribed by a slight rim, and points of the caliper should be placed on this rim.  Hold the tibia so that you can look directly down on the proximal articular surface.  Place the fixed jaw of the digital caliper on the medial edge of the condyle.  Extend the movable jaw to the lateral edge of the medial condyle.  Move the caliper anteriorly and then posteriorly, adjusting the jaws so that they always contact the opposing edges of the condyle. Find the maximum in this manner (Holland 1992). *Instrument:* sliding caliper.
 
-Comment:
-Mark the midshaft of the bone with a pencil. Using sliding calipers to measure
-with one hand, rotate the bone with the other hand until the minimum diameter
-is obtained (Martin and Knussmann 1988: 573, #9a; Langley
-et al. 2016: 81, #90). 
+**Tib_15 Medial Condyle Articular Length (MCL):**  Similar but perpendicular to width.  Measurement should record maximum length from the anterior edge of the medial condyle to the posterior margin.  Hold the tibia so that you can look directly down on the proximal articular surface.  Place the fixed jaw of the digital caliper on the anterior edge of the medial condyle. Extend the movable jaw to the posterior edge of the condyle.  Move the caliper medially and then laterally, adjusting the jaws so that they always contact the opposing edges of the condyle. Find the maximum in this manner (Holland 1992). *Instrument:* sliding caliper.
 
-Tib_09 Circumference of the Tibia at the Midshaft: The circumference measured at the level of the midshaft (Martin
-and Knussmann 1988: 574, #10a; Langley et al. 2016: 82, #91). Instrument: tape. 
+**Tib_16 Lateral Condyle Articular Length (LCL):**  Maximum length of the lateral condyle as measured in a manner similar to that for MCL (Holland 1992). *Instrument:* sliding caliper.
 
-Tib_10 Maximum
-Anterior-Posterior Diameter Distal to the Popliteal Line: This
-measurement should be taken at the most distal point of the popliteal line
-where it intersects with the margin of the diaphysis. The calipers are rotated
-to find the maximum distance (this is the maximum diameter of the diaphysis at
-this point).  Note that the correct
-location may be difficult to determine in very gracile individuals (Byrd and
-Adams 2003, #74A). Instrument: sliding
-calipers.
+## Fibula
+**Fib_01 Maximum Length of the Fibula:**  The maximum distance between the most superior point on the fibular head and the most inferior point on the lateral malleolus (Martin and Knussmann 1988:222, #1). *Instrument:* osteometric board.
+* *Comment:*  Place the fibula on the osteometric board and place the tip of the lateral malleolus against the vertical end board. Press the movable upright against the proximal end of the bone while moving it up and down and sideways to obtain the maximum length (Moore-Jansen et al. 1994, #75; Langley et al. 2016:82, #92). 
 
-Tib_11 Minimum
-Anterior-Posterior Diameter: Locate the minimum
-anterior-posterior distance at any point on the tibial shaft. Use the medial
-malleolus and anterior crest to orient the bone, particularly when torsion is
-present (Byrd and Adams 2003, #74B). Instrument:
-sliding calipers.
+**Fib_02 Maximum Diameter of the Fibula at Midshaft:**  The maximum diameter at the midshaft. (Martin and Knussmann 1988:222, #2). *Instrument:* sliding caliper. 
+* *Comment:*  Find the midpoint on the osteometric board and mark with a pencil. Place the diaphysis of the fibula between the two arms of the caliper while turning the bone to obtain the maximum diameter (Moore-Jansen et al. 1994, #76; Langley et al. 2016:82, #93). 
 
-Tib_12 Maximum
-Anterior-Posterior Distance of the Distal Articular Surface: Locate
-the maximum anterior-posterior distance of the distal articular surface by
-viewing the element from the side to find
-the peaks of the articular surface and measuring the distance between them.
-Use the medial malleolus to orient the bone (Byrd and Adams 2015, #74F). Instrument: sliding calipers.
+**Fib_03 Maximum Diameter of the Diaphysis:**  This measurement should only be taken along the interosseous crest. Avoid measurements of the shaft near the epiphyses (Byrd and Adams 2015, #76A). *Instrument:* sliding calipers.
 
-Tib_13 Biarticular
-Breadth (BB): Maximum breadth of the proximal
-articular surface of the tibia as measured from the lateral edge of the lateral
-condyle to the medial edge of the medial condyle.  This is not the maximum breadth of the
-proximal tibia, but rather the maximum breadth of the articular surface.  Holding the tibia so that the proximal
-articular surface is in plain view, place the fixed jaw of the digital caliper
-on the most lateral edge of the lateral condyle.  Extend the movable jaw to what appears to be
-the most medial edge of the medial condyle. 
-Pivot the movable jaw slightly to ensure that the maximum measure is
-found (Holland 1992). Instrument:
-sliding caliper.
+**Fib_04 Minimum Diameter of the Diaphysis:**  The minimum distance at any point along the diaphysis (Byrd and Adams 2015, #76B). *Instrument:* sliding calipers.
 
-Tib_14 Medial
-Condyle Articular Width (MCW): Maximum transverse width of the
-medial condyle as measured from lateral to medial edges.  The surface of the condyle generally is
-circumscribed by a slight rim, and points of the caliper should be placed on
-this rim.  Hold the tibia so that you can
-look directly down on the proximal articular surface.  Place the fixed jaw of the digital caliper on
-the medial edge of the condyle.  Extend
-the movable jaw to the lateral edge of the medial condyle.  Move the caliper anteriorly and then
-posteriorly, adjusting the jaws so that they always contact the opposing edges
-of the condyle. Find the maximum in this manner (Holland 1992). Instrument: sliding caliper.
+**Fib_05 Maximum Breadth at the Distal End:**  Place the one jaw of the caliper on the posterior portion (tubercle) and extend the other jaw to the opposite side (just above the malleolar articular surface) to find the maximum distance (Byrd and Adams 2015, #76C). *Instrument:* sliding calipers.
 
-Tib_15 Medial
-Condyle Articular Length (MCL): Similar but perpendicular to
-width.  Measurement should record maximum
-length from the anterior edge of the medial condyle to the posterior
-margin.  Hold the tibia so that you can
-look directly down on the proximal articular surface.  Place the fixed jaw of the digital caliper on
-the anterior edge of the medial condyle. 
-Extend the movable jaw to the posterior edge of the condyle.  Move the caliper medially and then laterally,
-adjusting the jaws so that they always contact the opposing edges of the
-condyle. Find the maximum in this manner (Holland 1992). Instrument: sliding caliper.
 
-Tib_16 Lateral
-Condyle Articular Length (LCL): Maximum length of the lateral
-condyle as measured in a manner similar to that for MCL (Holland 1992). Instrument: sliding caliper.
+## Calcaneus
+**Cal_01 Maximum Length of the Calcaneus (MCAL):**  The distance between the most posteriorly projecting point on the calcaneal tuberosity and the most anterior point on the superior margin of the articular facet for the cuboid measured in the sagittal plane (Martin and Knussmann 1988:225 #1). *Instrument:* sliding caliper or osteometric board. 
+* *Comment:* Excessive calcaneal spurs should be omitted from this measurement (Moore-Jansen et al. 1994, #77; Holland 1995, MCAL; Langley et al. 2016:82, #94). 
 
-## FIBULA
+**Cal_02 Middle Breadth of the Calcaneus:**  The distance between the most laterally projecting point on the dorsal articular facet and the most medial point on the sustentaculum tali. *Instrument:* sliding caliper.
+* *Comment:*  The two measuring points lie at neither the same level, nor in a plane perpendicular to the sagittal plane. Span the calcaneus from behind with the blunt arms of the caliper so that the caliper is positioned in a flat and transverse plane across the bone (Martin and Knussmann 1988:225, #2; Moore-Jansen et al. 1994, #78; Langley et al. 2016:82, #95). 
 
-Fib_01 Maximum Length of the Fibula: The maximum distance between the most superior point on the
-fibular head and the most inferior point on the lateral malleolus (Martin and
-Knussmann 1988: 222, #1). Instrument:
-osteometric board.
+**Cal_03 Minimum Height Distal to Articular Facets:**  Find the minimum height in the pinched area of the calcaneus distal to the articular facets and proximal to the calcaneal tuber (Byrd and Adams 2015, #78A). *Instrument:* sliding caliper.
 
-Comment:
-Place the fibula on the osteometric board and place the tip of the lateral
-malleolus against the vertical end board. Press the movable upright against the
-proximal end of the bone while moving it up and down and sideways to obtain the
-maximum length (Moore-Jansen et al. 1994, #75; Langley
-et al. 2016: 82, #92). 
+**Cal_04 Posterior Length of the Calcaneus (PCAL):**  Maximum length between the most anterior point of the posterior talar articular surface and the most posterior point of the calcaneus  (on the tuberosity ignoring any extensive exostoses). Hold the calcaneus in anatomical position so that you are looking down on the articular surface. Place the fixed jaw of the calipers on the posterior margin of the talar articular surface and extend the movable jaw to the posterior surface of the bone. Move the calipers slightly up and down and medially and laterally to find the maximum. Avoid any exostoses (Holland 1995; Byrd and Adams 2015, #78B). *Instrument:* sliding caliper.
 
-Fib_02 Maximum Diameter of the Fibula at Midshaft: The maximum diameter at the midshaft. (Martin and Knussmann
-1988: 222, #2). Instrument: sliding
-caliper. 
 
-Comment:
-Find the midpoint on the osteometric board and mark with a pencil. Place the
-diaphysis of the fibula between the two arms of the caliper while turning the
-bone to obtain the maximum diameter (Moore-Jansen et al. 1994, #76; Langley
-et al. 2016: 82, #93). 
+## Talus
+**Tal_01 Minimum Trochlear Breadth:**  This is the minimum breadth of the trochlea (superior articular surface). Place the flat surfaces of the jaws of the sliding calipers on either side of the articular surface with the jaws (approximately) parallel to the long axis of the bones. Close the jaws to take the minimum value (Byrd 2008, #79). *Instrument:* sliding caliper.
 
-Fib_03 Maximum
-Diameter of the Diaphysis: This measurement should only be
-taken along the interosseous crest. Avoid measurements of the shaft near the
-epiphyses (Byrd and Adams 2015, #76A). Instrument:
-sliding calipers.
+**Tal_02 Maximum Length of the Talus (MTAL):**  The maximum length between the most anterior point of the head and the posterior tubercle (Holland, 1995; Byrd and Adams 2015, #79A). *Instrument:* sliding caliper.
 
-Fib_04 Minimum
-Diameter of the Diaphysis: The minimum distance at any point
-along the diaphysis (Byrd and Adams 2015, #76B). Instrument: sliding calipers.
-
-Fib_05 Maximum
-Breadth at the Distal End: Place the one jaw of the caliper on
-the posterior portion (tubercle) and extend the other jaw to the opposite side
-(just above the malleolar articular surface) to find the maximum distance (Byrd
-and Adams 2015, #76C). Instrument: sliding
-calipers.
-
+**Tal_03 Maximum Articular Length:**  The maximum length between the most anterior point of the head and the posterior surface of the tibial articulation (excluding the tubercle). Position the fixed caliper arm along the posterior surface of the tibial articulation and bring the calipers closed on the most anterior point of the head (Byrd and Adams 2015, #79B). *Instrument:* sliding caliper.
  
 
- 
+## Feet
+**MT1_01 Maximum Length of the 1st Metatarsal:**  This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. *Instrument:* sliding caliper.
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc (Byrd and Adams 2015, #80A). 
 
-## CALCANEUS
+**MT2_01 Maximum Length of the 2nd Metatarsal:**  This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. *Instrument:* sliding caliper.
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc (Byrd and Adams 2015, #80B).
 
-Cal_01 Maximum Length of the Calcaneus (MCAL): The distance between the most posteriorly projecting point on
-the calcaneal tuberosity and the most anterior point on the superior margin of
-the articular facet for the cuboid measured in the sagittal plane (Martin and
-Knussmann 1988:225 #1). Instrument:
-sliding caliper or osteometric board. 
+**MT3_01 Maximum Length of the 3rd Metatarsal:**  This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. *Instrument:* sliding caliper.
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc (Byrd and Adams 2015, #80C).
 
-Comment:
-Excessive calcaneal spurs should be omitted from this measurement (Moore-Jansen
-et al. 1994, #77; Holland
-1995, MCAL; Langley et al. 2016: 82,
-#94). 
+**MT4_01 Maximum Length of the 4th Metatarsal:**  This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. *Instrument:* sliding caliper.
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc (Byrd and Adams 2015, #80D).
 
-Cal_02 Middle Breadth of the Calcaneus: The distance between the most laterally projecting point on the
-dorsal articular facet and the most medial point on the sustentaculum tali. Instrument: sliding caliper.
+**MT5_01 Maximum Length of the 5th Metatarsal:**  This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. *Instrument:* sliding caliper.
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc (Byrd and Adams 2015, #80E).
 
-Comment:
-The two measuring points lie at neither the same level, nor in a plane
-perpendicular to the sagittal plane. Span the calcaneus from behind with the
-blunt arms of the caliper so that the caliper is positioned in a flat and
-transverse plane across the bone (Martin and Knussmann 1988: 225, #2; Moore-Jansen et al. 1994,
-#78; Langley et al.
-2016: 82, #95). 
+**Cub_01 Maximum Length of the Cuboid:**  This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. *Instrument:* sliding caliper.
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc (Byrd and Adams 2015, #80F).
 
-Cal_03 Minimum
-Height Distal to Articular Facets: Find the minimum height in the
-pinched area of the calcaneus distal to the articular facets and proximal to
-the calcaneal tuber (Byrd and Adams 2015, #78A). Instrument: sliding caliper.
+**Nav_01 Maximum Length of the Navicular:**  This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. *Instrument:* sliding caliper.
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc (Byrd and Adams 2015, #80G).
 
-Cal_04 Posterior
-Length of the Calcaneus (PCAL): Maximum length between the most
-anterior point of the posterior talar articular surface and the most posterior
-point of the calcaneus  (on the
-tuberosity ignoring any extensive exostoses). 
-Hold the calcaneus in anatomical position so that you are looking down
-on the articular surface.  Place the
-fixed jaw of the calipers on the posterior margin of the talar articular
-surface and extend the movable jaw to the posterior surface of the bone.  Move the calipers slightly up and down and
-medially and laterally to find the maximum. 
-Avoid any exostoses (Holland 1995; Byrd and Adams 2015, #78B). Instrument: sliding caliper.
+**Cf1_01 Maximum Length of the 1st Cuneiform:**  This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. *Instrument:* sliding caliper.
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc (Byrd and Adams 2015, #80H).
 
-## TALUS
+**Cf2_01 Maximum Length of the 2nd Cuneiform:**  This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. *Instrument:* sliding caliper.
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc (Byrd and Adams 2015, #80I). 
 
-Tal_01 Minimum
-Trochlear Breadth: This is the minimum breadth of the
-trochlea (superior articular surface). 
-Place the flat surfaces of the jaws of the sliding calipers on either
-side of the articular surface with the jaws (approximately) parallel to the
-long axis of the bones. Close the jaws to take the minimum value (Byrd 2008,
-#79). Instrument: sliding caliper.
+**Cf3_01 Maximum Length of the 3rd Cuneiform:** This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. *Instrument:* sliding caliper.
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc (Byrd and Adams 2015, #80J).
 
-Tal_02 Maximum
-Length of the Talus (MTAL): The maximum length between the most anterior point of the head and
-the posterior tubercle (Holland, 1995; Byrd and Adams 2015, #79A). Instrument: sliding caliper.
 
-Tal_03 Maximum
-Articular Length: The maximum length between the most
-anterior point of the head and the posterior surface of the tibial articulation
-(excluding the tubercle). Position the fixed caliper arm along the posterior
-surface of the tibial articulation and bring the calipers closed on the most
-anterior point of the head (Byrd and Adams 2015, #79B). Instrument: sliding caliper.
+## Vertebrae
+**Cer1_01 (Left), Cer1_02 (Right) Maximum Length of the Superior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81A). *Instrument:* sliding caliper.
 
- 
+**Cer1_03 (Left), Cer1_04 (Right) Maximum Length of the Inferior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81M). *Instrument:* sliding caliper.
 
- 
-
-## FEET
-
-MT1_01 Maximum
-Length of the 1st Metatarsal: This is the
-maximum length of the bone.  The
-measurement may be taken with an osteometric board or sliding calipers.  Instrument:
-sliding caliper.
-
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance, in the
-same manner that maximum length is obtained for the humerus, femur, etc (Byrd
-and Adams 2015, #80A). 
-
-MT2_01 Maximum
-Length of the 2nd Metatarsal: This is the
-maximum length of the bone.  The
-measurement may be taken with an osteometric board or sliding calipers.  Instrument:
-sliding caliper.
-
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance, in the
-same manner that maximum length is obtained for the humerus, femur, etc (Byrd
-and Adams 2015, #80B).
-
-MT3_01 Maximum
-Length of the 3rd Metatarsal: This is the
-maximum length of the bone.  The
-measurement may be taken with an osteometric board or sliding calipers.  Instrument:
-sliding caliper.
-
-Comment:
-Move the bone up, down, and sideways in order to obtain the maximum distance,
-in the same manner that maximum length is obtained for the humerus, femur, etc
-(Byrd and Adams 2015, #80C).
-
-MT4_01 Maximum
-Length of the 4th Metatarsal: This is the
-maximum length of the bone.  The
-measurement may be taken with an osteometric board or sliding calipers.  Instrument:
-sliding caliper.
-
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance, in the
-same manner that maximum length is obtained for the humerus, femur, etc (Byrd
-and Adams 2015, #80D).
-
-MT5_01 Maximum
-Length of the 5th Metatarsal: This is the
-maximum length of the bone.  The
-measurement may be taken with an osteometric board or sliding calipers.   Instrument:
-sliding caliper.
-
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance, in the
-same manner that maximum length is obtained for the humerus, femur, etc (Byrd
-and Adams 2015, #80E).
-
-Cub_01 Maximum
-Length of the Cuboid: This is the maximum length of the
-bone.  The measurement may be taken with
-an osteometric board or sliding calipers. Instrument:
-sliding caliper.
-
- Comment: Move the bone up, down, and sideways in order to obtain
-the maximum distance, in the same manner that maximum length is obtained for
-the humerus, femur, etc (Byrd and Adams 2015, #80F).
-
-Nav_01 Maximum
-Length of the Navicular: This is the maximum length of the
-bone.  The measurement may be taken with
-an osteometric board or sliding calipers.  
-Instrument: sliding caliper.
-
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance, in the
-same manner that maximum length is obtained for the humerus, femur, etc (Byrd
-and Adams 2015, #80G).
-
-Cf1_01 Maximum
-Length of the 1st Cuneiform: This is the
-maximum length of the bone.  The
-measurement may be taken with an osteometric board or sliding calipers.  Instrument:
-sliding caliper.
-
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance, in the
-same manner that maximum length is obtained for the humerus, femur, etc (Byrd
-and Adams 2015, #80H).
-
-Cf2_01 Maximum
-Length of the 2nd Cuneiform: This is the
-maximum length of the bone.  The
-measurement may be taken with an osteometric board or sliding calipers.  Instrument:
-sliding caliper.
-
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance, in the
-same manner that maximum length is obtained for the humerus, femur, etc (Byrd
-and Adams 2015, #80I). 
-
-Cf3_01 Maximum
-Length of the 3rd Cuneiform: This is the
-maximum length of the bone.  The
-measurement may be taken with an osteometric board or sliding calipers.   Instrument:
-sliding caliper.
-
-Comment: Move
-the bone up, down, and sideways in order to obtain the maximum distance, in the
-same manner that maximum length is obtained for the humerus, femur, etc (Byrd
-and Adams 2015, #80J).
-
- 
-
-## VERTEBRAE
-
-Cer1_01
-(Left), Cer1_02 (Right) Maximum Length of the Superior Articular Facet of C1: Take
-the maximum length of the facet as it appears in any direction (Byrd and Adams
-2015, #81A). Instrument: sliding caliper.
-
-Cer1_03
-(Left), Cer1_04 (Right) Maximum Length of the Inferior Articular Facet of C1: Take
-the maximum length of the facet as it appears in any direction (Byrd and Adams
-2015, #81M). Instrument: sliding caliper.
-
-Cer2_01
-(Left), Cer2_02 (Right) Maximum Length of the Superior Articular Facet of C2: Take
-the maximum length of the facet as it appears in any direction (Byrd and Adams
-2015, #81B). Instrument: sliding caliper.
-
+**Cer2_01 (Left), Cer2_02 (Right) Maximum Length of the Superior Articular Facet of C2:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81B). *Instrument:* sliding caliper.
