@@ -10,7 +10,8 @@ In this section we present an annotated bibliography of analytical methods avail
 **Phenice TW (1969).** A newly developed visual method of sexing the os pubis.  American Journal of Physical Anthropology, 30:297-301.  
 
 * *Purpose:* Sex estimation based on three features of the adult os coxa: the ventral arc, subpubic concavity, and the ischiopubic ramus.
-* *Sample:*  Terry Skeletal Collection, n = 275 --> Black and White males (n = 180) and females (n = 95).
+* *Sample:*  Terry Skeletal Collection, Black and White males (n = 20 and 160, respectively) and females (n = 52 and 43, respectively)
+* *Sample size:* n = 275
 * Each feature is scored as: 1) female, 2) ambiguous, or 3) male.
 * The ischiopubic ramus is most likely to display ambiguous morphology, and the ventral arc is least likely to display ambiguous morphology.
 * If sex assessment is based on one or two of the features that are definitely male or female, the estimate will be correct at least 96% of the time.
