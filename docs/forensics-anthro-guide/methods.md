@@ -12,7 +12,7 @@ In this section we present an annotated bibliography of analytical methods avail
 
 * *Purpose:*  Sex estimation based on three features of the adult os coxa: the ventral arc, subpubic concavity, and the ischiopubic ramus.
 * *Sample:*  Terry Skeletal Collection, Black and White males (n = 20 and 160, respectively) and females (n = 52 and 43, respectively)
-* *Sample size:*  n = 275
+* n = 275
 * Each feature is scored as: 1) female, 2) ambiguous, or 3) male.
 * The ischiopubic ramus is most likely to display ambiguous morphology, and the ventral arc is least likely to display ambiguous morphology.
 * If sex assessment is based on one or two of the features that are definitely male or female, the estimate will be correct at least 96% of the time.
@@ -21,12 +21,16 @@ In this section we present an annotated bibliography of analytical methods avail
 
 * *Purpose:*  Sex estimation based on the scoring of four dimorphic features of the distal humerus: trochlear constriction, trochlear asymmetry, olecranon fossa shape and depth, and the angle of the medial epicondyle. 
 * *Sample:*  Developed on a 20th century anatomy series, the University of Toronto Grant Skeletal Collection; tested on known individuals from the University of New Mexico Documented Collection (n = 35) and the William M. Bass Donated Skeletal Collection (n = 93).
-* In ambiguous cases (two traits scored asmale, two traits scored as female), greater weight should be given to the olecranon fossa.  
+* In ambiguous cases (two traits scored as male, two traits scored as female), greater weight should be given to the olecranon fossa.  
 * The greatest accuracy is achieved when all four features are present and scorable. 
 
 **Rogers NL, Flournoy LE, McCormick WF (2000).** The rhomboid fossa of the clavicle as a sex and age estimator. Journal of Forensic Sciences, 45:61-67.
 
-* Sex estimation based on clavicle morphology, specifically, the presence or absence of the rhomboid fossa.  A rhomboid fossa is defined as a pitted ordepressed marking on the inferior sternal end of the clavicle.  Males are more likely than females to have a rhomboid fossa, and rhomboid fossa are more commonly exhibited in younger individuals than older individuals. This method includes posterior probabilities for the presence/absence of the fossa. This method was derived from a large contemporary sample (n = 344: 113 females, 231 males).
+* *Purpose:*  Sex estimation based on clavicle morphology, specifically, the presence or absence of the rhomboid fossa, which is a pitted or depressed marking on the inferior sternal end of the clavicle.  
+* *Sample:*  William F. McCormick skeletal collection, University of Tennessee - Knoxville, between 10 and 92 years of age.
+* n = 344: 113 females, 231 males
+* Males are more likely than females to have a rhomboid fossa, and rhomboid fossa are more commonly exhibited in younger individuals than older individuals. 
+* This method includes posterior probabilities for the presence/absence of the fossa. 
 
 **Walker PL (2005).** Greater sciatic notch morphology:  Sex, age, and population differences.  American Journal of Physical Anthropology, 127:385-391.
 
