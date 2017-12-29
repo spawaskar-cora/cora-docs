@@ -3,22 +3,26 @@ In this section we present an annotated bibliography of analytical methods avail
 
 ## **Sex**
 
-**Buikstra JE, Ubelaker DH (1994).** Standards for Data Collection from Human Skeletal Remains.  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.
+**Bass WM (2005).** Human Osteology: A laboratory and field manual, 5th edition.  Missouri Archaeological Society, Columbia, MO. 
 
-* Data collection standardization from skeletal remains. This source consolidates multiple non-metric methods and measurements into a single source.
+* *Purpose:*  Sex determination from the skull.  
+* Characteristics of the cranium and mandible at six non-metric features are described (male vs. female): supraorbital ridge (prominent vs. smooth), supraorbital margins (blunt vs. sharp), palate/dentition (large vs. small), mastoid processes (large vs. small), frontal sinuses (large vs. small), and chin shape (square vs. rounded). 
 
 **Phenice TW (1969).** A newly developed visual method of sexing the os pubis.  American Journal of Physical Anthropology, 30:297-301.  
 
-* *Purpose:* Sex estimation based on three features of the adult os coxa: the ventral arc, subpubic concavity, and the ischiopubic ramus.
+* *Purpose:*  Sex estimation based on three features of the adult os coxa: the ventral arc, subpubic concavity, and the ischiopubic ramus.
 * *Sample:*  Terry Skeletal Collection, Black and White males (n = 20 and 160, respectively) and females (n = 52 and 43, respectively)
-* *Sample size:* n = 275
+* *Sample size:*  n = 275
 * Each feature is scored as: 1) female, 2) ambiguous, or 3) male.
 * The ischiopubic ramus is most likely to display ambiguous morphology, and the ventral arc is least likely to display ambiguous morphology.
 * If sex assessment is based on one or two of the features that are definitely male or female, the estimate will be correct at least 96% of the time.
 
 **Rogers TL  (1999).** A visual method of determining the sex of skeletal remains using the distal humerus.  Journal of Forensic Sciences, 44:57-60.
 
-* Sex estimation based on the scoring of four dimorphic features of the distal humerus: trochlear constriction, trochlear asymmetry, olecranon fossa shape and depth, and the angle of the medial epicondyle. Note:  In ambiguous cases (two traits scored asmale, two traits scored as female), greater weight should be given to the olecranon fossa.  The greatest accuracy is achieved when all four features are present and scorable. The technique was developed on a 20th century anatomy series, the University of Toronto Grant Skeletal Collection, and was tested on 35 known individuals from the University of New Mexico Documented Collection and 93 individuals from the William M. Bass Donated Skeletal Collection.
+* *Purpose:*  Sex estimation based on the scoring of four dimorphic features of the distal humerus: trochlear constriction, trochlear asymmetry, olecranon fossa shape and depth, and the angle of the medial epicondyle. 
+* *Sample:*  Developed on a 20th century anatomy series, the University of Toronto Grant Skeletal Collection; tested on known individuals from the University of New Mexico Documented Collection (n = 35) and the William M. Bass Donated Skeletal Collection (n = 93).
+* In ambiguous cases (two traits scored asmale, two traits scored as female), greater weight should be given to the olecranon fossa.  
+* The greatest accuracy is achieved when all four features are present and scorable. 
 
 **Rogers NL, Flournoy LE, McCormick WF (2000).** The rhomboid fossa of the clavicle as a sex and age estimator. Journal of Forensic Sciences, 45:61-67.
 
@@ -137,6 +141,10 @@ In this section we present an annotated bibliography of analytical methods avail
 
 
 ## **Other**
+
+**Buikstra JE, Ubelaker DH (1994).** Standards for Data Collection from Human Skeletal Remains.  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.
+
+* Data collection standardization from skeletal remains. This source consolidates multiple non-metric methods and measurements into a single source.
 
 **Knusel CJ, Outram AK (2004).** Fragmentation: The zonation method applied to fragmented human remains from archaeological and forensic contexts.  Environmental Archaeology, 9(1):85-98.
   * Scattered and commingled human and animal remains are commonly encountered on archaeological sites, and this contextual relationship begs the question of whether human and animals were treated in a similar manner before burial. The recording system presented here provides a means by which to confront problems of equifinality – that is, when taphonomic alterations create apparently similar patterns and, therefore, confuse behavioural inferences drawn from them. This method hinges on a standardised representation of the zones on human skeletal elements that allow comparison with those described by Dobney and Rielly (1988) for animal remains. It is anticipated that the anatomical descriptions in combination with the zone drawings presented will aid others to apply the method generally across skeletal assemblages of any date. This system could also be used to aid the curation of museum collections and as a complement to forensic recovery.
