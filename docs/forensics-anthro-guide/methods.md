@@ -3,12 +3,13 @@ In this section we present an annotated bibliography of analytical methods avail
 # **SEX**
 
 ## **Bass WM (2005)** 
-Human Osteology: A laboratory and field manual, 5th edition.  Missouri Archaeological Society, Columbia, MO. 
+*Human Osteology: A laboratory and field manual, 5th edition.* Missouri Archaeological Society, Columbia, MO. 
 
 * *Purpose:*  Sex determination from the skull.  
 * Characteristics of the cranium and mandible at six non-metric features are described (male vs. female): supraorbital ridge (prominent vs. smooth), supraorbital margins (blunt vs. sharp), palate/dentition (large vs. small), mastoid processes (large vs. small), frontal sinuses (large vs. small), and chin shape (square vs. rounded). 
 
-**Phenice TW (1969).** A newly developed visual method of sexing the os pubis.  American Journal of Physical Anthropology, 30:297-301.  
+## **Phenice TW (1969)** 
+A newly developed visual method of sexing the os pubis. *American Journal of Physical Anthropology,* 30:297-301.  
 
 * *Purpose:*  Sex estimation based on three features of the adult os coxa: the ventral arc, subpubic concavity, and the ischiopubic ramus.
 * *Sample:*  Terry Skeletal Collection, Black and White males (n = 20 and 160, respectively) and females (n = 52 and 43, respectively)
@@ -17,26 +18,34 @@ Human Osteology: A laboratory and field manual, 5th edition.  Missouri Archaeolo
 * The ischiopubic ramus is most likely to display ambiguous morphology, and the ventral arc is least likely to display ambiguous morphology.
 * If sex assessment is based on one or two of the features that are definitely male or female, the estimate will be correct at least 96% of the time.
 
-**Rogers TL  (1999).** A visual method of determining the sex of skeletal remains using the distal humerus.  Journal of Forensic Sciences, 44:57-60.
+## **Rogers TL  (1999)** 
+A visual method of determining the sex of skeletal remains using the distal humerus. *Journal of Forensic Sciences,* 44:57-60.
 
 * *Purpose:*  Sex estimation based on the scoring of four dimorphic features of the distal humerus: trochlear constriction, trochlear asymmetry, olecranon fossa shape and depth, and the angle of the medial epicondyle. 
 * *Sample:*  Developed on a 20th century anatomy series, the University of Toronto Grant Skeletal Collection; tested on known individuals from the University of New Mexico Documented Collection (n = 35) and the William M. Bass Donated Skeletal Collection (n = 93).
 * In ambiguous cases (two traits scored as male, two traits scored as female), greater weight should be given to the olecranon fossa.  
 * The greatest accuracy is achieved when all four features are present and scorable. 
 
-**Rogers NL, Flournoy LE, McCormick WF (2000).** The rhomboid fossa of the clavicle as a sex and age estimator. Journal of Forensic Sciences, 45:61-67.
+## **Rogers NL, Flournoy LE, McCormick WF (2000)** 
+The rhomboid fossa of the clavicle as a sex and age estimator. *Journal of Forensic Sciences,* 45:61-67.
 
 * *Purpose:*  Sex estimation based on clavicle morphology, specifically, the presence or absence of the rhomboid fossa, which is a pitted or depressed marking on the inferior sternal end of the clavicle.  
-* *Sample:*  William F. McCormick skeletal collection, University of Tennessee - Knoxville, between 10 and 92 years of age.
-* n = 344: 113 females, 231 males
+* *Sample:*  William F. McCormick Skeletal Collection, University of Tennessee - Knoxville
+
+  * n = 344: 113 females, 231 males
+  * White (n=301) , Black (n=38), "Other" non-White (n=5)
+  * Ages: 10-92 years
+  
 * Males are more likely than females to have a rhomboid fossa, and rhomboid fossa are more commonly exhibited in younger individuals than older individuals. 
 * This method includes posterior probabilities for the presence/absence of the fossa. 
 
-**Walker PL (2005).** Greater sciatic notch morphology:  Sex, age, and population differences.  American Journal of Physical Anthropology, 127:385-391.
+## **Walker PL (2005).** 
+Greater sciatic notch morphology:  Sex, age, and population differences. *American Journal of Physical Anthropology,* 127:385-391.
 
 * Provides empirical probabilities of being male or female for a given sciatic notch score, following Buikstra and Ubelaker (1994). A score of 1 typically indicates a female, while a score of 3 or greater usually indicates a male.  A score of 2 represents intermediate morphology, although a larger percentage of males than females exhibit this degree of expression. There is also a relationship between age-at-death and sciatic notch score, with younger people tending to have wider greater sciatic notches. The reference sample consists of American males and females (n = 114 and 97, respectively) who died between 1915-1955, as well as London males and females (n = 51 and 34, respectively) who died between 1761-1851.
 
-**Walker PL (2008).** Sexing skulls using discriminant function analysis of visually assessed traits.  American Journal of Physical Anthropology, 136:39-50.
+## **Walker PL (2008).** 
+Sexing skulls using discriminant function analysis of visually assessed traits. *American Journal of Physical Anthropology,* 136:39-50.
 
 * Provides empirical probabilities of being male for a given score of observed cranial morphology following the ordinal scales presented in Buikstra and Ubelaker (1994).  The sectioning point is 0, and scores less than 0 are more likely to be male, and scores greater than 0 are more likely to be female.  The probability distributions are based on 304 skulls of known sex from European American, African American, English (British), and 156 Native American individuals.
 
