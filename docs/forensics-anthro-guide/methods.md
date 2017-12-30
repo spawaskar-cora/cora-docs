@@ -1,9 +1,9 @@
-# Methods
 In this section we present an annotated bibliography of analytical methods available in CoRA. This list will be updated as new methods are developed, published and added to the CoRA environment.
 
-## **Sex**
+# **SEX**
 
-**Bass WM (2005).** Human Osteology: A laboratory and field manual, 5th edition.  Missouri Archaeological Society, Columbia, MO. 
+## **Bass WM (2005)** 
+Human Osteology: A laboratory and field manual, 5th edition.  Missouri Archaeological Society, Columbia, MO. 
 
 * *Purpose:*  Sex determination from the skull.  
 * Characteristics of the cranium and mandible at six non-metric features are described (male vs. female): supraorbital ridge (prominent vs. smooth), supraorbital margins (blunt vs. sharp), palate/dentition (large vs. small), mastoid processes (large vs. small), frontal sinuses (large vs. small), and chin shape (square vs. rounded). 
