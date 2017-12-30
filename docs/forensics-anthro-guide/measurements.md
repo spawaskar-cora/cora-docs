@@ -5,7 +5,7 @@ Interlandmark distances of the cranium and mandible for skeletal biology.
 ## Cranium
 **Cra_01 Maximum Cranial Length (g-op, GOL):**  The straight-line distance from glabella (g) to opisthocranion (op) in the midsagittal plane. *Instrument:* spreading caliper.
 
-* *Comment:*  Set the skull on its base. Place one caliper point in the glabellar region in the midline and hold with fingers while the other caliper point is applied to the posterior portion of the skull in the midsagittal plane and moved up and down until the maximum length is obtained. On finding this, move the left point up and down slightly to make sure the reading is maximum (Howells 1973: 170; Martin and Knussmann 1988:168, #1; Moore-Jansen et al. 1994, #1; Langley et al. 2016:65, #1).
+* *Comments:*  Set the skull on its base. Place one caliper point in the glabellar region in the midline and hold with fingers while the other caliper point is applied to the posterior portion of the skull in the midsagittal plane and moved up and down until the maximum length is obtained. On finding this, move the left point up and down slightly to make sure the reading is maximum (Howells 1973: 170; Martin and Knussmann 1988:168, #1; Moore-Jansen et al. 1994, #1; Langley et al. 2016:65, #1).
 
 **Cra_02 Nasio-occipital Length (NOL):**  Maximum length in the midsagittal plane, measured from nasion (n). *Instrument:* spreading caliper.
 
