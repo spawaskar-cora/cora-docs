@@ -1,3 +1,6 @@
+!!! Warning:
+  This is a warning to test features of markdown.
+
 [TOC]
 
 # What is CoRA?
