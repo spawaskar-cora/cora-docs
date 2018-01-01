@@ -3,6 +3,9 @@
   
     You can put a big description for the warning here. This can include additional markdown elements including images or links to other pages.
 
+!!! note:
+	If the Scene played the sound, then the volume is not used.  If an object played the sound, the object's position is used to adjust the volume.
+    
 [TOC]
 
 # What is CoRA?
