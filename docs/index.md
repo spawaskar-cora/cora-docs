@@ -1,5 +1,7 @@
 !!! Warning:
-  This is a warning to test features of markdown.
+    This is a warning to test features of markdown.
+  
+    You can put a big description for the warning here. This can include additional markdown elements including images or links to other pages.
 
 [TOC]
 
@@ -12,6 +14,12 @@ Commingled human remains are often encountered in archaeological and forensic co
 The CoRA Ecosystem is build to on a flexible, extentesible and modular architecture, allowing for new modules to be added. It provides for easy integration with the flexibility to add new applications based on the cora data and integration frameworks. Users will be able to easily access their data via the data integration API allowing for integrations with other external systems as well as use for advanced analytics modules based upon new research, tools and technologies.
 
 ### CoRA Ecosystem sublevel1
+The CoRA Ecosystem is build to on a flexible, extentesible and modular architecture, allowing for new modules to be added. It provides for easy integration with the flexibility to add new applications based on the cora data and integration frameworks. Users will be able to easily access their data via the data integration API allowing for integrations with other external systems as well as use for advanced analytics modules based upon new research, tools and technologies.
+
+#### CoRA Ecosystem sublevel-sublevel1
+The CoRA Ecosystem is build to on a flexible, extentesible and modular architecture, allowing for new modules to be added. It provides for easy integration with the flexibility to add new applications based on the cora data and integration frameworks. Users will be able to easily access their data via the data integration API allowing for integrations with other external systems as well as use for advanced analytics modules based upon new research, tools and technologies.
+
+#### CoRA Ecosystem sublevel-sublevel2
 The CoRA Ecosystem is build to on a flexible, extentesible and modular architecture, allowing for new modules to be added. It provides for easy integration with the flexibility to add new applications based on the cora data and integration frameworks. Users will be able to easily access their data via the data integration API allowing for integrations with other external systems as well as use for advanced analytics modules based upon new research, tools and technologies.
 
 ### CoRA Ecosystem1 sublevel2
