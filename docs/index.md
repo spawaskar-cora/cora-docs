@@ -1,8 +1,3 @@
-!!! Warning:
-  This is a warning to test features of markdown.
-
-	You can put a big description for the warning here. This can include additional markdown elements including images or links to other pages.
-
 [TOC]
 
 # What is CoRA?
