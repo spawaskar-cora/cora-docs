@@ -1,5 +1,4 @@
-# CRANIAL MEASUREMENTS
-Interlandmark distances of the cranium and mandible for skeletal biology.
+Cranial and postcranial interlandmark distances for skeletal biology.
 
 
 ## Cranium
@@ -187,13 +186,6 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* mandibulometer.
 * *Comment:*  In case of “rocker jaws”, the bone is held in place by pressing down on the second molars (Martin and Knussmann 1988:185, #79; Moore-Jansen et al. 1994, #34; Langley et al. 2016:72, #37). 
-
-
-
-
-
-# POSTCRANIAL MEASUREMENTS
-Postcranial interlandmark distances for skeletal biology.
 
 
 ## Clavicle
