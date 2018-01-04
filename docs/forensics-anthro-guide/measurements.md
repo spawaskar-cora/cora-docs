@@ -1,7 +1,7 @@
 Cranial and postcranial interlandmark distances for skeletal biology.
 
 
-## Cranium
+# Cranium
 **Cra_01 Maximum Cranial Length (g-op, GOL):**  The straight-line distance from glabella (g) to opisthocranion (op) in the midsagittal plane. 
 
 * *Instrument:* spreading caliper.
