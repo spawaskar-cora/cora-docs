@@ -140,7 +140,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 
 
-## Mandible
+# Mandible
 **Man_01 Chin Height (id-gn):**  The distance from infradentale (id) to gnathion (gn). 
 
 * *Instrument:* sliding caliper.
@@ -188,7 +188,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Comment:*  In case of “rocker jaws”, the bone is held in place by pressing down on the second molars (Martin and Knussmann 1988:185, #79; Moore-Jansen et al. 1994, #34; Langley et al. 2016:72, #37). 
 
 
-## Clavicle
+# Clavicle
 **Cla_01 Maximum Length of the Clavicle:**  The maximum distance between the most extreme ends of the clavicle. 
 
 * *Instrument:* osteometric board. 
@@ -231,7 +231,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 
 
-## Scapula
+# Scapula
 **Sca_01 Height of the Scapula (Anatomical Height):**  The distance from the most superior point of the cranial angle to the most interior point on the caudal angle (Martin and Knussmann 1988:197, #1; Moore-Jansen et al. 1994, #38; Langley et al. 2016:74, #41). 
 
 * *Instrument:* sliding caliper or osteometric board.
@@ -255,7 +255,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 
 
-## Humerus
+# Humerus
 **Hum_01 Maximum Length of the Humerus:**  The distance from the most superior point on the head of the humerus to the most inferior point on the trochlea. 
 
 * *Instrument:* osteometric board.
@@ -297,7 +297,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 
 
-## Radius
+# Radius
 **Rad_01 Maximum Length of the Radius:**  The distance from the most proximally positioned point on the head of the radius to the tip of the styloid process without regard to the long axis of the bone. 
 
 * *Instrument:* osteometric board.
@@ -344,7 +344,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 
 
-## Ulna
+# Ulna
 **Uln_01 Maximum Length of the Ulna:**  The distance between the most proximal point on the olecranon and the most distal point on the styloid process. 
 
 * *Instrument:* osteometric board. 
@@ -401,7 +401,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Comment:*  Do not include the styloid process or the groove between the styloid process and the distal articular surface (Langley et al. 2016:76, #57). *This is an update to the **Physiological Length** measurement definition in Moore-Jansen et al.'s 1994 publication (measurement #51).*
 
 
-## Hands
+# Hands
 **MC1_01 Maximum Length of the 1st Metacarpal:**  This is the maximum length of the bone. 
 
 * *Instrument:* sliding calipers. 
@@ -468,7 +468,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5M).
 
 
-## Sacrum
+# Sacrum
 **Sac_01 Anterior Height of the Sacrum:**  The distance from the point on the promontory in the mid-sagittal plane to the corresponding point on the anterior border of the distal tip of the sacrum. 
 
 * *Instrument:* sliding caliper.
@@ -493,7 +493,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* osteometric board.
 
 
-## Os coxa
+# Os coxa
 **Osc_01 Maximum Innominate Height:**  The distance from the most superior point on the iliac crest to the most inferior point on the ischial tuberosity (Martin and Knussmann 1988:213, #1). 
 
 * *Instrument:* osteometric board or spreading caliper.
@@ -570,7 +570,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 
 
-## Femur
+# Femur
 **Fem_01 Maximum Length of the Femur:**  The distance from the most proximal point on the head of the femur to the most distal point on the medial or lateral femoral condyle (Martin and Knussmann 1988:216, #1). 
 
 * *Instrument:* osteometric board.
@@ -659,7 +659,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 
 
-## Patella
+# Patella
 **Pat_01 Maximum Length of the Patella:**  Find the maximum length (superior to inferior) of the patella (Byrd and Adams 2015, #74.5A). 
 
 * *Instrument:* sliding calipers.
@@ -673,7 +673,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding calipers.
 
 
-## Tibia
+# Tibia
 **Tib_01 Length of the Tibia:**  The distance from the superior articular surface of the lateral condyle of the tibia to the tip of the medial malleolus (Martin and Knussmann 1988:220, #1). 
 
 * *Instrument:* osteometric board. 
@@ -745,7 +745,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 
 
-## Fibula
+# Fibula
 **Fib_01 Maximum Length of the Fibula:**  The maximum distance between the most superior point on the fibular head and the most inferior point on the lateral malleolus (Martin and Knussmann 1988:222, #1). 
 
 * *Instrument:* osteometric board.
@@ -769,7 +769,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding calipers.
 
 
-## Calcaneus
+# Calcaneus
 **Cal_01 Maximum Length of the Calcaneus (MCAL):**  The distance between the most posteriorly projecting point on the calcaneal tuberosity and the most anterior point on the superior margin of the articular facet for the cuboid measured in the sagittal plane (Martin and Knussmann 1988:225 #1). 
 
 * *Instrument:* sliding caliper or osteometric board. 
@@ -789,7 +789,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 
 
-## Talus
+# Talus
 **Tal_01 Minimum Trochlear Breadth:**  This is the minimum breadth of the trochlea (superior articular surface). Place the flat surfaces of the jaws of the sliding calipers on either side of the articular surface with the jaws (approximately) parallel to the long axis of the bones. Close the jaws to take the minimum value (Byrd 2008, #79). 
 
 * *Instrument:* sliding caliper.
@@ -803,7 +803,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
  
 
-## Feet
+# Feet
 **MT1_01 Maximum Length of the 1st Metatarsal:**  This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. 
 
 * *Instrument:* sliding caliper.
@@ -855,7 +855,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc (Byrd and Adams 2015, #80J).
 
 
-## Vertebrae
+# Vertebrae
 **Cer1_01 (Left), Cer1_02 (Right) Maximum Length of the Superior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81A). 
 
 * *Instrument:* sliding caliper.
