@@ -48,6 +48,7 @@ In this section we present the images used in the Zonation Method for inventory 
 14. Left nasal bone
 
 ![Skull posterior](/docs/images/zones/)
+
 **Skull, posterior view**
 
 *Zone descriptions*
@@ -58,6 +59,7 @@ In this section we present the images used in the Zonation Method for inventory 
 7. Right temporal, including the root of thez ygomatic process from the right side
 
 ![Skull inferior](/docs/images/zones/)
+
 **Skull, inferior view**
 
 *Zone descriptions*
@@ -75,6 +77,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 
 ![Skull superior](/docs/images/zones/)
+
 **Skull, superior view**
 
 *Zone descriptions*
@@ -133,6 +136,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 ### Thoracic and lumbar vertebrae
 ![Thoracic vertebra](/docs/images/zones/thoracic_500.png)
+
 **Thoracic vertebra (also applies to lumbar vertebrae). Left: superior view, right: lateral view.**
 
 *Zone descriptions*
@@ -143,6 +147,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 ### Sacrum
 ![Sacrum](/docs/images/zones/Sacrum_500.png)
+
 **Sacrum. Left: anterior view, right: posterior view.**
 
 *Zone descriptions*
@@ -154,6 +159,7 @@ In this section we present the images used in the Zonation Method for inventory 
 ## **Thorax and Shoulder**
 ### Rib 1
 ![Rib1](/docs/images/zones/rib01_500.png)
+
 **Left rib 1. Above: inferior view, below: superior view.**
 
 *Zone descriptions*
@@ -163,6 +169,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 ### Ribs 2-12
 ![Ribs](/docs/images/zones/ribs_500.png)
+
 **Left rib 7. Above: inferior view, below: superior view.**
 
 *Zone descriptions*
@@ -172,6 +179,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 ### Sternum
 ![Sternum](/docs/images/zones/Sternum_500.png)
+
 **Sternum. Left: anterior view, right: posterior view.**
 
 *Zone descriptions*
@@ -181,6 +189,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 ### Clavicle
 ![Clavicle](/docs/images/zones/Clavicle_left_500.png)
+
 **Left clavicle. Above: superior view, below: inferior view.**
 
 *Zone descriptions*
@@ -190,6 +199,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 ### Scapula
 ![Scapula](/docs/images/zones/Scapula_left_500.png)
+
 **Left scapula. Left: anterior view, right: posterior view.**
 
 *Zone descriptions*
@@ -206,6 +216,7 @@ In this section we present the images used in the Zonation Method for inventory 
 ## **Upper limb**
 ### Humerus
 ![Humerus](/docs/images/zones/Humerus_Left_500.png)
+
 **Left humerus. Left: posterior view, right: anterior view.**
 
 *Zone descriptions*
@@ -223,6 +234,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 ### Radius
 ![Radius](/docs/images/zones/Radius_left_500.png)
+
 **Left radius. Left: posterior view, right: anterior view.**
 
 *Zone descriptions*
@@ -240,6 +252,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 ### Ulna
 ![Ulna](/docs/images/zones/Ulna_left_500.png)
+
 **Left ulna. Left: posterior view, right: anterior view.**
 
 *Zone descriptions*
@@ -255,6 +268,7 @@ In this section we present the images used in the Zonation Method for inventory 
 ## **Pelvis and Lower Limb**
 ### Os coxa
 ![Os coxa](/docs/images/zones/Oscoxa_left_500.png)
+
 **Left os coxa. Left: medial/internal view, right: lateral/external view.**
 
 *Zone descriptions*
@@ -273,6 +287,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 ### Femur
 ![Femur](/docs/images/zones/Femur3_500.png)
+
 **Left femur. Left: posterior view, right: anterior view.**
 
 *Zone descriptions*
@@ -283,20 +298,23 @@ In this section we present the images used in the Zonation Method for inventory 
 5. Neck of the element and area along the inter-trochanteric line (anteriorly) and intertrochanteric crest (posteriorly)
 6. Middle poriton of the diaphysis to the point where the linea aspera bifurcates into the supra-condylar lines, including the nutrient forament, which is located posteriorly
 7. Lateral half of the distal third of the diaphysis split longitudinally in the sagittal plance, including one-half of the popliteal space (posteriorly)
-8. Medial half of the distal third of the diaphysis split longitudinally in the sagittal place, including one-half of the popliteal space (posteriorly(
+8. Medial half of the distal third of the diaphysis split longitudinally in the sagittal place, including one-half of the popliteal space (posteriorly)
 9. Lateral condyle and epicondyle
 10. Medial condyle and epicondyle
 11. Intercondylar space and sital articulation anteriorly
 
 ### Patella
 ![Patella](/docs/images/zones/patella_500.png)
+
 **Left patella. Above: posterior view, Below: anterior view.**
 
 ### Tibia
 ![Tibia](/docs/images/zones/Tibia_left_500.png)
+
 **Left tibia. Left: posterior view, right: anterior view.**
 
 *Zone descriptions*
+
 1. medial proximal condyle
 2. Intercondylar fossa between the tibial spines, including the area of attachment of the posterior cruciate ligament
 3. Lateral proximal condyle
@@ -311,10 +329,57 @@ In this section we present the images used in the Zonation Method for inventory 
 ### Fibula
 ![Fibula](/docs/images/zones/fibula_500.png)
 
+**Left fibula. Left: anterior view, right: posterior view.**
+
+*Zone descriptions*
+
+1. Proximal end, essentially the juvenile epiphysis, including the styloid process
+2. Distal end, essentially the juvenile epiphysis
+3. Most distal quarter of the disphysis, including the attachment fo rhte inferior portion of the interosseious ligament (a triangular rugose region with its apex directed anteriorly)
+4. Middle quarter of the diaphysis, including the nutrient foramen, which is located posteriorly
+5. Second quarter of the disphysis
+6. Most porximal quarter of the diaphysis, distal to the juvenile epiphysis
+
 
 ## **Hands and Feet**
 ### Hand
 ![Hand](/docs/images/zones/Hand_left_500.png)
 
+**Hand and wrist. Left: dorsal right hand, right: palmar left hand.**
+
+*Zone descriptions*
+
+Carpals
+1. Present or absent
+
+Metapodials and phalanges
+1. Proximal articulation
+2. Distal artiuclar condyle
+3. Diaphysis
+
 ### Foot
 ![Foot](/docs/images/zones/Foot_right_500.png)
+**Right foot and ankle. Left: dorsal view, right: plantar view.**
+
+*Zone descriptions*
+
+Calcaneus
+1. Tuber calcis
+2. Distal portion of the body
+3. Sustentaculum tali
+4. Proximal articulation
+5. Proximal portion of the body inferior to the articulations
+
+Talus
+1. Medial half of the trochlea
+2. Lateral half of the trochlea
+3. Medial half of the proximal portion, splitting the head sagittally
+4. Lateral half of the proximal portion, splitting the head sagittally
+
+Remaining tarsals
+1. Present or absent
+
+Metapodials and phalanges
+1. Proximal articulation
+2. Distal artiuclar condyle
+3. Diaphysis
