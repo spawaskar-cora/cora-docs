@@ -365,6 +365,7 @@ Metacarpals and phalanges
 
 ### Foot
 ![Foot](/docs/images/zones/Foot_right_500.png)
+
 **Right foot and ankle. Left: dorsal view, right: plantar view.**
 
 *Zones*
