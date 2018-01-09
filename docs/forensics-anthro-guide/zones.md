@@ -1,4 +1,5 @@
-In this section we present the images used in the Zonation Method for inventory of fragmented human remains.
+In this section we present the images used in the Zonation Method for inventory of fragmented human remains, along with captions and desciptions of each of the zones.
+
 # **SKULL**
 ## **Cranium**
 ![Skull anterior](/docs/images/zones/)
@@ -7,13 +8,13 @@ In this section we present the images used in the Zonation Method for inventory 
 
 *Zone descriptions*
 1. Right frontal, split sagittally through the metopic suture
-2. Left frontal, split sagittally through the juvenile metopic suture
+2. Left frontal, split sagittally through the metopic suture
 3. Right parietal
 4. Left parietal
-6. Left temporal, including the root of the zygomatic process from the left side
-7. Right temporal, including the root of thez ygomatic process from the right side
-10. Left zygoma
-11. Right zygoma
+6. Left temporal, including the root of the zygomatic process
+7. Right temporal, including the root of the zygomatic process
+10. Left zygomatic bone
+11. Right zygomatic bone
 12. Left maxilla
 13. Right maxilla
 14. Left nasal bone
@@ -27,9 +28,9 @@ In this section we present the images used in the Zonation Method for inventory 
 1. Right frontal, split sagittally through the metopic suture
 3. Right parietal
 5. Occipital
-7. Right temporal, including the root of thez ygomatic process from the right side
+7. Right temporal, including the root of the zygomatic process
 9. Right sphenoid
-11. Right zygoma
+11. Right zygomatic bone
 13. Right maxilla
 15. Right nasal bone
 
@@ -38,12 +39,12 @@ In this section we present the images used in the Zonation Method for inventory 
 **Skull, lateral left view**
 
 *Zone descriptions*
-2. Left frontal, split sagittally through the juvenile metopic suture
+2. Left frontal, split sagittally through the metopic suture
 4. Left parietal
 5. Occipital
-6. Left temporal, including the root of the zygomatic process from the left side
+6. Left temporal, including the root of the zygomatic process
 8. Left sphenoid
-10. Left zygoma
+10. Left zygomatic bone
 12. Left maxilla
 14. Left nasal bone
 
@@ -55,8 +56,8 @@ In this section we present the images used in the Zonation Method for inventory 
 3. Right parietal
 4. Left parietal
 5. Occipital
-6. Left temporal, including the root of the zygomatic process from the left side
-7. Right temporal, including the root of thez ygomatic process from the right side
+6. Left temporal, including the root of the zygomatic process
+7. Right temporal, including the root of thez ygomatic process
 
 ![Skull inferior](/docs/images/zones/)
 
@@ -66,12 +67,12 @@ In this section we present the images used in the Zonation Method for inventory 
 3. Right parietal
 4. Left parietal
 5. Occipital
-6. Left temporal, including the root of the zygomatic process from the left side
-7. Right temporal, including the root of thez ygomatic process from the right side
+6. Left temporal, including the root of the zygomatic process
+7. Right temporal, including the root of thez ygomatic process
 8. Left sphenoid
 9. Right sphenoid
-10. Left zygoma
-11. Right zygoma
+10. Left zygomatic bone
+11. Right zygomatic bone
 12. Palatal process of the left maxilla
 13. Palatal proces of the right maxilla
 
@@ -82,12 +83,12 @@ In this section we present the images used in the Zonation Method for inventory 
 
 *Zone descriptions*
 1. Right frontal, split sagittally through the metopic suture
-2. Left frontal, split sagittally through the juvenile metopic suture
+2. Left frontal, split sagittally through the metopic suture
 3. Right parietal
 4. Left parietal
 5. Occipital
-6. Left temporal, including the root of the zygomatic process from the left side
-7. Right temporal, including the root of thez ygomatic process from the right side
+6. Left temporal, including the root of the zygomatic process
+7. Right temporal, including the root of the zygomatic process
 14. Left nasal bone
 15. Right nasal bone
 
@@ -98,27 +99,26 @@ In this section we present the images used in the Zonation Method for inventory 
 **Left mandible. Above: medial/internal view, below: lateral/external view.**
 
 *Zone descriptions*
-1. The portion of the corpus, including the alveoli for the premolars and molars as well as the premolars and molars themselves
-2. The portion of the corpus, including the alveolus fo rthe canine and the canine itself
-3. The area of the ascending ramus inferior to the coronoid process
-4. The coronoid process
-5. The mandibular condyle
-6. The gonial angle, including the mandibular foramen and mylohyoid groove (internally) and the attachment of M. masseter externally)
-7. The anterior portion of the corpus, includin the alveoli of the icisors and the incisors themselves
+1. Portion of the corpus, including alveoli for the premolars and molars as well as the premolars and molars themselves
+2. Portion of the corpus, including alveolus for the canine and the canine itself
+3. Area of the ascending ramus inferior to the coronoid process
+4. Coronoid process
+5. Mandibular condyle
+6. Gonial angle, including the mandibular foramen and mylohyoid groove (internally) and the attachment of M. masseter externally)
+7. Anterior portion of the corpus, including the alveoli of the incisors and the incisors themselves
 
 ![Mandible right](/docs/images/zones/Mandible_right_500.png)
 
 **Right mandible. Above: medial/internal view, below: lateral/external view.**
 
 *Zone descriptions*
-8. The portion of the corpus, including the alveoli for the premolars and molars as well as the premolars and molars themselves
-9. The portion of the corpus, including the alveolus fo rthe canine and the canine itself
-10. The area of the ascending ramus inferior to the coronoid process
-11. The coronoid process
-12. The mandibular condyle
-13. The gonial angle, including the mandibular foramen and mylohyoid groove (internally) and the attachment of M. masseter externally)
-14. The anterior portion of the corpus, includin the alveoli of the icisors and the incisors themselves
-
+8. Portion of the corpus, including alveoli for the premolars and molars as well as the premolars and molars themselves
+9. Portion of the corpus, including alveolus for the canine and the canine itself
+10. Area of the ascending ramus inferior to the coronoid process
+11. Coronoid process
+12. Mandibular condyle
+13. Gonial angle, including the mandibular foramen and mylohyoid groove (internally) and the attachment of M. masseter externally)
+14. Anterior portion of the corpus, including the alveoli of the incisors and the incisors themselves
 
 
 # **POSTCRANIAL REMAINS**
@@ -130,8 +130,8 @@ In this section we present the images used in the Zonation Method for inventory 
 
 *Zone descriptions*
 1. Body
-2. Right transverse process, including the pedicle, pars interaticularis, and articular facets
-3. Left transverse process, including the pedicle, pars interaticularis, and aricular facets
+2. Right transverse process, including the pedicle, pars interarticularis, and articular facets
+3. Left transverse process, including the pedicle, pars interarticularis, and articular facets
 4. Spinous process
 
 ### Thoracic and lumbar vertebrae
@@ -141,8 +141,8 @@ In this section we present the images used in the Zonation Method for inventory 
 
 *Zone descriptions*
 1. Body
-2. Right transverse process, including the pedicle, pars interaticularis, and articular facets
-3. Left transverse process, including the pedicle, pars interaticularis, and aricular facets
+2. Right transverse process, including the pedicle, pars interarticularis, and articular facets
+3. Left transverse process, including the pedicle, pars interarticularis, and articular facets
 4. Spinous process
 
 ### Sacrum
@@ -152,8 +152,8 @@ In this section we present the images used in the Zonation Method for inventory 
 
 *Zone descriptions*
 1. Body
-2. Right transverse process, including the pedicle, pars interaticularis, and articular facets
-3. Left transverse process, including the pedicle, pars interaticularis, and aricular facets
+2. Right transverse process, including the pedicle, pars interarticularis, and articular facets
+3. Left transverse process, including the pedicle, pars interarticularis, and articular facets
 4. Spinous process
 
 ## **Thorax and Shoulder**
@@ -193,9 +193,9 @@ In this section we present the images used in the Zonation Method for inventory 
 **Left clavicle. Above: superior view, below: inferior view.**
 
 *Zone descriptions*
-1. Sternal end, including the area fo the atachment fo rthe cost-clavicular ligament
-2. Acromial end, including the conoid tubecle and trapezoid line, the attachments for the two components of the coraco-clavicular ligament
-3. Diaphysis, including the groove which marks the attachment for M. subclavius
+1. Sternal end, including the area of the atachment for the costo-clavicular ligament
+2. Acromial end, including the conoid tubecle and trapezoid line
+3. Diaphysis, including the groove that marks the attachment for M. subclavius
 
 ### Scapula
 ![Scapula](/docs/images/zones/Scapula_left_500.png)
@@ -204,12 +204,12 @@ In this section we present the images used in the Zonation Method for inventory 
 
 *Zone descriptions*
 1. Coracoid process
-2. Superior half of the gelnoid cavity
+2. Superior half of the glenoid cavity
 3. Inferior half of the glenoid cavity
-4. Acromial end and axillary third of the spine
-5. Axillary third of the squamous portion and spine, including the neck and the area inferior to the coracoid process
+4. Acromial end and axillary/lateral third of the spine
+5. Axillary/lateral third of the squamous portion and spine, including the neck and the area inferior to the coracoid process
 6. Middle third of the supraspinous fossa
-7. Axillary half of the squamous portion inferior to the spine, including the infraspinous fossa
+7. Axillary/lateral half of the squamous portion inferior to the spine, including the infraspinous fossa
 8. Vertebral third of the squamous portion and spine, including the attachment for M. rhomboideus major and suprasprinous fossa
 9. Vertebral half of the squamous portion inferior to the spine, including the infraspinous fossa
 
@@ -227,9 +227,9 @@ In this section we present the images used in the Zonation Method for inventory 
 5. Lateral articular process (capitulum) of the condyle
 6. Medial articular process (trochlea) of the condyle
 7. Distal lateral half of the diaphysis, including one-half of the olecranon fossa and the radial fossa
-8. Distal medial half of the diaphysis, including one-half of the olecranon fosssa and the coronoid fossa, including the nutrient forament
-9. Area surroudning the deltoid tuberosity
-10. Area opposite 9 making up one-half of the diaphysis longitudinally in the sagittal plane and cutting the bone transversely from medial to lateral
+8. Distal medial half of the diaphysis, including one-half of the olecranon fosssa and the coronoid fossa, including the nutrient foramen
+9. Area surrounding the deltoid tuberosity
+10. Area opposite zone 9 making up one-half of the diaphysis longitudinally in the sagittal plane and cutting the bone transversely from medial to lateral
 11. Proximal portion of the diaphysis, including the surgical neck
 
 ### Radius
@@ -243,8 +243,8 @@ In this section we present the images used in the Zonation Method for inventory 
 3. Lateral portion of the distal articulation
 4. Medial portion of the distal articulation
 5. Proximal portion of the diaphysis, including the radial tuberosity
-6. Lateral half o fthe diaphysis to the mid-point of the diaphysis, including the attachment for M. pronator teres
-7. Medial half of diaphysis to the mid-point of the diaphysis, opposite zone 6, including hte nutrient forament, which is located antero-medially
+6. Lateral half of the diaphysis to the mid-point of the diaphysis, including the attachment for M. pronator teres
+7. Medial half of diaphysis to the mid-point of the diaphysis, opposite zone 6, including the nutrient foramen, which is located antero-medially
 8. Superior half of the distal third of the radius
 9. Lateral distal third of the diaphysis
 10. Medial distal third of the diaphysis
@@ -259,10 +259,10 @@ In this section we present the images used in the Zonation Method for inventory 
 1. Olecranon process
 2. Area of the trochlear or semi-lunar notch, including the coronoid process
 3. Radial notch
-4. Proximal half of the diaphysis distal to area C
-5. Middle portion of the shaft
+4. Proximal half of the diaphysis distal to zone 3
+5. Middle portion of the diaphysis
 6. Superior one-half of the distal third of the diaphysis
-7. Distal half of the distal third of the shaft, including the attachment of M. pronator quadratus
+7. Distal half of the distal third of the diaphysis, including the attachment of M. pronator quadratus
 8. Styloid process and head, including the posterior groove for M. extensor carpi ulnaris
 
 ## **Pelvis and Lower Limb**
@@ -276,12 +276,12 @@ In this section we present the images used in the Zonation Method for inventory 
 2. Posterior half of the inferior portion of the acetabulum and adjoining areas
 3. Anterior half of the inferior portion of the acetabulum and adjoining areas
 4. Superior portion of the ischium, including the ischial spine
-5. Inferior portion of the ilium, including the greater sicatic notch
+5. Inferior portion of the ilium, including the greater sciatic notch
 6. Superior portion of the ischial tuberosity
 7. Auricular surface of the ilium
 8. Superior portion of the pubis possessing the pectineal line and pubic tubercle
 9. Inferior portion of the pubis, including the pubic symphysis
-10. Greater part of the ilium, marked in an atnero-posterior diretion by a line running from just inferior to the anterior superior iliac spine to the posterior inferior iliac spine, but not including the iliac ccrest (superiorly)
+10. Greater part of the ilium, marked in an antero-posterior diretion by a line running from just inferior to the anterior superior iliac spine to the posterior inferior iliac spine, but not including the iliac crest (superiorly)
 11. Inferior portion of the ischial tuberosity
 12. Iliac crest
 
@@ -296,12 +296,12 @@ In this section we present the images used in the Zonation Method for inventory 
 3. Area of the cranial attachment of M. gluteus maximus
 4. Caput
 5. Neck of the element and area along the inter-trochanteric line (anteriorly) and intertrochanteric crest (posteriorly)
-6. Middle poriton of the diaphysis to the point where the linea aspera bifurcates into the supra-condylar lines, including the nutrient forament, which is located posteriorly
-7. Lateral half of the distal third of the diaphysis split longitudinally in the sagittal plance, including one-half of the popliteal space (posteriorly)
+6. Middle portion of the diaphysis to the point where the linea aspera bifurcates into the supra-condylar lines, including the nutrient forament, which is located posteriorly
+7. Lateral half of the distal third of the diaphysis split longitudinally in the sagittal plane, including one-half of the popliteal space (posteriorly)
 8. Medial half of the distal third of the diaphysis split longitudinally in the sagittal place, including one-half of the popliteal space (posteriorly)
 9. Lateral condyle and epicondyle
 10. Medial condyle and epicondyle
-11. Intercondylar space and sital articulation anteriorly
+11. Intercondylar space and distal articulation anteriorly
 
 ### Patella
 ![Patella](/docs/images/zones/patella_500.png)
@@ -315,13 +315,13 @@ In this section we present the images used in the Zonation Method for inventory 
 
 *Zone descriptions*
 
-1. medial proximal condyle
+1. Medial proximal condyle
 2. Intercondylar fossa between the tibial spines, including the area of attachment of the posterior cruciate ligament
 3. Lateral proximal condyle
 4. Area of the tibial tuberosity
 5. Area of the medial malleolus
-6. Area of the alteral malleolus
-7. Proximal quarter of the diaphysis, including the nutrient forament, posteriorly
+6. Area of the lateral malleolus
+7. Proximal quarter of the diaphysis, including the nutrient foramen, which is located posteriorly
 8. Second quarter of the diaphysis
 9. Third quarter of the diaphysis
 10. Distal quarter of the diaphysis
@@ -335,10 +335,10 @@ In this section we present the images used in the Zonation Method for inventory 
 
 1. Proximal end, essentially the juvenile epiphysis, including the styloid process
 2. Distal end, essentially the juvenile epiphysis
-3. Most distal quarter of the disphysis, including the attachment fo rhte inferior portion of the interosseious ligament (a triangular rugose region with its apex directed anteriorly)
+3. Most distal quarter of the diaphysis, including the attachment for the inferior portion of the interosseous ligament (a triangular rugose region with its apex directed anteriorly)
 4. Middle quarter of the diaphysis, including the nutrient foramen, which is located posteriorly
-5. Second quarter of the disphysis
-6. Most porximal quarter of the diaphysis, distal to the juvenile epiphysis
+5. Second quarter of the diaphysis
+6. Most proximal quarter of the diaphysis, distal to the juvenile epiphysis
 
 
 ## **Hands and Feet**
@@ -352,7 +352,7 @@ In this section we present the images used in the Zonation Method for inventory 
 Carpals
 1. Present or absent
 
-Metapodials and phalanges
+Metacarpals and phalanges
 1. Proximal articulation
 2. Distal artiuclar condyle
 3. Diaphysis
@@ -379,7 +379,7 @@ Talus
 Remaining tarsals
 1. Present or absent
 
-Metapodials and phalanges
+Metatarsals and phalanges
 1. Proximal articulation
 2. Distal artiuclar condyle
 3. Diaphysis
