@@ -6,7 +6,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Skull, anterior view.**
 
-*Zone descriptions*
+*Zones*
 1. Right frontal, split sagittally through the metopic suture
 2. Left frontal, split sagittally through the metopic suture
 3. Right parietal
@@ -24,7 +24,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Skull, lateral right view**
 
-*Zone descriptions*
+*Zones*
 1. Right frontal, split sagittally through the metopic suture
 3. Right parietal
 5. Occipital
@@ -38,7 +38,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Skull, lateral left view**
 
-*Zone descriptions*
+*Zones*
 2. Left frontal, split sagittally through the metopic suture
 4. Left parietal
 5. Occipital
@@ -52,7 +52,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Skull, posterior view**
 
-*Zone descriptions*
+*Zones*
 3. Right parietal
 4. Left parietal
 5. Occipital
@@ -63,7 +63,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Skull, inferior view**
 
-*Zone descriptions*
+*Zones*
 3. Right parietal
 4. Left parietal
 5. Occipital
@@ -81,7 +81,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Skull, superior view**
 
-*Zone descriptions*
+*Zones*
 1. Right frontal, split sagittally through the metopic suture
 2. Left frontal, split sagittally through the metopic suture
 3. Right parietal
@@ -98,7 +98,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Left mandible. Above: medial/internal view, below: lateral/external view.**
 
-*Zone descriptions*
+*Zones*
 1. Portion of the corpus, including alveoli for the premolars and molars as well as the premolars and molars themselves
 2. Portion of the corpus, including alveolus for the canine and the canine itself
 3. Area of the ascending ramus inferior to the coronoid process
@@ -111,7 +111,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Right mandible. Above: medial/internal view, below: lateral/external view.**
 
-*Zone descriptions*
+*Zones*
 8. Portion of the corpus, including alveoli for the premolars and molars as well as the premolars and molars themselves
 9. Portion of the corpus, including alveolus for the canine and the canine itself
 10. Area of the ascending ramus inferior to the coronoid process
@@ -128,7 +128,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Cervical vertebra. Left: superior view, right: lateral view.**
 
-*Zone descriptions*
+*Zones*
 1. Body
 2. Right transverse process, including the pedicle, pars interarticularis, and articular facets
 3. Left transverse process, including the pedicle, pars interarticularis, and articular facets
@@ -139,7 +139,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Thoracic vertebra (also applies to lumbar vertebrae). Left: superior view, right: lateral view.**
 
-*Zone descriptions*
+*Zones*
 1. Body
 2. Right transverse process, including the pedicle, pars interarticularis, and articular facets
 3. Left transverse process, including the pedicle, pars interarticularis, and articular facets
@@ -150,7 +150,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Sacrum. Left: anterior view, right: posterior view.**
 
-*Zone descriptions*
+*Zones*
 1. Body
 2. Right transverse process, including the pedicle, pars interarticularis, and articular facets
 3. Left transverse process, including the pedicle, pars interarticularis, and articular facets
@@ -162,7 +162,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Left rib 1. Above: inferior view, below: superior view.**
 
-*Zone descriptions*
+*Zons*
 1. Head
 2. Area of the angle of the rib, including the articular and non-articular costal facets in ribs 1 through 10
 3. Remaining corpus and sternal end
@@ -172,7 +172,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Left rib 7. Above: inferior view, below: superior view.**
 
-*Zone descriptions*
+*Zones*
 1. Head
 2. Area of the angle of the rib, including the articular and non-articular costal facets in ribs 1 through 10
 3. Remaining corpus and sternal end
@@ -182,7 +182,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Sternum. Left: anterior view, right: posterior view.**
 
-*Zone descriptions*
+*Zones*
 1. Manubrium
 2. Corpus sterni
 3. Xiphoid process
@@ -192,7 +192,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Left clavicle. Above: superior view, below: inferior view.**
 
-*Zone descriptions*
+*Zones*
 1. Sternal end, including the area of the atachment for the costo-clavicular ligament
 2. Acromial end, including the conoid tubecle and trapezoid line
 3. Diaphysis, including the groove that marks the attachment for M. subclavius
@@ -202,7 +202,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Left scapula. Left: anterior view, right: posterior view.**
 
-*Zone descriptions*
+*Zones*
 1. Coracoid process
 2. Superior half of the glenoid cavity
 3. Inferior half of the glenoid cavity
@@ -219,7 +219,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Left humerus. Left: posterior view, right: anterior view.**
 
-*Zone descriptions*
+*Zones*
 1. Greater and lesser tubercles
 2. Caput
 3. Lateral epicondyle
@@ -237,7 +237,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Left radius. Left: posterior view, right: anterior view.**
 
-*Zone descriptions*
+*Zones*
 1. Lateral half of the radial head
 2. Medial half of the radial head
 3. Lateral portion of the distal articulation
@@ -255,7 +255,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Left ulna. Left: posterior view, right: anterior view.**
 
-*Zone descriptions*
+*Zones*
 1. Olecranon process
 2. Area of the trochlear or semi-lunar notch, including the coronoid process
 3. Radial notch
@@ -271,7 +271,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Left os coxa. Left: medial/internal view, right: lateral/external view.**
 
-*Zone descriptions*
+*Zones*
 1. Superior portion of the acetabulum and adjoining areas anteriorly and posteriorly
 2. Posterior half of the inferior portion of the acetabulum and adjoining areas
 3. Anterior half of the inferior portion of the acetabulum and adjoining areas
@@ -290,7 +290,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Left femur. Left: posterior view, right: anterior view.**
 
-*Zone descriptions*
+*Zones*
 1. Greater trochanter
 2. Area around the lesser trochanter and the lesser trochanter
 3. Area of the cranial attachment of M. gluteus maximus
@@ -313,7 +313,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Left tibia. Left: posterior view, right: anterior view.**
 
-*Zone descriptions*
+*Zones*
 
 1. Medial proximal condyle
 2. Intercondylar fossa between the tibial spines, including the area of attachment of the posterior cruciate ligament
@@ -331,7 +331,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Left fibula. Left: anterior view, right: posterior view.**
 
-*Zone descriptions*
+*Zones*
 
 1. Proximal end, essentially the juvenile epiphysis, including the styloid process
 2. Distal end, essentially the juvenile epiphysis
@@ -347,7 +347,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 **Hand and wrist. Left: dorsal right hand, right: palmar left hand.**
 
-*Zone descriptions*
+*Zones*
 
 Carpals
 1. Present or absent
@@ -361,7 +361,7 @@ Metacarpals and phalanges
 ![Foot](/docs/images/zones/Foot_right_500.png)
 **Right foot and ankle. Left: dorsal view, right: plantar view.**
 
-*Zone descriptions*
+*Zones*
 
 Calcaneus
 1. Tuber calcis
