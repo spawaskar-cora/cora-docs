@@ -7,90 +7,94 @@ In this section we present the images used in the Zonation Method for inventory 
 **Skull, anterior view.**
 
 *Zones*
-1. Right frontal, split sagittally through the metopic suture
-2. Left frontal, split sagittally through the metopic suture
-3. Right parietal
-4. Left parietal
-6. Left temporal, including the root of the zygomatic process
-7. Right temporal, including the root of the zygomatic process
-10. Left zygomatic bone
-11. Right zygomatic bone
-12. Left maxilla
-13. Right maxilla
-14. Left nasal bone
-15. Right nasal bone
+
+> 1. Right frontal, split sagittally through the metopic suture
+> 2. Left frontal, split sagittally through the metopic suture
+> 3. Right parietal
+> 4. Left parietal
+> 6. Left temporal, including the root of the zygomatic process
+> 7. Right temporal, including the root of the zygomatic process
+> 10. Left zygomatic bone
+> 11. Right zygomatic bone
+> 12. Left maxilla
+> 13. Right maxilla
+> 14. Left nasal bone
+> 15. Right nasal bone
 
 ![Skull lateral right](/docs/images/zones/)
 
 **Skull, lateral right view**
 
 *Zones*
-1. Right frontal, split sagittally through the metopic suture
-3. Right parietal
-5. Occipital
-7. Right temporal, including the root of the zygomatic process
-9. Right sphenoid
-11. Right zygomatic bone
-13. Right maxilla
-15. Right nasal bone
+
+> 1. Right frontal, split sagittally through the metopic suture
+> 3. Right parietal
+> 5. Occipital
+> 7. Right temporal, including the root of the zygomatic process
+> 9. Right sphenoid
+> 11. Right zygomatic bone
+> 13. Right maxilla
+> 15. Right nasal bone
 
 ![Skull lateral left](/docs/images/zones/)
 
 **Skull, lateral left view**
 
 *Zones*
-2. Left frontal, split sagittally through the metopic suture
-4. Left parietal
-5. Occipital
-6. Left temporal, including the root of the zygomatic process
-8. Left sphenoid
-10. Left zygomatic bone
-12. Left maxilla
-14. Left nasal bone
+
+> 2. Left frontal, split sagittally through the metopic suture
+> 4. Left parietal
+> 5. Occipital
+> 6. Left temporal, including the root of the zygomatic process
+> 8. Left sphenoid
+> 10. Left zygomatic bone
+> 12. Left maxilla
+> 14. Left nasal bone
 
 ![Skull posterior](/docs/images/zones/)
 
 **Skull, posterior view**
 
 *Zones*
-3. Right parietal
-4. Left parietal
-5. Occipital
-6. Left temporal, including the root of the zygomatic process
-7. Right temporal, including the root of thez ygomatic process
+
+> 3. Right parietal
+> 4. Left parietal
+> 5. Occipital
+> 6. Left temporal, including the root of the zygomatic process
+> 7. Right temporal, including the root of thez ygomatic process
 
 ![Skull inferior](/docs/images/zones/)
 
 **Skull, inferior view**
 
 *Zones*
-3. Right parietal
-4. Left parietal
-5. Occipital
-6. Left temporal, including the root of the zygomatic process
-7. Right temporal, including the root of thez ygomatic process
-8. Left sphenoid
-9. Right sphenoid
-10. Left zygomatic bone
-11. Right zygomatic bone
-12. Palatal process of the left maxilla
-13. Palatal proces of the right maxilla
 
+> 3. Right parietal
+> 4. Left parietal
+> 5. Occipital
+> 6. Left temporal, including the root of the zygomatic process
+> 7. Right temporal, including the root of thez ygomatic process
+> 8. Left sphenoid
+> 9. Right sphenoid
+> 10. Left zygomatic bone
+> 11. Right zygomatic bone
+> 12. Palatal process of the left maxilla
+> 13. Palatal proces of the right maxilla
 
 ![Skull superior](/docs/images/zones/)
 
 **Skull, superior view**
 
 *Zones*
-1. Right frontal, split sagittally through the metopic suture
-2. Left frontal, split sagittally through the metopic suture
-3. Right parietal
-4. Left parietal
-5. Occipital
-6. Left temporal, including the root of the zygomatic process
-7. Right temporal, including the root of the zygomatic process
-14. Left nasal bone
-15. Right nasal bone
+> 1. Right frontal, split sagittally through the metopic suture
+> 2. Left frontal, split sagittally through the metopic suture
+> 3. Right parietal
+> 4. Left parietal
+> 5. Occipital
+> 6. Left temporal, including the root of the zygomatic process
+> 7. Right temporal, including the root of the zygomatic process
+> 14. Left nasal bone
+> 15. Right nasal bone
 
 
 ## **Mandible**
@@ -112,13 +116,15 @@ In this section we present the images used in the Zonation Method for inventory 
 **Right mandible. Above: medial/internal view, below: lateral/external view.**
 
 *Zones*
-8. Portion of the corpus, including alveoli for the premolars and molars as well as the premolars and molars themselves
-9. Portion of the corpus, including alveolus for the canine and the canine itself
-10. Area of the ascending ramus inferior to the coronoid process
-11. Coronoid process
-12. Mandibular condyle
-13. Gonial angle, including the mandibular foramen and mylohyoid groove (internally) and the attachment of M. masseter externally)
-14. Anterior portion of the corpus, including the alveoli of the incisors and the incisors themselves
+
+> 8. Portion of the corpus, including alveoli for the premolars and molars as well as the premolars and molars themselves
+> 9. Portion of the corpus, including alveolus for the canine and the canine itself
+> 10. Area of the ascending ramus inferior to the coronoid process
+> 11. Coronoid process
+> 12. Mandibular condyle
+> 13. Gonial angle, including the mandibular foramen and mylohyoid groove (internally) and the attachment of M. masseter 
+externally)
+> 14. Anterior portion of the corpus, including the alveoli of the incisors and the incisors themselves
 
 
 # **POSTCRANIAL REMAINS**
