@@ -3,7 +3,7 @@ In this section we present the images used in the Zonation Method for inventory 
 # **SKULL**
 ## **Cranium**
 
-![Skull anterior](/docs/images/zones/)
+![Skull anterior](../images/zones/)
 
 **Skull, anterior view.**
 
@@ -22,7 +22,7 @@ In this section we present the images used in the Zonation Method for inventory 
 14. Left nasal bone
 15. Right nasal bone
 
-![Skull lateral right](/docs/images/zones/)
+![Skull lateral right](../images/zones/)
 
 **Skull, lateral right view**
 
@@ -37,7 +37,7 @@ In this section we present the images used in the Zonation Method for inventory 
 13. Right maxilla
 15. Right nasal bone
 
-![Skull lateral left](/docs/images/zones/)
+![Skull lateral left](../images/zones/)
 
 **Skull, lateral left view**
 
@@ -52,7 +52,7 @@ In this section we present the images used in the Zonation Method for inventory 
 12. Left maxilla
 14. Left nasal bone
 
-![Skull posterior](/docs/images/zones/)
+![Skull posterior](../images/zones/)
 
 **Skull, posterior view**
 
@@ -64,7 +64,7 @@ In this section we present the images used in the Zonation Method for inventory 
 6. Left temporal, including the root of the zygomatic process
 7. Right temporal, including the root of the zygomatic process
 
-![Skull inferior](/docs/images/zones/)
+![Skull inferior](../images/zones/)
 
 **Skull, inferior view**
 
@@ -82,7 +82,7 @@ In this section we present the images used in the Zonation Method for inventory 
 12. Palatal process of the left maxilla
 13. Palatal proces of the right maxilla
 
-![Skull superior](/docs/images/zones/)
+![Skull superior](../images/zones/)
 
 **Skull, superior view**
 
@@ -114,7 +114,7 @@ In this section we present the images used in the Zonation Method for inventory 
 6. Gonial angle, including the mandibular foramen and mylohyoid groove (internally) and the attachment of M. masseter externally)
 7. Anterior portion of the corpus, including the alveoli of the incisors and the incisors themselves
 
-![Mandible right](/docs/images/zones/Mandible_right_500.png)
+![Mandible right](../images/zones/Mandible_right_500.png)
 
 **Right mandible. Above: medial/internal view, below: lateral/external view.**
 
@@ -144,7 +144,7 @@ externally)
 4. Spinous process
 
 ### Thoracic and lumbar vertebrae
-![Thoracic vertebra](/docs/images/zones/thoracic_500.png)
+![Thoracic vertebra](../images/zones/thoracic_500.png)
 
 **Thoracic vertebra (also applies to lumbar vertebrae). Left: superior view, right: lateral view.**
 
@@ -167,7 +167,7 @@ externally)
 
 ## **Thorax and Shoulder**
 ### Rib 1
-![Rib1](/docs/images/zones/rib01_500.png)
+![Rib1](../images/zones/rib01_500.png)
 
 **Left rib 1. Above: inferior view, below: superior view.**
 
@@ -177,7 +177,7 @@ externally)
 3. Remaining corpus and sternal end
 
 ### Ribs 2-12
-![Ribs](/docs/images/zones/ribs_500.png)
+![Ribs](../images/zones/ribs_500.png)
 
 **Left rib 7. Above: inferior view, below: superior view.**
 
@@ -187,7 +187,7 @@ externally)
 3. Remaining corpus and sternal end
 
 ### Sternum
-![Sternum](/docs/images/zones/Sternum_500.png)
+![Sternum](../images/zones/Sternum_500.png)
 
 **Sternum. Left: anterior view, right: posterior view.**
 
@@ -197,7 +197,7 @@ externally)
 3. Xiphoid process
 
 ### Clavicle
-![Clavicle](/docs/images/zones/Clavicle_left_500.png)
+![Clavicle](../images/zones/Clavicle_left_500.png)
 
 **Left clavicle. Above: superior view, below: inferior view.**
 
@@ -207,7 +207,7 @@ externally)
 3. Diaphysis, including the groove that marks the attachment for M. subclavius
 
 ### Scapula
-![Scapula](/docs/images/zones/Scapula_left_500.png)
+![Scapula](../images/zones/Scapula_left_500.png)
 
 **Left scapula. Left: anterior view, right: posterior view.**
 
@@ -224,7 +224,7 @@ externally)
 
 ## **Upper limb**
 ### Humerus
-![Humerus](/docs/images/zones/Humerus_Left_500.png)
+![Humerus](../images/zones/Humerus_Left_500.png)
 
 **Left humerus. Left: posterior view, right: anterior view.**
 
@@ -242,7 +242,7 @@ externally)
 11. Proximal portion of the diaphysis, including the surgical neck
 
 ### Radius
-![Radius](/docs/images/zones/Radius_left_500.png)
+![Radius](../images/zones/Radius_left_500.png)
 
 **Left radius. Left: posterior view, right: anterior view.**
 
@@ -260,7 +260,7 @@ externally)
 11. Styloid process of the distal end
 
 ### Ulna
-![Ulna](/docs/images/zones/Ulna_left_500.png)
+![Ulna](../images/zones/Ulna_left_500.png)
 
 **Left ulna. Left: posterior view, right: anterior view.**
 
@@ -276,7 +276,7 @@ externally)
 
 ## **Pelvis and Lower Limb**
 ### Os coxa
-![Os coxa](/docs/images/zones/Oscoxa_left_500.png)
+![Os coxa](../images/zones/Oscoxa_left_500.png)
 
 **Left os coxa. Left: medial/internal view, right: lateral/external view.**
 
@@ -295,7 +295,7 @@ externally)
 12. Iliac crest
 
 ### Femur
-![Femur](/docs/images/zones/Femur3_500.png)
+![Femur](../images/zones/Femur3_500.png)
 
 **Left femur. Left: posterior view, right: anterior view.**
 
@@ -313,12 +313,12 @@ externally)
 11. Intercondylar space and distal articulation anteriorly
 
 ### Patella
-![Patella](/docs/images/zones/patella_500.png)
+![Patella](../images/zones/patella_500.png)
 
 **Left patella. Above: posterior view, Below: anterior view.**
 
 ### Tibia
-![Tibia](/docs/images/zones/Tibia_left_500.png)
+![Tibia](../images/zones/Tibia_left_500.png)
 
 **Left tibia. Left: posterior view, right: anterior view.**
 
@@ -336,7 +336,7 @@ externally)
 10. Distal quarter of the diaphysis
 
 ### Fibula
-![Fibula](/docs/images/zones/fibula_500.png)
+![Fibula](../images/zones/fibula_500.png)
 
 **Left fibula. Left: anterior view, right: posterior view.**
 
@@ -352,7 +352,7 @@ externally)
 
 ## **Hands and Feet**
 ### Hand
-![Hand](/docs/images/zones/Hand_left_500.png)
+![Hand](../images/zones/Hand_left_500.png)
 
 **Hand and wrist. Left: dorsal right hand, right: palmar left hand.**
 
@@ -367,7 +367,7 @@ Metacarpals and phalanges
 3. Diaphysis
 
 ### Foot
-![Foot](/docs/images/zones/Foot_right_500.png)
+![Foot](../images/zones/Foot_right_500.png)
 
 **Right foot and ankle. Left: dorsal view, right: plantar view.**
 
