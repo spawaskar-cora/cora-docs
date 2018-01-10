@@ -62,7 +62,7 @@ In this section we present the images used in the Zonation Method for inventory 
 4. Left parietal
 5. Occipital
 6. Left temporal, including the root of the zygomatic process
-7. Right temporal, including the root of thez ygomatic process
+7. Right temporal, including the root of the zygomatic process
 
 ![Skull inferior](/docs/images/zones/)
 
@@ -74,7 +74,7 @@ In this section we present the images used in the Zonation Method for inventory 
 4. Left parietal
 5. Occipital
 6. Left temporal, including the root of the zygomatic process
-7. Right temporal, including the root of thez ygomatic process
+7. Right temporal, including the root of the zygomatic process
 8. Left sphenoid
 9. Right sphenoid
 10. Left zygomatic bone
@@ -120,14 +120,14 @@ In this section we present the images used in the Zonation Method for inventory 
 
 *Zones*
 
-> 8. Portion of the corpus, including alveoli for the premolars and molars as well as the premolars and molars themselves
-> 9. Portion of the corpus, including alveolus for the canine and the canine itself
-> 10. Area of the ascending ramus inferior to the coronoid process
-> 11. Coronoid process
-> 12. Mandibular condyle
-> 13. Gonial angle, including the mandibular foramen and mylohyoid groove (internally) and the attachment of M. masseter 
+8. Portion of the corpus, including alveoli for the premolars and molars as well as the premolars and molars themselves
+9. Portion of the corpus, including alveolus for the canine and the canine itself
+10. Area of the ascending ramus inferior to the coronoid process
+11. Coronoid process
+12. Mandibular condyle
+13. Gonial angle, including the mandibular foramen and mylohyoid groove (internally) and the attachment of M. masseter 
 externally)
-> 14. Anterior portion of the corpus, including the alveoli of the incisors and the incisors themselves
+14. Anterior portion of the corpus, including the alveoli of the incisors and the incisors themselves
 
 
 # **POSTCRANIAL REMAINS**
