@@ -101,7 +101,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 ## **Mandible**
 
-![Mandible left](../images/zones/Mandible_left_500.png)
+![Mandible left](images/zones/Mandible_left_500.png)
 
 **Left mandible. Above: medial/internal view, below: lateral/external view.**
 
