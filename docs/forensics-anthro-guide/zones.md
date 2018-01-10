@@ -101,7 +101,7 @@ In this section we present the images used in the Zonation Method for inventory 
 
 ## **Mandible**
 
-![Mandible left](/docs/images/zones/Mandible_left_500.png)
+![Mandible left](../images/zones/Mandible_left_500.png)
 
 **Left mandible. Above: medial/internal view, below: lateral/external view.**
 
@@ -133,7 +133,7 @@ externally)
 # **POSTCRANIAL REMAINS**
 ## **Vertebrae**
 ### Cervical vertebrae
-![Cervical vertebra](/docs/images/zones/cervical_500.png)
+![Cervical vertebra](../images/zones/cervical_500.png)
 
 **Cervical vertebra. Left: superior view, right: lateral view.**
 
