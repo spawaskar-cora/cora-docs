@@ -13,6 +13,7 @@ pages:
     - Forensic Anthro Guide:
         - Methods: forensics-anthro-guide/methods.md
         - Measurements: forensics-anthro-guide/measurements.md
+        - Zones: forensics-anthro-guide/zones.md
     - About:
         - Contributing: about/contributing.md
 
