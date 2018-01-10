@@ -155,7 +155,7 @@ externally)
 4. Spinous process
 
 ### Sacrum
-![Sacrum](/docs/images/zones/Sacrum_500.png)
+![Sacrum](../images/zones/Sacrum_500.png)
 
 **Sacrum. Left: anterior view, right: posterior view.**
 
