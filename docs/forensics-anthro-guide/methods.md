@@ -24,8 +24,12 @@ A newly developed visual method of sexing the os pubis. *American Journal of Ph
 ## **Rogers TL  (1999)** 
 A visual method of determining the sex of skeletal remains using the distal humerus. *Journal of Forensic Sciences,* 44:57-60.
 
-* *Purpose:*  Sex estimation based on the scoring of four dimorphic features of the distal humerus: trochlear constriction, trochlear asymmetry, olecranon fossa shape and depth, and the angle of the medial epicondyle. 
-* *Sample:*  Developed on the Grant Skeletal Collection, University of Toronto (20th century anatomy series); tested on known individuals from the University of New Mexico Documented Collection (n = 35) and the William M. Bass Donated Skeletal Collection (n = 93).
+* *Purpose:*  Sex estimation based on the characteristics of four dimorphic features of the distal humerus: trochlear constriction, trochlear asymmetry, olecranon fossa shape and depth, and the angle of the medial epicondyle. These are "scored" as male or female based on their morphology.
+* *Sample:*  Developed on the Grant Skeletal Collection, University of Toronto (20th century anatomy series), n = 202 (175 males, 27 females); tested on known individuals from the University of New Mexico Documented Collection (n = 35; 28 males, 7 females) and the William M. Bass Donated Skeletal Collection (n = 93; 74 males, 19 females).
+* *Trochlear constriction:* constricted and spool-shaped in females; less constricted in males.
+* *Trochlear symmetry:* asymmetrical in females; symmetrical in males.
+* *Olecranon fossa shape and depth:* deep oval in females; shallow triangle in males. *Shape is more important than depth.*
+* *Angle of the medial epicondyle:* distinctly raised in females; flat or slightly raised in males.
 * In ambiguous cases (two traits scored as male, two traits scored as female), greater weight should be given to the olecranon fossa.  
 * The greatest accuracy is achieved when all four features are present and scorable. 
 
