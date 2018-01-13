@@ -46,12 +46,21 @@ The rhomboid fossa of the clavicle as a sex and age estimator. *Journal of Fore
 ## **Walker PL (2005)** 
 Greater sciatic notch morphology:  Sex, age, and population differences. *American Journal of Physical Anthropology,* 127:385-391.
 
-* Provides empirical probabilities of being male or female for a given sciatic notch score, following Buikstra and Ubelaker (1994). A score of 1 typically indicates a female, while a score of 3 or greater usually indicates a male.  A score of 2 represents intermediate morphology, although a larger percentage of males than females exhibit this degree of expression. There is also a relationship between age-at-death and sciatic notch score, with younger people tending to have wider greater sciatic notches. The reference sample consists of American males and females (n = 114 and 97, respectively) who died between 1915-1955, as well as London males and females (n = 51 and 34, respectively) who died between 1761-1851.
+* *Purpose:*  Provides empirical probabilities of being male or female for a given sciatic notch score, following Buikstra and Ubelaker (1994). 
+* *Sample:*  Americans from the Hamann-Todd Collection, Cleveland Museum of Natural History and Terry Skeletal Collection, Smithsonian Institution (n = 211; 114 males, 97 females); and Europeans from the St. Bride's Collection, St. Bride's Church in London (n = 85; 51 males, 34 females). 
+* A score of 1 typically indicates a female, while a score of 3 or greater usually indicates a male. A score of 2 represents intermediate morphology, although a larger percentage of males than females exhibit this degree of expression. 
+* **Probability of being male** for each score: 1 - 0.12; 2 - 0.66; 3 - 0.88; 4 - 0.93; 5 - 0.90.
+* **Probability of being female** for each score: 1 - 0.88; 2 - 0.34; 3- 0.12; 4 - 0.07; 5 - 0.10
+* There is also a relationship between age-at-death and sciatic notch score, with younger people tending to have wider greater sciatic notches. 
 
 ## **Walker PL (2008)** 
 Sexing skulls using discriminant function analysis of visually assessed traits. *American Journal of Physical Anthropology,* 136:39-50.
 
-* Provides empirical probabilities of being male for a given score of observed cranial morphology following the ordinal scales presented in Buikstra and Ubelaker (1994).  The sectioning point is 0, and scores less than 0 are more likely to be male, and scores greater than 0 are more likely to be female.  The probability distributions are based on 304 skulls of known sex from European American, African American, English (British), and 156 Native American individuals.
+* *Purpose:*  Provides empirical probabilities of being male for a given score of observed cranial morphology following the ordinal scales presented in Buikstra and Ubelaker (1994).  
+* *Sample:*  Americans from the Hamann-Todd Collection, Cleveland Museum of Natural History and Terry Skeletal Collection, Smithsonian Institution and Europeans from the St. Bride's Collection, St. Bride's Church in London (n = 304; 164 males, 140 females). In addition, archaeological specimens (7000 B.P. to European contact) from the Santa Barbara Museum of Natural History and the Department of Anthropology, University of California, Santa Barbara were utilized (n = 156). 
+* The sectioning point is 0, and scores less than 0 are more likely to be male, and scores greater than 0 are more likely to be female. 
+* The probability of being male for each trait for a given score is provided. 
+* Discriminant function equations are also provided, utilizing the scores of two to three characteristics.
 
 
 
