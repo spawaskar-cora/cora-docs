@@ -13,17 +13,19 @@ In this section we present an annotated bibliography of analytical methods avail
 A newly developed visual method of sexing the os pubis. *American Journal of Physical Anthropology,* 30:297-301.  
 
 * *Purpose:*  Sex estimation based on three features of the adult os coxa: the ventral arc, subpubic concavity, and the ischiopubic ramus.
-* *Sample:*  Terry Skeletal Collection, Black and White males (n = 20 and 160, respectively) and females (n = 52 and 43, respectively)
-* n = 275
-* Each feature is scored as: 1) female, 2) ambiguous, or 3) male.
+* *Sample:*  Terry Skeletal Collection, Smithsonian Institution; n = 275; Black and White males (n = 20 and 160, respectively) and females (n = 52 and 43, respectively).
+* Each feature is determined to be: 1) female, 2) ambiguous, or 3) male.
+* *Ventral arc:*  Slightly elevated ridge extending inferiorly from pubic crest across the ventral surface to the lateral most extension of the subpubic concavity. **Present in females.**
+* *Subpubic concavity:*  A lateral recurve of the ischio-pubic ramus below the lower margin of the pubic symphysis. **Present in females.**
+* *Ischiopubic ramus:*  Portion extending from the inferior pubic symphysis to the ischial tuberosity. The **ramus is broad and generally flat in males,** while a narrower ramus with a **ridge is typical of female** morphology.
 * The ischiopubic ramus is most likely to display ambiguous morphology, and the ventral arc is least likely to display ambiguous morphology.
-* If sex assessment is based on one or two of the features that are definitely male or female, the estimate will be correct at least 96% of the time.
+* If sex assessment is based on one or two of the features that are definitely male or female (ventral arc and subpubic concavity), the estimate will be correct at least 96% of the time.
 
 ## **Rogers TL  (1999)** 
 A visual method of determining the sex of skeletal remains using the distal humerus. *Journal of Forensic Sciences,* 44:57-60.
 
 * *Purpose:*  Sex estimation based on the scoring of four dimorphic features of the distal humerus: trochlear constriction, trochlear asymmetry, olecranon fossa shape and depth, and the angle of the medial epicondyle. 
-* *Sample:*  Developed on a 20th century anatomy series, the University of Toronto Grant Skeletal Collection; tested on known individuals from the University of New Mexico Documented Collection (n = 35) and the William M. Bass Donated Skeletal Collection (n = 93).
+* *Sample:*  Developed on the Grant Skeletal Collection, University of Toronto (20th century anatomy series); tested on known individuals from the University of New Mexico Documented Collection (n = 35) and the William M. Bass Donated Skeletal Collection (n = 93).
 * In ambiguous cases (two traits scored as male, two traits scored as female), greater weight should be given to the olecranon fossa.  
 * The greatest accuracy is achieved when all four features are present and scorable. 
 
@@ -31,14 +33,11 @@ A visual method of determining the sex of skeletal remains using the distal hume
 The rhomboid fossa of the clavicle as a sex and age estimator. *Journal of Forensic Sciences,* 45:61-67.
 
 * *Purpose:*  Sex estimation based on clavicle morphology, specifically, the presence or absence of the rhomboid fossa, which is a pitted or depressed marking on the inferior sternal end of the clavicle.  
-* *Sample:*  William F. McCormick Skeletal Collection, University of Tennessee - Knoxville
-
-  * n = 344: 113 females, 231 males
-  * White (n=301) , Black (n=38), "Other" non-White (n=5)
-  * Ages: 10-92 years
-  
-* Males are more likely than females to have a rhomboid fossa, and rhomboid fossa are more commonly exhibited in younger individuals than older individuals. 
-* This method includes posterior probabilities for the presence/absence of the fossa. 
+* *Sample:*  William F. McCormick Skeletal Collection, University of Tennessee - Knoxville; n = 344; 113 females, 231 males; White (n=301), Black (n=38), "Other" non-White (n=5); Ages: 10-92 years.
+* Males are more likely than females to have a rhomboid fossa, and rhomboid fossae are more commonly exhibited in younger individuals than older individuals.  
+* Posterior probabilities (**left clavicle**):  fossa present, *P*(male) = 92.2%, *P*(female) = 7.8%; fossa absent, *P*(male) = 41.4%, *P*(female) = 58.6%
+* Posterior probabilities (**right clavicle**):  fossa present, *P*(male) = 81.7%, *P*(female) = 18.3%; fossa absent, *P*(male) = 41.0%, *P*(female) = 59.0%
+* Authors suggest these posterior probabilities cannot be used on other populations, but due to the preponderance of fossae on male clavicles, the presence of a fossa likely indicates a male individual.
 
 ## **Walker PL (2005)** 
 Greater sciatic notch morphology:  Sex, age, and population differences. *American Journal of Physical Anthropology,* 127:385-391.
