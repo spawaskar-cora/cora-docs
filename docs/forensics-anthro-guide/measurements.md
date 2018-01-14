@@ -867,3 +867,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 **Cer2_01 (Left), Cer2_02 (Right) Maximum Length of the Superior Articular Facet of C2:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81B). 
 
 * *Instrument:* sliding caliper.
+
+
+## Measurement Standards Table
+Link to measurement standards table, provided by osteocoder.com: https://osteocoder.com/wp-content/uploads/2017/12/Standardized_Measurements.pdf 
