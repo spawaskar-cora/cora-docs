@@ -2,6 +2,9 @@ Cranial and postcranial interlandmark distances for skeletal biology.
 
 
 # Cranium
+
+![Cranium, anterior](../images/measurements/cranium_ant_500.png)
+
 **Cra_01 Maximum Cranial Length (g-op, GOL):**  The straight-line distance from glabella (g) to opisthocranion (op) in the midsagittal plane. 
 
 * *Instrument:* spreading caliper.
@@ -141,6 +144,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Mandible
+
+![Mandible](../images/measurements/mandible_500.png)
+
 **Man_01 Chin Height (id-gn):**  The distance from infradentale (id) to gnathion (gn). 
 
 * *Instrument:* sliding caliper.
@@ -189,6 +195,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Clavicle
+
+![Clavicle](../images/measurements/clavicle_500.png)
+
 **Cla_01 Maximum Length of the Clavicle:**  The maximum distance between the most extreme ends of the clavicle. 
 
 * *Instrument:* osteometric board. 
@@ -232,6 +241,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Scapula
+
+![Scapula](../images/measurements/scapula_500.png)
+
 **Sca_01 Height of the Scapula (Anatomical Height):**  The distance from the most superior point of the cranial angle to the most interior point on the caudal angle (Martin and Knussmann 1988:197, #1; Moore-Jansen et al. 1994, #38; Langley et al. 2016:74, #41). 
 
 * *Instrument:* sliding caliper or osteometric board.
@@ -256,6 +268,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Humerus
+
+![Humerus](../images/measurements/humerus_500.png)
+
 **Hum_01 Maximum Length of the Humerus:**  The distance from the most superior point on the head of the humerus to the most inferior point on the trochlea. 
 
 * *Instrument:* osteometric board.
@@ -298,6 +313,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Radius
+
+![Radius](../images/measurements/radius_500.png)
+
 **Rad_01 Maximum Length of the Radius:**  The distance from the most proximally positioned point on the head of the radius to the tip of the styloid process without regard to the long axis of the bone. 
 
 * *Instrument:* osteometric board.
@@ -345,6 +363,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Ulna
+
+![Ulna](../images/measurements/ulna_500.png)
+
 **Uln_01 Maximum Length of the Ulna:**  The distance between the most proximal point on the olecranon and the most distal point on the styloid process. 
 
 * *Instrument:* osteometric board. 
@@ -469,6 +490,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Sacrum
+
+![Sacrum](../images/measurements/sacrum_500.png)
+
 **Sac_01 Anterior Height of the Sacrum:**  The distance from the point on the promontory in the mid-sagittal plane to the corresponding point on the anterior border of the distal tip of the sacrum. 
 
 * *Instrument:* sliding caliper.
@@ -494,6 +518,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Os coxa
+
+![Os coxa](../images/measurements/oscoxa_500.png)
+
 **Osc_01 Maximum Innominate Height:**  The distance from the most superior point on the iliac crest to the most inferior point on the ischial tuberosity (Martin and Knussmann 1988:213, #1). 
 
 * *Instrument:* osteometric board or spreading caliper.
@@ -571,6 +598,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Femur
+
+![femur](../images/measurements/femur_500.png)
+
 **Fem_01 Maximum Length of the Femur:**  The distance from the most proximal point on the head of the femur to the most distal point on the medial or lateral femoral condyle (Martin and Knussmann 1988:216, #1). 
 
 * *Instrument:* osteometric board.
@@ -674,6 +704,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Tibia
+
+![Tibia](../images/measurements/tibia_500.png)
+
 **Tib_01 Length of the Tibia:**  The distance from the superior articular surface of the lateral condyle of the tibia to the tip of the medial malleolus (Martin and Knussmann 1988:220, #1). 
 
 * *Instrument:* osteometric board. 
@@ -746,6 +779,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Fibula
+
+![Fibula](../images/measurements/fibula_500.png)
+
 **Fib_01 Maximum Length of the Fibula:**  The maximum distance between the most superior point on the fibular head and the most inferior point on the lateral malleolus (Martin and Knussmann 1988:222, #1). 
 
 * *Instrument:* osteometric board.
