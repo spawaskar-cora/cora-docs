@@ -89,14 +89,19 @@ Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method 
 Pubic bone age estimation in adult women. *Journal of Forensic Sciences,* 53(3):569-577.  
 
 * *Purpose:*  Age estimation for older females, re-defining the Suchey-Brooks phases V and VI, and adding phase VII. 
-* *Sample:*  Reference population data derived from Balkan (n = 85) and Eastern Tennessee (n = 104) samples, totaling 189 females.
+* *Sample:*  n = 189 females; Balkan (n = 85) and William M. Bass Donated (WBD) Skeletal Collection (n = 104)
+* The calculated mean and standard deviations for the WBD sample are listed below can be applied to an American female population.
+* Phase IV: 35.5 +/- 3.8 yrs
+* Phase V: 49.7 +/- 5.8 yrs
+* Phase VI: 64.2 +/- 9.0 yrs
+* Phase VII: 74.2 +/- 10.9 yrs
 
 
 ## **Blankenship JA, Mincer HH, Anderson KM, Woods MA, Burton EL (2007)** 
 Third molar development in the estimation of chronologic age in American Blacks as compared with Whites. *Journal of Forensic Sciences,* 52(2):428-433.
 
-* *Purpose:*  Age estimation of African American populations by scoring third molar development radiographically using the Demirjian et al. stages.  
-* *Sample:*  Reference population data derived 637 African Americans between the ages of 14 and 24 compared to 563 American Whites from Demirjian’s prior study. 
+* *Purpose:*  Age estimation of African American populations by scoring third molar development radiographically using the Demirjian et al. stages (A-H).  
+* *Sample:*  n = 637 African Americans and n = 563 American Whites, between 14.0 and 24.9 years, from across the United States and Canada. The American White sample was obtained from a previous study.
 * Black–White differences were significant with developmental stages occurring in Blacks a year or so earlier than Whites. 
 * The empirical likelihood that an African American male with fully developed M3's is at least 18 years old is 93% and that for African American female is 84%. Corresponding risks for Whites are 90% and 93%, respectively. 
 
@@ -105,7 +110,14 @@ Third molar development in the estimation of chronologic age in American Blacks 
 Skeletal age determination based upon the os pubis:  A comparison of the Acsádi-Nemeskéri and Suchey-Brooks methods. *Human Evolution,* 5:227-238.
 
 * *Purpose:*  The Suchey-Brooks system is a 6-phase system (I-VI) for age estimation for males and females that utilizes the morphology of the entire symphyseal surface following the six phase system for males described by Katz and Suchey (1986). 
-* *Sample:*  Reference data are derived from 1,225 individuals of known ages at death from the Los Angeles Medical Examiner’s Office.
+* *Sample:*  n = 1,225, males and females, of known ages at death from the Los Angeles Medical Examiner’s Office.
+* **Phase Descriptions and Ages (mean +/- 1 SD, 95% range)**
+* *Phase I:* Symphyseal face has a billowing surface (ridges and furrows) which usually extends to include the pubic tubercle. The horizontal ridges are well-marked and ventral beveling may be commencing. Although ossific nodules may occur on the upper extremity, a *a key to the recognition of this phase is the lack of delimitation of either upper or lower extremity.* **Females:** 19.4 +/- 2.6 yrs (15-24 yrs); **Males:** 18.5 +/- 2.1 yrs (15-23 yrs).
+* *Phase II:* The symphyseal face may still show ridge development. *The face has commencing delimitation of lower and/or upper extremities occurring with or without ossific nodules.* The ventral rampart may be in beginning phases as an extension of the bony activity at either or both extremities. **Females:** 25.0 +/- 4.9 yrs (19-40 yrs); **Males:** 23.4 +/- 3.6 yrs (19-34 yrs). 
+* *Phase III:* Symphyseal face shows lower extremity and *ventral rampart in process of completion.* There can be a continuation of fusing ossific nodules forming the upper extremity and along the ventral border. Symphyseal face is smooth or can continue to show distinct ridges. Dorsal plateau is complete. Absence of lipping of symphyseal dorsal margin; no bony ligamentous outgrowths. **Females:** 30.7 +/- 8.1 yrs (21-53); **Males:** 28.7 +/- 6.5 yrs (21-46 yrs).
+* *Phase IV:* Symphyseal face is generally fine grained although remnants of the old ridge and furrow system may still remain. *Usually the oval outline is complete at this stage, but a hiatus can occur in upper ventral rim.* Pubic tubercle is fully separated from the symphyseal face by definition of upper extremity. The symphyseal face may have a distinct rim. Ventrally, bony ligamentous outgrowths may occur on inferior portion of pubic bone adjacent to symphyseal face. If any lipping occurs it will be slight and located on the dorsal border. **Females:** 38.2 +/- 10.9 yrs (26-70 yrs); **Males:** 35.2 +/- 9.4 yrs (23-57 yrs).
+* *Phase V:* *Symphyseal face is completely rimmed with some slight depression of the face itself, relative to the rim.* Moderate lipping is usually found on the dorsal border with more prominent ligamentous outgrowths on the ventral border. There is little or no rim erosion. Breakdown may occur on superior ventral border. **Females:** 48.1 +/- 14.6 yrs (25-83 yrs); **Males:** 45.6 +/- 10.4 yrs (27-66 yrs).
+* *Phase VI:* *Symphyseal face may show ongoing depression as rim erodes.* Ventral ligamentous attachments are marked. In many individuals the pubic tubercle appears as a separate bony knob. The face may be pitted or porous, giving an appearance of disfigurement with the ongoing process of erratic ossification. Crenulations may occur. The shape of the face is often irregular at this stage. **Females:** 60.0 +/-12.4 yrs (42-87 yrs); **Males:** 61.2 +/- 12.2 yrs (34-86 yrs).
 
 
 ## **Buckberry JL, Chamberlain AT (2002)** 
