@@ -90,7 +90,7 @@ Pubic bone age estimation in adult women. *Journal of Forensic Sciences,* 53(3):
 
 * *Purpose:*  Age estimation for older females, re-defining the Suchey-Brooks phases V and VI, and adding phase VII. 
 * *Sample:*  n = 189 females; Balkan (n = 85) and William M. Bass Donated (WBD) Skeletal Collection (n = 104)
-* The calculated mean and standard deviations for the WBD sample are listed below can be applied to an American female population.
+* The calculated mean and standard deviations for the WBD sample are listed below and can be applied to an American female population.
 * Phase IV: 35.5 +/- 3.8 yrs
 * Phase V: 49.7 +/- 5.8 yrs
 * Phase VI: 64.2 +/- 9.0 yrs
@@ -124,15 +124,36 @@ Skeletal age determination based upon the os pubis:  A comparison of the Acsád
 Age estimation from the auricular surface of the ilium:  Arevised method. *American Journal of Physical Anthropology,* 119:231-239.  
 
 * *Purpose:*  A composite scoring method for age estimation from the auricular surface. This method is a revision of the existing auricular surface aging method by Lovejoy et al (1985), and scores independent components of the auricular surface, rather than the gestalt. 
-* *Sample:*  Reference data are derived from a known-age skeletal collection from Christ Church, Spitalfields, London (n = 180).
+* *Sample:* n = 180 known-age individuals from Christ Church, Spitalfields, London were utilized for the blind test of the new method.
+* *Features examined (scores):* transverse organizaiton (1-5), surface texture (1-5), microporosity (1-3), macroporosity (1-3), and apical changes (1-3). After each feature is examined and scored, a composite score is generated.
+* This revised method yields scores that have a higher correlation with age than the Suchey-Brooks pubic symphysis system for this sample. 
+* No significant differences were seen between sexes or sides; therefore, the same method and age estimates can be applied to both sexes.
+* **Stages (Composite Score) and Ages (mean +/- 1 SD)**
+* *Stage I (5-6):* 17.33 +/- 1.53 yrs (16-19 yrs)
+* *Stage II (7-8):* 29.33 +/- 6.71 yrs (21-38 yrs)
+* *Stage III (9-10):* 37.86 +/- 13.08 yrs (16-65 yrs)
+* *Stage IV (11-12):* 51.41 +/- 14.47 yrs (29-81 yrs)
+* *Stage V (13-14):* 59.94 +/- 12.95 yrs (29-88 yrs)
+* *Stage VI (15-16):* 66.71 +/- 11.88 yrs (39-91 yrs)
+* *Stage VII (17-19):* 72.25 +/- 12.73 yrs (53-92 yrs)
 
 
 ## **İşcan MY, Loth SR, Wright RK (1984)** 
 Age estimation from the rib by phase analysis: White males. *Journal of Forensic Sciences,* 29:1094-1104.
 
 * *Purpose:*  Age estimation based on the morphology of the sternal end of the fourth rib (White Males). 
-* *Sample:*  The reference population consists of 118 White males of known age at death.
+* *Sample:*  n = 118 White males of known age at death from the Broward County Medical Examiner's Office, Florida.
 * This system is a 9-phase system (0-8), requiring the sternal end of the 4th rib be compared to three-dimensional casts of known age exemplars. 
+* **Phase Descriptions and Ages (mean +/- 1 SD, 95% range)**
+* *Phase O:* The articular surface is flat or billowy with a regular rim and rounded edges. The bone itself is smooth, firm, and very solid.
+* *Phase 1:* There is a beginning amorphous indentation in the articular surface, but billowing may also still be present. The rim is rounded and regular. In some cases scallops may start to appear at the edges. The bone is still firm, smooth and solid. **Mean age** = 17.3 +/- 0.50 yrs (16.5-18.0 yrs).
+* *Phase 2:* The pit is now deeper and has assumed a V-shaped appearance formed by the anterior and posterior walls. The walls are thick and smooth with a scalloped or slightly wavy rim with rounded edges. The bone is firm and solid. **Mean age** = 21.9 +/- 2.13 yrs (20.8-23.1 yrs).
+* *Phase 3:* The deepening pit has taken on a narrow to moderately U-shape. Walls are still fairly thick with rounded edges. Some scalloping may still be present but the rim is becoming more irregular. The bone is still quite firm and solid. **Mean age** = 25.9 +/- 3.50 yrs (24.1-27.7 yrs).
+* *Phase 4:* Pit depth is increasing, but the shape is still a narrow to moderately wide U. The walls are thinner, but the edges remain rounded. The rim is more irregular with no uniform scalloping pattern remaining. There is some decrease in teh weight and firmness of the bone, however, the overall quality of the bone is still good. **Mean age** = 28.2 +/- 3.83 yrs (25.7-30.6 yrs).
+* *Phase 5:* There is little change in pit depth, but the shape in this phase is predominantly a moderately wide U. Walls show further thinning and the edges are becoming sharp. Irregularity is increasing in the rim. Scalloping pattern is completely gone and has been replaced with irregular bony projections. The condition of the bone is fairly good, however, there are some signs of deterioration with evidence of porosity and loss of density. **Mean age** = 38.8 +/- 7.00 yrs (34.4-42.3 yrs).
+* *Phase 6:* The pit is noticeably deep with a wide U-shape. The walls are thin with sharp edges. The rim is irregular and exhibits some rather long bony projections that are frequently more pronounced at the superior and inferior borders. The bone is noticeably lighter in weight, thinner, and more porous, especially inside the pit. **Mean age** = 50.0 +/- 11.17 yrs (44.3-55.7 yrs).
+* *Phase 7:* The pit is deep with a wide to very wide U-shape. The walls are thin and fragile with sharp, irregular edges and bony projections. The bone is light in weight and brittle with significant deterioration in quality and obvious porosity. **Mean age** = 59.2 +/- 9.52 yrs (54.3-64.1 yrs).
+* *Phase 8:* In this final phase the pit is very deep and widely U-shaped. In some cases the floor of the pit is absent or filled with bony projections. The walls are extremely thin, fragile, and brittle with sharp, highly irregular edges and bony projections. The bone is very lightweight, thin, brittle, friable, and porous. "Window" formation is sometimes seen in the walls. **Mean age** = 71.5 +/- 10.27 yrs (65.0-78.0 yrs).
 
 
 ## **İşcan MY, Loth SR, Wright RK (1985)** 
