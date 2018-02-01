@@ -205,16 +205,38 @@ A Bayesian approach to age estimation in modern Americans from the clavicle. *Jo
 
 * *Purpose:*  Age estimation based on a 3-phase or 5-phase system for medial clavicular fusion for modern American individuals. 
 * *Sample:*  n = 1289 (1044 male, 245 female): 594 individuals (448 male, 146 female) between 11 and 33 years from the William F. McCormick Clavicle Collection, 354 individuals (255 male, 99 female) between 11 and 30 years from the Hamann-Todd Osteological Collection), and 341 males between 16 and 33 years from the Korean War. 
-* Due to secular trends, observed ages for each phase are provided separately for each sample. 
-* A Bayesian approach is also utilized to provide age ranges from the McCormick sample (for more modern cases).
+* Due to secular trends, observed ages for each phase are provided separately for each sample. This information can be used to produce age ranges based on the mean and standard deviations using the most appropriate sample population.
+* A Bayesian approach is also utilized to provide age ranges based on the highest posterior density of the McCormick sample for use with more modern cases. This provides a more conservative, statistically sound estimate that is less sensitive to outliers. These age ranges are provided below.
+* **Age ranges (95% CI) for each system and sex**
+* **5-phase system**
+* *1:* **Females** ≤16.2 yrs; **Males** ≤17.4 yrs
+* *2:* **Females** 13.5-21.0 yrs; **Males** 14.4-23.0 yrs
+* *3:* **Females** 16.7-25.7 yrs; **Males** 17.9-27.5 yrs
+* *4:* **Females** 19.9-29.3 yrs; **Males** 20.5-30.6 yrs
+* *5:* **Females** ≥22.5 yrs; **Males** ≥24.1 yrs
+* **3-phase system**
+* *1:* **Females** ≤16.5 yrs; **Males** ≤17.4 yrs
+* *2:* **Females** 14.1-27.1 yrs; **Males** 14.9-28.5 yrs
+* *3:* **Females** ≥22.1 yrs; **Males** ≥24.0 yrs
 
 
 ## **Lovejoy CO, Meindl RS, Pryzbeck TR, Mensforth RP (1985)** 
 Chronological metamorphosis of the auricular surface of the ilium: A new method for determination of adult skeletal age at death.  *American Journal of Physical Anthropology,* 68:15-28.
 
-* *Purpose:*  An 8-phase age estimation system based on auricular surface morphology. 
+* *Purpose:*  An 8-phase age estimation system based on auricular surface morphology, considering changes to the granularity and density, macroporosity, billowing, striae, apex, retroauricular area, and transverse organization. 
 * *Sample:*  The Todd Collection (n = 500), the Libben Collection (n = 250), and forensic cases from the Cuyahoga County Coroner’s Office, Ohio (n = 14). 
 * Two completely blind tests were conducted to assess the accuracy and bias of the new method utilizing different individuals from the Todd Collection (n = 98 and 108, respectively).
+* There are five basic phases in which the auricular surfaces progresses: early post-epiphyseal phase, young adult phase, mid adult phase, early senescent phase, and breakdown.
+* Eight age modes are developed based on the progression of auricular surface morphology through the basic five phases. The age ranges are provided below, with the most relevant characteristics. See reference for a more detailed description for each mode.
+* **Age Range and Relevant Characteristics**
+* *20-24:* billowing and very fine granularity.
+* *25-29:* reduction of billowing, but retention of youthful appearance.
+* *30-34:* general loss of billowing, replacement by striae, and distinct coarsening of granularity.
+* *35-39:* uniform coarse granularity.
+* *40-44:* transition from coarse granularity to dense surface; this may take part over islands of the surface of one or both faces.
+* *45-49:* completion of densification with complete loss of granularity.
+* *50-59:* dense irregular surface of rugged topography and moderate to marked activity in periauricular areas.
+* *60+:* breakdown with marginal lipping, macroporosity, increased irregularity, and marked activity in periauricular areas.
 
 
 ## **Mann RW, Jantz RL, Bass WM, Willey PS (1991)** 
@@ -236,7 +258,7 @@ Maxillary suture obliteration: A visual method for estimating skeletal age. *Jo
 * *Pubic symphysis:* The McKern-Stewart system is a 3-component system that scores the dorsal and ventral demifaces and the rim of the pubic symphysis (each component having a 0-5 stage of development). Morphology can be compared to a cast set comprised of a representative pubic symphysis for a score of 1 to 5 for each component.  The scores for each component are combined and correspond to a given age range.        
 
 
-## **Meindl RS,Lovejoy CO (1985)** 
+## **Meindl RS, Lovejoy CO (1985)** 
 Ectocranial Suture Closure: a revised method for the determination of skeletal age at death based on the lateral-anterior sutures. *American Journal of Physical Anthropology,* 68:57-66.
 
 * *Purpose:*  Age estimation by scoring (0-open, 1-minimal closure, 2-significant closure, 3-complete obliteration) ectocranial vault and lateral anterior suture closure at ten sites. 
