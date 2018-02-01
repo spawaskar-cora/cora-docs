@@ -180,7 +180,23 @@ Reliability of third molar development for age estimation in a Texas Hispanic po
 * *Purpose:*  Age estimation of Hispanic populations by scoring third molar development radiographically using the method of Demirjian et al. (1973) for crown and root formation. 
 * *Sample:* Hispanic individuals (n = 950) aged from 12-22 years 
 * The third molar of the Hispanic sample was found to develop 8-18 months faster than American Caucasians as reported by Mincer et al. (1993). 
-* Prediction tables for minimum and maximum age for an observed stage are provided.
+* **Prediction intervals (95% confidence) for each stage and sex**
+* **Maxilla**
+* *Stage B:* **Females** 10-21 yrs; **Males** 8-19 yrs
+* *Stage C:* **Females** 12-18 yrs; **Males** 12-17 yrs
+* *Stage D:* **Females** 11-19 yrs; **Males** 12-18 yrs
+* *Stage E:* **Females** 12-20 yrs; **Males** 12-18 yrs
+* *Stage F:* **Females** 13-20 yrs; **Males** 13-19 yrs
+* *Stage G:* **Females** 14-21 yrs; **Males** 14-20 yrs
+* *Stage H:* **Females** >15 yrs, with a 78.8% probability of being at least 18 years; **Males** >15 yrs, with a 71.4-74.7% probability of being at least 18 years
+* **Mandible**
+* *Stage B:* **Females** 11-20 yrs; **Males** 8-20 yrs
+* *Stage C:* **Females** 12-18 yrs; **Males** 12-17 yrs
+* *Stage D:* **Females** 11-19 yrs; **Males** 11-18 yrs
+* *Stage E:* **Females** 13-19 yrs; **Males** 13-18 yrs
+* *Stage F:* **Females** 14-21 yrs; **Males** 13-20 yrs
+* *Stage G:* **Females** 14-22 yrs; **Males** 15-21 yrs
+* *Stage H:* **Females** >16 yrs, with a 87.1-89.8% probability of being at least 18 years; **Males** >16 yrs, with a 85.8-86.4% probability of being at least 18 years
 * *Additional Reference:* Demirjian A, Goldstein H, Tanner JM (1973). A new system of dental age assessment. Human Biology, 45(2):211-227.
 
 
