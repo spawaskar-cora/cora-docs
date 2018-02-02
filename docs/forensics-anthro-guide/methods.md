@@ -228,7 +228,7 @@ Chronological metamorphosis of the auricular surface of the ilium: A new method
 * Two completely blind tests were conducted to assess the accuracy and bias of the new method utilizing different individuals from the Todd Collection (n = 98 and 108, respectively).
 * There are five basic phases in which the auricular surfaces progresses: early post-epiphyseal phase, young adult phase, mid adult phase, early senescent phase, and breakdown.
 * Eight age modes are developed based on the progression of auricular surface morphology through the basic five phases. The age ranges are provided below, with the most relevant characteristics. See reference for a more detailed description for each mode.
-* **Age Range and Relevant Characteristics**
+* **Age Ranges and their Relevant Characteristics**
 * *20-24:* billowing and very fine granularity.
 * *25-29:* reduction of billowing, but retention of youthful appearance.
 * *30-34:* general loss of billowing, replacement by striae, and distinct coarsening of granularity.
@@ -243,9 +243,19 @@ Chronological metamorphosis of the auricular surface of the ilium: A new method
 Maxillary suture obliteration: A visual method for estimating skeletal age. *Journal of Forensic Sciences,* 36:781-791.  
 
 * *Purpose:*  Age estimation by assessing suture closure of the four maxillary (palatal) sutures. 
-* *Sample:*  186 skeletons of known age, sex, and race from three skeletal collections: 46 White males, 32 White females, 64 Black males, and 44 Black females. 
+* *Sample:*  186 skeletons of known age, sex, and race from three skeletal collections (Louisiana State University, University of Tennessee, and the Terry Skeletal Collection, Smithsonian Institution): 46 White males, 32 White females, 64 Black males, and 44 Black females. 
 * Males exhibit more suture obliteration than females at the same age. 
-* Although this method cannot be used for exact estimates of individual age, it is valuable in establishing an estimated age range.  
+* Although this method cannot be used for exact estimates of individual age, it is valuable in establishing an estimated age range or minimum age.
+* **First Evidence of Partial Obliteration (by suture)**
+* *Incisive:* 16 yrs
+* *Transverse palatine:* 22 yrs
+* *Posterior median palatine:* 25 yrs
+* *Anterior median palatine:* 27 yrs
+* **Earliest Complete Obliteration (by suture and sex)**
+* *Incisive:* **Females** 20 yrs; **Males** 20 yrs
+* *Transverse palatine:* **Females** 27 yrs; **Males** 26 yrs
+* *Posterior median palatine:* **Females** 84 yrs; **Males** 33 yrs
+* *Anterior median palatine:* **Females** 67 yrs; **Males** 40 yrs
 
 
 ## **McKern TW, Stewart TD (1957)** 
@@ -270,8 +280,22 @@ Ectocranial Suture Closure: a revised method for the determination of skeletal a
 The A.B.F.O. study of third molar development and its use as an estimator of chronological age. *Journal of Forensic Sciences,* 38:379-390.
 
 * *Purpose:*  Age estimation for American Whites and Blacks by scoring third molar development radiographically using the eight-grade classification system by Demirjian et al. (1973). 
-* *Sample:*  American males (46%) and females (54%) between the ages of 14 and 24 years (n = 823). The sample consisted of white (80%), Black (19%), and “other” (1%). 
+* *Sample:*  n = 823, males (46%) and females (54%) between the ages of 14 and 24 years from across the United States and Canada. The sample consisted of white (80%), Black (19%), and “other” (1%). 
 * Although the third molar is the most variable tooth, the formation of the third molar can be useful for age estimation when other elements are unavailable.
+* **Mean ages (+/- 1 SD) at attainment of stages for third molar formation**
+* **Maxilla**
+* *Stage D:* **White Females** 16.0 +/- 1.55 yrs; **White Males** 16.0 +/- 1.97 yrs; **Blacks** nd
+* *Stage E:* **White Females** 16.9 +/- 1.85 yrs; **White Males** 16.6 +/- 2.38 yrs; **Blacks** nd
+* *Stage F:* **White Females** 18.0 +/- 1.95 yrs; **White Males** 17.7 +/- 2.28 yrs; **Blacks** nd
+* *Stage G:* **White Females** 18.8 +/- 2.27 yrs; **White Males** 18.2 +/- 1.91 yrs; **Blacks** 19.3 +/- 3.37 yrs
+* *Stage H:* **White Females** 20.6 +/- 2.09 yrs; **White Males** 20.2 +/- 2.09 yrs; **Blacks** 20.4 +/- 3.14 yrs
+* **Mandible**
+* *Stage D:* **White Females** 16.0 +/- 1.64 yrs; **White Males** 15.5 +/- 1.59 yrs; **Blacks** nd
+* *Stage E:* **White Females** 16.9 +/- 1.75 yrs; **White Males** 17.3 +/- 2.47 yrs; **Blacks** nd
+* *Stage F:* **White Females** 17.7 +/- 1.80 yrs; **White Males** 17.5 +/- 2.14 yrs; **Blacks** 17.2 +/- 3.14 yrs
+* *Stage G:* **White Females** 19.1 +/- 2.18 yrs; **White Males** 18.3 +/- 1.93 yrs; **Blacks** 18.5 +/- 2.68 yrs
+* *Stage H:* **White Females** 20.9 +/- 2.01 yrs; **White Males** 20.5 +/- 1.97 yrs; **Blacks** 21.4 +/- 2.34 yrs
+* If an individual has reached Stage H, then one can be reasonably confident that the individuals is at least 18 years of age. An upper age limit should not be imposed.
 
 
 ## **Nawrocki SP (1998)** 
@@ -290,8 +314,15 @@ Regression formulae for the estimation of age from cranial suture closure. In *F
 Reconsidering the auricular surface as an indicator of age at death. *Journal of Forensic Sciences,* 49:905-911.
 
 * *Purpose:*  Age estimation based on auricular surface morphology. 
-* *Sample:*  266 individuals of documented age, sex, and ancestry from the Terry and Bass Donated Collections which represent early 20th century and late 20th century individuals, respectively.
+* *Sample:*  n = 266; the Terry Skeletal Collection, Smithsonian Institution (n = 72), and the Bass Donated Collection, University of Tennessee (n = 194), which represent early 20th century and late 20th century individuals, respectively.
 * This method is a modified 6-phase system of the existing 8-phase auricular surface aging method by Lovejoy et al (1985). 
+* **Phase Descriptions and Ages (mean +/- 1 SD, suggested age range)**
+* *Phase 1:* Billowing with possible striae; mostly fine granularity with some coarse granularity possible. **21.1 +/- 2.98 yrs (≤27 yrs)**
+* *Phase 2:* Striae; coarse granularity with residual fine granularity; retroauricular activity may be present. **29.5 +/- 8.20 yrs (≤46 yrs)**
+* *Phase 3:* Decreased striae with transverse organization; coarse granularity; retroauricular activity present; beginnings of apical change. **42.0 +/- 13.74 yrs (≤69yrs)**
+* *Phase 4:* Remnants of transverse organization; coarse granularity becoming replaced by densification; retroauricular activity present; apical change; macroporosity is present. **47.8 +/- 13.95 yrs (20-75 yrs)**
+* *Phase 5:* Surface becomes irregular; surface texture is largely dense; moderate retroauricular activity; moderate apical change; macroporosity. **53.1 +/- 14.14 yrs (24-82 yrs)**
+* *Phase 6:* Irregular surface; densification accompanied by subchondral destruction; severe retroauricular activity; severe apical change; macroporosity. **58.9 +/- 15.24 yrs (29-89 yrs)**
 
 
 ## **Samworth R, Gowland R (2007)** 
@@ -302,7 +333,14 @@ Estimation of adult skeletal age-at-death: Statistical assumptions and applicati
 * This method provides 90% prediction intervals for each combination of pubic symphysis (scored following the Suchey-Brooks method, n = 376) and auricular surface (scored following the Lovejoy method, n = 448).
 * These prediction intervals have been found to be accurate for 20th-century Americans as well (Passalacqua 2010).  
 * When both scores can be observed on the same individual, a combined age estimate may be produced in this manner.  
-* Such a combined age estimate maybe more precise than the pubic symphysis alone, particularly for individuals whose pubic symphyses are in phases 3-6. 
+* Such a combined age estimate may be more precise than the pubic symphysis alone, particularly for individuals whose pubic symphyses are in phases 3-6. 
+* **Prediction intervals (90%) by pubic symphysis (PS) and auricular surface (AS) scores**
+* *PS 1:* **AS 1** 13.3-29.7 yrs; **AS 2** 16.3-36.3 yrs; **AS 3** 18.8-42.3 yrs; **AS 4** 20.6-46.7 yrs; **AS 5** 21.6-48.8 yrs
+* *PS 2:* **AS 1** 15.5-34.6 yrs; **AS 2** 18.5-41.0 yrs; **AS 3** 21.0-46.9 yrs; **AS 4** 23.0-51.5 yrs; **AS 5** 24.3-54.3 yrs
+* *PS 3:* **AS 1** 18.1-40.5 yrs; **AS 2** 21.0-46.6 yrs; **AS 3** 23.5-52.2 yrs; **AS 4** 25.7-57.0 yrs; **AS 5** 27.2-60.5 yrs; **AS 6** 28.0-62.4 yrs
+* *PS 4:* **AS 1** 20.9-47.6 yrs; **AS 2** 23.7-53.0 yrs; **AS 3** 26.3-58.3 yrs; **AS 4** 28.5-63.2 yrs; **AS 5** 30.5-67.5 yrs; **AS 6** 31.9-70.8 yrs; **AS 7** 32.8-73.3 yrs
+* *PS 5:* **AS 1** 24.1-56.2 yrs; **AS 2** 26.8-60.4 yrs; **AS 3** 29.3-65.1 yrs; **AS 4** 31.7-70.2 yrs; **AS 5** 34.0-75.4 yrs; **AS 6** 36.4-80.5 yrs; **AS 7** 38.6-85.6 yrs; **AS 8** 40.7-90.8 yrs
+* *PS 6:* **AS 1** 27.7-66.6 yrs; **AS 2** 30.1-69.0 yrs; **AS 3** 32.5-72.9 yrs; **AS 4** 35.1-78.1 yrs; **AS 5** 38.0-84.4 yrs; **AS 6** 41.4-91.8 yrs; **AS 7** 45.2-100.5 yrs; **AS 8** 49.6-111.2 yrs
 
 
 ## **Schaefer M, Black S, Scheuer L (2009)** 
