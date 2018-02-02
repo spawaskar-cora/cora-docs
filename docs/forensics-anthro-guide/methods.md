@@ -89,14 +89,19 @@ Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method 
 Pubic bone age estimation in adult women. *Journal of Forensic Sciences,* 53(3):569-577.  
 
 * *Purpose:*  Age estimation for older females, re-defining the Suchey-Brooks phases V and VI, and adding phase VII. 
-* *Sample:*  Reference population data derived from Balkan (n = 85) and Eastern Tennessee (n = 104) samples, totaling 189 females.
+* *Sample:*  n = 189 females; Balkan (n = 85) and William M. Bass Donated (WBD) Skeletal Collection (n = 104)
+* The calculated mean and standard deviations for the WBD sample are listed below and can be applied to an American female population.
+* Phase IV: 35.5 +/- 3.8 yrs
+* Phase V: 49.7 +/- 5.8 yrs
+* Phase VI: 64.2 +/- 9.0 yrs
+* Phase VII: 74.2 +/- 10.9 yrs
 
 
 ## **Blankenship JA, Mincer HH, Anderson KM, Woods MA, Burton EL (2007)** 
 Third molar development in the estimation of chronologic age in American Blacks as compared with Whites. *Journal of Forensic Sciences,* 52(2):428-433.
 
-* *Purpose:*  Age estimation of African American populations by scoring third molar development radiographically using the Demirjian et al. stages.  
-* *Sample:*  Reference population data derived 637 African Americans between the ages of 14 and 24 compared to 563 American Whites from Demirjian’s prior study. 
+* *Purpose:*  Age estimation of African American populations by scoring third molar development radiographically using the Demirjian et al. stages (A-H).  
+* *Sample:*  n = 637 African Americans and n = 563 American Whites, between 14.0 and 24.9 years, from across the United States and Canada. The American White sample was obtained from a previous study.
 * Black–White differences were significant with developmental stages occurring in Blacks a year or so earlier than Whites. 
 * The empirical likelihood that an African American male with fully developed M3's is at least 18 years old is 93% and that for African American female is 84%. Corresponding risks for Whites are 90% and 93%, respectively. 
 
@@ -105,22 +110,50 @@ Third molar development in the estimation of chronologic age in American Blacks 
 Skeletal age determination based upon the os pubis:  A comparison of the Acsádi-Nemeskéri and Suchey-Brooks methods. *Human Evolution,* 5:227-238.
 
 * *Purpose:*  The Suchey-Brooks system is a 6-phase system (I-VI) for age estimation for males and females that utilizes the morphology of the entire symphyseal surface following the six phase system for males described by Katz and Suchey (1986). 
-* *Sample:*  Reference data are derived from 1,225 individuals of known ages at death from the Los Angeles Medical Examiner’s Office.
+* *Sample:*  n = 1,225, males and females, of known ages at death from the Los Angeles Medical Examiner’s Office.
+* **Phase Descriptions and Ages (mean +/- 1 SD, 95% range)**
+* *Phase I:* Symphyseal face has a billowing surface (ridges and furrows) which usually extends to include the pubic tubercle. The horizontal ridges are well-marked and ventral beveling may be commencing. Although ossific nodules may occur on the upper extremity, a *a key to the recognition of this phase is the lack of delimitation of either upper or lower extremity.* **Females:** 19.4 +/- 2.6 yrs (15-24 yrs); **Males:** 18.5 +/- 2.1 yrs (15-23 yrs).
+* *Phase II:* The symphyseal face may still show ridge development. *The face has commencing delimitation of lower and/or upper extremities occurring with or without ossific nodules.* The ventral rampart may be in beginning phases as an extension of the bony activity at either or both extremities. **Females:** 25.0 +/- 4.9 yrs (19-40 yrs); **Males:** 23.4 +/- 3.6 yrs (19-34 yrs). 
+* *Phase III:* Symphyseal face shows lower extremity and *ventral rampart in process of completion.* There can be a continuation of fusing ossific nodules forming the upper extremity and along the ventral border. Symphyseal face is smooth or can continue to show distinct ridges. Dorsal plateau is complete. Absence of lipping of symphyseal dorsal margin; no bony ligamentous outgrowths. **Females:** 30.7 +/- 8.1 yrs (21-53); **Males:** 28.7 +/- 6.5 yrs (21-46 yrs).
+* *Phase IV:* Symphyseal face is generally fine grained although remnants of the old ridge and furrow system may still remain. *Usually the oval outline is complete at this stage, but a hiatus can occur in upper ventral rim.* Pubic tubercle is fully separated from the symphyseal face by definition of upper extremity. The symphyseal face may have a distinct rim. Ventrally, bony ligamentous outgrowths may occur on inferior portion of pubic bone adjacent to symphyseal face. If any lipping occurs it will be slight and located on the dorsal border. **Females:** 38.2 +/- 10.9 yrs (26-70 yrs); **Males:** 35.2 +/- 9.4 yrs (23-57 yrs).
+* *Phase V:* *Symphyseal face is completely rimmed with some slight depression of the face itself, relative to the rim.* Moderate lipping is usually found on the dorsal border with more prominent ligamentous outgrowths on the ventral border. There is little or no rim erosion. Breakdown may occur on superior ventral border. **Females:** 48.1 +/- 14.6 yrs (25-83 yrs); **Males:** 45.6 +/- 10.4 yrs (27-66 yrs).
+* *Phase VI:* *Symphyseal face may show ongoing depression as rim erodes.* Ventral ligamentous attachments are marked. In many individuals the pubic tubercle appears as a separate bony knob. The face may be pitted or porous, giving an appearance of disfigurement with the ongoing process of erratic ossification. Crenulations may occur. The shape of the face is often irregular at this stage. **Females:** 60.0 +/-12.4 yrs (42-87 yrs); **Males:** 61.2 +/- 12.2 yrs (34-86 yrs).
 
 
 ## **Buckberry JL, Chamberlain AT (2002)** 
 Age estimation from the auricular surface of the ilium:  Arevised method. *American Journal of Physical Anthropology,* 119:231-239.  
 
 * *Purpose:*  A composite scoring method for age estimation from the auricular surface. This method is a revision of the existing auricular surface aging method by Lovejoy et al (1985), and scores independent components of the auricular surface, rather than the gestalt. 
-* *Sample:*  Reference data are derived from a known-age skeletal collection from Christ Church, Spitalfields, London (n = 180).
+* *Sample:* n = 180 known-age individuals from Christ Church, Spitalfields, London were utilized for the blind test of the new method.
+* *Features examined (scores):* transverse organizaiton (1-5), surface texture (1-5), microporosity (1-3), macroporosity (1-3), and apical changes (1-3). After each feature is examined and scored, a composite score is generated.
+* This revised method yields scores that have a higher correlation with age than the Suchey-Brooks pubic symphysis system for this sample. 
+* No significant differences were seen between sexes or sides; therefore, the same method and age estimates can be applied to both sexes.
+* **Stages (Composite Score) and Ages (mean +/- 1 SD)**
+* *Stage I (5-6):* 17.33 +/- 1.53 yrs (16-19 yrs)
+* *Stage II (7-8):* 29.33 +/- 6.71 yrs (21-38 yrs)
+* *Stage III (9-10):* 37.86 +/- 13.08 yrs (16-65 yrs)
+* *Stage IV (11-12):* 51.41 +/- 14.47 yrs (29-81 yrs)
+* *Stage V (13-14):* 59.94 +/- 12.95 yrs (29-88 yrs)
+* *Stage VI (15-16):* 66.71 +/- 11.88 yrs (39-91 yrs)
+* *Stage VII (17-19):* 72.25 +/- 12.73 yrs (53-92 yrs)
 
 
 ## **İşcan MY, Loth SR, Wright RK (1984)** 
 Age estimation from the rib by phase analysis: White males. *Journal of Forensic Sciences,* 29:1094-1104.
 
 * *Purpose:*  Age estimation based on the morphology of the sternal end of the fourth rib (White Males). 
-* *Sample:*  The reference population consists of 118 White males of known age at death.
+* *Sample:*  n = 118 White males of known age at death from the Broward County Medical Examiner's Office, Florida.
 * This system is a 9-phase system (0-8), requiring the sternal end of the 4th rib be compared to three-dimensional casts of known age exemplars. 
+* **Phase Descriptions and Ages (mean +/- 1 SD, 95% range)**
+* *Phase 0:* The articular surface is flat or billowy with a regular rim and rounded edges. The bone itself is smooth, firm, and very solid.
+* *Phase 1:* There is a beginning amorphous indentation in the articular surface, but billowing may also still be present. The rim is rounded and regular. In some cases scallops may start to appear at the edges. The bone is still firm, smooth and solid. **Mean age** = 17.3 +/- 0.50 yrs (16.5-18.0 yrs).
+* *Phase 2:* The pit is now deeper and has assumed a V-shaped appearance formed by the anterior and posterior walls. The walls are thick and smooth with a scalloped or slightly wavy rim with rounded edges. The bone is firm and solid. **Mean age** = 21.9 +/- 2.13 yrs (20.8-23.1 yrs).
+* *Phase 3:* The deepening pit has taken on a narrow to moderately U-shape. Walls are still fairly thick with rounded edges. Some scalloping may still be present but the rim is becoming more irregular. The bone is still quite firm and solid. **Mean age** = 25.9 +/- 3.50 yrs (24.1-27.7 yrs).
+* *Phase 4:* Pit depth is increasing, but the shape is still a narrow to moderately wide U. The walls are thinner, but the edges remain rounded. The rim is more irregular with no uniform scalloping pattern remaining. There is some decrease in teh weight and firmness of the bone, however, the overall quality of the bone is still good. **Mean age** = 28.2 +/- 3.83 yrs (25.7-30.6 yrs).
+* *Phase 5:* There is little change in pit depth, but the shape in this phase is predominantly a moderately wide U. Walls show further thinning and the edges are becoming sharp. Irregularity is increasing in the rim. Scalloping pattern is completely gone and has been replaced with irregular bony projections. The condition of the bone is fairly good, however, there are some signs of deterioration with evidence of porosity and loss of density. **Mean age** = 38.8 +/- 7.00 yrs (34.4-42.3 yrs).
+* *Phase 6:* The pit is noticeably deep with a wide U-shape. The walls are thin with sharp edges. The rim is irregular and exhibits some rather long bony projections that are frequently more pronounced at the superior and inferior borders. The bone is noticeably lighter in weight, thinner, and more porous, especially inside the pit. **Mean age** = 50.0 +/- 11.17 yrs (44.3-55.7 yrs).
+* *Phase 7:* The pit is deep with a wide to very wide U-shape. The walls are thin and fragile with sharp, irregular edges and bony projections. The bone is light in weight and brittle with significant deterioration in quality and obvious porosity. **Mean age** = 59.2 +/- 9.52 yrs (54.3-64.1 yrs).
+* *Phase 8:* In this final phase the pit is very deep and widely U-shaped. In some cases the floor of the pit is absent or filled with bony projections. The walls are extremely thin, fragile, and brittle with sharp, highly irregular edges and bony projections. The bone is very lightweight, thin, brittle, friable, and porous. "Window" formation is sometimes seen in the walls. **Mean age** = 71.5 +/- 10.27 yrs (65.0-78.0 yrs).
 
 
 ## **İşcan MY, Loth SR, Wright RK (1985)** 
@@ -129,6 +162,16 @@ Age estimation from the rib by phase analysis:  White females. *Journal of For
 * *Purpose:*  Age estimation based on themorphology of the sternal end of the fourth rib (White Females). 
 * *Sample:*  The reference population consists of 86 White females of known age at death.
 * This system is a 9-phase system (0-8), requiring the sternal end of the 4th rib be compared to three-dimensional casts of known age exemplars. 
+* **Phase Descriptions and Ages (mean +/- 1 SD, 95% range)**
+* *Phase O:* The articular surface is nearly flat with ridges or billowing. The outer surface of the sternal extremity of the rib is bordered by what appears to be an overlay of bone. The rim is regular with rounded edges, and the bone itself is firm, smooth, and very solid.
+* *Phase 1:* A beginning, amorphous indentation can be seen in the articular surface. Ridges or billowing may still be present. The rim is rounded and regular with a little waviness in some cases. The bone is still solid, firm, and smooth. **Mean age** = 14.0 (no SD or CI provided).
+* *Phase 2:* The pit is considerably deeper and has assumed a V-shape between the thick, smooth anterior and posterior walls. Some ridges or billowing may still remain inside the pit. The rim is wavy with some scallops beginning to form at the rounded edge. The bone itself is firm and solid. **Mean age** = 17.4 +/- 1.52 yrs (15.5-19.3 yrs).
+* *Phase 3:* There is only slight if any increase in pit depth, but the V-shape is wider, sometimes approaching a narrow U as the walls become a bit thinner. The still rounded edges now show a pronounced, regular scalloping pattern. At this stage, the anterior or posterior walls or both may first start to exhibit a central, semicircular arc of bone. The rib is firm and solid. **Mean age** = 22.6 +/- 1.67 yrs (20.5-24.7 yrs).
+* *Phase 4:* There is a noticeable increase in the depth of the pit, which now has a wide V- or narrow U-shape with, at times, flared edges. The walls are thinner but the rim remains rounded. Some scalloping is still present, along with the central arc; however, the scallops are not as well defined and the edges look somewhat worn down. The quality of the bone is fairly good but there is some decrease in density and firmness. **Mean age** = 27.7 +/- 4.62 yrs (24.4-31.0 yrs).
+* *Phase 5:* The depth of the pit stays about the same, but the thinning walls are flaring into a wider V- or U-shape. In most cases, a smooth, hard, plaque-like deposit lines at least part of the pit. No regular scalloping pattern remains and the edge is beginning to sharpen. The rim is becoming more irregular, but the central arc is still the most prominent projection. The bone is noticeably lighter in weight, density and firmness. The texture is somewhat brittle. **Mean age** = 40.0 +/- 12.22 yrs (33.7-46.3 yrs).
+* *Phase 6:* An increase in pit depth is again noted, and its V- or U-shape has widened again because of pronounced flaring at the end. The plaque-like deposit may still appear but is rougher and more porous. The walls are quite thin with sharp edges and an irregular rim. The central arc is less obvious and, in many cases, sharp points project from the rim of the sternal extremity. The bone itself is fairly thin and brittle with some signs of deterioration. **Mean age** = 50.7 +/- 14.93 yrs (43.3-58.1 yrs).
+* *Phase 7:* In this phase, the depth of the predominantly flared U-shaped pit not only shows no increase, but actually decreases slightly .Irregular bony growths are often seen extruding from the interior of the pit. The central arc is still present in most cases but is now accompanied by pointed projections, often at the superior and inferior borders, yet may be evidenced anywhere around the rim. The very thin walls have irregular rims with sharp edges. The bone is very light, thin, brittle, and fragile, with deterioration most noticeable inside the pit. **Mean age** = 65.2 +/- 11.24 yrs (59.2-71.2 yrs).
+* *Phase 8:* The floor of the U-shaped pit in this final phase is relatively shallow, badly deteriorated, or completely eroded. Sometimes it is filled with bony growths. The central arc is barely recognizable. The extremely thin, fragile walls have highly irregular rims with very sharp edges, and often fairly long projections of bone at the inferior and superior borders. "Window" formation sometimes occurs in the walls. The bone itself is in poor condition - extremely thin, light in weight, brittle, and fragile. **Mean age** = 76.4 +/- 8.83 yrs (70.4-82.3 yrs).
 
 
 ## **Kasper KA, Austin D, Kvanli AH, Rios TR, Senn DR (2009)** 
@@ -137,7 +180,23 @@ Reliability of third molar development for age estimation in a Texas Hispanic po
 * *Purpose:*  Age estimation of Hispanic populations by scoring third molar development radiographically using the method of Demirjian et al. (1973) for crown and root formation. 
 * *Sample:* Hispanic individuals (n = 950) aged from 12-22 years 
 * The third molar of the Hispanic sample was found to develop 8-18 months faster than American Caucasians as reported by Mincer et al. (1993). 
-* Prediction tables for minimum and maximum age for an observed stage are provided.
+* **Prediction intervals (95% confidence) for each stage and sex**
+* **Maxilla**
+* *Stage B:* **Females** 10-21 yrs; **Males** 8-19 yrs
+* *Stage C:* **Females** 12-18 yrs; **Males** 12-17 yrs
+* *Stage D:* **Females** 11-19 yrs; **Males** 12-18 yrs
+* *Stage E:* **Females** 12-20 yrs; **Males** 12-18 yrs
+* *Stage F:* **Females** 13-20 yrs; **Males** 13-19 yrs
+* *Stage G:* **Females** 14-21 yrs; **Males** 14-20 yrs
+* *Stage H:* **Females** >15 yrs, with a 78.8% probability of being at least 18 years; **Males** >15 yrs, with a 71.4-74.7% probability of being at least 18 years
+* **Mandible**
+* *Stage B:* **Females** 11-20 yrs; **Males** 8-20 yrs
+* *Stage C:* **Females** 12-18 yrs; **Males** 12-17 yrs
+* *Stage D:* **Females** 11-19 yrs; **Males** 11-18 yrs
+* *Stage E:* **Females** 13-19 yrs; **Males** 13-18 yrs
+* *Stage F:* **Females** 14-21 yrs; **Males** 13-20 yrs
+* *Stage G:* **Females** 14-22 yrs; **Males** 15-21 yrs
+* *Stage H:* **Females** >16 yrs, with a 87.1-89.8% probability of being at least 18 years; **Males** >16 yrs, with a 85.8-86.4% probability of being at least 18 years
 * *Additional Reference:* Demirjian A, Goldstein H, Tanner JM (1973). A new system of dental age assessment. Human Biology, 45(2):211-227.
 
 
@@ -146,25 +205,57 @@ A Bayesian approach to age estimation in modern Americans from the clavicle. *Jo
 
 * *Purpose:*  Age estimation based on a 3-phase or 5-phase system for medial clavicular fusion for modern American individuals. 
 * *Sample:*  n = 1289 (1044 male, 245 female): 594 individuals (448 male, 146 female) between 11 and 33 years from the William F. McCormick Clavicle Collection, 354 individuals (255 male, 99 female) between 11 and 30 years from the Hamann-Todd Osteological Collection), and 341 males between 16 and 33 years from the Korean War. 
-* Due to secular trends, observed ages for each phase are provided separately for each sample. 
-* A Bayesian approach is also utilized to provide age ranges from the McCormick sample (for more modern cases).
+* Due to secular trends, observed ages for each phase are provided separately for each sample. This information can be used to produce age ranges based on the mean and standard deviations using the most appropriate sample population.
+* A Bayesian approach is also utilized to provide age ranges based on the highest posterior density of the McCormick sample for use with more modern cases. This provides a more conservative, statistically sound estimate that is less sensitive to outliers. These age ranges are provided below.
+* **Age ranges (95% CI) for each system and sex**
+* **5-phase system**
+* *1:* **Females** ≤16.2 yrs; **Males** ≤17.4 yrs
+* *2:* **Females** 13.5-21.0 yrs; **Males** 14.4-23.0 yrs
+* *3:* **Females** 16.7-25.7 yrs; **Males** 17.9-27.5 yrs
+* *4:* **Females** 19.9-29.3 yrs; **Males** 20.5-30.6 yrs
+* *5:* **Females** ≥22.5 yrs; **Males** ≥24.1 yrs
+* **3-phase system**
+* *1:* **Females** ≤16.5 yrs; **Males** ≤17.4 yrs
+* *2:* **Females** 14.1-27.1 yrs; **Males** 14.9-28.5 yrs
+* *3:* **Females** ≥22.1 yrs; **Males** ≥24.0 yrs
 
 
 ## **Lovejoy CO, Meindl RS, Pryzbeck TR, Mensforth RP (1985)** 
 Chronological metamorphosis of the auricular surface of the ilium: A new method for determination of adult skeletal age at death.  *American Journal of Physical Anthropology,* 68:15-28.
 
-* *Purpose:*  An 8-phase age estimation system based on auricular surface morphology. 
+* *Purpose:*  An 8-phase age estimation system based on auricular surface morphology, considering changes to the granularity and density, macroporosity, billowing, striae, apex, retroauricular area, and transverse organization. 
 * *Sample:*  The Todd Collection (n = 500), the Libben Collection (n = 250), and forensic cases from the Cuyahoga County Coroner’s Office, Ohio (n = 14). 
 * Two completely blind tests were conducted to assess the accuracy and bias of the new method utilizing different individuals from the Todd Collection (n = 98 and 108, respectively).
+* There are five basic phases in which the auricular surfaces progresses: early post-epiphyseal phase, young adult phase, mid adult phase, early senescent phase, and breakdown.
+* Eight age modes are developed based on the progression of auricular surface morphology through the basic five phases. The age ranges are provided below, with the most relevant characteristics. See reference for a more detailed description for each mode.
+* **Age Ranges and their Relevant Characteristics**
+* *20-24:* billowing and very fine granularity.
+* *25-29:* reduction of billowing, but retention of youthful appearance.
+* *30-34:* general loss of billowing, replacement by striae, and distinct coarsening of granularity.
+* *35-39:* uniform coarse granularity.
+* *40-44:* transition from coarse granularity to dense surface; this may take part over islands of the surface of one or both faces.
+* *45-49:* completion of densification with complete loss of granularity.
+* *50-59:* dense irregular surface of rugged topography and moderate to marked activity in periauricular areas.
+* *60+:* breakdown with marginal lipping, macroporosity, increased irregularity, and marked activity in periauricular areas.
 
 
 ## **Mann RW, Jantz RL, Bass WM, Willey PS (1991)** 
 Maxillary suture obliteration: A visual method for estimating skeletal age. *Journal of Forensic Sciences,* 36:781-791.  
 
 * *Purpose:*  Age estimation by assessing suture closure of the four maxillary (palatal) sutures. 
-* *Sample:*  186 skeletons of known age, sex, and race from three skeletal collections: 46 White males, 32 White females, 64 Black males, and 44 Black females. 
+* *Sample:*  186 skeletons of known age, sex, and race from three skeletal collections (Louisiana State University, University of Tennessee, and the Terry Skeletal Collection, Smithsonian Institution): 46 White males, 32 White females, 64 Black males, and 44 Black females. 
 * Males exhibit more suture obliteration than females at the same age. 
-* Although this method cannot be used for exact estimates of individual age, it is valuable in establishing an estimated age range.  
+* Although this method cannot be used for exact estimates of individual age, it is valuable in establishing an estimated age range or minimum age.
+* **First Evidence of Partial Obliteration (by suture)**
+* *Incisive:* 16 yrs
+* *Transverse palatine:* 22 yrs
+* *Posterior median palatine:* 25 yrs
+* *Anterior median palatine:* 27 yrs
+* **Earliest Complete Obliteration (by suture and sex)**
+* *Incisive:* **Females** 20 yrs; **Males** 20 yrs
+* *Transverse palatine:* **Females** 27 yrs; **Males** 26 yrs
+* *Posterior median palatine:* **Females** 84 yrs; **Males** 33 yrs
+* *Anterior median palatine:* **Females** 67 yrs; **Males** 40 yrs
 
 
 ## **McKern TW, Stewart TD (1957)** 
@@ -177,7 +268,7 @@ Maxillary suture obliteration: A visual method for estimating skeletal age. *Jo
 * *Pubic symphysis:* The McKern-Stewart system is a 3-component system that scores the dorsal and ventral demifaces and the rim of the pubic symphysis (each component having a 0-5 stage of development). Morphology can be compared to a cast set comprised of a representative pubic symphysis for a score of 1 to 5 for each component.  The scores for each component are combined and correspond to a given age range.        
 
 
-## **Meindl RS,Lovejoy CO (1985)** 
+## **Meindl RS, Lovejoy CO (1985)** 
 Ectocranial Suture Closure: a revised method for the determination of skeletal age at death based on the lateral-anterior sutures. *American Journal of Physical Anthropology,* 68:57-66.
 
 * *Purpose:*  Age estimation by scoring (0-open, 1-minimal closure, 2-significant closure, 3-complete obliteration) ectocranial vault and lateral anterior suture closure at ten sites. 
@@ -189,8 +280,22 @@ Ectocranial Suture Closure: a revised method for the determination of skeletal a
 The A.B.F.O. study of third molar development and its use as an estimator of chronological age. *Journal of Forensic Sciences,* 38:379-390.
 
 * *Purpose:*  Age estimation for American Whites and Blacks by scoring third molar development radiographically using the eight-grade classification system by Demirjian et al. (1973). 
-* *Sample:*  American males (46%) and females (54%) between the ages of 14 and 24 years (n = 823). The sample consisted of white (80%), Black (19%), and “other” (1%). 
+* *Sample:*  n = 823, males (46%) and females (54%) between the ages of 14 and 24 years from across the United States and Canada. The sample consisted of white (80%), Black (19%), and “other” (1%). 
 * Although the third molar is the most variable tooth, the formation of the third molar can be useful for age estimation when other elements are unavailable.
+* **Mean ages (+/- 1 SD) at attainment of stages for third molar formation**
+* **Maxilla**
+* *Stage D:* **White Females** 16.0 +/- 1.55 yrs; **White Males** 16.0 +/- 1.97 yrs; **Blacks** nd
+* *Stage E:* **White Females** 16.9 +/- 1.85 yrs; **White Males** 16.6 +/- 2.38 yrs; **Blacks** nd
+* *Stage F:* **White Females** 18.0 +/- 1.95 yrs; **White Males** 17.7 +/- 2.28 yrs; **Blacks** nd
+* *Stage G:* **White Females** 18.8 +/- 2.27 yrs; **White Males** 18.2 +/- 1.91 yrs; **Blacks** 19.3 +/- 3.37 yrs
+* *Stage H:* **White Females** 20.6 +/- 2.09 yrs; **White Males** 20.2 +/- 2.09 yrs; **Blacks** 20.4 +/- 3.14 yrs
+* **Mandible**
+* *Stage D:* **White Females** 16.0 +/- 1.64 yrs; **White Males** 15.5 +/- 1.59 yrs; **Blacks** nd
+* *Stage E:* **White Females** 16.9 +/- 1.75 yrs; **White Males** 17.3 +/- 2.47 yrs; **Blacks** nd
+* *Stage F:* **White Females** 17.7 +/- 1.80 yrs; **White Males** 17.5 +/- 2.14 yrs; **Blacks** 17.2 +/- 3.14 yrs
+* *Stage G:* **White Females** 19.1 +/- 2.18 yrs; **White Males** 18.3 +/- 1.93 yrs; **Blacks** 18.5 +/- 2.68 yrs
+* *Stage H:* **White Females** 20.9 +/- 2.01 yrs; **White Males** 20.5 +/- 1.97 yrs; **Blacks** 21.4 +/- 2.34 yrs
+* If an individual has reached Stage H, then one can be reasonably confident that the individuals is at least 18 years of age. An upper age limit should not be imposed.
 
 
 ## **Nawrocki SP (1998)** 
@@ -209,8 +314,15 @@ Regression formulae for the estimation of age from cranial suture closure. In *F
 Reconsidering the auricular surface as an indicator of age at death. *Journal of Forensic Sciences,* 49:905-911.
 
 * *Purpose:*  Age estimation based on auricular surface morphology. 
-* *Sample:*  266 individuals of documented age, sex, and ancestry from the Terry and Bass Donated Collections which represent early 20th century and late 20th century individuals, respectively.
+* *Sample:*  n = 266; the Terry Skeletal Collection, Smithsonian Institution (n = 72), and the Bass Donated Collection, University of Tennessee (n = 194), which represent early 20th century and late 20th century individuals, respectively.
 * This method is a modified 6-phase system of the existing 8-phase auricular surface aging method by Lovejoy et al (1985). 
+* **Phase Descriptions and Ages (mean +/- 1 SD, suggested age range)**
+* *Phase 1:* Billowing with possible striae; mostly fine granularity with some coarse granularity possible. **21.1 +/- 2.98 yrs (≤27 yrs)**
+* *Phase 2:* Striae; coarse granularity with residual fine granularity; retroauricular activity may be present. **29.5 +/- 8.20 yrs (≤46 yrs)**
+* *Phase 3:* Decreased striae with transverse organization; coarse granularity; retroauricular activity present; beginnings of apical change. **42.0 +/- 13.74 yrs (≤69yrs)**
+* *Phase 4:* Remnants of transverse organization; coarse granularity becoming replaced by densification; retroauricular activity present; apical change; macroporosity is present. **47.8 +/- 13.95 yrs (20-75 yrs)**
+* *Phase 5:* Surface becomes irregular; surface texture is largely dense; moderate retroauricular activity; moderate apical change; macroporosity. **53.1 +/- 14.14 yrs (24-82 yrs)**
+* *Phase 6:* Irregular surface; densification accompanied by subchondral destruction; severe retroauricular activity; severe apical change; macroporosity. **58.9 +/- 15.24 yrs (29-89 yrs)**
 
 
 ## **Samworth R, Gowland R (2007)** 
@@ -221,7 +333,14 @@ Estimation of adult skeletal age-at-death: Statistical assumptions and applicati
 * This method provides 90% prediction intervals for each combination of pubic symphysis (scored following the Suchey-Brooks method, n = 376) and auricular surface (scored following the Lovejoy method, n = 448).
 * These prediction intervals have been found to be accurate for 20th-century Americans as well (Passalacqua 2010).  
 * When both scores can be observed on the same individual, a combined age estimate may be produced in this manner.  
-* Such a combined age estimate maybe more precise than the pubic symphysis alone, particularly for individuals whose pubic symphyses are in phases 3-6. 
+* Such a combined age estimate may be more precise than the pubic symphysis alone, particularly for individuals whose pubic symphyses are in phases 3-6. 
+* **Prediction intervals (90%) by pubic symphysis (PS) and auricular surface (AS) scores**
+* *PS 1:* **AS 1** 13.3-29.7 yrs; **AS 2** 16.3-36.3 yrs; **AS 3** 18.8-42.3 yrs; **AS 4** 20.6-46.7 yrs; **AS 5** 21.6-48.8 yrs
+* *PS 2:* **AS 1** 15.5-34.6 yrs; **AS 2** 18.5-41.0 yrs; **AS 3** 21.0-46.9 yrs; **AS 4** 23.0-51.5 yrs; **AS 5** 24.3-54.3 yrs
+* *PS 3:* **AS 1** 18.1-40.5 yrs; **AS 2** 21.0-46.6 yrs; **AS 3** 23.5-52.2 yrs; **AS 4** 25.7-57.0 yrs; **AS 5** 27.2-60.5 yrs; **AS 6** 28.0-62.4 yrs
+* *PS 4:* **AS 1** 20.9-47.6 yrs; **AS 2** 23.7-53.0 yrs; **AS 3** 26.3-58.3 yrs; **AS 4** 28.5-63.2 yrs; **AS 5** 30.5-67.5 yrs; **AS 6** 31.9-70.8 yrs; **AS 7** 32.8-73.3 yrs
+* *PS 5:* **AS 1** 24.1-56.2 yrs; **AS 2** 26.8-60.4 yrs; **AS 3** 29.3-65.1 yrs; **AS 4** 31.7-70.2 yrs; **AS 5** 34.0-75.4 yrs; **AS 6** 36.4-80.5 yrs; **AS 7** 38.6-85.6 yrs; **AS 8** 40.7-90.8 yrs
+* *PS 6:* **AS 1** 27.7-66.6 yrs; **AS 2** 30.1-69.0 yrs; **AS 3** 32.5-72.9 yrs; **AS 4** 35.1-78.1 yrs; **AS 5** 38.0-84.4 yrs; **AS 6** 41.4-91.8 yrs; **AS 7** 45.2-100.5 yrs; **AS 8** 49.6-111.2 yrs
 
 
 ## **Schaefer M, Black S, Scheuer L (2009)** 
