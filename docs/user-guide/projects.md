@@ -1,4 +1,4 @@
-# Projects
+f# Projects
 
 Guide to all available projects settings.
 
@@ -34,4 +34,5 @@ through a common ontology, enabling data sharing and opportunities for new metho
 open source software that fosters collaboration and community engagement via appropriate interfaces and Application Programming
 Interfaces (APIs).
 
-https://www.aafs.org/meetings/aafs-70th-annual-scientific-meeting-seattle-washington-2018/
+Click [here]https://www.aafs.org/meetings/aafs-70th-annual-scientific-meeting-seattle-washington-2018/ for more meeting information.
+
