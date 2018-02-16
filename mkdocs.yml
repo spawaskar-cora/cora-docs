@@ -16,6 +16,7 @@ pages:
         - Zones: forensics-anthro-guide/zones.md
     - About:
         - Contributing: about/contributing.md
+    - AAFS 2018 Conference: aafs-2018/readme.md
 
 theme: mkdocs
 theme_dir: 'custom_theme'
