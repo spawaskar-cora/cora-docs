@@ -20,6 +20,9 @@ title for the project documentation.
 ## AAFS 70th Annual Presentations, Workshop \#7
 Wecome to Workshop \#7: Data Standards, Archiving and Analytics in Forensic Anthropology
 
+Program Description: Presentations of a unified data architecture and ontology for recording and managing biometric data in
+forensic anthropology will be presented in this session.
+
 Educational Objective(s): After attending this presentation, attendees will understand the benefits of a unified data architecture
 and ontology of forensic anthropology data, which enables the development and implementation of software applications for data
 analytics. Attendees of this session will join a community of users and will gain access to open source software for recording and
