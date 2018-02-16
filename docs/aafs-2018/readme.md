@@ -16,7 +16,7 @@ After attending this presentation, attendees will understand the benefits of a u
 This presentation will impact the forensic science community by providing access to an ecosystem of software applications for forensic anthropology that facilitates casework analyses. Casework efficiencies are realized through a common ontology, enabling data sharing and opportunities for new methods. The ecosystem of applications is based on open source software that fosters collaboration and community engagement via appropriate interfaces and Application Programming Interfaces (APIs).
 
 ## Links to workshop presentations: 
-
+ * [Introduction to Information Management, Project Pipelines, and the Commingled Remains Analytics Platform](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/AAFS-2018-Talk-v2.0.pdf)
  * [Automated Osteological Sorting of Human Commingled Remains](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/OsteoSort_Lynch2018AAFS.pdf)
 
 ## Link to AAFS 2018 conference website: 
