@@ -16,3 +16,5 @@ Something about Projects .
 
 This is a **required setting**, and should be a string that is used as the main
 title for the project documentation.
+
+## AAFS 70th Annual Presentations, Workshop \#7
