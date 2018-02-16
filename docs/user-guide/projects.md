@@ -37,6 +37,7 @@ open source software that fosters collaboration and community engagement via app
 Interfaces (APIs).
 
 Automated Osteological Sorting of Human Commingled Remains
+![Lynch](../OsteoSort_Lynch2018AAFS.pdf)
 
 Click [here](https://www.aafs.org/meetings/aafs-70th-annual-scientific-meeting-seattle-washington-2018/) for more information about the AAFS 70th Annual Meeting in Seattle, WA.
 
