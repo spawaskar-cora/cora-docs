@@ -17,7 +17,13 @@ This presentation will impact the forensic science community by providing access
 
 ## Links to workshop presentations: 
  * [Introduction to Information Management, Project Pipelines, and the Commingled Remains Analytics Platform](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/AAFS-2018-Talk-v2.0.pdf)
- * [Automated Osteological Sorting of Human Commingled Remains](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/OsteoSort_Lynch2018AAFS.pdf)
+ * [Knowledge Management and Ontology of Forensic Anthropology Research Data From Texas State](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/AAFS2018_Workshop7_TexasStateFreiburg.pdf)
+ * [Hands-On Exercise: The R-Programming Environment and Its Application to Biometric Data and Analytics in Forensic Anthropology](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/Stephan_etal._Hands-On%20R%20Exercise_Notes.pdf)
+ * [Skelet-O Matic: A Macro-Enabled Inventory Application](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/Stephan_Skelet-o-matic.pdf)
+ * [Osteosort: Lecture, Demonstration, and Hands-On Tutorial](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/OsteoSort_Lynch2018AAFS.pdf)
+ * [TDStats for Automating Facial Soft Tissue Thickness Analysis](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/Stephan_TDStats.pdf)
+ * [Note to participants on software.pdf](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/Note%20to%20participants%20on%20software.pdf)
+
 
 ## Link to AAFS 2018 conference website: 
 Click [here](https://www.aafs.org/meetings/aafs-70th-annual-scientific-meeting-seattle-washington-2018/) for more information about the AAFS 70th Annual Meeting in Seattle, WA.
