@@ -4,7 +4,7 @@ Commingled human remains are often encountered in archaeological and forensic co
 ![CoRA Ecosystem Architecture](images/architecture/Cora-Ecosystem-Modules-Diagram.png)
 
 ## CoRA Ecosystem
-The CoRA Ecosystem is build to on a flexible, extentesible and modular architecture, allowing for new modules to be added. It provides for easy integration with the flexibility to add new applications based on the cora data and integration frameworks. Users will be able to easily access their data via the data integration API allowing for integrations with other external systems as well as use for advanced analytics modules based upon new research, tools and technologies.
+The CoRA Ecosystem is built on a flexible, extentesible and modular architecture, allowing for new modules to be added. It provides for easy integration with the flexibility to add new applications based on the cora data and integration frameworks. Users will be able to easily access their data via the data integration API allowing for integrations with other external systems as well as use for advanced analytics modules based upon new research, tools and technologies.
 
 # Contribution Guidelines
 
