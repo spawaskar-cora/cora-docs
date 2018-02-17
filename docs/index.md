@@ -1,5 +1,5 @@
 # What is CoRA?
-Commingled human remains are often encountered in archaeological and forensic contexts. A bone by bone inventory is an important step in determining the minimum number of individuals present and segregating commingled remains into individuals. This process must occur for individual identification to be possible. The **Commingled Remains and Analytics (CoRA)** web application, database and APIs are a `community resource` for inventorying assemblages of commingled human remains, while `providing a framework of analytic methods and tools` to assist in the segregation and identification process.
+Commingled human remains are often encountered in archaeological and forensic contexts. A bone by bone inventory is an important step in segregating commingled remains into individuals and determining the minimum number of individuals present. In order to acheive individual identification a controlled and consistent specimen-level inventory procedure must be followed. The **Commingled Remains and Analytics (CoRA)** web application, database and APIs are a `community resource` for inventorying assemblages of commingled human remains, while `providing a framework of analytic methods and tools` to assist in the segregation and identification process.
 
 ![CoRA Ecosystem Architecture](images/architecture/Cora-Ecosystem-Modules-Diagram.png)
 
