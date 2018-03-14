@@ -23,7 +23,7 @@ This presentation will impact the forensic science community by providing access
  * [Osteosort: Lecture, Demonstration, and Hands-On Tutorial](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/OsteoSort_Lynch2018AAFS.pdf)
  * [TDStats for Automating Facial Soft Tissue Thickness Analysis](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/Stephan_TDStats.pdf)
  * [Note to participants on software.pdf](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/Note%20to%20participants%20on%20software.pdf)
-
+ * [FORDISC® Updates and Demonstration](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/aafs-2018/Workshop-Fordisc%20Lessons-Ousley-AAFS-2018.pdf)
 
 ## Link to AAFS 2018 conference website: 
 Click [here](https://www.aafs.org/meetings/aafs-70th-annual-scientific-meeting-seattle-washington-2018/) for more information about the AAFS 70th Annual Meeting in Seattle, WA.
