@@ -15,8 +15,7 @@
   * Example: A2
 * Designator (*required field*)
   * Unique number for the element
-  * Alphanumeric
-  * No special characters or symbols
+  * Alphanumeric  * No special characters or symbols
   * Example: 101
 * Bone (*required field*)
   * Choose element from drop-down list
@@ -46,8 +45,7 @@ Same fields as “New Skeletal Element” with the addition of:
 * Measured
   * Check box if element has been measured
 * DNA Sample:
-  * Check box if element has been sampled for DNA
-* Inventoried
+  * Check box if element has been sampled for DNA* Inventoried
   * Check box if inventory is complete and is ready for review
   * Information cannot be changed once this box is checked.
 * Reviewed
@@ -56,3 +54,49 @@ Same fields as “New Skeletal Element” with the addition of:
   * Unique identifier given when element is being associated as an individual, i.e., multiple elements representing a single individual are given one number
   * Example: 2018-IND-1
 * Click Details to add analyses
+
+
+# Analyses
+
+## Biological Profile
+### Age
+* Choose the applicable method; this list is based on methods applicable to the element. Click Create.
+* Fill in appropriate age scores/descriptions. Click Save.
+* Information can be edited after save, but cannot be deleted.
+### Sex
+* Choose the applicable method; this list is based on methods applicable to the element. Click Create.
+* Fill in appropriate scores/descriptions. Click Save.
+* Information can be edited after save, but cannot be deleted.
+### Stature
+* No methods available.
+### Ancestry
+* Choose the applicable method; this list is based on methods applicable to the element. Click Create.
+* Fill in appropriate scores/descriptions. Click Save.
+* Information can be edited after save, but cannot be deleted.
+
+
+## DNA Profile
+•	Lab 
+o	Choose the laboratory that is conducting the DNA analysis
+•	External Case #
+o	The DNA testing laboratory’s case number
+o	Only number(s) and/or letter(s)
+•	DNA Sample Number 
+o	The sample number for the DNA sample
+o	Only number(s) and/or letter(s)
+•	Mito Sequence Number
+o	mitochondrial DNA sequence number
+o	Numeric
+•	Mito Sequence Subgroup
+o	mitochondrial DNA sequence number
+o	Number(s) and/or letter(s)
+•	Mito Sequence Similar
+o	If there is a similar mitochondrial DNA sequence number, list it here
+o	Number(s) and/or letter(s)
+•	Mito Match Count
+o	Number of individuals matching the mitochondrial DNA sequence 
+o	Numeric
+•	Mito Total Count
+o	Total number of individuals in the reference/comparison group 
+o	Numeric
+•	Once saved, additional “analysis tests” can be added
