@@ -38,6 +38,7 @@ Same fields as “New Skeletal Element” with the addition of:
 * To enter or edit data, you must go to *Actions* → Edit
 * CT Scanned
   * Check box if element has been CT scanned
+
 * X-ray Scanned
   * Check box if element has been x-rayed
 * Clavicle Triage
@@ -54,7 +55,6 @@ Same fields as “New Skeletal Element” with the addition of:
   * Unique identifier given when element is being associated as an individual, i.e., multiple elements representing a single individual are given one number
   * Example: 2018-IND-1
 * Click Details to add analyses
-
 
 # Analyses
 
@@ -76,7 +76,7 @@ Same fields as “New Skeletal Element” with the addition of:
 
 
 ## DNA Profile
-•	Lab 
+#•	Lab 
 o	Choose the laboratory that is conducting the DNA analysis
 •	External Case #
 o	The DNA testing laboratory’s case number
@@ -100,3 +100,54 @@ o	Numeric
 o	Total number of individuals in the reference/comparison group 
 o	Numeric
 •	Once saved, additional “analysis tests” can be added
+
+## Taphonomy
+•	Chose appropriate taphonomic description for the following categories:
+o	General color
+o	Adherent materials
+o	Biological
+o	Burned
+o	Physical
+o	Staining
+o	Human modification
+•	Numerous descriptors can be chosen
+•	Can be deleted after clicking “save”
+
+Zonal Classification
+•	Check the box for the corresponding zone that is present.
+•	As a general rule, check a zone present if ≥50% of the zone is present. 
+
+Measurements
+•	Must be numeric, not more than two decimal places
+•	Ex: 241, 13.5, 14.56, etc.
+•	Must click “save”
+•	Can be deleted after clicking “save”
+
+Associations 
+Articulations
+•	Select articulating element(s)
+Pair Matching
+•	Select pair matching element(s)
+Refits	
+•	Select refitting element(s)
+
+Pathology 
+Trauma 
+•	By zone description of type of trauma, with free text space for additional information.
+•	Options include the following, as a general category or a specific type of trauma:
+o	Antemortem
+o	Perimortem
+•	Cannot be deleted once entered
+Pathology
+•	By zone description of type of pathology, with free text space for additional information.
+•	Options include the following, as a general category or a specific type of pathology:
+o	Density
+o	Morphology
+o	Proliferative
+o	Lytic
+o	Deformative
+•	Cannot be deleted once entered.
+
+Anomaly
+•	Choose any anomaly description available
+
