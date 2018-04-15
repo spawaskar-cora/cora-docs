@@ -46,13 +46,13 @@ Click “save” to continue analysis. All fields can be edited/updated after th
 To enter or edit data, you must go to *Actions* → Edit
 
 **CT Scanned**
-* Check box if element has been CT scanned
+* Check this box if element has been CT scanned
 
 **X-ray Scanned**
-* Check box if element has been x-rayed
+* Check this box if element has been x-rayed
 
 **Clavicle Triage**
-* Check box if element has been triaged for chest radiograph comparison
+* Check this box if element has been triaged for chest radiograph comparison
 
 **Measured**
 * Box will automatically be checked when any measurements are saved under the **Measurements** analysis
@@ -60,12 +60,12 @@ To enter or edit data, you must go to *Actions* → Edit
 **DNA Sample**
 * Box will automatically be checked when any measurements are saved under the **DNA Profile** analysis
 
-**Inventoried**
-* Check box if inventory is complete and is ready for review
-* Information cannot be changed once this box is checked.
+**Inventory Completed**
+* Check this box if inventory is complete and is ready for review
+* Information cannot be changed once this box is checked. Changes cannot be made without approval by the project lead/manager/creator/etc.
 
 **Reviewed**
-* Check box if inventory is complete and is ready for review
+* Check this box if review is complete
 
 **Individual Number**
 * Unique identifier given when element is being associated as an individual, i.e., multiple elements representing a single individual are given one number
