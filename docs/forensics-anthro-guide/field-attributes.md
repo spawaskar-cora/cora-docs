@@ -58,7 +58,9 @@ To enter or edit data, you must go to *Actions* → Edit
 * Box will automatically be checked when any measurements are saved under the **Measurements** analysis
 
 **DNA Sample**
-* Check box if element has been sampled for DNA* Inventoried
+* Box will automatically be checked when any measurements are saved under the **DNA Profile** analysis
+
+**Inventoried**
 * Check box if inventory is complete and is ready for review
 * Information cannot be changed once this box is checked.
 
@@ -153,16 +155,21 @@ Numerous descriptors can be chosen
 * Must click “save”
 * Can be deleted after clicking “save”
 
+
 ## Associations 
+
 ### Articulations
 •	Select articulating element(s)
 
 ### Pair Matching
 •	Select pair matching element(s)
+
 ### Refits	
 •	Select refitting element(s)
 
+
 ## Pathology 
+
 ### Trauma 
 By zone description of type of trauma, with free text space for additional information.
 
