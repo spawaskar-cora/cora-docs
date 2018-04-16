@@ -18,23 +18,23 @@
 
 **Designator** (*required field*)
 * Unique number for the element
-* Alphanumeric  
+* Alphanumeric
 * No special characters or symbols
 * Example: 101
 
 **Bone** (*required field*)
 * Choose element from drop-down list
-* Multiple options exist for unidentifiable elements (Ex: Unidentified cervical vertebra, unidentified long bone, etc.)
+* Options exist for unidentifiable elements (Ex: Unidentified cervical vertebra, unidentified long bone)
 
 **Side** (*required field*)
 * Left – element is from the left side of the body
-* Right – element is from the left side of the body
-* Middle – element is from the middle of the body (Example: cranium, thoracic vertebra 1, etc.)
+* Right – element is from the right side of the body
+* Middle – element is from the middle of the body (Ex: cranium, thoracic vertebra 1)
 * Unsided – any element that side cannot be determined
 
 **Completeness** (*required field*)
 * Complete – a complete element is present, fragmentary or whole
-   → If complete is chosen, all zones will be automatically populated.
+   → If complete is chosen, all zones will be automatically populated
 * Incomplete – any element that is not complete
 
 Click “save” to continue analysis. All fields can be edited/updated after the element has been saved, until “Inventoried” is checked, then changes cannot be made without approval by the project lead/manager/creator/etc.
@@ -103,23 +103,23 @@ Click Details to add **Analyses**
 
 **External Case #**
 * The DNA testing laboratory’s case number
-* Only number(s) and/or letter(s)
+* Alphanumeric
 
 **DNA Sample Number** 
 *	The sample number for the DNA sample
-*	Only number(s) and/or letter(s)
+*	Alphanumeric
 
 **Mito Sequence Number**
-* mitochondrial DNA sequence number
+*  mitochondrial DNA sequence number
 *	Numeric
 
 **Mito Sequence Subgroup**
 *	mitochondrial DNA sequence number
-*	Number(s) and/or letter(s)
+*	Alphanumeric
 
 **Mito Sequence Similar**
 *	If there is a similar mitochondrial DNA sequence number, list it here
-*	Number(s) and/or letter(s)
+*	Alphanumeric
 
 **Mito Match Count**
 *	Number of individuals matching the mitochondrial DNA sequence 
@@ -151,7 +151,7 @@ Numerous descriptors can be chosen
 
 ## Measurements
 * Must be numeric, not more than two decimal places
-* Ex: 241, 13.5, 14.56, etc.
+* Ex: 241, 13.5, 14.56
 * Must click “save”
 * Can be deleted after clicking “save”
 
