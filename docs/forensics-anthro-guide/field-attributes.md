@@ -162,7 +162,6 @@ Once saved, additional “analysis tests” can be added
 ## Taphonomy
 
 Chose appropriate taphonomic description for the following categories:
-
 *	General color
 *	Adherent materials
 *	Biological
@@ -172,18 +171,15 @@ Chose appropriate taphonomic description for the following categories:
 *	Human modification
 
 Numerous descriptors can be chosen
-
 * Can be deleted after clicking “save”
 
 
 ## Zonal Classification
-
 * Check the box for the corresponding zone that is present.
 * As a general rule, check a zone present if ≥50% of the zone is present. 
 
 
 ## Measurements
-
 * Must be numeric, not more than two decimal places
 * Ex: 241, 13.5, 14.56
 * Must click “save”
