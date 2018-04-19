@@ -115,6 +115,7 @@ Click Details to add **Analyses**
 * Information can be edited after save, but cannot be deleted.
 
 
+
 ## DNA Profile
 
 **Lab**
@@ -159,6 +160,7 @@ Click Details to add **Analyses**
 Once saved, additional “analysis tests” can be added
 
 
+
 ## Taphonomy
 
 Chose appropriate taphonomic description for the following categories:
@@ -174,9 +176,11 @@ Numerous descriptors can be chosen
 * Can be deleted after clicking “save”
 
 
+
 ## Zonal Classification
 * Check the box for the corresponding zone that is present.
 * As a general rule, check a zone present if ≥50% of the zone is present. 
+
 
 
 ## Measurements
@@ -184,6 +188,7 @@ Numerous descriptors can be chosen
 * Ex: 241, 13.5, 14.56
 * Must click “save”
 * Can be deleted after clicking “save”
+
 
 
 ## Associations 
@@ -198,12 +203,14 @@ Numerous descriptors can be chosen
 •	Select refitting element(s)
 
 
+
 ## Pathology 
 
 ### Trauma 
 By zone description of type of trauma, with free text space for additional information.
 
 Options include the following, as a general category or a specific type of trauma:
+
 * Antemortem
 * Perimortem
 
@@ -211,6 +218,7 @@ Options include the following, as a general category or a specific type of traum
 By zone description of type of pathology, with free text space for additional information.
 
 Options include the following, as a general category or a specific type of pathology:
+
 * Density
 * Morphology
 * Proliferative
