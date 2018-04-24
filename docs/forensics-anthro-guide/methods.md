@@ -10,6 +10,25 @@ In this section we present an annotated bibliography of analytical methods avail
 * Characteristics of the cranium and mandible at six non-metric features are described (male vs. female): supraorbital ridge (prominent vs. smooth), supraorbital margins (blunt vs. sharp), palate/dentition (large vs. small), mastoid processes (large vs. small), frontal sinuses (large vs. small), and chin shape (square vs. rounded). 
 
 
+## **Buikstra JE, Ubelaker DH (1994)** 
+*Standards for Data Collection from Human Skeletal Remains.*  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.
+
+* *Purpose:*  Data collection standardization from skeletal remains. This source consolidates multiple non-metric methods and measurements into a single source.
+* **Sex determination from the skull**
+* Features of the cranium and mandible are scored from **minimal expression ("1")** to **maximal expression ("5")**. 
+* *Nuchal crest:* View the lateral profile of the occipital and compare it with the diagram. Feel the surface of the occipital with your hand and note any surface rugosity, ignoring the contour of the underlying bone. Focus upon the rugosity attendant to attachment of nuchal musculature. In the case of **minimal expression**, the external surface of the occipital is smooth with no bony projections visible when the lateral profile is viewed. **Maximal expression** defines a massive nuchal crest that projects a considerable distance from the bone and forms a well-defined bony ledge or "hook."
+* *Mastoid process:* Score this feature by comparing its size with that of the surrounding structures such as the external auditory meatus and the zygomatic process of the temporal bone. The most important variable to consider in scoring this trait is the volume of the mastoid process, not its length. **Minimal expression** is a very small mastoid process that projects only a small distance below the inferior margins of the external auditory meatus and the digastric groove. A massive mastoid process with lengths and widths several times that of the external auditory meatus would be considered **maximal expression**. 
+* *Supraorbital margin:* Begin by holding your finger against the margin of the orbit at the lateral aspect of the supraorbital foramen. Then hold the edge of orbit between your fingers to determine its thickness. Look at each of the diagrams to determine which it seems to match most closely. In an example **minimal expression**, the border should feel extremely sharp, like the edge of a slightly dulled knife. A thick, rounded margin with a curvature approximating a pencil should be scored as **maximal expression**.
+
+* *Based on an overall assessment of all sexually dimorphic features of the os coxae and skull, separately, an individual can be assigned:* 
+* **0 = undetermined sex.** Insufficient data are available for sex determination
+* **1 = female.** There is little doubt that the structures represent a female.
+* **2 = probable female.** The structures are more likely female than male.
+* **3 = ambiguous sex.** Sexually diagnostic features are ambiguous.
+* **4 = probable male.** The structures are most likely male than female.
+* **5 = male.** There is little doubt that the structures represent a male.
+
+
 ## **Phenice TW (1969)** 
 A newly developed visual method of sexing the os pubis. *American Journal of Physical Anthropology,* 30:297-301.  
 
