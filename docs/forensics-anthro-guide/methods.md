@@ -26,7 +26,7 @@ In this section we present an annotated bibliography of analytical methods avail
 * *Greater sciatic notch:* This feature tends to be broad in females and narrow in males. The shape of the greater sciatic notch is not as reliable as the subpubic region. For scoring this feature, it is best to use the diagrams provided in the original publication to find the closest match. The broadest notch is scored as **"1"**, while the narrowest is scored as **"5"**.
 * *Preauricular sulcus:* The preauricular sulcus appears more often in females than males, with four positive expressions (score of 1-4) and the lack of expression (score of "0"). The scores are as follows: **0** = absence of preauricular sulcus; **1** = the preauricular sulcus is wide; **2** = the preauricular sulcus is wide (usually greater than 0.5 cm) but shallow; **3** = the preauricular sulcus is well defined but narrow, less than 0.5 cm deep; **4** = the preauricular sulcus is a narrow (less than 0.5 cm), shallow, and smooth-walled depression.
 * **OVERALL ASSESSMENT**
-* Based on an overall assessment of all sexually dimorphic features of the os coxae and skull, separately, an individual can be assigned:* 
+* Based on an overall assessment of all sexually dimorphic features of the os coxae and skull, separately, an individual can be assigned: 
 * **0 = undetermined sex.** Insufficient data are available for sex determination
 * **1 = female.** There is little doubt that the structures represent a female.
 * **2 = probable female.** The structures are more likely female than male.
