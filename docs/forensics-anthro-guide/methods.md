@@ -13,7 +13,7 @@ In this section we present an annotated bibliography of analytical methods avail
 ## **Buikstra JE, Ubelaker DH (1994)** 
 *Standards for Data Collection from Human Skeletal Remains.*  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.
 
-* *Purpose:* Determining sex from sexually dimorphic morphology of the skull and os coxae.
+* *Purpose:* Discussion of sexually dimorphic morphology of the skull and os coxae and the association with male and female.
 * **CRANIAL MORPHOLOGY**
 * Features of the cranium and mandible are scored from **minimal expression ("1")** to **maximal expression ("5")**. 
 * *Nuchal crest:* View the lateral profile of the occipital and compare it with the diagram. Feel the surface of the occipital with your hand and note any surface rugosity, ignoring the contour of the underlying bone. Focus upon the rugosity attendant to attachment of nuchal musculature. In the case of **minimal expression**, the external surface of the occipital is smooth with no bony projections visible when the lateral profile is viewed. **Maximal expression** defines a massive nuchal crest that projects a considerable distance from the bone and forms a well-defined bony ledge or "hook."
