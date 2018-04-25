@@ -10,6 +10,31 @@ In this section we present an annotated bibliography of analytical methods avail
 * Characteristics of the cranium and mandible at six non-metric features are described (male vs. female): supraorbital ridge (prominent vs. smooth), supraorbital margins (blunt vs. sharp), palate/dentition (large vs. small), mastoid processes (large vs. small), frontal sinuses (large vs. small), and chin shape (square vs. rounded). 
 
 
+## **Buikstra JE, Ubelaker DH (1994)** 
+*Standards for Data Collection from Human Skeletal Remains.*  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.
+
+* *Purpose:* Discussion of sexually dimorphic morphology of the skull and os coxae and the association with male and female.
+* **CRANIAL MORPHOLOGY**
+* Features of the cranium and mandible are scored from **minimal expression ("1")** to **maximal expression ("5")**. 
+* *Nuchal crest:* View the lateral profile of the occipital and compare it with the diagram. Feel the surface of the occipital with your hand and note any surface rugosity, ignoring the contour of the underlying bone. Focus upon the rugosity attendant to attachment of nuchal musculature. In the case of **minimal expression**, the external surface of the occipital is smooth with no bony projections visible when the lateral profile is viewed. **Maximal expression** defines a massive nuchal crest that projects a considerable distance from the bone and forms a well-defined bony ledge or "hook."
+* *Mastoid process:* Score this feature by comparing its size with that of the surrounding structures such as the external auditory meatus and the zygomatic process of the temporal bone. The most important variable to consider in scoring this trait is the volume of the mastoid process, not its length. **Minimal expression** is a very small mastoid process that projects only a small distance below the inferior margins of the external auditory meatus and the digastric groove. A massive mastoid process with lengths and widths several times that of the external auditory meatus would be considered **maximal expression**. 
+* *Supraorbital margin:* Begin by holding your finger against the margin of the orbit at the lateral aspect of the supraorbital foramen. Then hold the edge of orbit between your fingers to determine its thickness. Look at each of the diagrams to determine which it seems to match most closely. In an example **minimal expression**, the border should feel extremely sharp, like the edge of a slightly dulled knife. A thick, rounded margin with a curvature approximating a pencil should be scored as **maximal expression**.
+* *Glabella:* Viewing the cranium from the side. **Minimal expression** is characterized by minimal prominence of the glabella/supraorbital ridges with the contour of the frontal being smooth and little to no projection at the midline. **Maximal expression** involves a massive glabellar prominence, forming a rounded, loaf-shaped projection that is frequently associated with well-developed supraorbital ridges.
+* *Mental eminence:* Hold the mandible between the thumbs and index fingers with thumbs on either side of the mental eminence. Move the thumbs medially until the delimit the lateral borders of the mental eminence. In examples of **minimal expression**, there is little or no projection of the mental eminence above the surrounding bone. By contrast, **massive expression** is one in which the mental eminence occupies most of the anterior portion of the mandible.
+* **OS COXAE MORPHOLOGY**
+* See Phenice (1969) for morphology/scoring of the ventral arc, subpubic concavity, and ischiopubic ramus.
+* *Greater sciatic notch:* This feature tends to be broad in females and narrow in males. The shape of the greater sciatic notch is not as reliable as the subpubic region. For scoring this feature, it is best to use the diagrams provided in the original publication to find the closest match. The broadest notch is scored as **"1"**, while the narrowest is scored as **"5"**.
+* *Preauricular sulcus:* The preauricular sulcus appears more often in females than males, with four positive expressions (score of 1-4) and the lack of expression (score of "0"). The scores are as follows: **0** = absence of preauricular sulcus; **1** = the preauricular sulcus is wide; **2** = the preauricular sulcus is wide (usually greater than 0.5 cm) but shallow; **3** = the preauricular sulcus is well defined but narrow, less than 0.5 cm deep; **4** = the preauricular sulcus is a narrow (less than 0.5 cm), shallow, and smooth-walled depression.
+* **OVERALL ASSESSMENT**
+* Based on an overall assessment of all sexually dimorphic features of the os coxae and skull, separately, an individual can be assigned: 
+* **0 = undetermined sex.** Insufficient data are available for sex determination
+* **1 = female.** There is little doubt that the structures represent a female.
+* **2 = probable female.** The structures are more likely female than male.
+* **3 = ambiguous sex.** Sexually diagnostic features are ambiguous.
+* **4 = probable male.** The structures are most likely male than female.
+* **5 = male.** There is little doubt that the structures represent a male.
+
+
 ## **Phenice TW (1969)** 
 A newly developed visual method of sexing the os pubis. *American Journal of Physical Anthropology,* 30:297-301.  
 
