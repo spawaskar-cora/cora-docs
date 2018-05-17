@@ -3,7 +3,7 @@ In this section we present the images used in the Zonation Method for inventory 
 # **SKULL**
 ## **Cranium**
 
-![Skull anterior](../images/zones/)
+![Cranium anterior](../images/zones/Cranium_Ant_500.png)
 
 **Skull, anterior view.**
 
@@ -22,7 +22,7 @@ In this section we present the images used in the Zonation Method for inventory 
 14. Left nasal bone
 15. Right nasal bone
 
-![Skull lateral right](../images/zones/)
+![Skull right](../images/zones/Skull_Right_500.png)
 
 **Skull, lateral right view**
 
@@ -37,7 +37,7 @@ In this section we present the images used in the Zonation Method for inventory 
 13. Right maxilla
 15. Right nasal bone
 
-![Skull lateral left](../images/zones/)
+![Skull left](../images/zones/Skull_Left_500.png)
 
 **Skull, lateral left view**
 
@@ -52,19 +52,7 @@ In this section we present the images used in the Zonation Method for inventory 
 12. Left maxilla
 14. Left nasal bone
 
-![Skull posterior](../images/zones/)
-
-**Skull, posterior view**
-
-*Zones*
-
-3. Right parietal
-4. Left parietal
-5. Occipital
-6. Left temporal, including the root of the zygomatic process
-7. Right temporal, including the root of the zygomatic process
-
-![Skull inferior](../images/zones/)
+![Cranium inferior](../images/zones/Cranium_Inf_500.png)
 
 **Skull, inferior view**
 
@@ -82,28 +70,14 @@ In this section we present the images used in the Zonation Method for inventory 
 12. Palatal process of the left maxilla
 13. Palatal proces of the right maxilla
 
-![Skull superior](../images/zones/)
-
-**Skull, superior view**
-
-*Zones*
-
-1. Right frontal, split sagittally through the metopic suture
-2. Left frontal, split sagittally through the metopic suture
-3. Right parietal
-4. Left parietal
-5. Occipital
-6. Left temporal, including the root of the zygomatic process
-7. Right temporal, including the root of the zygomatic process
-14. Left nasal bone
-15. Right nasal bone
-
-
 ## **Mandible**
 
-![Mandible left](../images/zones/Mandible_left_500.png)
+![Mandible](../images/zones/Mandible_500.png)
 
-**Left mandible. Above: medial/internal view, below: lateral/external view.**
+**Mandible. Top left: medial/internal view of left; 
+Top right: medial/internal view of right; 
+Bottom left: lateral/external view of left;
+Bottom right: lateral/external view of right.**
 
 *Zones*
 1. Portion of the corpus, including alveoli for the premolars and molars as well as the premolars and molars themselves
