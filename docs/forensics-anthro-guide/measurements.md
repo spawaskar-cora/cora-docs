@@ -59,6 +59,8 @@ Cranial and postcranial interlandmark distances for skeletal biology.
 * *Instrument:* sliding caliper.
 * *Comments:*  With the skull resting on the occiput and with the base toward the observer measure to the outside of the roots of the zygomatic processes at their deepest incurvature, generally slightly anterior to the external auditory meatus, with the sharp points of the caliper (Howells 1973:173; Martin and Knussmann 1988:170, #11b; Moore-Jansen et al. 1994, #9; Langley et al. 2016:66, #10).
 
+![Cranium, Cra_11-](../images/measurements/Anterior_2_500.png)
+
 **Cra_11 Nasion-Prosthion Height (n-pr, NPH):**  The distance from nasion (n) to prosthion (pr), upper facial height. 
 
 * *Instrument:* sliding caliper.
