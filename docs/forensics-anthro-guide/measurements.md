@@ -145,6 +145,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 * *Comments:*  With the skull resting so that the occiput is facing the observer, measure the distance using the sharp points of the calipers (Howells 1973:174; Martin and Knussmann 1988:171, #12; Langley et al. 2016:70, #26).  
 
+![Cranium, Cra_27-28](../images/measurements/Anterior_4_500.png)
+
 **Cra_27 Bimaxillary Breadth (zma-zma, ZMB):**  The breadth across the maxillae, from the left to right zygomaxillare anterior (zma). 
 
 * *Instrument:* sliding caliper.
