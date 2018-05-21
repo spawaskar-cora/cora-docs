@@ -107,6 +107,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper.
 
+![Cranium, Cra_20-22-](../images/measurements/Midsagittal_2_500.png)
+
 **Cra_20 Frontal Chord (n-b, FRC):**  The distance from nasion (n) to bregma (b) taken in the mid-sagittal plane. 
 
 * *Instrument:* sliding caliper.
@@ -130,6 +132,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper. 
 * *Comments:*  Measure with the skull base up using the inside jaws of the calipers (Martin and Knussmann 1988:171, #16; Moore-Jansen et al. 1994, #23; Langley et al. 2016:69, #24). 
+
+![Cranium, Cra_25](../images/measurements/Lateral_1_500.png)
 
 **Cra_25 Mastoid Height (MDH):**  The direct distance between porion (po) and mastoidale (ms). 
 
