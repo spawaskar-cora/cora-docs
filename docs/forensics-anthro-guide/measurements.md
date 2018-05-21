@@ -87,6 +87,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 * *Comments:*  Carefully place the points of the instrument on the sharp lateral margins of the nasal aperture at its most lateral curvature; this is not an inside measurement. The measurement is perpendicular to the mid-sagittal plane and recorded to the nearest millimeter (Howells 1973: 176; Martin and Knussmann 1988:181 #54; Moore-Jansen et al. 1994, #14; Langley et al. 2016:68, #15). 
 
+![Cranium, Cra_16-](../images/measurements/Anterior_3_500.png)
+
 **Cra_16 Orbital Breadth (d-ec, OBB):**  The distance from dacryon (d) to ectoconchion (ec). 
 
 * *Instrument:* sliding caliper.
