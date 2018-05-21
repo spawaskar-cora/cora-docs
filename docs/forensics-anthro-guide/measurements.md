@@ -3,7 +3,7 @@ Cranial and postcranial interlandmark distances for skeletal biology.
 
 # Cranium
 
-![Cranium, anterior](../images/measurements/Anterior_1_500.png)
+![Cranium, Cra_01-06](../images/measurements/Midsagittal_1_500.png)
 
 **Cra_01 Maximum Cranial Length (g-op, GOL):**  The straight-line distance from glabella (g) to opisthocranion (op) in the midsagittal plane. 
 
@@ -15,10 +15,14 @@ Cranial and postcranial interlandmark distances for skeletal biology.
 * *Instrument:* spreading caliper.
 * *Comments:*  With the skull in position as for glabello-occipital length (Maximum Cranial Length), place the one caliper point at nasion and move the other point along the occiput in the midline for the maximum reading (Howells 1973:171; Langley et al. 2016:65, #2).
 
+![Cranium, Cra_03](../images/measurements/Anterior_1_500.png)
+
 **Cra_03 Maximum Cranial Breadth (eu-eu, XCB):**  The maximum width of the skull perpendicular to the mid-sagittal plane wherever it is located with the exception of the inferior temporal line and the immediate area surround the latter (i.e. the posterior roots of the zygomatic arches and supramastoid crest). 
 
 * *Instrument:* spreading caliper.
 * *Comments:*  Maximum Cranial Breadth is measured with the skull resting either on its base or on the occiput. The two measuring points (eurya) should lie in the same horizontal and frontal planes. Place the arms of the caliper at the same level while maintaining the hinge joint of the caliper in the mid-sagittal plane. Hold the ends of the caliper in each hand and apply to the lateral portions of the skull, making circular motions. Make sure you include areas below the squamosal suture, where the maximum is sometimes found. (Howells 1973:172; Hrdlicka 1920:14; Martin and Knussmann 1988:170, #8; Moore-Jansen et al. 1994, #2; Langley et al. 2016:65, #3). 
+
+![Cranium, Cra_04-](../images/measurements/Inferior_1_500.png)
 
 **Cra_04 Bizygomatic Breadth (zy-zy, ZYB):**  The maximum breadth across the zygomatic arches, wherever found, perpendicular to the mid-sagittal plane. 
 
