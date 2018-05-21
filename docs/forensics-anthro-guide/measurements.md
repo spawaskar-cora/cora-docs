@@ -160,6 +160,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 # Mandible
 
 ![Mandible_anterior](../images/measurements/Mandible_2_500.png)
+
 **Mandible, anterior view.**
 
 **Man_01 Chin Height (id-gn):**  The distance from infradentale (id) to gnathion (gn). 
