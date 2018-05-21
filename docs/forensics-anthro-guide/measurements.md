@@ -3,7 +3,7 @@ Cranial and postcranial interlandmark distances for skeletal biology.
 
 # Cranium
 
-![Cranium, anterior](../images/measurements/cranium_ant_500.png)
+![Cranium, anterior](../images/measurements/Anterior_1_500.png)
 
 **Cra_01 Maximum Cranial Length (g-op, GOL):**  The straight-line distance from glabella (g) to opisthocranion (op) in the midsagittal plane. 
 
