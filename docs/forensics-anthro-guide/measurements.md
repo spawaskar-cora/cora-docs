@@ -159,14 +159,17 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 # Mandible
 
-![Mandible](../images/measurements/mandible_500.png)
-
-**Left mandible, lateral view.**
+![Mandible_anterior](../images/measurements/Mandible_2_500.png)
+**Mandible, anterior view.**
 
 **Man_01 Chin Height (id-gn):**  The distance from infradentale (id) to gnathion (gn). 
 
 * *Instrument:* sliding caliper.
 * *Comments:*  When the mandibular alveolar process is damaged between the central incisors, estimates of this measurement are recorded by using the intact alveolar process at the position of the lateral incisors. Any estimate or adjustment should be indicated on the recording form. In mandibles where the alveolar process exhibit pronounced erosion or resorption, this measurement is not taken (Martin and Knussmann 1988:183, #69; Moore-Jansen et al. 1994, #25; Langley et al. 2016:71, #29). 
+
+![Mandible](../images/measurements/mandible_500.png)
+
+**Mandible, lateral left view.**
 
 **Man_02 Height of the Mandibular Body:**  The distance from the alveolar process to the inferior border of the mandible at the level of the mental foramen (Martin and Knussmann 1988:183, #69.1; Moore-Jansen et al. 1994, #26; Langley et al. 2016:71, #30). 
 
