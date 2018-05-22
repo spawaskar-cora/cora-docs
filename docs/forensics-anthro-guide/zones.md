@@ -1,4 +1,4 @@
-In this section we present the images used in the zonation method for inventory of fragmented human remains, along with captions and desciptions of each of the zones. The zone method of skeletal specimen inventory is derived from Knusel & Outram (2004) Fragmentation: The zonation method applied to fragmented human remains from archaeological and forensic contexts. Environmental Archaeology, 9(1):85-98. Images derived from Knusel and Outram (2004) by Elizabeth Lockett and Nandar Yukyi.
+In this section we present the images used in the zonation method for inventory of fragmented human remains, along with captions and desciptions of each of the zones. The zone method of skeletal specimen inventory is derived from Knusel & Outram (2004) Fragmentation: The zonation method applied to fragmented human remains from archaeological and forensic contexts. Environmental Archaeology, 9(1):85-98. Images derived from Knusel and Outram (2004) and Langley et al. (2016) by Elizabeth Lockett and Nandar Yukyi.
 
 # **SKULL**
 ## **Cranium**
