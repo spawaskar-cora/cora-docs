@@ -1,5 +1,4 @@
-Cranial and postcranial interlandmark distances for skeletal biology.
-
+In this section we present the images for measurements used in the inventory of human remains, along with captions and desciptions of each measurement. The measurement definitions are derived from Langley et al. (2016) Data collection procedures for forensic skeletal material 2.0. University of Tennessee and Lincoln Memorial University and Byrd & Adams (2003) Osteometric sorting of commingled human remains. Journal of forensic sciences, 48(4), 717-724. Images derived from Langley et al. (2016) by Elizabeth Lockett and Nandar Yukyi.
 
 # Cranium
 
