@@ -338,9 +338,11 @@ externally)
 *Zones*
 
 Carpals
+
 1\. Present or absent  
 
 Metacarpals and phalanges
+
 1\. Proximal articulation  
 2\. Distal articular condyle  
 3\. Diaphysis  
@@ -353,6 +355,7 @@ Metacarpals and phalanges
 *Zones*
 
 Calcaneus
+
 1\. Tuber calcis  
 2\. Distal portion of the body  
 3\. Sustentaculum tali  
@@ -360,15 +363,18 @@ Calcaneus
 5\. Proximal portion of the body inferior to the articulations  
 
 Talus
+
 1\. Medial half of the trochlea  
 2\. Lateral half of the trochlea  
 3\. Medial half of the proximal portion, splitting the head sagittally  
 4\. Lateral half of the proximal portion, splitting the head sagittally  
 
 Remaining tarsals
+
 1\. Present or absent  
 
 Metatarsals and phalanges
+
 1\. Proximal articulation  
 2\. Distal artiuclar condyle  
 3\. Diaphysis  
