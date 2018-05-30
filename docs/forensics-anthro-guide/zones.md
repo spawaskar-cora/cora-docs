@@ -9,18 +9,18 @@ In this section we present the images used in the zonation method for inventory 
 
 *Zones*
 
-1. Right frontal, split sagittally through the metopic suture
-2. Left frontal, split sagittally through the metopic suture
-3. Right parietal
-4. Left parietal
-6. Left temporal, including the root of the zygomatic process
-7. Right temporal, including the root of the zygomatic process
-10. Left zygomatic bone
-11. Right zygomatic bone
-12. Left maxilla
-13. Right maxilla
-14. Left nasal bone
-15. Right nasal bone
+1\. Right frontal, split sagittally through the metopic suture
+2\. Left frontal, split sagittally through the metopic suture
+3\. Right parietal
+4\. Left parietal
+6\. Left temporal, including the root of the zygomatic process
+7\. Right temporal, including the root of the zygomatic process
+10\. Left zygomatic bone
+11\. Right zygomatic bone
+12\. Left maxilla
+13\. Right maxilla
+14\. Left nasal bone
+15\. Right nasal bone
 
 ![Skull right](../images/zones/Skull_Right_500.png)
 
