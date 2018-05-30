@@ -58,15 +58,15 @@ In this section we present the images used in the zonation method for inventory 
 
 *Zones*
 
-5/. Occipital  
-6/. Left temporal, including the root of the zygomatic process  
-7/. Right temporal, including the root of the zygomatic process  
-8/. Left sphenoid  
-9/. Right sphenoid  
-10/. Left zygomatic bone  
-11/. Right zygomatic bone  
-12/. Palatal process of the left maxilla  
-13/. Palatal process of the right maxilla  
+5\. Occipital  
+6\. Left temporal, including the root of the zygomatic process  
+7\. Right temporal, including the root of the zygomatic process  
+8\. Left sphenoid  
+9\. Right sphenoid  
+10\. Left zygomatic bone  
+11\. Right zygomatic bone  
+12\. Palatal process of the left maxilla  
+13\. Palatal process of the right maxilla  
 
 ## **Mandible**
 
@@ -78,6 +78,7 @@ Bottom left: lateral/external view of left;
 Bottom right: lateral/external view of right.**
 
 *Zones*
+
 1\. Portion of the left corpus, including alveoli for the premolars and molars as well as the premolars and molars themselves  
 2\. Portion of the left corpus, including alveolus for the canine and the canine itself  
 3\. Area of the left ascending ramus inferior to the coronoid process  
@@ -103,6 +104,7 @@ externally)
 **Cervical vertebra. Above: superior view; below: lateral view.**
 
 *Zones*
+
 1\. Body  
 2\. Right transverse process, including the pedicle, pars interarticularis, and articular facets  
 3\. Left transverse process, including the pedicle, pars interarticularis, and articular facets  
@@ -114,6 +116,7 @@ externally)
 **Thoracic vertebra (also applies to lumbar vertebrae). Above: superior view, below: lateral view.**
 
 *Zones*
+
 1\. Body  
 2\. Right transverse process, including the pedicle, pars interarticularis, and articular facets  
 3\. Left transverse process, including the pedicle, pars interarticularis, and articular facets  
@@ -125,6 +128,7 @@ externally)
 **Sacrum. Left: anterior view; right: posterior view.**
 
 *Zones*
+
 1\. Body  
 2\. Right transverse process, including the pedicle, pars interarticularis, and articular facets  
 3\. Left transverse process, including the pedicle, pars interarticularis, and articular facets  
@@ -137,6 +141,7 @@ externally)
 **Left rib 1. Above: inferior view; below: superior view.**
 
 *Zones*
+
 1\. Head  
 2\. Area of the angle of the rib, including the articular and non-articular costal facets in ribs 1 through 10  
 3\. Remaining corpus and sternal end  
@@ -147,6 +152,7 @@ externally)
 **Left rib 7. Above: inferior view; below: superior view.**
 
 *Zones*
+
 1\. Head  
 2\. Area of the angle of the rib, including the articular and non-articular costal facets in ribs 1 through 10  
 3\. Remaining corpus and sternal end  
@@ -157,6 +163,7 @@ externally)
 **Sternum. Left: anterior view; right: posterior view.**
 
 *Zones*
+
 1\. Manubrium  
 2\. Corpus sterni  
 3\. Xiphoid process  
@@ -167,6 +174,7 @@ externally)
 **Left clavicle. Above: superior view; below: inferior view.**
 
 *Zones*
+
 1\. Sternal end, including the area of the attachment for the costo-clavicular ligament  
 2\. Acromial end, including the conoid tubercle and trapezoid line  
 3\. Diaphysis, including the groove that marks the attachment for M. subclavius  
@@ -177,6 +185,7 @@ externally)
 **Left scapula. Left: anterior view; right: posterior view.**
 
 *Zones*
+
 1\. Coracoid process  
 2\. Superior half of the glenoid cavity  
 3\. Inferior half of the glenoid cavity  
@@ -194,6 +203,7 @@ externally)
 **Left humerus. Left: posterior view; right: anterior view.**
 
 *Zones*
+
 1\. Greater and lesser tubercles  
 2\. Caput  
 3\. Lateral epicondyle  
@@ -212,6 +222,7 @@ externally)
 **Left radius. Left: posterior view; right: anterior view.**
 
 *Zones*
+
 1\. Lateral half of the radial head  
 2\. Medial half of the radial head  
 3\. Lateral portion of the distal articulation  
@@ -230,6 +241,7 @@ externally)
 **Left ulna. Left: posterior view; right: anterior view.**
 
 *Zones*
+
 1\. Olecranon process  
 2\. Area of the trochlear or semi-lunar notch, including the coronoid process  
 3\. Radial notch  
@@ -246,6 +258,7 @@ externally)
 **Left os coxa. Left: medial/internal view; right: lateral/external view.**
 
 *Zones*
+
 1\. Superior portion of the acetabulum and adjoining areas anteriorly and posteriorly  
 2\. Posterior half of the inferior portion of the acetabulum and adjoining areas  
 3\. Anterior half of the inferior portion of the acetabulum and adjoining areas  
@@ -265,6 +278,7 @@ externally)
 **Left femur. Left: posterior view; right: anterior view.**
 
 *Zones*
+
 1\. Greater trochanter  
 2\. Area around the lesser trochanter and the lesser trochanter  
 3\. Area of the cranial attachment of M. gluteus maximus  
