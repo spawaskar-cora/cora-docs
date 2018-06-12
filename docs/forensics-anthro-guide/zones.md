@@ -144,7 +144,8 @@ externally)
 
 1\. Head  
 2\. Area of the angle of the rib, including the articular and non-articular costal facets in ribs 1 through 10  
-3\. Remaining corpus and sternal end  
+3\. Corpus  
+4\. Sternal end    
 
 ### Ribs 2-12
 ![Ribs](../images/zones/ribs_500.png)
@@ -155,7 +156,8 @@ externally)
 
 1\. Head  
 2\. Area of the angle of the rib, including the articular and non-articular costal facets in ribs 1 through 10  
-3\. Remaining corpus and sternal end  
+3\. Corpus  
+4\. Sternal end  
 
 ### Sternum
 ![Sternum](../images/zones/Sternum_500.png)
@@ -337,11 +339,11 @@ externally)
 
 *Zones*
 
-Carpals
+Carpals and phalanges
 
 1\. Present or absent  
 
-Metacarpals and phalanges
+Metacarpals
 
 1\. Proximal articulation  
 2\. Distal articular condyle  
@@ -369,11 +371,11 @@ Talus
 3\. Medial half of the proximal portion, splitting the head sagittally  
 4\. Lateral half of the proximal portion, splitting the head sagittally  
 
-Remaining tarsals
+Remaining tarsals and phalanges
 
 1\. Present or absent  
 
-Metatarsals and phalanges
+Metatarsals
 
 1\. Proximal articulation  
 2\. Distal artiuclar condyle  
