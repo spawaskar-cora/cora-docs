@@ -9,6 +9,7 @@ edit_uri: ""
 pages:
     - Home: index.md
     - User Guide:
+        - Site Navigation: user-guide/site-navigation.md
         - Projects: user-guide/projects.md
     - Forensic Anthro Guide:
         - Field Attributes: forensics-anthro-guide/field-attributes.md
