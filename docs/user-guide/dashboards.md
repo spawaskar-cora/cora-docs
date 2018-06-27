@@ -2,7 +2,8 @@
 
 
 ##Org Admin Dashboard
-![orgAdminDashboard](cora-docs/docs/images/dashboard/orgAdminDashboard.PNG)
+![orgAdminDashboard](images/dashboard/orgAdminDashboard.PNG)
+
 
 ###Project Map
 #### Markers
