@@ -1,9 +1,7 @@
 # Site Navigation:
-        - Site Navigation: user-guide/site-navigation.md
-        - Orgs Users Projects: user-guide/orgs-users-projects.md
-        - Users Roles Permissions: user-guide/users-roles-permissions.md
-        - Modules: user-guide/modules.md
-        - Skeletal Elements: user-guide/skeletalelements.md
-        - DNA: user-guide/dnas.md
-        - Reports: user-guide/reports.md
-        - Dashboards: user-guide/dashboards.md
+In this section we present the basic site navigation. This section provides you with the screenshots of the site and what the icons and symbols mean.
+The CoRA web application consists of the four basic components. These are
+   #### Top Navigation Bar
+   #### Left Side Bar
+   #### Right Side Bar
+   
