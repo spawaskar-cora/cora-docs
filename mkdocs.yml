@@ -10,6 +10,7 @@ pages:
     - Home: index.md
     - User Guide:
         - Site Navigation: user-guide/site-navigation.md
+        - Orgs Users Projects: user-guide/orgs-users-projects.md
         - Projects: user-guide/projects.md
     - Forensic Anthro Guide:
         - Field Attributes: forensics-anthro-guide/field-attributes.md
