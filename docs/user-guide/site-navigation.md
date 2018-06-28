@@ -16,8 +16,8 @@ The CoRA web application consists of the four basic components. These are-
          6. User Avatar (6) - The user avatar shows the user drop down. The user drop down has links to the github CoRA docs, CoRA Forum, change password link, the My Profile button and the Logout button. 
          7. Right Sidebar Toggle Button (7) - The Right sidebar buttons toggles between the open and closed state of right sidebar.  
    2. Left Side Bar - The left side bar includes the various modules of the CoRA web application that the user can select. 
-    
-        1. The dashboard icon (1) takes the user to the dashboard based on the user-role. If the user is Anthropologist then the Anthrobash board will open and if the user iss Org-Admin the Org-Admin Dashboard will open.
+    ![LeftsideBar](../images/site_navigation/leftsidebar_anthro.png) 
+        1. The Dashboard icon (1) takes the user to the dashboard based on the user-role. If the user is Anthropologist then the Anthrobash board will open and if the user iss Org-Admin the Org-Admin Dashboard will open.
      The dashboard page contains data visualization of the skeletal elements data and dna module. 
      The data visualization has pie charts, bar charts, stacked bar charts and other visualization
      The view details button on each visualization shows the data associtaed with that visualization.
@@ -27,8 +27,13 @@ The CoRA web application consists of the four basic components. These are-
         
         3. The DNA icon (3) open the DNA features like Search the skeletal element by DNA and Mitochondrial DNA - Advanced Report page. 
         
-        4. The Export-Import Files (4) open the dropdwon for the user to show the export and import features. The Ex
+        4. The Export-Import Files (4) open the dropdwon for the user to show the export and import features. The Export Files icon opens the export page that allows the user to select from variouss export options.
+        The Import files icon opens the import page which allows the user to import the files in the database.
+        The File Manager Icon opens the file manager page which allows the user to choose from various files that can be exported and view details of the files.
         
-   3. Right Side Bar -
+        5. The Administration icon (5) opens the administration dropdown which includes the Project Management icon. The Project Management icon opens the project page.
+   
+   3. Right Side Bar - 
+   
    4. Application Container -
    
