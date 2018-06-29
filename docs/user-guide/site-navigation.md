@@ -10,7 +10,7 @@ The CoRA web application consists of the four basic components. These are-
    ![Welcome Screen](../images/site_navigation/Welcome%20Screen.png)
    
    
-* ##Top Navigation Bar (1)-
+* ## Top Navigation Bar (1)-
      The navigation bar consists of the CoRA icon, toggle the left sidebar button, project switcher dropdown, advance search bar, the notifications icon, user profile avatar, and the right sidebar button.
        
    ![Navigation Bar](../images/site_navigation/Navigation%20bar.png)
@@ -26,7 +26,7 @@ The CoRA web application consists of the four basic components. These are-
    9. Right Sidebar Toggle Button (8) - The Right sidebar buttons toggles between the open and closed state of right sidebar.  
    
    
-* ##Left Side Bar(2) - 
+* ## Left Side Bar(2) - 
      The left side bar includes the various modules of the CoRA web application that the user can select. The left side bar will have modules according to the role of the user. The following section shows the left side bar for Anthropologist-
    
    ![LeftsideBar](../images/site_navigation/leftsidebar_anthro.png) 
@@ -70,7 +70,7 @@ The CoRA web application consists of the four basic components. These are-
          The Instrument Management icon open the Instrument page in which the Org Admin can view all the instrument associated with the project, can create and edit the instrument.
             
         
-   *  ##Right Side Bar (3) - 
+   *  ## Right Side Bar (3) - 
    
-   * ##Application Container (4) -
+   * ## Application Container (4) -
    
