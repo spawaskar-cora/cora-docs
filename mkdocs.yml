@@ -15,7 +15,6 @@ pages:
         - Modules: user-guide/modules.md
         - Reports: user-guide/reports.md
         - Dashboards: user-guide/dashboards.md
-        - Skeletal Elements: user-guide/skeletalelements.md
         - Dna: user-guide/dnas.md
         - Projects: user-guide/projects.md
     - Forensic Anthro Guide:
