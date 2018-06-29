@@ -1,6 +1,12 @@
 # Site Navigation:
 In this section we present the basic site navigation. This section provides you with the screenshots of the site and what the icons and symbols mean.
 The CoRA web application consists of the four basic components. These are-
+1. Top Navigation Bar (1)
+2. Left Side Bar (2)
+3. Right Side Bar (3)
+4. Application Container (4)
+
+
    ![Welcome Screen](../images/site_navigation/Welcome%20Screen.png)
    1. Top Navigation Bar
    ![Top Navigation Bar](../images/site_navigation/Navigation%20bar.png)
