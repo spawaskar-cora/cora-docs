@@ -102,15 +102,74 @@ with a red asterisk*)
 
 ![Click on Action](../images/Images_Org_Users_Project/ProjectActions.PNG)
 
-#### 
+#### Edit Project
 
+1.3.12 On the Project Management page, click on Actions, then Edit
+       
+![Click on Action](../images/Images_Org_Users_Project/EditProject.PNG)
 
+1.3.13 Edit the needed information on the Project page, and click save
+![Click on Action](../images/Images_Org_Users_Project/ProjectEdit.PNG)
 
+#### Edit Users
 
+1.3.14 After clicking the save option, the Org Admin can edit the users associated with a project by clicking "Add users to this project"
+![Click on Action](../images/Images_Org_Users_Project/ProjectEdit1.PNG)
 
+1.3.15  On the add user page, add/remove users and click save.
 
+![Click on Action](../images/Images_Org_Users_Project/ProjectEdit2.PNG)
 
-      
+1.3.16 Once the save option is clicked, a message will appear at the top informing the Org Admin *“User(s) successfully associated"*
+              
+ ![Click on Action](../images/Images_Org_Users_Project/ProjectEdit3.PNG)
+ 
+ #### Associate Accessions to a Project
+ 
+ 1.3.17 On the Project Management page, click on a particular project, click on actions and then click Associate Accessions.
+ 
+![Click on Action](../images/Images_Org_Users_Project/Associate.PNG)
+
+1.3.18 On the accession management page, click on actions, and then click create
+
+![Click on Action](../images/Images_Org_Users_Project/AssociateAction.PNG)
+
+1.3.19 On the create accessions page, enter the required information (*required fields are marked with a red asterisk*) and click save
+
+![Click on Action](../images/Images_Org_Users_Project/Accession1.PNG)
+
+1.3.20 After clicking save, the Org Admin will be redirected to the page displaying accession details associated with a specific project.
+
+![Click on Action](../images/Images_Org_Users_Project/Accession2.PNG)
+
+### 1.4 Accession Management
+
+#### Creating Accession
+
+1.4.1 On the Accession Management page, click on actions, and then click create
+
+![Click on Action](../images/Images_Org_Users_Project/Accession3.PNG)
+
+1.4.2 On the create accession page, the Org Admin can choose a specific project from the drop down option to assign the accession details.
+
+![Click on Action](../images/Images_Org_Users_Project/Accession4.PNG)
+
+1.4.3 On the create accessions page, enter the required information (*required fields are marked with a red asterisk*) for a particular project and click save
+
+![Click on Action](../images/Images_Org_Users_Project/Accession1.PNG)
+
+1.4.4 After clicking save, the Org Admin will be redirected to the page displaying accession details associated with a specific project.
+
+![Click on Action](../images/Images_Org_Users_Project/Accession2.PNG)
+
+### 1.5    Instrument Management 
+
+#### Instrument Management
+
+1.5.1 On the Instrument Management page, click on Actions and then click Create.
+
+![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate.PNG)
+
 
 
 
