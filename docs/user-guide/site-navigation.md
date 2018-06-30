@@ -26,7 +26,7 @@ The CoRA web application consists of the four basic components. These are-
    9. Right Sidebar Toggle Button (8) - The Right sidebar buttons toggles between the open and closed state of right sidebar.  
    
    
-* ## Left Side Bar(2) - 
+* ## Left Side Bar (2) - 
      The left side bar includes the various modules of the CoRA web application that the user can select. The left side bar will have modules according to the role of the user. The following section shows the left side bar for Anthropologist-
    
    ![LeftsideBar](../images/site_navigation/leftsidebar_anthro.png) 
