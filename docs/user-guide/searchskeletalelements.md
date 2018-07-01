@@ -171,7 +171,7 @@ On this screen, you can also view the "Additional Test" and "DNA Resampling" tab
 
 ##### Taphonomy
 ![SE Taphonomies](../images/skeletalElements/taphonomies.png)
-The biological profile stature search is broken down in the "Element Highlights" and "Taphonomies" sections. The element highlights section is read only and displays the following information about the selected bone:
+The taphonomy search is broken down in the "Element Highlights" and "Taphonomies" sections. The element highlights section is read only and displays the following information about the selected bone:
 - Bone
 - Side
 - Completeness
@@ -183,10 +183,12 @@ The biological profile stature search is broken down in the "Element Highlights"
 
 The Taphonomies section allows you to view Taphonomies for the given bone. To add Taphonomies, click the "Actions" button and then "Edit". 
 
-![SE Add Taphonomies](../images/skeletalElements/addTaphonomies.png)
+![SE Add Taphonomies](../images/skeletalElements/zonalClassification.png)
 
 After you click "Save" you will be taken to the Taphonomies 
 ##### Zonal Classification
+![SE Zonal](../images/skeletalElements/addTaphonomies.png)
+The zonal search is broken down in the "Element Highlights" and "Zones" sections. The element highlights section is read only and displays the following information about the selected bone:
 
 
 ##### Measurements
