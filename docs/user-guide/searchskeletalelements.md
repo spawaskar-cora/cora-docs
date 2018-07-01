@@ -171,7 +171,7 @@ On this screen, you can also view the "Additional Test" and "DNA Resampling" tab
 
 ##### Taphonomy
 ![SE Taphonomies](../images/skeletalElements/taphonomies.png)
-The biological profile stature search is broken down in the "Element Highlights" and "Taphonomies" sections. The element highlights section is read only and displays the following information about the selected bone:
+The taphonomy search is broken down in the "Element Highlights" and "Taphonomies" sections. The element highlights section is read only and displays the following information about the selected bone:
 - Bone
 - Side
 - Completeness
@@ -183,15 +183,179 @@ The biological profile stature search is broken down in the "Element Highlights"
 
 The Taphonomies section allows you to view Taphonomies for the given bone. To add Taphonomies, click the "Actions" button and then "Edit". 
 
-![SE Add Taphonomies](../images/skeletalElements/addTaphonomies.png)
+![SE Add Taphonomies](../images/skeletalElements/zonalClassification.png)
 
 After you click "Save" you will be taken to the Taphonomies 
 ##### Zonal Classification
+![SE Zonal](../images/skeletalElements/zones.png)
+The zonal search is broken down in the "Element Highlights" and "Zones" sections. The element highlights section is read only and displays the following information about the selected bone:
 
+- Bone
+- Side
+- Completeness
+- Status of the bone, including:
+   - Measured Status
+   - DNA Sampled Status
+   - Inventory Completed Status
+   - Reviewed Status
+   
+The Zones pane displays the following information about the bone:
+
+- Lateral half of radial head
+- Medial half of radial head
+- Lateral portion of distal articulation
+- Medial portion of distal articulation
+- Proximal diaphysis
+- Lateral half of diaphysis
+- Medial half of diaphysis
+- Superior half of distal third
+- Lateral distal third
+- Medial distal third
+- Styloid process
+
+These fields are read only - to edit then click "Actions" - then "Edit".
+When you are finished making changes click save on the bottom of the page.
 
 ##### Measurements
+![SE Measurements](../images/skeletalElements/measurements.png)
+The measurement search is broken down in the "Element Highlights" and "Measurements" sections. The element highlights section is read only and displays the following information about the selected bone:
 
-##### 
+- Bone
+- Side
+- Completeness
+- Status of the bone, including:
+   - Measured Status
+   - DNA Sampled Status
+   - Inventory Completed Status
+   - Reviewed Status
+  
+  The measurements pane display the following measurements for a given bone:
+- Rad_01 Maximum Length
+- Rad_02 Maximum Diameter of the Radius at Midshaft
+- Rad_03 Minimum Diameter of the Radius at Midshaft
+- Rad_04 Maximum Diameter of the Head
+- Rad_05 Anterior-Posterior (Sagittal) Diameter at Midshaft
+- Rad_06 Medial-Lateral (Transverse) Diameter at Midshaft
+- Rad_07 Maximum Diameter at the Radial Tuberosity
+- Rad_08 Maximum Diameter of the Diaphysis Distal to the Radial Tuberosity
+- Rad_09 Minimum Diameter of the Diaphysis Distal to the Radial Tuberosity
+- Rad_10 Breadth of the Distal Epiphysis
+  
+  These fields are read only - to edit then click "Actions" - then "Edit".
+  When you are finished making changes click save on the bottom of the page.
+
+
+### Associations   
+##### Articulations
+
+![SE Articulations](../images/skeletalElements/articulations.png)
+
+The Articulations search is broken down in the "Element Highlights" and "Articulations" sections. The element highlights section is read only and displays the following information about the selected bone:
+
+- Bone
+- Side
+- Completeness
+- Status of the bone, including:
+   - Measured Status
+   - DNA Sampled Status
+   - Inventory Completed Status
+   - Reviewed Status
+  
+  The articulations section is read-only, and shows articulation information for a given bone. To make edits to go "Actions" "Edit". Click Save when finished adding articulation to be returned to the articulations page.
+  
+##### Pair Matching
+
+![SE Pair Matching](../images/skeletalElements/pairmatching.png)
+
+
+The Pair Matching search is broken down in the "Element Highlights" and "Pair Matches" sections. The element highlights section is read only and displays the following information about the selected bone:
+
+- Bone
+- Side
+- Completeness
+- Status of the bone, including:
+   - Measured Status
+   - DNA Sampled Status
+   - Inventory Completed Status
+   - Reviewed Status
+  
+  The Pair Matching section is read-only, and shows Pair Matches information for a given bone. To make edits to go "Actions" "Edit". Click Save when finished adding pair matches to be returned to the Pair Matching page.
+  
+##### Refits
+![SE Refits](../images/skeletalElements/refits.png)
+
+The Refits search is broken down in the "Element Highlights" and "Refits" sections. The element highlights section is read only and displays the following information about the selected bone:
+
+- Bone
+- Side
+- Completeness
+- Status of the bone, including:
+   - Measured Status
+   - DNA Sampled Status
+   - Inventory Completed Status
+   - Reviewed Status
+  
+  The Refits section is read-only, and shows Refits information for a given bone. To make edits to go "Actions" "Edit". Click Save when finished adding Refits to be returned to the Refits page.
+### Pathology   
+
+##### Trauma
+![SE Traumas](../images/skeletalElements/traumas.png)
+The Trauma search is broken down in the "Element Highlights" and "Trauma" sections. The element highlights section is read only and displays the following information about the selected bone:
+
+- Bone
+- Side
+- Completeness
+- Status of the bone, including:
+   - Measured Status
+   - DNA Sampled Status
+   - Inventory Completed Status
+   - Reviewed Status
+  
+The Trauma section is read-only, and shows Trauma information for a given bone. To make edits to go "Create". 
+
+![SE CTrauma](../images/skeletalElements/createTrauma.png)
+Click Save when finished adding Trauma to be returned to the Trauma page.
+
+##### Pathology
+![SE Pathologies](../images/skeletalElements/pathologies.png)
+The Pathology search is broken down in the "Element Highlights" and "Pathology" sections. The element highlights section is read only and displays the following information about the selected bone:
+
+- Bone
+- Side
+- Completeness
+- Status of the bone, including:
+   - Measured Status
+   - DNA Sampled Status
+   - Inventory Completed Status
+   - Reviewed Status
+  
+The Pathology section is read-only, and shows Pathology information for a given bone. To make edits to go "Actions" "Edit". 
+![SE CTrauma](../images/skeletalElements/createPath.png)
+Click Save when finished adding Trauma to be returned to the Trauma page.
+
+##### Anomaly
+![SE Anomalies](../images/skeletalElements/anomalies.png)
+The Anomaly search is broken down in the "Element Highlights" and "Anomaly" sections. The element highlights section is read only and displays the following information about the selected bone:
+
+- Bone
+- Side
+- Completeness
+- Status of the bone, including:
+   - Measured Status
+   - DNA Sampled Status
+   - Inventory Completed Status
+   - Reviewed Status
+  
+The Anomaly section is read-only, and shows Anomaly information for a given bone. To make edits to go "Actions" "Edit". 
+![SE createAnomalies1](../images/skeletalElements/createAnomalies.png)
+Click Save when finished adding Anomalies to be returned to the Anomaly page.
+
+### Review
+
+The review tab is a pane which displays all other sub reports in one area. All reports are editable in the pane.
+For information on individual reports - see their detailed documentation in this document.
+
+![SE Review](../images/skeletalElements/review.png)
 
 
 
