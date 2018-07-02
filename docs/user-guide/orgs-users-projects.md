@@ -170,6 +170,23 @@ with a red asterisk*)
 
 ![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate.PNG)
 
+1.5.2 On the create instrument page, enter the required information and click save
+
+![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate1.PNG)
+
+1.5.3 After clicking save, the Org Admin will be able to edit the users associated with the instrument by clicking "Assign users to this instrument"
+
+![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate2.PNG)
+
+1.5.4  On the add user page, add/remove users and click save.
+
+![Click on Action](../images/Images_Org_Users_Project/)
+
+1.5.5 Once the save option is clicked, a message will appear at the top informing the Org Admin *“User(s) successfully associated"*
+              
+![Click on Action](../images/Images_Org_Users_Project/)
+
+
 
 
 
