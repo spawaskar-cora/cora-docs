@@ -180,11 +180,16 @@ with a red asterisk*)
 
 1.5.4  On the add user page, add/remove users and click save.
 
-![Click on Action](../images/Images_Org_Users_Project/)
+![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate3.PNG)
+
+<br> 
+
+![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate4.PNG)
 
 1.5.5 Once the save option is clicked, a message will appear at the top informing the Org Admin *“User(s) successfully associated"*
               
-![Click on Action](../images/Images_Org_Users_Project/)
+![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate5.PNG)
+
 
 
 
