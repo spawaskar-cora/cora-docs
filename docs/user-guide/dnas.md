@@ -12,7 +12,7 @@ From this section users can also create new requests by clicking ![create](../im
 ##Additional Sampling
 This area will be used to display any additional DNA sample request information.  By default this section is collapsed, unless data is present.  
 From this section users can also create new requests by clicking ![create](../images/dna/dna_create.png) during edit mode
-![resample](../images/dna/dna_resample_example.png)
+![resample](../images/dna/dna_resample_example.PNG)
 
 ##Element Highlights
 Additional skeletal element attributes about the DNA sample can found in the *Element Highlights* section above the DNA Profile.  By default this section is collapsed.
