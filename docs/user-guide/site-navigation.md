@@ -25,11 +25,12 @@ The CoRA web application consists of the four basic components. These are-
    8. User Avatar (7) - The user avatar shows the user drop down. The user drop down has User Image, User Name and Role (1), the github CoRA docs (2), CoRA Forum (3), change password link (4), the CoRA-Docs (5), the About (6), the My Profile button (7) and the Logout button (9). The Org Profile button will only be available to the Org admin in which the Org Admin can change the settings of the project. 
     
      ![Navigation Bar](../images/site_navigation/user_avatar.png)    
-    The header (1) shows the User Image, User Name, email and Role. Github CoRA docs (2) opens the github repo on which the user can check the documentation code. CoRA Forum (3) allows the user to leave comments and other related information about the cora eco system. 
-    The change password link (4) allows the user to change the current password. Online help (5) opens the online help documentation of the CoRA web application, it includes the user manual and other important docs.
-    The About (6) displays the meta data of the application and the browser.
-    The My Profile button (7) open the user profile page in which the user can save the settings of their choice.
-    The Logout button (9) logs out the user out of CoRA Web Application.
+     The header (1) shows the User Image, User Name, email and Role. Github CoRA docs (2) opens the github repo on which the user can check the documentation code. CoRA Forum (3) allows the user to leave comments and other related information about the cora eco system. 
+     The change password link (4) allows the user to change the current password. Online help (5) opens the online help documentation of the CoRA web application, it includes the user manual and other important docs.
+     The About (6) displays the meta data of the application and the browser.
+     The My Profile button (7) open the user profile page in which the user can save the settings of their choice.
+     The Logout button (9) logs out the user out of CoRA Web Application.
+   
    9. Right Sidebar Toggle Button (8) - The Right sidebar buttons toggles between the open and closed state of right sidebar.  
    
    
@@ -78,7 +79,8 @@ The CoRA web application consists of the four basic components. These are-
             
         
    *  ## Right Side Bar (3) -    
-        The Right side bar includes the 5 different tabs and each of the tabs includes the user specific settings. The following the tabs in the right side bar -
+        The Right side bar includes the 5 different tabs and each of the tabs includes the user specific settings. The following are the tabs in the right side bar -
+         
          ![RightsideBar](../images/site_navigation/rightsidebar.png)
          * (1) Layout and Skin Tab
          * (2) Media Tab
