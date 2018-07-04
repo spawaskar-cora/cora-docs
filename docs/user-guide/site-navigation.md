@@ -22,7 +22,8 @@ The CoRA web application consists of the four basic components. These are-
           The DNA can be searched by the Bone, Composite Number, Accession, Sample Number, Mito seq Number, Haplogroup, External Id, Individual Number.                            
    6. Search Input (5) - Once the search type is selected the user can enter the value in the search input.
    7. Notification Icon (6) - The Notification icon show the notifications of the Export file, Import file, job completion and other user specific notification.
-   8. User Avatar (7) - The user avatar shows the user drop down. The user drop down has links to the github CoRA docs, CoRA Forum, change password link, the My Profile button and the Logout button. 
+   8. User Avatar (7) - The user avatar shows the user drop down. The user drop down has User Image, User Name and Role (1), the github CoRA docs (2), CoRA Forum (3), change password link (4), the CoRA-Docs (5), the About (6), the My Profile button (7) and the Logout button (9). The Org Profile button will only be available to the Org admin in which the Org Admin can change the settings of the project. 
+    ![Navigation Bar](../images/site_navigation/user_avatar.png)
    9. Right Sidebar Toggle Button (8) - The Right sidebar buttons toggles between the open and closed state of right sidebar.  
    
    
@@ -70,7 +71,68 @@ The CoRA web application consists of the four basic components. These are-
          The Instrument Management icon open the Instrument page in which the Org Admin can view all the instrument associated with the project, can create and edit the instrument.
             
         
-   *  ## Right Side Bar (3) - 
+   *  ## Right Side Bar (3) -    
+        The Right side bar includes the 5 different tabs and each of the tabs includes the user specific settings. The following the tabs in the right side bar -
+         ![RightsideBar](../images/site_navigation/rightsidebar.png)
+         * (1) Layout and Skin Tab
+         * (2) Media Tab
+         * (3) Help Tab
+         * (4) Activity Feed Tab
+         * (5) General Settings Tab
+     
+   1. Layout and Skin Tab (1) - The Layout tab includes the Layout Option (2) and Skins (3).        
+      ![layout](../images/site_navigation/layout_options_settings.png)
+      
+      The Layout Options (2) allows the user to make changes in the layout of the app. The following are the description of the options in layout-
+      
+      ![layout](../images/site_navigation/layout_options.png)
+      
+      1. Toggle Side Bar (1)- The Toggle Sidebar checkbox open and close the left sidebar. If checked the left side bar will open and if unchecked the left sidebar will be closed.
+      2. Left Sidebar Expand on Hover (2)- This option allows the user to allow the user to show the left sidebar menu on mouseover.
+      3. Toggle Right Sidebar Slide (3)- This options allows the app container to move left. It allows the user to work simultaneously on right side bar tabs and the main app content.
+      4. Toggle Right Sidebar Skin (4)- This options allows the user to toggle between the light and dark background theme on right side bar.
+      
+      ![layout](../images/site_navigation/skins.png)
+      
+      The Skins option allows the user to select between the dark theme (1), light theme (4) and the custom theme(3) color. The default theme (1) is standard theme. The dark theme color changes the top navigation bar color. The light theme changes the top navigation
+      color and the left side bar theme color to light. The custom theme color picker allows the user to pick the color from the custom theme color selector.
    
-   * ## Application Container (4) -
+   2. Media Tab - The media tab allows the user to watch the videos and view the Images.   
+       
+       ![media](../images/site_navigation/media.png)    
+   The Video (1) allows the user to play the video. The Image (2) shows the slide show of the images present in the gallery. The image can be clicked to open a pop-up modal to show the selected image in center of the screen.
+   
+   3. Help Tab - The Help tab allows the user to access the CoRA-Docs inside the right side bar.
+      
+      ![help](../images/site_navigation/help.png)    
+   The documentation of the CoRA application along with the user manual can be found in this tab. The Menu button (1) can be clicked to select the different sections of the documentation.
+   
+   4. Activity Feed - The Activity feed tab shows the 10 recent Skeletal Elements and DNA created and updated by the user.
+       
+       ![activityFeed](../images/site_navigation/activity_feed.png)        
+   The key can be of the skeletal element can be clicked which takes the user to the selected skeletal element so, that the user can easily access the recently added skeletal elements and update it if needed. This activity feed can also be found in user profile under the activity feed tab.
+   
+   5. General Tab - The General Tab allows the user to customize the user settings. 
+   
+      ![settings](../images/site_navigation/general_se_update.png)
+      ![settingsDNA](../images/site_navigation/dna_update.png) 
+   
+   The Lines per page (1) allows the user to select the number of rows to be display for views with table. The user can set this value from the user profile as well.
+   
+   The Skeletal Element setting (2) allows the user to set the Accession Number, Provenance 1 and Provenance 2. This value will auto fill the value whenever new skeletal element is created.
+  
+   The DNA Profile settings (3) in the Gerenal tab allows the user to update the default laboratory and Default DNA Method. Once the user enter the value it will auto-populate the DNA association screen for Skeletal Elements.
+   
+   
+   * ## Application Container (4) - 
+        The Application container is the main area which includes all the CoRA-Modules.
+        
+        ![settings](../images/site_navigation/app_container.png)
+        
+        The Application container has Breadcrumbs (1) on the top left which shows on which page the user is currently working on. It helps the user to go back to the last page.
+        
+        The Title of the page (2) the user is working on.
+        
+        The Action button group (3). This button may or may not be present based on the page the user is working on. If the page has no action this button will not be present.
+        
    
