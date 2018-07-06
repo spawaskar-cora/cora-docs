@@ -1,4 +1,3 @@
-
 #DNA Profile
 Skeletal elements which have had a DNA sample successfully completed will 
 have an associated *DNA Profile*.  The profile contains all relevant DNA attributes and are editable via  ![action](../images/dna/action.png)(appropriate permissions required) 
