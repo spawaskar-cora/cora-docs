@@ -1,16 +1,17 @@
 # Site Navigation:
 In this section we present the basic site navigation. This section provides you with the screenshots of the site and what the icons and symbols mean.
 The CoRA web application consists of the four basic components. These are-
-1. Top Navigation Bar (1)
-2. Left Side Bar (2)
-3. Right Side Bar (3)
-4. Application Container (4)
+
+  1. Top Navigation Bar (1)
+  2. Left Side Bar (2)
+  3. Right Side Bar (3)
+  4. Application Container (4)
 
 
    ![Welcome Screen](../images/site_navigation/Welcome%20Screen.png)
    
    
-* ## Top Navigation Bar (1)-
+* ## Top Navigation Bar -
      The navigation bar consists of the CoRA icon, toggle the left sidebar button, project switcher dropdown, advance search bar, the notifications icon, user profile avatar, and the right sidebar button.
        
    ![Navigation Bar](../images/site_navigation/Navigation%20bar.png)
@@ -20,21 +21,20 @@ The CoRA web application consists of the four basic components. These are-
    3. Project Switcher (3) - The Project switcher button allows the user to select the different projects the user is a part of.
    4. Advance Search bar (4) - The Advance search bar allows the user to search the Skeletal Elements and DNA. The user can search the Skeletal Elements by - Bone, Composite key, Accession Number, Provenance 1, Provenace 2, Designator, External ID, Individual Number.
           The DNA can be searched by the Bone, Composite Number, Accession, Sample Number, Mito seq Number, Haplogroup, External Id, Individual Number.                            
-   6. Search Input (5) - Once the search type is selected the user can enter the value in the search input.
-   7. Notification Icon (6) - The Notification icon show the notifications of the Export file, Import file, job completion and other user specific notification.
-   8. User Avatar (7) - The user avatar shows the user drop down. The user drop down has User Image, User Name and Role (1), the github CoRA docs (2), CoRA Forum (3), change password link (4), the CoRA-Docs (5), the About (6), the My Profile button (7) and the Logout button (9). The Org Profile button will only be available to the Org admin in which the Org Admin can change the settings of the project. 
-    
+   5. Search Input (5) - Once the search type is selected the user can enter the value in the search input.
+   6. Notification Icon (6) - The Notification icon show the notifications of the Export file, Import file, job completion and other user specific notification.
+   7. User Avatar (7) - The user avatar shows the user drop down. The user drop down has User Image, User Name and Role (1), the github CoRA docs (2), CoRA Forum (3), change password link (4), the CoRA-Docs (5), the About (6), the My Profile button (7) and the Logout button (9). The Org Profile button will only be available to the Org admin in which the Org Admin can change the settings of the project.    
      ![Navigation Bar](../images/site_navigation/user_avatar.png)    
      The header (1) shows the User Image, User Name, email and Role. Github CoRA docs (2) opens the github repo on which the user can check the documentation code. CoRA Forum (3) allows the user to leave comments and other related information about the cora eco system. 
      The change password link (4) allows the user to change the current password. Online help (5) opens the online help documentation of the CoRA web application, it includes the user manual and other important docs.
      The About (6) displays the meta data of the application and the browser.
      The My Profile button (7) open the user profile page in which the user can save the settings of their choice.
      The Logout button (9) logs out the user out of CoRA Web Application.
+        
+   8. Right Sidebar Toggle Button (8) - The Right sidebar buttons toggles between the open and closed state of right sidebar.  
    
-   9. Right Sidebar Toggle Button (8) - The Right sidebar buttons toggles between the open and closed state of right sidebar.  
    
-   
-* ## Left Side Bar (2) - 
+* ## Left Side Bar - 
      The left side bar includes the various modules of the CoRA web application that the user can select. The left side bar will have modules according to the role of the user. The following section shows the left side bar for Anthropologist-
    
    ![LeftsideBar](../images/site_navigation/leftsidebar_anthro.png) 
@@ -78,8 +78,8 @@ The CoRA web application consists of the four basic components. These are-
          The Instrument Management icon open the Instrument page in which the Org Admin can view all the instrument associated with the project, can create and edit the instrument.
             
         
-   *  ## Right Side Bar (3) -    
-        The Right side bar includes the 5 different tabs and each of the tabs includes the user specific settings. The following are the tabs in the right side bar -
+   *  ## Right Side Bar -    
+       The Right side bar includes the 5 different tabs and each of the tabs includes the user specific settings. The following are the tabs in the right side bar -
          
          ![RightsideBar](../images/site_navigation/rightsidebar.png)
          * (1) Layout and Skin Tab
@@ -132,15 +132,15 @@ The CoRA web application consists of the four basic components. These are-
    The DNA Profile settings (3) in the Gerenal tab allows the user to update the default laboratory and Default DNA Method. Once the user enter the value it will auto-populate the DNA association screen for Skeletal Elements.
    
    
-   * ## Application Container (4) - 
-        The Application container is the main area which includes all the CoRA-Modules.
+   * ## Application Container - 
+       The Application container is the main area which includes all the CoRA-Modules.
         
-        ![settings](../images/site_navigation/app_container.png)
+       ![settings](../images/site_navigation/app_container.png)
         
-        The Application container has Breadcrumbs (1) on the top left which shows on which page the user is currently working on. It helps the user to go back to the last page.
+       The Application container has Breadcrumbs (1) on the top left which shows on which page the user is currently working on. It helps the user to go back to the last page.
         
-        The Title of the page (2) the user is working on.
+       The Title of the page (2) the user is working on.
         
-        The Action button group (3). This button may or may not be present based on the page the user is working on. If the page has no action this button will not be present.
+       The Action button group (3). This button may or may not be present based on the page the user is working on. If the page has no action this button will not be present.
         
    
