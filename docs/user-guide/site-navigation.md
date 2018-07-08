@@ -57,7 +57,7 @@ The CoRA web application consists of the four basic components. These are-
     
     The Left side bar for the Org Admin includes-
         
-     ![LeftsideBar](../images/site_navigation/leftsidebar_orgadmin.png) 
+     ![LeftsideBar](../images/site_navigation/leftsidebar_org.png) 
         
      1. The Dashboard icon (1) takes the user to the dashboard based on the user-role. If the user is Anthropologist then the Anthropologist dashboard will open and if the user iss Org-Admin the Org-Admin Dashboard will open.
              The dashboard page contains data visualization of the skeletal elements data and dna module. 
