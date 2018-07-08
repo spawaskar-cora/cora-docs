@@ -5,6 +5,11 @@ There are three different dashboards available in CoRA with each view being driv
 2.  The Project Manager Dashboard
 3.  The User Dashboard
 
+**Sample Dashboard**
+![sampleDash1](../images/dashboard/sampleDash1.png)
+![sampleDash2](../images/dashboard/sampleDash2.png)
+
+
 
 ## Dashboard Widgets
 
@@ -12,7 +17,7 @@ There are three different dashboards available in CoRA with each view being driv
 
 #### Attributes of a Widget
  
-  ![widget](../images/dashboard/stacked_numbers.png)
+![widget](../images/dashboard/stacked_numbers.png)
   
  Widgets come with a handful of standard features/functions.  
  1.  Last Updated Timestamp
@@ -55,7 +60,17 @@ Those *widgets* can be added and removed via the *widget selector*.  For more in
  in the top right of the widget.
  
 # User Dashboard
-
+The Project Manager Dashboard serves as a high level view of both summary and aggregated project data. 
+The dashboard is comprised of *widgets*, which are individual visual representations of data.  Examples of those widgets include:
+  
+  * Skeletal Elements Assocciated To Individual
+  * DNA Sample Information
+  * Mitosequence Information
+  * Inventory Process
+  
+Those *widgets* can be added and removed via the *widget selector*.  For more information regarding the data being represented in a *widget*, click the help icon  ![widget](../images/dashboard/help.png)
+ in the top right of the widget.
+ 
 
  
 ## Edit Widgets on the Dashboard
