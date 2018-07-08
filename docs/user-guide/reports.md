@@ -21,7 +21,7 @@ For all reports, you have several export options.
 
 Additionally, on each report results table, you can select how many results should be displayed, and visible columns.
 
-#### Sample Report Output
+## Sample Report Output
 
 Here you can view the export and table view options for a set of results
 
@@ -30,7 +30,7 @@ Here you can view the export and table view options for a set of results
 
 Each report will be outlined in detail.
 
-##### Advanced Report
+### Advanced Report
 
 ![Advanced Report](../images/reports/advancedReport.png)
 
@@ -52,7 +52,7 @@ The Advanced Report is the most comprehensive search available for a given skele
 
 This report has no required fields.
 
-##### mtDNA Report
+### mtDNA Report
 
 ![mtDNA Report](../images/reports/mtDNAReport.png)
 
@@ -65,7 +65,7 @@ Multiple Mito Sequence Numbers and Subgroups can be searched at one time.
 
 The user is required to select at least one Mito sequence number or subgroup.
 
-##### Zones Report
+### Zones Report
 
 ![zones Report](../images/reports/zonesReport.png)
 
@@ -91,7 +91,7 @@ You can also select from one of 5 search types:
 
 The user is required to select a Bone and a Zone for this report.
 
-##### Methods Report
+### Methods Report
 
 ![Methods Report](../images/reports/methodReport.png)
 
@@ -109,7 +109,7 @@ The Method Report allows a user to search by bones by a specific method. The sea
 
 The user is required to select a bone and a method for this report.
 
-##### Measurements Report
+### Measurements Report
 
 ![Measurements Report](../images/reports/measurementsReport.png)
 
@@ -125,7 +125,7 @@ The Measurements Report allows a user to select by individual number and side of
  
  No fields are required for this report.
 
-##### Articulations Report
+### Articulations Report
 
 ![Articulations Report](../images/reports/articulationsReport.png)
 
@@ -138,7 +138,7 @@ The Articulations Report allows a user to select by Group and Group Side. The se
 
 A Group or Bone is required for this report.
 
-##### Individual Number Report
+## Individual Number Report
 
 ![Individual Number Report](../images/reports/individualNumberReport.png)
 
@@ -153,7 +153,7 @@ The Individual Number Report allows a user to select by an individual bone numbe
 
 An Individual Number is required to run this report.
 
-##### Trauma Report
+## Trauma Report
 
 ![Trauma Report](../images/reports/traumaReport.png)
 
@@ -168,7 +168,7 @@ The Trauma Report allows a user to select by an trauma category. The search fiel
 
 You must select a trauma category to run this report.
 
-##### Anomaly Report
+## Anomaly Report
 
 ![Anomaly Report](../images/reports/anomalyReport.png)
 
@@ -180,7 +180,7 @@ The Anomaly Report allows a user to select by an anomaly category. The search fi
 
 An anomaly category must be selected to run this report.
 
-##### Pathology Report
+## Pathology Report
 
 ![Pathology Report](../images/reports/pathologyReport.png)
 

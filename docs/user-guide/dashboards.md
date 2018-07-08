@@ -6,11 +6,11 @@ There are three different dashboards available in CoRA with each view being driv
 3.  The User Dashboard
 
 
-##Dashboard Widgets
+## Dashboard Widgets
 
  Dashboards are made of many different *widgets*.  These *widgets* provide visualization for the data they represent.  *Widgets* can display such things as Pie Charts, Line Charts, Bar Charts, Maps, ect...
 
- ####Attributes of a Widget
+#### Attributes of a Widget
  
   ![widget](../images/dashboard/stacked_numbers.png)
   
@@ -23,8 +23,8 @@ There are three different dashboards available in CoRA with each view being driv
 
 
 
-#Org Admin Dashboard
-##Project Map
+# Org Admin Dashboard
+## Project Map
 ![orgAdminDashboard](../images/dashboard/orgAdminDashboard.PNG)
 
 
@@ -35,14 +35,14 @@ The markers displayed on the map showcase the latitude and longitude of a partic
 On mouse over additional project details as well as a link ![dashboard icon](../images/dashboard/dash-icon.PNG)
  to the corresponding project dashboard can be found in the in popup window.
 
-##DNA Summary
+## DNA Summary
 A data table provides a link to a project dashboard and shows high level DNA summary details for each project
 
-##Skeletal Elements
+## Skeletal Elements
 A data table provides a link to a project dashboard and shows high level Skeletal Elements summary details for each project
 
 
-#Project Manager Dashboard
+# Project Manager Dashboard
 The Project Manager Dashboard serves as a high level view of both summary and aggregated project data. 
 The dashboard is comprised of *widgets*, which are individual visual representations of data.  Examples of those widgets include:
   
@@ -53,7 +53,16 @@ The dashboard is comprised of *widgets*, which are individual visual representat
   
 Those *widgets* can be added and removed via the *widget selector*.  For more information regarding the data being represented in a *widget*, click the help icon  ![widget](../images/dashboard/help.png)
  in the top right of the widget.
+ 
+# User Dashboard
 
 
+ 
+## Edit Widgets on the Dashboard
+
+The dashboard is customizable - allowing users to select their desired widgets to display. Click the gear icon,
+![gearz](../images/dashboard/gearz.png) to display available widgets. 
+
+![customizeWidgets](../images/dashboard/customizeWidgets.png) 
  
  

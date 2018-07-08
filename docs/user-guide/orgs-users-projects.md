@@ -1,13 +1,13 @@
-# 1. User Creation & Roles
+# User Creation & Roles
 
 User accounts can be created by Org Admins, and can be set up under various roles. Certain roles provide specific level of access to
 features on the website.
 
-## 1.1 User Roles
+## User Roles
 
 1. Org Administrator
 2. Manager
-3. Amthropologist
+3. Anthropologist
 4. DNA Analyst
 5. Historian 
 6. Dentist
@@ -16,7 +16,7 @@ features on the website.
 The Org Admin takes the responsibility of creating and managing the <b> Users, <b> Projects, <b> Accession,
 and <b> Instruments </b>.
 
-### 1.2 User Management 
+### User Management 
 
 #### User Creation
 
@@ -49,7 +49,7 @@ with a red asterisk*)
 
 ![Click on Action](../images/Images_Org_Users_Project/Usercreated.PNG)
 
-### 1.3 Project Management
+### Project Management
 
 #### Project Creation
 
@@ -124,7 +124,7 @@ with a red asterisk*)
               
  ![Click on Action](../images/Images_Org_Users_Project/ProjectEdit3.PNG)
  
- #### Associate Accessions to a Project
+#### Associate Accessions to a Project
  
  1.3.17 On the Project Management page, click on a particular project, click on actions and then click Associate Accessions.
  
@@ -142,7 +142,7 @@ with a red asterisk*)
 
 ![Click on Action](../images/Images_Org_Users_Project/Accession2.PNG)
 
-### 1.4 Accession Management
+### Accession Management
 
 #### Creating Accession
 
@@ -162,7 +162,7 @@ with a red asterisk*)
 
 ![Click on Action](../images/Images_Org_Users_Project/Accession2.PNG)
 
-### 1.5    Instrument Management 
+### Instrument Management 
 
 #### Instrument Management
 
