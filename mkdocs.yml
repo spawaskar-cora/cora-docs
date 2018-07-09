@@ -13,10 +13,10 @@ pages:
         - Orgs Users Projects: user-guide/orgs-users-projects.md
         - Users Roles Permissions: user-guide/users-roles-permissions.md
         - Modules: user-guide/modules.md
-        - Reports: user-guide/reports.md
-        - Dashboards: user-guide/dashboards.md
         - Skeletal Elements: user-guide/createskeletalelements.md
         - Dna: user-guide/dnas.md
+        - Reports: user-guide/reports.md
+        - Dashboards: user-guide/dashboards.md
     - Forensic Anthro Guide:
         - Field Attributes: forensics-anthro-guide/field-attributes.md
         - Methods: forensics-anthro-guide/methods.md
