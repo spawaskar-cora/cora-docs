@@ -2,16 +2,16 @@
 In this section we present the basic site navigation. This section provides you with the screenshots of the site and what the icons and symbols mean.
 The CoRA web application consists of the four basic components. These are-
 
-  1. Top Navigation Bar (1)
-  2. Left Side Bar (2)
-  3. Right Side Bar (3)
-  4. Application Container (4)
+  1. Top Navigation Bar
+  2. Left Side Bar 
+  3. Right Side Bar 
+  4. Application Container
 
 
    ![Welcome Screen](../images/site_navigation/Welcome%20Screen.png)
    
    
-* ## Top Navigation Bar -
+* ## Top Navigation Bar
      The navigation bar consists of the CoRA icon, toggle the left sidebar button, project switcher dropdown, advance search bar, the notifications icon, user profile avatar, and the right sidebar button.
        
    ![Navigation Bar](../images/site_navigation/Navigation%20bar.png)
@@ -34,7 +34,7 @@ The CoRA web application consists of the four basic components. These are-
    8. Right Sidebar Toggle Button (8) - The Right sidebar buttons toggles between the open and closed state of right sidebar.  
    
    
-* ## Left Side Bar - 
+* ## Left Side Bar
      The left side bar includes the various modules of the CoRA web application that the user can select. The left side bar will have modules according to the role of the user. The following section shows the left side bar for Anthropologist-
    
    ![LeftsideBar](../images/site_navigation/leftsidebar_anthro.png) 
@@ -78,7 +78,7 @@ The CoRA web application consists of the four basic components. These are-
          The Instrument Management icon open the Instrument page in which the Org Admin can view all the instrument associated with the project, can create and edit the instrument.
             
         
-   *  ## Right Side Bar -    
+   *  ## Right Side Bar
        The Right side bar includes the 5 different tabs and each of the tabs includes the user specific settings. The following are the tabs in the right side bar -
          
          ![RightsideBar](../images/site_navigation/rightsidebar.png)
@@ -132,7 +132,7 @@ The CoRA web application consists of the four basic components. These are-
    The DNA Profile settings (3) in the Gerenal tab allows the user to update the default laboratory and Default DNA Method. Once the user enter the value it will auto-populate the DNA association screen for Skeletal Elements.
    
    
-   * ## Application Container - 
+   * ## Application Container
        The Application container is the main area which includes all the CoRA-Modules.
         
        ![settings](../images/site_navigation/app_container.png)
