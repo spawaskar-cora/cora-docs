@@ -1,12 +1,10 @@
-# Create Skeletal Elements
+Skeletal elements are individual human remains which can be categorized. Many of the modules on the site are focused on skeletal elements and their details. This section will explore:
 
-Skeletal elements are individual human remains which can be categorized.
-Many of the modules on the site are focused on skeletal elements and their details.
-This section will explore:
-
-**Finish This**
+- Skeletal Element Navigation
 - Creating a New Skeletal Element
 - Creating a New Skeletal Element Group
+- Skeletal Element Search
+- Skeletal Element Details
 
 
 ##### Skeletal Element Navigation
@@ -84,8 +82,6 @@ The bolded fields are required.
 
 Once you have created a new bone group, you can edit the fields and click "Save" to update the bone group.
 
-
-# Search Skeletal Elements
 
 ##### Skeletal Element Search
 ![SE Search](../images/skeletalElements/topNavBar.png)
