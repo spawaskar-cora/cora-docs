@@ -431,12 +431,7 @@ Non-metric skull racing.  In *Skeletal Attribution of Race: Methods for Forens
 
 
 
-# **OTHER**
-
-## **Buikstra JE, Ubelaker DH (1994)** 
-*Standards for Data Collection from Human Skeletal Remains.*  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.
-
-* *Purpose:*  Data collection standardization from skeletal remains. This source consolidates multiple non-metric methods and measurements into a single source.
+# **ZONES**
 
 
 ## **Knusel CJ, Outram AK (2004)** 
@@ -445,17 +440,56 @@ Fragmentation: The zonation method applied to fragmented human remains from arch
 * *Purpose:* Presents a standardized representation of zones on the human skeletal elements to allow for comparisons and analysis of an entire assemblage. 
 * Anatomical descriptions and zone drawings are provided. 
 
-## **Byrd 2008**
-## **Byrd & Adams (2003)**
-## **Byrd and Adams 2015**
-## **Dwight 1905** 
-## **Holland 1992** 
-## **Holland 1995** 
-## **Howells 1973** 
-## **Hrdlicka 1920** 
+
+
+
+
+# **MEASUREMENTS**
+
+
+## **Buikstra JE, Ubelaker DH (1994)** 
+*Standards for Data Collection from Human Skeletal Remains.*  Arkansas Archeological Survey Research Series No. 44, Fayetteville, AR.
+
+* *Purpose:*  Data collection standardization from skeletal remains. This source consolidates multiple non-metric methods and measurements into a single source.
+
+
+## **Byrd (2008)**
+
+
+## **Byrd and Adams (2003)**
+
+
+## **Byrd and Adams (2015)**
+
+
+## **Dwight (1905)** 
+
+
+## **Holland (1992)** 
+
+
+## **Holland (1995)** 
+
+
+## **Howells (1973)** 
+
+
+## **Hrdlicka (1920)** 
+
+
 ## **Langley et al. (2016)** 
-## **Martin and Knussmann 1988** 
-## **Montagu 1960** 
-## **Moore-Jansen et al. 1994** 
-## **Seidemann et al. 1998** 
-## **Simmons et al. 1990** 
+
+
+## **Martin and Knussmann (1988)** 
+
+
+## **Montagu (1960)** 
+
+
+## **Moore-Jansen et al. (1994)** 
+
+
+## **Seidemann et al. (1998)** 
+
+
+## **Simmons et al. (1990)** 
