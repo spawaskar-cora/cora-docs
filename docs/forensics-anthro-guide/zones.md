@@ -3,7 +3,7 @@ In this section we present the images used in the zonation method for inventory 
 # **SKULL**
 ## **Cranium**
 
-![Cranium anterior](../images/zones/cranium_Ant_500.png)
+![Cranium anterior](../images/zones/cranium_ant_500.png)
 
 **Skull, anterior view.**
 
