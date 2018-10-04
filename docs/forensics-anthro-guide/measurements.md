@@ -1,8 +1,8 @@
-In this section we present the images for measurements used in the inventory of human remains, along with captions and desciptions of each measurement. The measurement definitions are derived from Langley et al. (2016) Data collection procedures for forensic skeletal material 2.0. University of Tennessee and Lincoln Memorial University and Byrd & Adams (2003) Osteometric sorting of commingled human remains. Journal of Forensic Sciences, 48(4), 717-724. Images derived from Langley et al. (2016) by Elizabeth Lockett and Nandar Yukyi.
+In this section we present the images for measurements used in the inventory of human remains, along with captions and desciptions of each measurement. The measurement definitions are derived from Langley et al. (2016) Data Collection Procedures for Forensic Skeletal Material 2.0. University of Tennessee and Lincoln Memorial University and Byrd & Adams (2003) Osteometric sorting of commingled human remains. Journal of Forensic Sciences, 48:717-724. Images derived from Langley et al. (2016) by Elizabeth Lockett and Nandar Yukyi.
 
 # Cranium
 
-![Cranium, Cra_01-06](../images/measurements/Midsagittal_1_500.png)
+![Cranium, Cra_01-06](../images/measurements/midsagittal_1_500.png)
 
 **Cra_01 Maximum Cranial Length (g-op, GOL):**  The straight-line distance from glabella (g) to opisthocranion (op) in the midsagittal plane. 
 
@@ -14,14 +14,14 @@ In this section we present the images for measurements used in the inventory of 
 * *Instrument:* spreading caliper.
 * *Comments:*  With the skull in position as for glabello-occipital length (Maximum Cranial Length), place the one caliper point at nasion and move the other point along the occiput in the midline for the maximum reading (Howells 1973:171; Langley et al. 2016:65, #2).
 
-![Cranium, Cra_03](../images/measurements/Anterior_1_500.png)
+![Cranium, Cra_03](../images/measurements/anterior_1_500.png)
 
 **Cra_03 Maximum Cranial Breadth (eu-eu, XCB):**  The maximum width of the skull perpendicular to the mid-sagittal plane wherever it is located with the exception of the inferior temporal line and the immediate area surround the latter (i.e. the posterior roots of the zygomatic arches and supramastoid crest). 
 
 * *Instrument:* spreading caliper.
 * *Comments:*  Maximum Cranial Breadth is measured with the skull resting either on its base or on the occiput. The two measuring points (eurya) should lie in the same horizontal and frontal planes. Place the arms of the caliper at the same level while maintaining the hinge joint of the caliper in the mid-sagittal plane. Hold the ends of the caliper in each hand and apply to the lateral portions of the skull, making circular motions. Make sure you include areas below the squamosal suture, where the maximum is sometimes found. (Howells 1973:172; Hrdlicka 1920:14; Martin and Knussmann 1988:170, #8; Moore-Jansen et al. 1994, #2; Langley et al. 2016:65, #3). 
 
-![Cranium, Cra_04-](../images/measurements/Inferior_1_500.png)
+![Cranium, Cra_04-](../images/measurements/inferior_1_500.png)
 
 **Cra_04 Bizygomatic Breadth (zy-zy, ZYB):**  The maximum breadth across the zygomatic arches, wherever found, perpendicular to the mid-sagittal plane. 
 
@@ -58,7 +58,7 @@ In this section we present the images for measurements used in the inventory of 
 * *Instrument:* sliding caliper.
 * *Comments:*  With the skull resting on the occiput and with the base toward the observer measure to the outside of the roots of the zygomatic processes at their deepest incurvature, generally slightly anterior to the external auditory meatus, with the sharp points of the caliper (Howells 1973:173; Martin and Knussmann 1988:170, #11b; Moore-Jansen et al. 1994, #9; Langley et al. 2016:66, #10).
 
-![Cranium, Cra_11-](../images/measurements/Anterior_2_500.png)
+![Cranium, Cra_11-](../images/measurements/anterior_2_500.png)
 
 **Cra_11 Nasion-Prosthion Height (n-pr, NPH):**  The distance from nasion (n) to prosthion (pr), upper facial height. 
 
@@ -86,7 +86,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 * *Comments:*  Carefully place the points of the instrument on the sharp lateral margins of the nasal aperture at its most lateral curvature; this is not an inside measurement. The measurement is perpendicular to the mid-sagittal plane and recorded to the nearest millimeter (Howells 1973: 176; Martin and Knussmann 1988:181 #54; Moore-Jansen et al. 1994, #14; Langley et al. 2016:68, #15). 
 
-![Cranium, Cra_16-](../images/measurements/Anterior_3_500.png)
+![Cranium, Cra_16-](../images/measurements/anterior_3_500.png)
 
 **Cra_16 Orbital Breadth (d-ec, OBB):**  The distance from dacryon (d) to ectoconchion (ec). 
 
@@ -106,7 +106,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper.
 
-![Cranium, Cra_20-22-](../images/measurements/Midsagittal_2_500.png)
+![Cranium, Cra_20-22-](../images/measurements/midsagittal_2_500.png)
 
 **Cra_20 Frontal Chord (n-b, FRC):**  The distance from nasion (n) to bregma (b) taken in the mid-sagittal plane. 
 
@@ -132,7 +132,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper. 
 * *Comments:*  Measure with the skull base up using the inside jaws of the calipers (Martin and Knussmann 1988:171, #16; Moore-Jansen et al. 1994, #23; Langley et al. 2016:69, #24). 
 
-![Cranium, Cra_25](../images/measurements/Lateral_1_500.png)
+![Cranium, Cra_25](../images/measurements/lateral_1_500.png)
 
 **Cra_25 Mastoid Height (MDH):**  The direct distance between porion (po) and mastoidale (ms). 
 
@@ -144,7 +144,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper.
 * *Comments:*  With the skull resting so that the occiput is facing the observer, measure the distance using the sharp points of the calipers (Howells 1973:174; Martin and Knussmann 1988:171, #12; Langley et al. 2016:70, #26).  
 
-![Cranium, Cra_27-28](../images/measurements/Anterior_4_500.png)
+![Cranium, Cra_27-28](../images/measurements/anterior_4_500.png)
 
 **Cra_27 Bimaxillary Breadth (zma-zma, ZMB):**  The breadth across the maxillae, from the left to right zygomaxillare anterior (zma). 
 
@@ -158,7 +158,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 # Mandible
 
-![Mandible_anterior](../images/measurements/Mandible_2_500.png)
+![Mandible_anterior](../images/measurements/mandible_2_500.png)
 
 **Mandible, anterior view.**
 
@@ -211,6 +211,20 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* mandibulometer.
 * *Comment:*  In case of “rocker jaws”, the bone is held in place by pressing down on the second molars (Martin and Knussmann 1988:185, #79; Moore-Jansen et al. 1994, #34; Langley et al. 2016:72, #37). 
+
+
+# Vertebrae
+**Cer1_01 (Left), Cer1_02 (Right) Maximum Length of the Superior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81A). 
+
+* *Instrument:* sliding caliper.
+
+**Cer1_03 (Left), Cer1_04 (Right) Maximum Length of the Inferior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81M). 
+
+* *Instrument:* sliding caliper.
+
+**Cer2_01 (Left), Cer2_02 (Right) Maximum Length of the Superior Articular Facet of C2:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81B). 
+
+* *Instrument:* sliding caliper.
 
 
 # Clavicle
@@ -928,20 +942,6 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper.
 * *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc (Byrd and Adams 2015, #80J).
-
-
-# Vertebrae
-**Cer1_01 (Left), Cer1_02 (Right) Maximum Length of the Superior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81A). 
-
-* *Instrument:* sliding caliper.
-
-**Cer1_03 (Left), Cer1_04 (Right) Maximum Length of the Inferior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81M). 
-
-* *Instrument:* sliding caliper.
-
-**Cer2_01 (Left), Cer2_02 (Right) Maximum Length of the Superior Articular Facet of C2:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81B). 
-
-* *Instrument:* sliding caliper.
 
 
 # Measurement Standards Table

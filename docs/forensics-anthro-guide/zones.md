@@ -3,7 +3,7 @@ In this section we present the images used in the zonation method for inventory 
 # **SKULL**
 ## **Cranium**
 
-![Cranium anterior](../images/zones/Cranium_Ant_500.png)
+![Cranium anterior](../images/zones/cranium_ant_500.png)
 
 **Skull, anterior view.**
 
@@ -22,7 +22,7 @@ In this section we present the images used in the zonation method for inventory 
 14\. Left nasal bone  
 15\. Right nasal bone  
 
-![Skull right](../images/zones/Skull_Right_500.png)
+![Skull right](../images/zones/skull_right_500.png)
 
 **Skull, lateral right view.**
 
@@ -37,7 +37,7 @@ In this section we present the images used in the zonation method for inventory 
 13\. Right maxilla  
 15\. Right nasal bone  
 
-![Skull left](../images/zones/Skull_Left_500.png)
+![Skull left](../images/zones/skull_left_500.png)
 
 **Skull, lateral left view.**
 
@@ -52,7 +52,7 @@ In this section we present the images used in the zonation method for inventory 
 12\. Left maxilla  
 14\. Left nasal bone  
 
-![Cranium inferior](../images/zones/Cranium_Inf_500.png)
+![Cranium inferior](../images/zones/cranium_inf_500.png)
 
 **Skull, inferior view.**
 
@@ -70,7 +70,7 @@ In this section we present the images used in the zonation method for inventory 
 
 ## **Mandible**
 
-![Mandible](../images/zones/Mandible_500.png)
+![Mandible](../images/zones/mandible_500.png)
 
 **Mandible. Top left: medial/internal view of left; 
 Top right: medial/internal view of right; 
@@ -123,7 +123,7 @@ externally)
 4\. Spinous process  
 
 ### Sacrum
-![Sacrum](../images/zones/Sacrum_500.png)
+![Sacrum](../images/zones/sacrum_500.png)
 
 **Sacrum. Left: anterior view; right: posterior view.**
 
@@ -160,7 +160,7 @@ externally)
 4\. Sternal end  
 
 ### Sternum
-![Sternum](../images/zones/Sternum_500.png)
+![Sternum](../images/zones/sternum_500.png)
 
 **Sternum. Left: anterior view; right: posterior view.**
 
@@ -171,7 +171,7 @@ externally)
 3\. Xiphoid process  
 
 ### Clavicle
-![Clavicle](../images/zones/Clavicle_left_500.png)
+![Clavicle](../images/zones/clavicle_left_500.png)
 
 **Left clavicle. Above: superior view; below: inferior view.**
 
@@ -182,7 +182,7 @@ externally)
 3\. Diaphysis, including the groove that marks the attachment for M. subclavius  
 
 ### Scapula
-![Scapula](../images/zones/Scapula_left_500.png)
+![Scapula](../images/zones/scapula_left_500.png)
 
 **Left scapula. Left: anterior view; right: posterior view.**
 
@@ -200,7 +200,7 @@ externally)
 
 ## **Upper limb**
 ### Humerus
-![Humerus](../images/zones/Humerus_Left_500.png)
+![Humerus](../images/zones/humerus_left_500.png)
 
 **Left humerus. Left: posterior view; right: anterior view.**
 
@@ -219,7 +219,7 @@ externally)
 11\. Proximal portion of the diaphysis, including the surgical neck  
 
 ### Radius
-![Radius](../images/zones/Radius_left_500.png)
+![Radius](../images/zones/radius_left_500.png)
 
 **Left radius. Left: posterior view; right: anterior view.**
 
@@ -238,7 +238,7 @@ externally)
 11\. Styloid process of the distal end  
 
 ### Ulna
-![Ulna](../images/zones/Ulna_left_500.png)
+![Ulna](../images/zones/ulna_left_500.png)
 
 **Left ulna. Left: posterior view; right: anterior view.**
 
@@ -255,7 +255,7 @@ externally)
 
 ## **Pelvis and Lower Limb**
 ### Os coxa
-![Os coxa](../images/zones/Oscoxa_left_500.png)
+![Os coxa](../images/zones/oscoxa_left_500.png)
 
 **Left os coxa. Left: medial/internal view; right: lateral/external view.**
 
@@ -275,7 +275,7 @@ externally)
 12\. Iliac crest  
 
 ### Femur
-![Femur](../images/zones/Femur3_500.png)
+![Femur](../images/zones/femur3_500.png)
 
 **Left femur. Left: posterior view; right: anterior view.**
 
@@ -299,7 +299,7 @@ externally)
 **Left patella. Above: posterior view; below: anterior view.**
 
 ### Tibia
-![Tibia](../images/zones/Tibia_left_500.png)
+![Tibia](../images/zones/tibia_left_500.png)
 
 **Left tibia. Left: posterior view; right: anterior view.**
 
@@ -333,7 +333,7 @@ externally)
 
 ## **Hands and Feet**
 ### Hand
-![Hand](../images/zones/Hand_left_500.png)
+![Hand](../images/zones/hand_left_500.png)
 
 **Left hand and wrist. Left: dorsal view; right: palmar view.**
 
@@ -350,7 +350,7 @@ Metacarpals
 3\. Diaphysis  
 
 ### Foot
-![Foot](../images/zones/Foot_right_500.png)
+![Foot](../images/zones/foot_right_500.png)
 
 **Right foot and ankle. Left: dorsal view; right: plantar view.**
 
