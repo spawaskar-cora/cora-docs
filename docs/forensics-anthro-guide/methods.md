@@ -36,7 +36,7 @@ In this section we present an annotated bibliography of analytical methods avail
 
 
 ## **Phenice TW (1969)** 
-A newly developed visual method of sexing the os pubis. *American Journal of Physical Anthropology,* 30:297-301.  
+A newly developed visual method of sexing the os pubis. *American Journal of Physical Anthropology* 30:297-301.  
 
 * *Purpose:*  Sex estimation based on three features of the adult os coxa: the ventral arc, subpubic concavity, and the ischiopubic ramus.
 * *Sample:*  Terry Skeletal Collection, Smithsonian Institution; n = 275; Black and White males (n = 20 and 160, respectively) and females (n = 52 and 43, respectively).
@@ -49,7 +49,7 @@ A newly developed visual method of sexing the os pubis. *American Journal of Ph
 
 
 ## **Rogers TL  (1999)** 
-A visual method of determining the sex of skeletal remains using the distal humerus. *Journal of Forensic Sciences,* 44:57-60.
+A visual method of determining the sex of skeletal remains using the distal humerus. *Journal of Forensic Sciences* 44:57-60.
 
 * *Purpose:*  Sex estimation based on the characteristics of four dimorphic features of the distal humerus: trochlear constriction, trochlear asymmetry, olecranon fossa shape and depth, and the angle of the medial epicondyle. These are "scored" as male or female based on their morphology.
 * *Sample:*  Developed on the Grant Skeletal Collection, University of Toronto (20th century anatomy series), n = 202 (175 males, 27 females); tested on known individuals from the University of New Mexico Documented Collection (n = 35; 28 males, 7 females) and the William M. Bass Donated Skeletal Collection (n = 93; 74 males, 19 females).
@@ -62,7 +62,7 @@ A visual method of determining the sex of skeletal remains using the distal hume
 
 
 ## **Rogers NL, Flournoy LE, McCormick WF (2000)** 
-The rhomboid fossa of the clavicle as a sex and age estimator. *Journal of Forensic Sciences,* 45:61-67.
+The rhomboid fossa of the clavicle as a sex and age estimator. *Journal of Forensic Sciences* 45:61-67.
 
 * *Purpose:*  Sex estimation based on clavicle morphology, specifically, the presence or absence of the rhomboid fossa, which is a pitted or depressed marking on the inferior sternal end of the clavicle.  
 * *Sample:*  William F. McCormick Skeletal Collection, University of Tennessee - Knoxville; n = 344; 113 females, 231 males; White (n=301), Black (n=38), "Other" non-White (n=5); Ages: 10-92 years.
@@ -73,7 +73,7 @@ The rhomboid fossa of the clavicle as a sex and age estimator. *Journal of Fore
 
 
 ## **Walker PL (2005)** 
-Greater sciatic notch morphology:  Sex, age, and population differences. *American Journal of Physical Anthropology,* 127:385-391.
+Greater sciatic notch morphology:  Sex, age, and population differences. *American Journal of Physical Anthropology* 127:385-391.
 
 * *Purpose:*  Provides empirical probabilities of being male or female for a given sciatic notch score, following Buikstra and Ubelaker (1994). 
 * *Sample:*  Americans from the Hamann-Todd Collection, Cleveland Museum of Natural History and Terry Skeletal Collection, Smithsonian Institution (n = 211; 114 males, 97 females); and Europeans from the St. Bride's Collection, St. Bride's Church in London (n = 85; 51 males, 34 females). 
@@ -84,7 +84,7 @@ Greater sciatic notch morphology:  Sex, age, and population differences. *Amer
 
 
 ## **Walker PL (2008)** 
-Sexing skulls using discriminant function analysis of visually assessed traits. *American Journal of Physical Anthropology,* 136:39-50.
+Sexing skulls using discriminant function analysis of visually assessed traits. *American Journal of Physical Anthropology* 136:39-50.
 
 * *Purpose:*  Provides empirical probabilities of being male for a given score of observed cranial morphology following the ordinal scales presented in Buikstra and Ubelaker (1994).  
 * *Sample:*  Americans from the Hamann-Todd Collection, Cleveland Museum of Natural History and Terry Skeletal Collection, Smithsonian Institution and Europeans from the St. Bride's Collection, St. Bride's Church in London (n = 304; 164 males, 140 females). In addition, archaeological specimens (7000 B.P. to European contact) from the Santa Barbara Museum of Natural History and the Department of Anthropology, University of California, Santa Barbara were utilized (n = 156). 
@@ -99,7 +99,7 @@ Sexing skulls using discriminant function analysis of visually assessed traits.�
 # **AGE**
 
 ## **Albert AM, Maples WR (1995)** 
-Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method of age determination for teenage and young adult skeletons. *Journal of Forensic Sciences,* 40:623-633.
+Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method of age determination for teenage and young adult skeletons. *Journal of Forensic Sciences* 40:623-633.
 
 * *Purpose:*  Age estimation by scoring fusion of thoracic and lumbar vertebral centra. This scoring is modified from McKern and Stewart (1957).
 * *Sample:*  C.A. Pound Human Identification Laboratory, University of Florida (n = 55; 33 males, 22 females); Black and White individuals (n = 9 and 46, respectively) between the ages of 11 and 32 years.  
@@ -111,7 +111,7 @@ Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method 
 
 
 ## **Berg GE (2008)** 
-Pubic bone age estimation in adult women. *Journal of Forensic Sciences,* 53(3):569-577.  
+Pubic bone age estimation in adult women. *Journal of Forensic Sciences* 53:569-577.  
 
 * *Purpose:*  Age estimation for older females, re-defining the Suchey-Brooks phases V and VI, and adding phase VII. 
 * *Sample:*  n = 189 females; Balkan (n = 85) and William M. Bass Donated (WBD) Skeletal Collection (n = 104)
@@ -123,7 +123,7 @@ Pubic bone age estimation in adult women. *Journal of Forensic Sciences,* 53(3):
 
 
 ## **Blankenship JA, Mincer HH, Anderson KM, Woods MA, Burton EL (2007)** 
-Third molar development in the estimation of chronologic age in American Blacks as compared with Whites. *Journal of Forensic Sciences,* 52(2):428-433.
+Third molar development in the estimation of chronologic age in American Blacks as compared with Whites. *Journal of Forensic Sciences* 52:428-433.
 
 * *Purpose:*  Age estimation of African American populations by scoring third molar development radiographically using the Demirjian et al. stages (A-H).  
 * *Sample:*  n = 637 African Americans and n = 563 American Whites, between 14.0 and 24.9 years, from across the United States and Canada. The American White sample was obtained from a previous study.
@@ -132,7 +132,7 @@ Third molar development in the estimation of chronologic age in American Blacks 
 
 
 ## **Brooks S, Suchey JM (1990)** 
-Skeletal age determination based upon the os pubis:  A comparison of the Acsádi-Nemeskéri and Suchey-Brooks methods. *Human Evolution,* 5:227-238.
+Skeletal age determination based upon the os pubis:  A comparison of the Acsádi-Nemeskéri and Suchey-Brooks methods. *Human Evolution* 5:227-238.
 
 * *Purpose:*  The Suchey-Brooks system is a 6-phase system (I-VI) for age estimation for males and females that utilizes the morphology of the entire symphyseal surface following the six phase system for males described by Katz and Suchey (1986). 
 * *Sample:*  n = 1,225, males and females, of known ages at death from the Los Angeles Medical Examiner’s Office.
@@ -146,7 +146,7 @@ Skeletal age determination based upon the os pubis:  A comparison of the Acsád
 
 
 ## **Buckberry JL, Chamberlain AT (2002)** 
-Age estimation from the auricular surface of the ilium:  Arevised method. *American Journal of Physical Anthropology,* 119:231-239.  
+Age estimation from the auricular surface of the ilium:  Arevised method. *American Journal of Physical Anthropology* 119:231-239.  
 
 * *Purpose:*  A composite scoring method for age estimation from the auricular surface. This method is a revision of the existing auricular surface aging method by Lovejoy et al (1985), and scores independent components of the auricular surface, rather than the gestalt. 
 * *Sample:* n = 180 known-age individuals from Christ Church, Spitalfields, London were utilized for the blind test of the new method.
@@ -164,7 +164,7 @@ Age estimation from the auricular surface of the ilium:  Arevised method. *Ame
 
 
 ## **İşcan MY, Loth SR, Wright RK (1984)** 
-Age estimation from the rib by phase analysis: White males. *Journal of Forensic Sciences,* 29:1094-1104.
+Age estimation from the rib by phase analysis: White males. *Journal of Forensic Sciences* 29:1094-1104.
 
 * *Purpose:*  Age estimation based on the morphology of the sternal end of the fourth rib (White Males). 
 * *Sample:*  n = 118 White males of known age at death from the Broward County Medical Examiner's Office, Florida.
@@ -182,7 +182,7 @@ Age estimation from the rib by phase analysis: White males. *Journal of Forensi
 
 
 ## **İşcan MY, Loth SR, Wright RK (1985)** 
-Age estimation from the rib by phase analysis:  White females. *Journal of Forensic Sciences,* 30:853-863.
+Age estimation from the rib by phase analysis:  White females. *Journal of Forensic Sciences* 30:853-863.
 
 * *Purpose:*  Age estimation based on themorphology of the sternal end of the fourth rib (White Females). 
 * *Sample:*  The reference population consists of 86 White females of known age at death.
@@ -200,7 +200,7 @@ Age estimation from the rib by phase analysis:  White females. *Journal of For
 
 
 ## **Kasper KA, Austin D, Kvanli AH, Rios TR, Senn DR (2009)** 
-Reliability of third molar development for age estimation in a Texas Hispanic population: A comparison study. *Journal of Forensic Sciences,* 54(3):651-657.
+Reliability of third molar development for age estimation in a Texas Hispanic population: A comparison study. *Journal of Forensic Sciences* 54:651-657.
 
 * *Purpose:*  Age estimation of Hispanic populations by scoring third molar development radiographically using the method of Demirjian et al. (1973) for crown and root formation. 
 * *Sample:* Hispanic individuals (n = 950) aged from 12-22 years 
@@ -226,7 +226,7 @@ Reliability of third molar development for age estimation in a Texas Hispanic po
 
 
 ## **Langley-Shirley N, Jantz RL (2010)** 
-A Bayesian approach to age estimation in modern Americans from the clavicle. *Journal of Forensic Sciences,* 55(3):571-583.  
+A Bayesian approach to age estimation in modern Americans from the clavicle. *Journal of Forensic Sciences* 55:571-583.  
 
 * *Purpose:*  Age estimation based on a 3-phase or 5-phase system for medial clavicular fusion for modern American individuals. 
 * *Sample:*  n = 1289 (1044 male, 245 female): 594 individuals (448 male, 146 female) between 11 and 33 years from the William F. McCormick Clavicle Collection, 354 individuals (255 male, 99 female) between 11 and 30 years from the Hamann-Todd Osteological Collection), and 341 males between 16 and 33 years from the Korean War. 
@@ -246,7 +246,7 @@ A Bayesian approach to age estimation in modern Americans from the clavicle. *Jo
 
 
 ## **Lovejoy CO, Meindl RS, Pryzbeck TR, Mensforth RP (1985)** 
-Chronological metamorphosis of the auricular surface of the ilium: A new method for determination of adult skeletal age at death.  *American Journal of Physical Anthropology,* 68:15-28.
+Chronological metamorphosis of the auricular surface of the ilium: A new method for determination of adult skeletal age at death.  *American Journal of Physical Anthropology* 68:15-28.
 
 * *Purpose:*  An 8-phase age estimation system based on auricular surface morphology, considering changes to the granularity and density, macroporosity, billowing, striae, apex, retroauricular area, and transverse organization. 
 * *Sample:*  The Todd Collection (n = 500), the Libben Collection (n = 250), and forensic cases from the Cuyahoga County Coroner’s Office, Ohio (n = 14). 
@@ -265,7 +265,7 @@ Chronological metamorphosis of the auricular surface of the ilium: A new method
 
 
 ## **Mann RW, Jantz RL, Bass WM, Willey PS (1991)** 
-Maxillary suture obliteration: A visual method for estimating skeletal age. *Journal of Forensic Sciences,* 36:781-791.  
+Maxillary suture obliteration: A visual method for estimating skeletal age. *Journal of Forensic Sciences* 36:781-791.  
 
 * *Purpose:*  Age estimation by assessing suture closure of the four maxillary (palatal) sutures. 
 * *Sample:*  186 skeletons of known age, sex, and race from three skeletal collections (Louisiana State University, University of Tennessee, and the Terry Skeletal Collection, Smithsonian Institution): 46 White males, 32 White females, 64 Black males, and 44 Black females. 
@@ -294,7 +294,7 @@ Maxillary suture obliteration: A visual method for estimating skeletal age. *Jo
 
 
 ## **Meindl RS, Lovejoy CO (1985)** 
-Ectocranial Suture Closure: a revised method for the determination of skeletal age at death based on the lateral-anterior sutures. *American Journal of Physical Anthropology,* 68:57-66.
+Ectocranial Suture Closure: a revised method for the determination of skeletal age at death based on the lateral-anterior sutures. *American Journal of Physical Anthropology* 68:57-66.
 
 * *Purpose:*  Age estimation by scoring (0-open, 1-minimal closure, 2-significant closure, 3-complete obliteration) ectocranial vault and lateral anterior suture closure at ten sites. 
 * *Sample:*  Hamann-Todd Collection, Cleveland Museum of Natural History (n = 236).
@@ -302,7 +302,7 @@ Ectocranial Suture Closure: a revised method for the determination of skeletal a
 
 
 ## **Mincer HH, Harris EF, Berryman HE (1993)** 
-The A.B.F.O. study of third molar development and its use as an estimator of chronological age. *Journal of Forensic Sciences,* 38:379-390.
+The A.B.F.O. study of third molar development and its use as an estimator of chronological age. *Journal of Forensic Sciences* 38:379-390.
 
 * *Purpose:*  Age estimation for American Whites and Blacks by scoring third molar development radiographically using the eight-grade classification system by Demirjian et al. (1973). 
 * *Sample:*  n = 823, males (46%) and females (54%) between the ages of 14 and 24 years from across the United States and Canada. The sample consisted of white (80%), Black (19%), and “other” (1%). 
@@ -336,7 +336,7 @@ Regression formulae for the estimation of age from cranial suture closure. In *F
 
 
 ## **Osborne DL, Simmons TL, Nawrocki SP (2004)** 
-Reconsidering the auricular surface as an indicator of age at death. *Journal of Forensic Sciences,* 49:905-911.
+Reconsidering the auricular surface as an indicator of age at death. *Journal of Forensic Sciences* 49:905-911.
 
 * *Purpose:*  Age estimation based on auricular surface morphology. 
 * *Sample:*  n = 266; the Terry Skeletal Collection, Smithsonian Institution (n = 72), and the Bass Donated Collection, University of Tennessee (n = 194), which represent early 20th century and late 20th century individuals, respectively.
@@ -351,7 +351,7 @@ Reconsidering the auricular surface as an indicator of age at death. *Journal of
 
 
 ## **Samworth R, Gowland R (2007)** 
-Estimation of adult skeletal age-at-death: Statistical assumptions and applications. *International Journal of Osteoarchaeology,* 17:174-188.
+Estimation of adult skeletal age-at-death: Statistical assumptions and applications. *International Journal of Osteoarchaeology* 17:174-188.
 
 * *Purpose:*  Age estimation based on features of the os coxa. 
 * *Sample:*  18th-century English and 20th-century Portuguese.
@@ -383,7 +383,7 @@ Estimation of adult skeletal age-at-death: Statistical assumptions and applicati
 # **ANCESTRY**
 
 ## **Edgar HJH (2013)** 
-Estimation of ancestry using dental morphological characteristics. *Journal of Forensic Sciences,* 58:S3-S8.2013
+Estimation of ancestry using dental morphological characteristics. *Journal of Forensic Sciences,* 58:S3-S8.
 
 * *Purpose:*  Ancestry estimation using nonmetric morphological dental traits to distinguish European American, African American, and Hispanic American individuals. 
 * *Sample:*  509 individuals of Hispanic, African and European ancestry.
@@ -403,7 +403,7 @@ Craniofacial Criteria in the Skeletal Attribution of Race. In *Forensic Osteolog
 
 
 ## **Hefner J (2009)** 
-Cranial nonmetric variation and estimating ancestry. *Journal of Forensic Sciences,* 54(5):985-995.  
+Cranial nonmetric variation and estimating ancestry. *Journal of Forensic Sciences,* 54:985-995.  
 
 * *Purpose:*  Provides underlying frequency distributions by ancestry for 11 commonly used cranial nonmetric traits. 
 * *Sample:*  n = 747 from four skeletal collections, comprised of prehistoric and contemporary individuals, which are separated into an African, Asian, European, and Native American. 
@@ -411,7 +411,7 @@ Cranial nonmetric variation and estimating ancestry. *Journal of Forensic Scienc
 
 
 ## **Hefner J, Ousley SD (2014)** 
-Statistical classification methods for estimating ancestry using morphoscopic traits. *Journal of Forensic Sciences,* 59(4):883-890.    
+Statistical classification methods for estimating ancestry using morphoscopic traits. *Journal of Forensic Sciences,* 59:883-890.    
 
 * *Purpose:*  Ancestry estimation using six cranial nonmetric traits to separate American Whites and Blacks. 
 * OSSA is a nonparametric method that compresses morphological variation into two classes.
@@ -435,7 +435,7 @@ Non-metric skull racing.  In *Skeletal Attribution of Race: Methods for Forens
 
 
 ## **Knusel CJ, Outram AK (2004)** 
-Fragmentation: The zonation method applied to fragmented human remains from archaeological and forensic contexts. *Environmental Archaeology,* 9(1):85-98.
+Fragmentation: The zonation method applied to fragmented human remains from archaeological and forensic contexts. *Environmental Archaeology,* 9:85-98.
 
 * *Purpose:* Presents a standardized representation of zones on the human skeletal elements to allow for comparisons and analysis of an entire assemblage. 
 * Anatomical descriptions and zone drawings are provided. 
@@ -454,46 +454,56 @@ Fragmentation: The zonation method applied to fragmented human remains from arch
 
 
 ## **Byrd (2008)**
+Models and methods for osteometric sorting.  In:  *Recovery, Analysis, and Identification of Commingled Human Remains*, edited by B. J. Adams and J. E. Byrd, pp. 199–220.  Humana Press, New Jersey. 
 
 
 ## **Byrd and Adams (2003)**
-Osteometric sorting of commingled human remains. *Journal of Forensic Sciences,* 48:717–724.
+Osteometric sorting of commingled human remains. *Journal of Forensic Sciences* 48:717–724.
 
 
 ## **Byrd and Adams (2015)**
 
 
-## **Dwight (1905)** 
+## **Dwight (1905)**
+The size of the articular surfaces of the long bones as characteristic of sex; an anthropological study. *American Journal of anatomy* 4:19-31.
 
 
 ## **Holland (1992)** 
+Estimation of adult stature from fragmentary tibias.  *Journal of Forensic Sciences* 37:1223–1229.
 
 
-## **Holland (1995)** 
+## **Holland (1995)**
+Estimation of adult stature from the calcaneus and talus.  *American Journal of Physical Anthropology* 96:315–320.
 
 
 ## **Howells (1973)** 
+*Cranial Variation in Man:  A Study by Multivariate Analysis of Patterns of Difference among Recent Human Population*.  Papers of the Peabody Museum of Archaeology and Ethnology, Harvard University, Volume 67, Cambridge, MA.
 
 
 ## **Hrdlicka (1920)** 
+Anthropometry. *American Journal of Physical Anthropology* 3:147-173.
 
 
 ## **Langley et al. (2016)** 
+*Data collection procedures for forensic skeletal material 2.0*. University of Tennessee and Lincoln Memorial University.
 
 
 ## **Martin (1957)** 
 
 
 ## **Martin and Knussmann (1988)** 
+*Anthropologie: handbuch der vergleichenden biologie des menschen*. Stuttgart: Gustav Fischer, 742.
 
 
 ## **Montagu (1960)** 
 
 
 ## **Moore-Jansen et al. (1994)** 
+*Data Collection Procedures for Forensic Skeletal Material.  3rd ed*.  Department of Anthropology Report of Investigations No. 48.  University of Tennessee, Knoxville, TN.  
 
 
 ## **Seidemann et al. (1998)** 
-
+The use of the supero‐inferior femoral neck diameter as a sex assessor. *American Journal of Physical Anthropology* 107:305-313.
 
 ## **Simmons et al. (1990)** 
+Stature estimation from fragmentary femora:  A revision of the Steele method.  *Journal of Forensic Sciences* 35:628–636.  
