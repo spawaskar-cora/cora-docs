@@ -457,6 +457,7 @@ Fragmentation: The zonation method applied to fragmented human remains from arch
 
 
 ## **Byrd and Adams (2003)**
+Osteometric sorting of commingled human remains. *Journal of Forensic Sciences,* 48:717–724.
 
 
 ## **Byrd and Adams (2015)**
