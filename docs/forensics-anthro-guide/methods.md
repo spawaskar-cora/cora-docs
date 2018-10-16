@@ -453,58 +453,61 @@ Fragmentation: The zonation method applied to fragmented human remains from arch
 * *Purpose:*  Data collection standardization from skeletal remains. This source consolidates multiple non-metric methods and measurements into a single source.
 
 
-## **Byrd (2008)**
+## **Byrd JE, Adams BJ (2003)**
+Osteometric sorting of commingled human remains. *Journal of Forensic Sciences* 48(4):717–724.
+
+
+## **Byrd JE (2008)**
 Models and methods for osteometric sorting.  In:  *Recovery, Analysis, and Identification of Commingled Human Remains*, edited by B. J. Adams and J. E. Byrd, pp. 199–220.  Humana Press, New Jersey. 
 
 
-## **Byrd and Adams (2003)**
-Osteometric sorting of commingled human remains. *Journal of Forensic Sciences* 48:717–724.
-
-
 ## **Byrd and Adams (2015)**
+Updated measurements for osteometric sorting.  DPAA CIL document, dated 16 December 2015. 
 
 
-## **Dwight (1905)**
-The size of the articular surfaces of the long bones as characteristic of sex; an anthropological study. *American Journal of anatomy* 4:19-31.
+## **Dwight T (1905)**
+The size of the articular surfaces of the long bones as characteristic of sex; an anthropological study. *American Journal of anatomy* 4:19-32.
 
 
-## **Holland (1992)** 
+## **Holland TD (1992)** 
 Estimation of adult stature from fragmentary tibias.  *Journal of Forensic Sciences* 37:1223–1229.
 
 
-## **Holland (1995)**
+## **Holland TD (1995)**
 Estimation of adult stature from the calcaneus and talus.  *American Journal of Physical Anthropology* 96:315–320.
 
 
-## **Howells (1973)** 
+## **Howells WW (1973)** 
 *Cranial Variation in Man:  A Study by Multivariate Analysis of Patterns of Difference among Recent Human Population*.  Papers of the Peabody Museum of Archaeology and Ethnology, Harvard University, Volume 67, Cambridge, MA.
 
 
-## **Hrdlicka (1920)** 
+## **Hrdlicka A (1920)** 
 Anthropometry. *American Journal of Physical Anthropology* 3:147-173.
 
 
-## **Langley et al. (2016)** 
-*Data collection procedures for forensic skeletal material 2.0*. University of Tennessee and Lincoln Memorial University.
+## **Langley NR, Jantz LM, Ousley SD, Jantz RL, Milner GS (2016)** 
+*Data collection procedures for forensic skeletal material 2.0*. University of Tennessee and Lincoln Memorial University: Tennessee. http://fac.utk.edu/wp-content/uploads/2016/03/DCP20_webversion.pdf
 
 
-## **Martin (1957)** 
+## **Martin R (1957)** 
 *Lehrbuch der Anthropologie*. Dritte Aufl.
 
 
-## **Martin and Knussmann (1988)** 
-*Anthropologie: handbuch der vergleichenden biologie des menschen*. Stuttgart: Gustav Fischer, 742.
+## **Martin R, Knussmann R (1988)** 
+*Anthropologie: handbuch der vergleichenden biologie des menschen*. Stuttgart: Gustav Fischer.
 
 
-## **Montagu (1960)** 
+## **Montagu MFA (1960)** 
+*A Handbook of Anthropometry.* Charles C. Thomas, Springfield, Illinois. 
 
 
-## **Moore-Jansen et al. (1994)** 
+## **Moore-Jansen PM, Ousley SD, Jantz RJ (1994)** 
 *Data Collection Procedures for Forensic Skeletal Material.  3rd ed*.  Department of Anthropology Report of Investigations No. 48.  University of Tennessee, Knoxville, TN.  
 
 
-## **Seidemann et al. (1998)** 
+## **Seidemann RM, Stojanowski CM, Doran GH (1998)** 
 The use of the supero‐inferior femoral neck diameter as a sex assessor. *American Journal of Physical Anthropology* 107:305-313.
 
-## **Simmons et al. (1990)** 
+
+## **Simmons T, Jantz RL, Bass WM (1990)** 
 Stature estimation from fragmentary femora:  A revision of the Steele method.  *Journal of Forensic Sciences* 35:628–636.  
