@@ -214,6 +214,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Vertebrae
+
+![Vertebrae](../images/measurements/vertebrae_500.png)
+
 **Cer1_01 (Left), Cer1_02 (Right) Maximum Length of the Superior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81A). 
 
 * *Instrument:* sliding caliper.
@@ -466,6 +469,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Hands
+
+![Hands](../images/measurements/hand_500.png)
+
 **MC1_01 Maximum Length of the 1st Metacarpal:**  This is the maximum length of the bone. 
 
 * *Instrument:* sliding calipers. 
@@ -739,6 +745,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Patella
+
+![Patella](../images/measurements/patella_500.png)
+
 **Pat_01 Maximum Length of the Patella:**  Find the maximum length (superior to inferior) of the patella (Byrd and Adams 2015, #74.5A). 
 
 * *Instrument:* sliding calipers.
@@ -859,6 +868,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Calcaneus
+
+![Calcaneus](../images/measurements/calcaneus_500.png)
+
 **Cal_01 Maximum Length of the Calcaneus (MCAL):**  The distance between the most posteriorly projecting point on the calcaneal tuberosity and the most anterior point on the superior margin of the articular facet for the cuboid measured in the sagittal plane (Martin and Knussmann 1988:225 #1). 
 
 * *Instrument:* sliding caliper or osteometric board. 
@@ -879,6 +891,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Talus
+
+![Talus](../images/measurements/talus_500.png)
+
 **Tal_01 Minimum Trochlear Breadth:**  This is the minimum breadth of the trochlea (superior articular surface). Place the flat surfaces of the jaws of the sliding calipers on either side of the articular surface with the jaws (approximately) parallel to the long axis of the bones. Close the jaws to take the minimum value (Byrd 2008, #79). 
 
 * *Instrument:* sliding caliper.
@@ -893,6 +908,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
  
 
 # Feet
+
+![Feet](../images/measurements/foot_500.png)
+
 **MT1_01 Maximum Length of the 1st Metatarsal:**  This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. 
 
 * *Instrument:* sliding caliper.
