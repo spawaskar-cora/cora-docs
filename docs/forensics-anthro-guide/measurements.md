@@ -88,12 +88,12 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ![Cranium, Cra_16-](../images/measurements/anterior_3_500.png)
 
-**Cra_16 Orbital Breadth (d-ec, OBB):**  The distance from dacryon (d) to ectoconchion (ec). 
+**Cra_16L and Cra_16R Orbital Breadth (d-ec, OBB):**  The distance from dacryon (d) to ectoconchion (ec), of the left (L) and right (R) orbit, respectively. 
 
 * *Instrument:* sliding caliper.
 * *Comments:*  The inside jaws of the calipers are useful for this measurement. For standardization and practical reasons measure the left orbit. Measure the right orbit if the left orbit is damaged and record the side measured on the recording sheet. (Howells 1973: 175; Martin and Knussmann l988:181, #51a; Moore-Jansen et al. 1994, #15; Langley et al. 2016:68, #16). 
 
-**Cra_17 Orbital Height (OBH):**  The distance between the superior and inferior orbital margins perpendicular to orbital breadth and bisecting the orbit into equal medial and lateral halves. 
+**Cra_17L and Cra_17R Orbital Height (OBH):**  The distance between the superior and inferior orbital margins perpendicular to orbital breadth and bisecting the orbit into equal medial and lateral halves, of the left (L) and right (R) orbit, respectively. 
 
 * *Instrument:* sliding caliper.
 * *Comments:*  Orbital height is measured perpendicular to orbital breadth. Any notches or depressions on either superior or inferior borders should be avoided; if there is deep notching, move the caliper medially slightly. The inside jaws of the calipers are useful for this measurement. (Howells 1973: 175; Martin and Knussmann 1988:181, #52; Moore-Jansen et al. 1994, #16; Langley et al. 2016:68, #17). 
@@ -134,7 +134,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ![Cranium, Cra_25](../images/measurements/lateral_1_500.png)
 
-**Cra_25 Mastoid Height (MDH):**  The direct distance between porion (po) and mastoidale (ms). 
+**Cra_25L and Cra_25R Mastoid Height (MDH):**  The direct distance between porion (po) and mastoidale (ms) of the left (L) and right (R) sides, respectively. 
 
 * *Instrument:* sliding caliper.
 * *Comments:*  Note that both right and left sides are measured. Place the fixed arm of the caliper on porion and move the movable arm until it touches mastoidale. This may be most easily accomplished by holding the calipers in a coronal plane. Howells (1973:176) and Martin and Knussmann (1988:172, #19a) define this measurement similarly, though their measurement technique differs from that described here. When only one value is needed, average the right and left measurements. If the discrepancy between the sides is more than 2mm repeat as a check (Moore-Jansen et al. 1994, #24; Langley et al. 2016:69-70, #25).  
@@ -171,11 +171,11 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 **Mandible, lateral left view.**
 
-**Man_02 Height of the Mandibular Body:**  The distance from the alveolar process to the inferior border of the mandible at the level of the mental foramen (Martin and Knussmann 1988:183, #69.1; Moore-Jansen et al. 1994, #26; Langley et al. 2016:71, #30). 
+**Man_02L and Man_02R Height of the Mandibular Body:**  The distance from the alveolar process to the inferior border of the mandible at the level of the mental foramen (Martin and Knussmann 1988:183, #69.1; Moore-Jansen et al. 1994, #26; Langley et al. 2016:71, #30), of the left (L) and right (R) sides, respectively. 
 
 * *Instrument:* sliding caliper.
 
-**Man_03 Breadth of the Mandibular Body:**  The maximum breadth measured at the level of the mental foramen perpendicular to the long axis of the mandibular body (Martin and Knussmann 1988:183, #69.3; Moore-Jansen et al. 1994, #27; Langley et al. 2016:71, #31). 
+**Man_03L and Man_03R Breadth of the Mandibular Body:**  The maximum breadth measured at the level of the mental foramen perpendicular to the long axis of the mandibular body (Martin and Knussmann 1988:183, #69.3; Moore-Jansen et al. 1994, #27; Langley et al. 2016:71, #31), of the left (L) and right (R) sides, respectively. 
 
 * *Instrument:* sliding caliper.
 
@@ -189,12 +189,12 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper. 
 * *Comments:*  Place the blunt point of the fixed end of the instrument against the right condyle and apply the movable end to the left condyle (Martin and Knussmann 1988:182, #65; Moore-Jansen et al. 1994, #29; Langley et al. 2016:71, #33). 
 
-**Man_06 Minimum Ramus Breadth:**  The minimum breadth of the mandibular ramus measured perpendicular to the height of the ramus. 
+**Man_06L and Man_06R Minimum Ramus Breadth:**  The minimum breadth of the mandibular ramus measured perpendicular to the height of the ramus, of the left (L) and right (R) sides, respectively. 
 
 * *Instrument:* sliding caliper.
 * *Comments:*  The measurement is taken at the waist of the ramus (the point where the distance between the anterior and posterior margins of the ramus is the smallest) (Martin and Knussmann 1988:183, #71a; Moore-Jansen et al. 1994, #30; Langley et al. 2016:72, #34). 
 
-**Man_07 Maximum Ramus Breadth:**  Distance between the most anterior point on the mandibular ramus and a line connecting the most posterior point on the condyle and the angle of the jaw (Moore-Jansen et al. 1994, #31). 
+**Man_07L and Man_07R Maximum Ramus Breadth:**  Distance between the most anterior point on the mandibular ramus and a line connecting the most posterior point on the condyle and the angle of the jaw (Moore-Jansen et al. 1994, #31), of the left (L) and right (R) sides, respectively. 
 
 * *Instrument:* sliding caliper.
 
@@ -214,15 +214,18 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Vertebrae
-**Cer1_01 (Left), Cer1_02 (Right) Maximum Length of the Superior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81A). 
+
+![Vertebrae](../images/measurements/vertebrae_500.png)
+
+**Cer1_01 (Left) and Cer1_02 (Right) Maximum Length of the Superior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81A). 
 
 * *Instrument:* sliding caliper.
 
-**Cer1_03 (Left), Cer1_04 (Right) Maximum Length of the Inferior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81M). 
+**Cer1_03 (Left) and Cer1_04 (Right) Maximum Length of the Inferior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81M). 
 
 * *Instrument:* sliding caliper.
 
-**Cer2_01 (Left), Cer2_02 (Right) Maximum Length of the Superior Articular Facet of C2:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81B). 
+**Cer2_01 (Left) and Cer2_02 (Right) Maximum Length of the Superior Articular Facet of C2:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81B). 
 
 * *Instrument:* sliding caliper.
 
@@ -466,6 +469,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Hands
+
+![Hands](../images/measurements/hand_500.png)
+
 **MC1_01 Maximum Length of the 1st Metacarpal:**  This is the maximum length of the bone. 
 
 * *Instrument:* sliding calipers. 
@@ -739,6 +745,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Patella
+
+![Patella](../images/measurements/patella_500.png)
+
 **Pat_01 Maximum Length of the Patella:**  Find the maximum length (superior to inferior) of the patella (Byrd and Adams 2015, #74.5A). 
 
 * *Instrument:* sliding calipers.
@@ -859,6 +868,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Calcaneus
+
+![Calcaneus](../images/measurements/calcaneus_500.png)
+
 **Cal_01 Maximum Length of the Calcaneus (MCAL):**  The distance between the most posteriorly projecting point on the calcaneal tuberosity and the most anterior point on the superior margin of the articular facet for the cuboid measured in the sagittal plane (Martin and Knussmann 1988:225 #1). 
 
 * *Instrument:* sliding caliper or osteometric board. 
@@ -879,6 +891,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 
 # Talus
+
+![Talus](../images/measurements/talus_500.png)
+
 **Tal_01 Minimum Trochlear Breadth:**  This is the minimum breadth of the trochlea (superior articular surface). Place the flat surfaces of the jaws of the sliding calipers on either side of the articular surface with the jaws (approximately) parallel to the long axis of the bones. Close the jaws to take the minimum value (Byrd 2008, #79). 
 
 * *Instrument:* sliding caliper.
@@ -893,6 +908,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
  
 
 # Feet
+
+![Feet](../images/measurements/foot_500.png)
+
 **MT1_01 Maximum Length of the 1st Metatarsal:**  This is the maximum length of the bone. The measurement may be taken with an osteometric board or sliding calipers. 
 
 * *Instrument:* sliding caliper.
