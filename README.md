@@ -1,5 +1,4 @@
-# CoRA Documentation
-Documentation for CoRA - Commingled Remains Analytics
+# CoRA - Commingled Remains Analytics Documentation
 
 ![Cora-Home](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/images/cora-home.png)
 
