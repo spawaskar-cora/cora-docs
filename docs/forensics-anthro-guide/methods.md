@@ -304,8 +304,7 @@ Ectocranial Suture Closure: a revised method for the determination of skeletal a
 ## **Mincer HH, Harris EF, Berryman HE (1993)** 
 The A.B.F.O. study of third molar development and its use as an estimator of chronological age. *Journal of Forensic Sciences* 38:379-390.
 
-* *Purpose:*  Age estimation for American Whites and Blacks by scoring third molar development radiographically using the eight-grade classification system by Demirjian et al. (1973). 
-* *Sample:*  n = 823, males (46%) and females (54%) between the ages of 14 and 24 years from across the United States and Canada. The sample consisted of white (80%), Black (19%), and “other” (1%). 
+* *Purpose:*  Age estimation for American Whites and Blacks by scoring third molar development radiographically using the eight-grade classification system by Demirjian et al. (1973). * *Sample:*  n = 823, males (46%) and females (54%) between the ages of 14 and 24 years from across the United States and Canada. The sample consisted of white (80%), Black (19%), and “other” (1%). 
 * Although the third molar is the most variable tooth, the formation of the third molar can be useful for age estimation when other elements are unavailable.
 * **Mean ages (+/- 1 SD) at attainment of stages for third molar formation**
 * **Maxilla**
@@ -314,6 +313,7 @@ The A.B.F.O. study of third molar development and its use as an estimator of chr
 * *Stage F:* **White Females** 18.0 +/- 1.95 yrs; **White Males** 17.7 +/- 2.28 yrs; **Blacks** nd
 * *Stage G:* **White Females** 18.8 +/- 2.27 yrs; **White Males** 18.2 +/- 1.91 yrs; **Blacks** 19.3 +/- 3.37 yrs
 * *Stage H:* **White Females** 20.6 +/- 2.09 yrs; **White Males** 20.2 +/- 2.09 yrs; **Blacks** 20.4 +/- 3.14 yrs
+
 * **Mandible**
 * *Stage D:* **White Females** 16.0 +/- 1.64 yrs; **White Males** 15.5 +/- 1.59 yrs; **Blacks** nd
 * *Stage E:* **White Females** 16.9 +/- 1.75 yrs; **White Males** 17.3 +/- 2.47 yrs; **Blacks** nd
@@ -351,22 +351,22 @@ Reconsidering the auricular surface as an indicator of age at death. *Journal of
 
 ## **Samworth R, Gowland R (2007)** 
 Estimation of adult skeletal age-at-death: Statistical assumptions and applications. *International Journal of Osteoarchaeology* 17:174-188.
-#
+
 * *Purpose:*  Age estimation based on features of the os coxa. 
 * *Sample:*  18th-century English and 20th-century Portuguese.
 * Age ranges for developmental stages throughout the skeleton are provided. 
-* This method is meant for aging the adolescent skeleton. * This method provides 90% prediction intervals for each combination of pubic symphysis (scored following the Suchey-Brooks method, n = 376) and auricular surface (scored following the Lovejoy method, n = 448).
-a* These prediction intervals have been found to be accurate for 20th-century Americans as well (Passalacqua 2010).  
+* This method is meant for aging the adolescent skeleton. 
+* This method provides 90% prediction intervals for each combination of pubic symphysis (scored following the Suchey-Brooks method, n = 376) and auricular surface (scored following the Lovejoy method, n = 448).
+* These prediction intervals have been found to be accurate for 20th-century Americans as well (Passalacqua 2010).  
 * When both scores can be observed on the same individual, a combined age estimate may be produced in this manner.  
 * Such a combined age estimate may be more precise than the pubic symphysis alone, particularly for individuals whose pubic symphyses are in phases 3-6. 
 * **Prediction intervals (90%) by pubic symphysis (PS) and auricular surface (AS) scores**
 * *PS 1:* **AS 1** 13.3-29.7 yrs; **AS 2** 16.3-36.3 yrs; **AS 3** 18.8-42.3 yrs; **AS 4** 20.6-46.7 yrs; **AS 5** 21.6-48.8 yrs
 * *PS 2:* **AS 1** 15.5-34.6 yrs; **AS 2** 18.5-41.0 yrs; **AS 3** 21.0-46.9 yrs; **AS 4** 23.0-51.5 yrs; **AS 5** 24.3-54.3 yrs
-
 * *PS 3:* **AS 1** 18.1-40.5 yrs; **AS 2** 21.0-46.6 yrs; **AS 3** 23.5-52.2 yrs; **AS 4** 25.7-57.0 yrs; **AS 5** 27.2-60.5 yrs; **AS 6** 28.0-62.4 yrs
 * *PS 4:* **AS 1** 20.9-47.6 yrs; **AS 2** 23.7-53.0 yrs; **AS 3** 26.3-58.3 yrs; **AS 4** 28.5-63.2 yrs; **AS 5** 30.5-67.5 yrs; **AS 6** 31.9-70.8 yrs; **AS 7** 32.8-73.3 yrs
 * *PS 5:* **AS 1** 24.1-56.2 yrs; **AS 2** 26.8-60.4 yrs; **AS 3** 29.3-65.1 yrs; **AS 4** 31.7-70.2 yrs; **AS 5** 34.0-75.4 yrs; **AS 6** 36.4-80.5 yrs; **AS 7** 38.6-85.6 yrs; **AS 8** 40.7-90.8 yrs
-B* *PS 6:* **AS 1** 27.7-66.6 yrs; **AS 2** 30.1-69.0 yrs; **AS 3** 32.5-72.9 yrs; **AS 4** 35.1-78.1 yrs; **AS 5** 38.0-84.4 yrs; **AS 6** 41.4-91.8 yrs; **AS 7** 45.2-100.5 yrs; **AS 8** 49.6-111.2 yrs
+* *PS 6:* **AS 1** 27.7-66.6 yrs; **AS 2** 30.1-69.0 yrs; **AS 3** 32.5-72.9 yrs; **AS 4** 35.1-78.1 yrs; **AS 5** 38.0-84.4 yrs; **AS 6** 41.4-91.8 yrs; **AS 7** 45.2-100.5 yrs; **AS 8** 49.6-111.2 yrs
 
 
 ## **Schaefer M, Black S, Scheuer L (2009)** 
@@ -397,7 +397,6 @@ Estimation of ancestry using dental morphological characteristics. *Journal of F
 * *Sample:*  509 individuals of Hispanic, African and European ancestry.
 * The dental traits and scoring definitions are derived from The ASU dental series (see Turner et al. 1991). 
 * *Additional Reference:* Turner CG II, Nichol CR, Scott GR. (1991). Scoring procedures for key morphological traits of the permanent dentition: the Arizona State University dental anthropology system. In: Advances in Dental Anthropology, Kelley M, Larsen CS (eds) Wiley-Liss, New York, NY.
-
 
 ## **Gill GW (1998)** 
 Craniofacial Criteria in the Skeletal Attribution of Race. In *Forensic Osteology: Advances in the Identification of Human Remains,* 2nd ed., Reichs K (ed), pp.293-317. Charles C. Thomas, Springfield, IL.  
