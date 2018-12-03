@@ -334,7 +334,6 @@ Regression formulae for the estimation of age from cranial suture closure. In *F
 * Eight equations for predicting age from all cranial suture landmarks are provided. 
 * Because incomplete crania are often recovered, additional formulae using only landmarks of the calotte are also provided (Equations 9 – 15).
 
-
 ## **Osborne DL, Simmons TL, Nawrocki SP (2004)** 
 Reconsidering the auricular surface as an indicator of age at death. *Journal of Forensic Sciences* 49:905-911.
 
@@ -352,20 +351,22 @@ Reconsidering the auricular surface as an indicator of age at death. *Journal of
 
 ## **Samworth R, Gowland R (2007)** 
 Estimation of adult skeletal age-at-death: Statistical assumptions and applications. *International Journal of Osteoarchaeology* 17:174-188.
-
+#
 * *Purpose:*  Age estimation based on features of the os coxa. 
 * *Sample:*  18th-century English and 20th-century Portuguese.
-* This method provides 90% prediction intervals for each combination of pubic symphysis (scored following the Suchey-Brooks method, n = 376) and auricular surface (scored following the Lovejoy method, n = 448).
-* These prediction intervals have been found to be accurate for 20th-century Americans as well (Passalacqua 2010).  
+* Age ranges for developmental stages throughout the skeleton are provided. 
+* This method is meant for aging the adolescent skeleton. * This method provides 90% prediction intervals for each combination of pubic symphysis (scored following the Suchey-Brooks method, n = 376) and auricular surface (scored following the Lovejoy method, n = 448).
+a* These prediction intervals have been found to be accurate for 20th-century Americans as well (Passalacqua 2010).  
 * When both scores can be observed on the same individual, a combined age estimate may be produced in this manner.  
 * Such a combined age estimate may be more precise than the pubic symphysis alone, particularly for individuals whose pubic symphyses are in phases 3-6. 
 * **Prediction intervals (90%) by pubic symphysis (PS) and auricular surface (AS) scores**
 * *PS 1:* **AS 1** 13.3-29.7 yrs; **AS 2** 16.3-36.3 yrs; **AS 3** 18.8-42.3 yrs; **AS 4** 20.6-46.7 yrs; **AS 5** 21.6-48.8 yrs
 * *PS 2:* **AS 1** 15.5-34.6 yrs; **AS 2** 18.5-41.0 yrs; **AS 3** 21.0-46.9 yrs; **AS 4** 23.0-51.5 yrs; **AS 5** 24.3-54.3 yrs
+
 * *PS 3:* **AS 1** 18.1-40.5 yrs; **AS 2** 21.0-46.6 yrs; **AS 3** 23.5-52.2 yrs; **AS 4** 25.7-57.0 yrs; **AS 5** 27.2-60.5 yrs; **AS 6** 28.0-62.4 yrs
 * *PS 4:* **AS 1** 20.9-47.6 yrs; **AS 2** 23.7-53.0 yrs; **AS 3** 26.3-58.3 yrs; **AS 4** 28.5-63.2 yrs; **AS 5** 30.5-67.5 yrs; **AS 6** 31.9-70.8 yrs; **AS 7** 32.8-73.3 yrs
 * *PS 5:* **AS 1** 24.1-56.2 yrs; **AS 2** 26.8-60.4 yrs; **AS 3** 29.3-65.1 yrs; **AS 4** 31.7-70.2 yrs; **AS 5** 34.0-75.4 yrs; **AS 6** 36.4-80.5 yrs; **AS 7** 38.6-85.6 yrs; **AS 8** 40.7-90.8 yrs
-* *PS 6:* **AS 1** 27.7-66.6 yrs; **AS 2** 30.1-69.0 yrs; **AS 3** 32.5-72.9 yrs; **AS 4** 35.1-78.1 yrs; **AS 5** 38.0-84.4 yrs; **AS 6** 41.4-91.8 yrs; **AS 7** 45.2-100.5 yrs; **AS 8** 49.6-111.2 yrs
+B* *PS 6:* **AS 1** 27.7-66.6 yrs; **AS 2** 30.1-69.0 yrs; **AS 3** 32.5-72.9 yrs; **AS 4** 35.1-78.1 yrs; **AS 5** 38.0-84.4 yrs; **AS 6** 41.4-91.8 yrs; **AS 7** 45.2-100.5 yrs; **AS 8** 49.6-111.2 yrs
 
 
 ## **Schaefer M, Black S, Scheuer L (2009)** 
@@ -377,7 +378,14 @@ Estimation of adult skeletal age-at-death: Statistical assumptions and applicati
 * This manual is a compilation of aging data from numerous sources from the last hundred years from a variety of journals and texts.
 
 
+## **Schaefer MC (2008)**
+A summary of epiphyseal union timings in Bosnian males. *International Journal of Osteoarchaeology,* 18:536-545.
 
+* *Purpose:* Age estimation based on epiphyseal fusion. 
+* *Sample:* Bosnian males who died as a result of the fall of Srebenica, aged 14 to 30 years old
+* *Epiphyseal fusion:* The stage of epiphyseal union is scored on a scale of 0 to 2 (0 - unfused, 1 - fusion in progress, 2 - fusion complete).  The stage of epiphyseal fusion can then be compared to the published standards.
+* Age ranges for developmental stages throughout the skeleton are provided. 
+* This method is meant for aging the adolescent skeleton.  
 
 
 # **ANCESTRY**
