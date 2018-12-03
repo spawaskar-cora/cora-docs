@@ -304,7 +304,8 @@ Ectocranial Suture Closure: a revised method for the determination of skeletal a
 ## **Mincer HH, Harris EF, Berryman HE (1993)** 
 The A.B.F.O. study of third molar development and its use as an estimator of chronological age. *Journal of Forensic Sciences* 38:379-390.
 
-* *Purpose:*  Age estimation for American Whites and Blacks by scoring third molar development radiographically using the eight-grade classification system by Demirjian et al. (1973). * *Sample:*  n = 823, males (46%) and females (54%) between the ages of 14 and 24 years from across the United States and Canada. The sample consisted of white (80%), Black (19%), and “other” (1%). 
+* *Purpose:*  Age estimation for American Whites and Blacks by scoring third molar development radiographically using the eight-grade classification system by Demirjian et al. (1973). 
+* *Sample:*  n = 823, males (46%) and females (54%) between the ages of 14 and 24 years from across the United States and Canada. The sample consisted of white (80%), Black (19%), and “other” (1%). 
 * Although the third molar is the most variable tooth, the formation of the third molar can be useful for age estimation when other elements are unavailable.
 * **Mean ages (+/- 1 SD) at attainment of stages for third molar formation**
 * **Maxilla**
