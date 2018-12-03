@@ -304,8 +304,7 @@ Ectocranial Suture Closure: a revised method for the determination of skeletal a
 ## **Mincer HH, Harris EF, Berryman HE (1993)** 
 The A.B.F.O. study of third molar development and its use as an estimator of chronological age. *Journal of Forensic Sciences* 38:379-390.
 
-* *Purpose:*  Age estimation for American Whites and Blacks by scoring third molar development radiographically using the eight-grade classification system by Demirjian et al. (1973). 
-* *Sample:*  n = 823, males (46%) and females (54%) between the ages of 14 and 24 years from across the United States and Canada. The sample consisted of white (80%), Black (19%), and “other” (1%). 
+* *Purpose:*  Age estimation for American Whites and Blacks by scoring third molar development radiographically using the eight-grade classification system by Demirjian et al. (1973). * *Sample:*  n = 823, males (46%) and females (54%) between the ages of 14 and 24 years from across the United States and Canada. The sample consisted of white (80%), Black (19%), and “other” (1%). 
 * Although the third molar is the most variable tooth, the formation of the third molar can be useful for age estimation when other elements are unavailable.
 * **Mean ages (+/- 1 SD) at attainment of stages for third molar formation**
 * **Maxilla**
@@ -314,6 +313,7 @@ The A.B.F.O. study of third molar development and its use as an estimator of chr
 * *Stage F:* **White Females** 18.0 +/- 1.95 yrs; **White Males** 17.7 +/- 2.28 yrs; **Blacks** nd
 * *Stage G:* **White Females** 18.8 +/- 2.27 yrs; **White Males** 18.2 +/- 1.91 yrs; **Blacks** 19.3 +/- 3.37 yrs
 * *Stage H:* **White Females** 20.6 +/- 2.09 yrs; **White Males** 20.2 +/- 2.09 yrs; **Blacks** 20.4 +/- 3.14 yrs
+
 * **Mandible**
 * *Stage D:* **White Females** 16.0 +/- 1.64 yrs; **White Males** 15.5 +/- 1.59 yrs; **Blacks** nd
 * *Stage E:* **White Females** 16.9 +/- 1.75 yrs; **White Males** 17.3 +/- 2.47 yrs; **Blacks** nd
@@ -333,7 +333,6 @@ Regression formulae for the estimation of age from cranial suture closure. In *F
 * Scores can be summed and utilized in a regression equation to predict age. 
 * Eight equations for predicting age from all cranial suture landmarks are provided. 
 * Because incomplete crania are often recovered, additional formulae using only landmarks of the calotte are also provided (Equations 9 – 15).
-
 
 ## **Osborne DL, Simmons TL, Nawrocki SP (2004)** 
 Reconsidering the auricular surface as an indicator of age at death. *Journal of Forensic Sciences* 49:905-911.
@@ -355,6 +354,8 @@ Estimation of adult skeletal age-at-death: Statistical assumptions and applicati
 
 * *Purpose:*  Age estimation based on features of the os coxa. 
 * *Sample:*  18th-century English and 20th-century Portuguese.
+* Age ranges for developmental stages throughout the skeleton are provided. 
+* This method is meant for aging the adolescent skeleton. 
 * This method provides 90% prediction intervals for each combination of pubic symphysis (scored following the Suchey-Brooks method, n = 376) and auricular surface (scored following the Lovejoy method, n = 448).
 * These prediction intervals have been found to be accurate for 20th-century Americans as well (Passalacqua 2010).  
 * When both scores can be observed on the same individual, a combined age estimate may be produced in this manner.  
@@ -377,7 +378,14 @@ Estimation of adult skeletal age-at-death: Statistical assumptions and applicati
 * This manual is a compilation of aging data from numerous sources from the last hundred years from a variety of journals and texts.
 
 
+## **Schaefer MC (2008)**
+A summary of epiphyseal union timings in Bosnian males. *International Journal of Osteoarchaeology,* 18:536-545.
 
+* *Purpose:* Age estimation based on epiphyseal fusion. 
+* *Sample:* Bosnian males who died as a result of the fall of Srebenica, aged 14 to 30 years old
+* *Epiphyseal fusion:* The stage of epiphyseal union is scored on a scale of 0 to 2 (0 - unfused, 1 - fusion in progress, 2 - fusion complete).  The stage of epiphyseal fusion can then be compared to the published standards.
+* Age ranges for developmental stages throughout the skeleton are provided. 
+* This method is meant for aging the adolescent skeleton.  
 
 
 # **ANCESTRY**
@@ -389,7 +397,6 @@ Estimation of ancestry using dental morphological characteristics. *Journal of F
 * *Sample:*  509 individuals of Hispanic, African and European ancestry.
 * The dental traits and scoring definitions are derived from The ASU dental series (see Turner et al. 1991). 
 * *Additional Reference:* Turner CG II, Nichol CR, Scott GR. (1991). Scoring procedures for key morphological traits of the permanent dentition: the Arizona State University dental anthropology system. In: Advances in Dental Anthropology, Kelley M, Larsen CS (eds) Wiley-Liss, New York, NY.
-
 
 ## **Gill GW (1998)** 
 Craniofacial Criteria in the Skeletal Attribution of Race. In *Forensic Osteology: Advances in the Identification of Human Remains,* 2nd ed., Reichs K (ed), pp.293-317. Charles C. Thomas, Springfield, IL.  
