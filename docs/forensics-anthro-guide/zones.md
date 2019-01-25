@@ -115,6 +115,7 @@ externally)
 **Hyoid. Anterior view.**
 
 *Zones*
+
 1\. Present or absent  
 
 ### Cervical vertebrae
