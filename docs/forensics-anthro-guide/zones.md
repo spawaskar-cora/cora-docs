@@ -68,6 +68,16 @@ In this section we present the images used in the zonation method for inventory 
 12\. Palatal process of the left maxilla  
 13\. Palatal process of the right maxilla  
 
+![Ossicles](../images/zones/ossicles_500.png)
+
+**Ear ossicles. Top to bottom: malleus, incus, and stapes.**
+
+*Zones*
+
+Ear ossicles
+
+1\. Present or absent  
+
 ## **Mandible**
 
 ![Mandible](../images/zones/mandible_500.png)
@@ -97,7 +107,16 @@ externally)
 
 
 # **POSTCRANIAL REMAINS**
-## **Vertebrae**
+## **Vertebrae and hyoid**
+
+### Hyoid
+![Hyoid](../images/zones/hyoid_500.png)
+
+**Hyoid. Anterior view.**
+
+*Zones*
+1\. Present or absent  
+
 ### Cervical vertebrae
 ![Cervical vertebra](../images/zones/cervical_500.png)
 
