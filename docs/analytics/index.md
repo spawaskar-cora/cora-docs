@@ -1,7 +1,10 @@
 # What is CoRA Analytics?
-Add the CoRA Analytics blurb here.
 
-Commingled human remains are often encountered in archaeological and forensic contexts. A bone by bone inventory is an important step in segregating commingled remains into individuals and determining the minimum number of individuals present. In order to achieve individual identification a controlled and consistent specimen-level inventory procedure must be followed. The **Commingled Remains Analytics (CoRA)** web application, database and APIs are a `community resource` for inventorying assemblages of commingled human remains, while `providing a framework of analytic methods, visualization techniques and tools` to assist in the segregation and identification process.
+The CoRA Analytics engine is part of the CoRA Ecosystem that can be thought of as an entension and a framework to perform analytics on forensic anthropology datasets. It is also desiged to act as a broker facilitating exchange of data from various systems such as the native CoRA projects data, CMS/StarLIMS data in the appropriate format and sending the various datasets to the appropriate analytics apps. These analytics apps can be independent self contained applications build by individual researchers and are independent of the CoRA Ecosystem developed and managed by the researcher/author. These apps must follow and comply with established architecture guidelines to work with the base CoRA Analytics engine and established data quality parameters and established APIs. 
+
+The CoRA analytics engine will also provide some simple regression analysis for the datasets that are most commonly used in forensic anthropology. Other more advanced analytics will be provided via independent analytics application that can be developed by any reseracher and plug-in into the CoRA Ecosystem. 
+
+The diagram below details the logical diagram for the CoRA Ecosystem Analytics Architecture.
 
 ![CoRA Ecosystem Analytics Architecture](/docs/images/architecture/CoRA-Ecosystem-Analytics-Architecture-Diagram.png)
 
@@ -14,16 +17,16 @@ Blurb by author here
 ### Z-Transform - Julia Sommer
 Blurb by author here
 
-### HumanID - Julia Sommer
+### Odontosearch - Author Name
 Blurb by author here
 
-### HumanID - Julia Sommer
+### Optosearch - Author Name
 Blurb by author here
 
-### HumanID - Julia Sommer
+### HumanID - Author Name
 Blurb by author here
 
-### HumanID - Julia Sommer
+### Dental Metrics - Author Name
 Blurb by author here
 
 # Contribution Guidelines
