@@ -8,25 +8,25 @@ The diagram below details the logical diagram for the CoRA Ecosystem Analytics A
 
 ![CoRA Ecosystem Analytics Architecture](/docs/images/architecture/CoRA-Ecosystem-Analytics-Architecture-Diagram.png)
 
-## Analytics - Independent Applications
+# Analytics - Independent Applications
 Following are some of the independent analytics applications that are either being developed or have already been developed that work with the CoRA Ecosystem.
 
-### Osteometic Sorting - Jeffery Lynch
+## Osteometic Sorting - Jeffery Lynch
 Blurb by author here
 
-### Z-Transform - Julia Sommer
+## Z-Transform - Julia Sommer
 Blurb by author here
 
-### Odontosearch - Author Name
+## Odontosearch - Author Name
 Blurb by author here
 
-### Optosearch - Author Name
+## Optosearch - Author Name
 Blurb by author here
 
-### HumanID - Author Name
+## HumanID - Author Name
 Blurb by author here
 
-### Dental Metrics - Author Name
+## Dental Metrics - Author Name
 Blurb by author here
 
 # Contribution Guidelines
