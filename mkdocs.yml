@@ -22,6 +22,8 @@ pages:
         - Methods: forensics-anthro-guide/methods.md
         - Measurements: forensics-anthro-guide/measurements.md
         - Zones: forensics-anthro-guide/zones.md
+    - CoRA Analytics:
+        - Home: cora-analytics/index.md
     - About:
         - Contributing: about/contributing.md
         - References: about/references.md
