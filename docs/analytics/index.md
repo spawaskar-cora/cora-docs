@@ -6,7 +6,7 @@ The CoRA analytics engine will also provide some simple regression analysis for 
 
 The diagram below details the logical diagram for the CoRA Ecosystem Analytics Architecture.
 
-![CoRA Ecosystem Analytics Architecture](../images/architecture/CoRA-Ecosystem-Analytics-Architecture-Diagram.png)
+![CoRA Ecosystem Analytics Architecture](../images/architecture/Cora-Ecosystem-Analytics-Architecture-Diagram.png)
 
 # Analytics - Independent Applications
 Following are some of the independent analytics applications that are either being developed or have already been developed that work with the CoRA Ecosystem.
