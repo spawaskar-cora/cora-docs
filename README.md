@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/cora-docs/badge/?version=latest)](https://cora-docs.readthedocs.io/en/latest/?badge=latest)
+
 # CoRA - Commingled Remains Analytics Documentation
 
 ![Cora-Home](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/images/cora-home.png)
