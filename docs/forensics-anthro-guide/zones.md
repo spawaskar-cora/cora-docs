@@ -20,12 +20,12 @@ In this section we present the images used in the zonation method for inventory 
 12\. Left maxilla  
 13\. Right maxilla  
 14\. Left nasal bone  
-15\. Right nasal bone
-16\. Left lacrimal bone
-17\. Right lacrimal bone
-20\. Ethmoid
-22\. Left inferior nasal concha (not depicted)
-23\. Right inferior nasal concha (not depicted)
+15\. Right nasal bone  
+16\. Left lacrimal bone  
+17\. Right lacrimal bone  
+20\. Ethmoid  
+22\. Left inferior nasal concha (not depicted)  
+23\. Right inferior nasal concha (not depicted)  
 
 
 ![Skull right](../images/zones/skull_right_500.png)
@@ -41,9 +41,9 @@ In this section we present the images used in the zonation method for inventory 
 9\. Right sphenoid  
 11\. Right zygomatic bone  
 13\. Right maxilla  
-15\. Right nasal bone
-17\. Right lacrimal bone
-20\. Ethmoid
+15\. Right nasal bone  
+17\. Right lacrimal bone  
+20\. Ethmoid  
 
 ![Skull left](../images/zones/skull_left_500.png)
 
@@ -58,9 +58,10 @@ In this section we present the images used in the zonation method for inventory 
 8\. Left sphenoid  
 10\. Left zygomatic bone  
 12\. Left maxilla  
-14\. Left nasal bone
-16\. Left lacrimal bone
-20\. Ethmoid
+14\. Left nasal bone   
+16\. Left lacrimal bone   
+20\. Ethmoid   
+
 
 ![Cranium inferior](../images/zones/cranium_inf_500.png)
 
@@ -76,10 +77,10 @@ In this section we present the images used in the zonation method for inventory 
 10\. Left zygomatic bone  
 11\. Right zygomatic bone  
 12\. Palatal process of the left maxilla  
-13\. Palatal process of the right maxilla
-18\. Left palatine bone
-19\. Right palatine bone
-21\. Vomer
+13\. Palatal process of the right maxilla  
+18\. Left palatine bone  
+19\. Right palatine bone  
+21\. Vomer  
 
 ![Ossicles](../images/zones/ossicles_500.png)
 
@@ -129,9 +130,9 @@ externally)
 
 *Zones*
 
-1\. Hyoid body
-2\. Left greater horn
-3\. Right greater horn  
+1\. Hyoid body  
+2\. Left greater horn  
+3\. Right greater horn    
 
 
 ### Cervical vertebrae
