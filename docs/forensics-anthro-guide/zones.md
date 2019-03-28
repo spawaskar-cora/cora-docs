@@ -24,6 +24,8 @@ In this section we present the images used in the zonation method for inventory 
 16\. Left lacrimal bone
 17\. Right lacrimal bone
 20\. Ethmoid
+22\. Left inferior nasal concha (not depicted)
+23\. Right inferior nasal concha (not depicted)
 
 
 ![Skull right](../images/zones/skull_right_500.png)
