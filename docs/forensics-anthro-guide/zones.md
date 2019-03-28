@@ -129,7 +129,10 @@ externally)
 
 *Zones*
 
-1\. Present or absent  
+1\. Hyoid body
+2\. Left greater horn
+3\. Right greater horn  
+
 
 ### Cervical vertebrae
 ![Cervical vertebra](../images/zones/cervical_500.png)
