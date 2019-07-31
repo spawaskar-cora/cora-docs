@@ -32,8 +32,8 @@ The CoRA web application consists of the four basic components. These are-
      The Logout button (9) logs out the user out of CoRA Web Application.
         
    8. Right Sidebar Toggle Button (8) - The Right sidebar buttons toggles between the open and closed state of right sidebar.  
-   
-   
+   9. When searching by composite key, use the comma separator "," to differentiate between accession number, provenance1, provenance2 and designator fields. For example if you want to lookup all specimens with accession number **CIL2017-053** and provenance1 **HF2015-054J** then type in **CIL2017-053, HF2015-054J**
+      
 * ## Left Side Bar
      The left side bar includes the various modules of the CoRA web application that the user can select. The left side bar will have modules according to the role of the user. The following section shows the left side bar for Anthropologist-
    
