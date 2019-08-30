@@ -965,5 +965,4 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 # Measurement Standards Table
 Links to measurement standards table, provided by OsteoCodeR.com are below.
 
-* [Osteocoder Measurement Standards Website](https://osteocoder.com/projects/measurement-standards)
-* [Osteocoder Measurement Standards PDF](https://osteocoder.com/wp-content/uploads/2017/12/Standardized_Measurements.pdf)
+* [Osteocoder Measurement Standards Website](https://osteocoder.com/measurements.html)
