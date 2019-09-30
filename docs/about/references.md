@@ -69,6 +69,9 @@ Kenyhercz, M.W., A.R. Klales, K.E. Stull, K.A. McCormick, and S. Cole
 Klales, A. R., S.D. Ousley, and J.M. Vollner
 2012 	A revised method of sexing the human innominate using Phenice's nonmetric traits and statistical methods. American Journal of Physical Anthropology 149: 104–114.
 
+Knüsel, C. J. and A. K. Outram 
+2004 Fragmentation: The zonation method applied to fragmented human remains from archaeological and forensic contexts. Environmental Archaeology 9:85-98.
+
 Langley-Shirley, N. and R.L Jantz
 2010 	A Bayesian approach to age estimation in modern Americans from the clavicle. Journal of Forensic Sciences 55:571–583.
 
