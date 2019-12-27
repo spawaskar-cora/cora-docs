@@ -1,7 +1,13 @@
 #DNA Profile
-Skeletal elements which have had a DNA sample successfully completed will 
+Specimens which have had a DNA sample successfully completed will 
 have an associated *DNA Profile*.  The profile contains all relevant DNA attributes and are editable via  ![action](../images/dna/action.png)(appropriate permissions required) 
-![dna_profile](../images/dna/dna_profile.png)
+![dna_profile](../images/dna/ViewDna.png)
+
+![dna_profile](../images/dna/Mito_DNA.png)
+
+![dna_profile](../images/dna/Austr_Dna.png)
+
+![dna_profile](../images/dna/Y-STR_Dna.png)
 
 ##Additional Tests
 This area will be used to display any additional DNA test request information.  By default this section is collapsed, unless data is present.  
