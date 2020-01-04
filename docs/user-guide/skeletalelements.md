@@ -1,23 +1,23 @@
-Skeletal elements are individual human remains which can be categorized. Many of the modules on the site are focused on skeletal elements and their details. This section will explore:
+Specimen are individual human remains which can be categorized. Many of the modules on the site are focused on specimens and their details. This section will explore:
 
-- Skeletal Element Navigation
-- Creating a New Skeletal Element
-- Creating a New Skeletal Element Group
-- Skeletal Element Search
-- Skeletal Element Details
+- Specimen Navigation
+- Creating a New Specimen 
+- Creating a New Specimen Group
+- Specimen Search
+- Specimen Details
 
 
-##### Skeletal Element Navigation
-![SE Navigation](../images/skeletalElements/skeletalelements_search.png)
+##### Specimen Navigation
+![SE Navigation](../images/skeletalElements/specimen_navigation.png)
 
-On the left side bar - you can access the main options for skeletal elements. For Report Dashboard - please see the **Reports** documentation.
+On the left side bar - you can access the main options for specimens. For Report Dashboard - please see the **Reports** documentation.
 
-##### Creating a New Skeletal Element
-![New SE](../images/skeletalElements/newSkeletalElement.png)
+##### Creating a New Specimen
+![New SE](../images/skeletalElements/newspecimen.png)
 
-To create a new skeletal element - click the "New" link on the Skeletal Elements left navigation bar. You will be taken to the new skeletal elements screen.
+To create a new specimen - click the "New" link on the Specimens left navigation bar. You will be taken to the new specimen screen.
 
-The fields to create a new skeletal element are:
+The fields to create a new specimen are:
 
 - **Accession**
 - Provenance Number 1
@@ -27,42 +27,61 @@ The fields to create a new skeletal element are:
 - **Side**
 - **Completeness**
 
-The bolded fields are required. The designator fields can only contain letters and numbers. Once you have filled out all the fields, click the save button, and you will be taken to the Skeletal Elements View page.
+The bolded fields are required. Below are some fields with some validation rule
+ 
+ Element  | Validation Rule  | Required/Optional
+ ------------- | -------------| -------------
+ Accession  |  Can only contain letters, numbers, dash and space | Required
+ Provenance 1 | Can only contain letters, numbers, dash and space  | Optional
+ Provenance 2  |  Can only contain letters, numbers, dash and space | Optional
+ Designator | Can only contain letters and numbers | Required
+  
+ Once you have filled out all the fields, click the save button, and you will be taken to the Specimen View page.
 
-##### Skeletal Elements View
-![SE View](../images/skeletalElements/viewSkeletalElement.png)
+##### Specimens View
+![SE View](../images/skeletalElements/viewspecimenedit.png)
 
-This page is view only, here all fields related to the skeletal elements are displayed. To further edit the new skeletal elements, click the "Actions" button, and select edit. The screen will refresh will all fields being editable. The fields available for edit are:
+This page is view only, here all fields related to the specimens are displayed. To further edit the new specimen, click the "Actions" button, and select edit. The screen will refresh will all fields being editable. The fields available for edit are:
 
-- Accession
+- **Accession**
 - Provenance Number 1
 - Provenance Number 2
-- Designator
-- Bone
-- Side
-- Completeness
-- Count
-- Mass
+- **Designator**
+- **Bone**
+- **Side**
+- **Completeness**
 - Status of the bone, including:
-  - Measured Status
-  - DNA Sampled Status
-  - CT Scanned Status
-  - Xray Scanned Status
-  - Clavicle Triage Status
-  - Inventory Completed Status
-  - Reviewed Status
+  - Measured 
+  - DNA Sampled 
+  - Isotope Scanned
+  - Inventory Completed 
+  - CT Scanned
+  - X-ray Scanned 
+  - 3D Scanned
 - Individual Number
-- Consolidated Accession Number
+- Identification Date
+- Remains Status
+- Remains Release Date
+
+The bolded fields are required. Some of the fields along with their validation rules are as follows:
+
+ Element  | Validation Rule  | Required/Optional
+ ------------- | -------------| -------------
+ Accession  |  Can only contain letters, numbers, dash and space | Required
+ Provenance 1 | Can only contain letters, numbers, dash and space  | Optional
+ Provenance 2  |  Can only contain letters, numbers, dash and space | Optional
+ Designator | Can only contain letters and numbers | Required
+ Individual Number | Can only contain letters, numbers, dash and space | Optional
 
 Click "Save" When you are done making changes. 
 
-To add another new skeletal element, clicks "Actions" followed by "Create".
+To add another new specimen, clicks "Actions" followed by "Create".
 
 ##### New Bone Group
-![New Bone Group](../images/skeletalElements/newBoneGroup.png)
+![New Bone Group](../images/skeletalElements/SpecimenNewBoneGroup.png)
 
-To add a new bone group - click "New Group" on the left navbar. You will be taken to the "New Bone Group Page". 
-Here you can create a superclass which can contain multiple skeletal elements.
+To add a new bone group - click "New Bone Group" on the left navbar. You will be taken to the "New Bone Group Page". 
+Here you can create a superclass which can contain multiple specimens.
 
 The fields to create a new bone group are:
 
@@ -72,8 +91,8 @@ The fields to create a new bone group are:
 - Provenance Number 1
 - Provenance Number 2
 - **Starting Designator**
-- Side
-- Completeness
+- **Side**
+- **Completeness**
 - Trauma
 - Pathology
 - Taphonomy
@@ -83,69 +102,82 @@ The bolded fields are required.
 Once you have created a new bone group, you can edit the fields and click "Save" to update the bone group.
 
 
-##### Skeletal Element Search
+
+##### Specimens Search
 ![SE Search](../images/skeletalElements/topNavBar.png)
-The easiest way to search for skeletal elements is to use the top search bar in the nav bar. To complete a search, first select the project you wish to search on the left-most select field, you will only be able to view projects which are assigned to your user profile. 
+The easiest way to search for specimens is to use the top search bar in the nav bar. To complete a search, first select the project you wish to search on the left-most select field, you will only be able to view projects which are assigned to your user profile. 
 
 ![SE Project Categories](../images/skeletalElements/projectCategories.png)
 
 By default, "Bone" is selected as the search option. Select the desired search category before typing your search text into the search bar. Then click the magnifying glass to execute your search.
 
-![SE Search Categories](../images/skeletalElements/searchCategories.png)
+![SE Search Categories](../images/skeletalElements/searchcategorynew.png)
 
-Once you complete your search, you are taken to the skeletal elements search screen. The following Bone elements are displayed all the skeletal elements search screen:
+Once you complete your search, you are taken to the Specimens search screen. The following columns are visible for all the specimens search:
 
 - Key
 - Bone
 - Side
 - Bone Group
-- Measured
+- Individual Number
 - DNA Sampled
+- Measured
 - Isotope Sampled
 - Clavicle Triage
 - CT Scanned
 - Xray Scanned
-- Created By
-- Reviewed By
 
-![SE Search Results](../images/skeletalElements/seSearch.png)
+There are some columns which are not displayed at the screen but can be made visible by checking the column visibility section. The names of those columns are given below:
+- Inventoried
+- Reviewed
+- Inventoried By
+- Inventoried At
+- Reviewed By
+- Reviewed At
+- Created By
+- Created At
+- Updated By
+- Updated At
+
+
+![SE Search Results](../images/skeletalElements/seSearchnew.png)
 
 On this page you can filter how many results are shown per page, as well as search the results.
 
 The search function in the top right of the page searches all strings in all cells of the table. Strings are search in a substring manner - for instance the above if you search "56B", 2 rows will be returned that contain the substring "56B". 
 
-The view the details of a skeletal elements, click on the key in the search results.
+To view the details of a skeletal elements, click on the key in the search results.
 
-##### Skeletal Element Detail View
-![SE Detail View](../images/skeletalElements/skeletalElementsDetailView.png)
+##### Specimen Detail View
+![SE Detail View](../images/skeletalElements/specimenview.png)
  
  The skeletal elements detail view consists of the same fields when a new skeletal element is created:
  
- - Accession
- - Provenance Number 1
- - Provenance Number 2
- - Designator
- - Bone
- - Side
- - Completeness
- - Count
- - Mass
- - Status of the bone, including:
-   - Measured Status
-   - DNA Sampled Status
-   - CT Scanned Status
-   - Xray Scanned Status
-   - Clavicle Triage Status
-   - Inventory Completed Status
-   - Reviewed Status
- - Individual Number
- - Consolidated Accession Number
+- **Accession**
+- Provenance Number 1
+- Provenance Number 2
+- **Designator**
+- **Bone**
+- **Side**
+- **Completeness**
+- Status of the bone, including:
+  - Measured 
+  - DNA Sampled 
+  - Isotope Scanned
+  - Inventory Completed 
+  - CT Scanned
+  - X-ray Scanned 
+  - 3D Scanned
+- Individual Number
+- Identification Date
+- Remains Status
+- Remains Release Date
 
-If you have correct permissions, you can click in actions button in the top left to either edit the skeletal element, or create a new one. (See Creating Skeletal Elements)
+If you have correct permissions, you can click in actions button in the top right to either edit the specimen, or create a new one. (See Creating A new Specimen)
 
-### Skeletal Element Details  
-When you are view the details of a skeletal element, you can click "Details" in the top left to select a skeletal element detail drilldown. Each of these selections will be described in detail.  
-![SE Details](../images/skeletalElements/seDetails.png)
+### Specimen Details  
+When you are view the details of a specimen, you can click "Details" in the top left to select a specimen detail drilldown. Each of these selections will be described in detail.  
+![SE Details](../images/skeletalElements/seDetails1.png)
 
 ##### Biological Profile
 ![SE Biological Profile](../images/skeletalElements/biologicalProfile.png)
@@ -221,26 +253,42 @@ The biological profile ancestry search is broken down in the "Element Highlights
 The bone ancestry detail shows the stature detail of the chosen bone. You must select a stature method for a stature to appear in the "Methods" tab.
 
 ##### DNA Profile
-![SE DNA Profile](../images/skeletalElements/dnaProfile.png)
+![SE DNA Profile](../images/skeletalElements/dnaProfile1.png)
 
 The DNA Profile screen displays the following elements about a bone:
 
-- Lab
-- Method
-- External Case #
-- DNA Sample Number
-- Receive Date
-- Results Confidence
-- Mito Sequence Number
-- Mito Sequence Subgroup
-- Mito Sequence Similar
-- Mito Match Count
-- Mito Total Count
-- Number of Loci
-- MCC Date
-- Mito Haplogroup
 
-On this screen, you can also view the "Additional Test" and "DNA Resampling" tabs.
+- **DNA Sample Number**
+- **Lab**
+- External Case #
+- BTB Request Date
+- BTB Results Date
+- Disposition
+- Sample Condition
+- Weight Sample Remaining
+
+The bolded elements are required.
+
+On this screen, you can also view the "Mito", "auSTR", and "Y-STR" tabs.
+
+##### Isotope Analysis
+![SE Isotope](../images/skeletalElements/isotopedetails.png)
+The Isotope Analysis is broken down in the "Element Highlights" and "Create Isotope" sections. The element highlights section is read only and displays the following information about the selected bone:
+- Bone
+- Side
+- Completeness
+- Status of the bone, including:
+   - Measured Status
+   - DNA Sampled Status
+   - Inventory Completed Status
+   - Reviewed Status
+
+The 'Create Isotope' section allows to create a isotope for the given bone. This section ahs the following elements. 
+- **Lab**
+- External Case #
+- **Isotope Sample Number**
+
+The bolded elements are required.
 
 ##### Taphonomy
 ![SE Taphonomies](../images/skeletalElements/taphonomies.png)
@@ -290,7 +338,7 @@ These fields are read only - to edit then click "Actions" - then "Edit".
 When you are finished making changes click save on the bottom of the page.
 
 ##### Measurements
-![SE Measurements](../images/skeletalElements/measurements.png)
+![SE Measurements](../images/skeletalElements/measurements1.png)
 The measurement search is broken down in the "Element Highlights" and "Measurements" sections. The element highlights section is read only and displays the following information about the selected bone:
 
 - Bone

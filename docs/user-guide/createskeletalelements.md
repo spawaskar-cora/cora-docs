@@ -29,7 +29,16 @@ The fields to create a new specimen are:
 - **Side**
 - **Completeness**
 
-The bolded fields are required. The designator fields can only contain letters and numbers. Once you have filled out all the fields, click the save button, and you will be taken to the Specimen View page.
+The bolded fields are required. Below are some fields with some validation rule
+ 
+ Element  | Validation Rule  | Required/Optional
+ ------------- | -------------| -------------
+ Accession  |  Can only contain letters, numbers, dash and space | Required
+ Provenance 1 | Can only contain letters, numbers, dash and space  | Optional
+ Provenance 2  |  Can only contain letters, numbers, dash and space | Optional
+ Designator | Can only contain letters and numbers | Required
+  
+ Once you have filled out all the fields, click the save button, and you will be taken to the Specimen View page.
 
 ##### Specimens View
 ![SE View](../images/skeletalElements/viewspecimenedit.png)
@@ -50,10 +59,21 @@ This page is view only, here all fields related to the specimens are displayed. 
   - Inventory Completed 
   - CT Scanned
   - X-ray Scanned 
+  - 3D Scanned
 - Individual Number
 - Identification Date
 - Remains Status
 - Remains Release Date
+
+The bolded fields are required. Some of the fields along with their validation rules are as follows:
+
+ Element  | Validation Rule  | Required/Optional
+ ------------- | -------------| -------------
+ Accession  |  Can only contain letters, numbers, dash and space | Required
+ Provenance 1 | Can only contain letters, numbers, dash and space  | Optional
+ Provenance 2  |  Can only contain letters, numbers, dash and space | Optional
+ Designator | Can only contain letters and numbers | Required
+ Individual Number | Can only contain letters, numbers, dash and space | Optional
 
 Click "Save" When you are done making changes. 
 
