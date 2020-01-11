@@ -39,13 +39,13 @@ The bolded fields are required. Below are some fields with some validation rule
  Once you have filled out all the fields, click the save button, and you will be taken to the Specimen View page.
 
 ##### Specimens View
-![SE View](../images/skeletalElements/viewspecimenedit.png)
+![SE View](../images/skeletalElements/viewspecimen.png)
 
 This page is view only, here all fields related to the specimens are displayed. To further edit the new specimen, click the "Actions" button, and select edit. The screen will refresh will all fields being editable. The fields available for edit are:
 
 - **Accession**
-- Provenance Number 1
-- Provenance Number 2
+- Provenance 1
+- Provenance 2
 - **Designator**
 - **Bone**
 - **Side**
@@ -55,6 +55,7 @@ This page is view only, here all fields related to the specimens are displayed. 
   - DNA Sampled 
   - Isotope Scanned
   - Inventory Completed 
+  - Reviewed
   - CT Scanned
   - X-ray Scanned 
   - 3D Scanned
@@ -70,9 +71,19 @@ The bolded fields are required. Some of the fields along with their validation r
  Accession  |  Can only contain letters, numbers, dash and space | Required
  Provenance 1 | Can only contain letters, numbers, dash and space  | Optional
  Provenance 2  |  Can only contain letters, numbers, dash and space | Optional
- Designator | Can only contain letters and numbers | Required
+ Designator | Can only contain Alphanumeric (letters and numbers) | Required
  Individual Number | Can only contain letters, numbers, dash and space | Optional
-
+ Side  |  Either Left, Right, Middle or Unsided| Required
+ Completeness | Either Complete or Incomplete | Required
+ Measured  |  Boolean (True or False) | Optional
+ DNA Sampled| Boolean (True or False) | Optional
+ Isotope Scanned | Boolean (True or False) | Optional
+ Inventory Completed |  Boolean (True or False) | Optional
+ Reviewed| Boolean (True or False) | Optional
+ CT Scanned | Boolean (True or False) | Optional
+ X-ray Scanned| Boolean (True or False) | Optional
+ 3D Scanned | Boolean (True or False) | Optional
+ Remain Status | Either In Lab or Released | Optional
 Click "Save" When you are done making changes. 
 
 To add another new specimen, clicks "Actions" followed by "Create".
@@ -97,7 +108,14 @@ The fields to create a new bone group are:
 - Pathology
 - Taphonomy
 
-The bolded fields are required.
+The bolded fields are required. Below are some fields with some validation rule
+ 
+  Element  | Validation Rule  | Required/Optional
+  ------------- | -------------| -------------
+  Grouping  |  Can only contain letters | Required
+  Bones | UUID  | Required
+                             
+                                 
 
 Once you have created a new bone group, you can edit the fields and click "Save" to update the bone group.
 
@@ -121,6 +139,7 @@ Once you complete your search, you are taken to the Specimens search screen. The
 - Bone Group
 - Individual Number
 - DNA Sampled
+- Mito Sequence Number
 - Measured
 - Isotope Sampled
 - Clavicle Triage
@@ -143,10 +162,7 @@ There are some columns which are not displayed at the screen but can be made vis
 ![SE Search Results](../images/skeletalElements/seSearchnew.png)
 
 On this page you can filter how many results are shown per page, as well as search the results.
-
-The search function in the top right of the page searches all strings in all cells of the table. Strings are search in a substring manner - for instance the above if you search "56B", 2 rows will be returned that contain the substring "56B". 
-
-To view the details of a skeletal elements, click on the key in the search results.
+To view the details of a skeletal elements, click on the key in the search results. You can also export the search results in Excel and PDF format. 
 
 ##### Specimen Detail View
 ![SE Detail View](../images/skeletalElements/specimenview.png)
@@ -154,8 +170,8 @@ To view the details of a skeletal elements, click on the key in the search resul
  The skeletal elements detail view consists of the same fields when a new skeletal element is created:
  
 - **Accession**
-- Provenance Number 1
-- Provenance Number 2
+- Provenance 1
+- Provenance 2
 - **Designator**
 - **Bone**
 - **Side**
@@ -165,6 +181,7 @@ To view the details of a skeletal elements, click on the key in the search resul
   - DNA Sampled 
   - Isotope Scanned
   - Inventory Completed 
+  - Reviewed
   - CT Scanned
   - X-ray Scanned 
   - 3D Scanned
