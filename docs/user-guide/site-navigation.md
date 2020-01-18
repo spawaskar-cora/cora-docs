@@ -20,9 +20,7 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
    2. Toggle the Left Side bar (2) - The Toggle button opens and close the left sidebar.
    3. Project Switcher (3) - The Project switcher button allows the user to select the different projects the user is a part of.
    4. Advance Search bar (4) - The Advance search bar allows the user to search the Skeletal Elements and DNA. The user can search the Skeletal Element by - Bone, Composite key, Accession, Provenance 1, Provenace 2, Designator, External ID, Individual Number.
-          The DNA can be searched by the Bone, Composite Key, Accession, Sample Number, Mito seq Number, Haplogroup, External Id, Individual Number.
-          
-        ![Navigation Bar](../images/skeletalElements/searchCategories.png)                            
+      The DNA can be searched by the Bone, Composite Key, Accession, Sample Number, Mito seq Number, Haplogroup, External Id, Individual Number.                           
    5. Search Input (5) - Once the search type is selected the user can enter the value in the search input.
    6. Notification Icon (6) - The Notification icon show the notifications of the Export file, Import file, job completion and other user specific notification.
    7. User Avatar (7) - The user avatar shows the user drop down. The user drop down has User Image, User Name and Role (1), the github CoRA docs (2), CoRA Forum (3), CoRA Slack (4), change password link (5), the CoRA-Docs (6), the About (7), the My Profile button (8) and the Logout button (9). The Org Profile button will only be available to the Org admin in which the Org Admin can change the settings of the project.    
@@ -31,8 +29,7 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
      CoRA Slack (4) allows users and developers to communicate and have private group discussion. The change password link (5) allows the user to change the current password. Online help (6) opens the online help documentation of the CoRA web application, it includes the user manual and other important docs.
      The About (7) displays the meta data of the application and the browser.
      The My Profile button (8) open the user profile page in which the user can save the settings of their choice.
-     The Logout button (9) logs out the user out of CoRA Web Application.
-        
+     The Logout button (9) logs out the user out of CoRA Web Application.     
    8. Right Sidebar Toggle Button (8) - The Right sidebar buttons toggles between the open and closed state of right sidebar.  
        
    **User Guide for Search Capability**:
@@ -132,16 +129,6 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
    The DNA eg 68A or 4619A indicates you are searching for the DNA either by sample numbers '68A' or '4619A' etc.
    At one time, you can only search for one sample number in this search category.
       
-   Below is the search result obtained from DNA search by sample number '01A'.
-   ![Navigation Bar](../images/site_navigation/SampleNumberSearch.png) 
-   
-   Sample Number
-   ![Navigation Bar](../images/site_navigation/SampleNumber.png)  
-         
-   With the Sample Number option, User can search DNA by writing their Sample numbers. As seen in the image above, user can search for the DNA by the sample numbers such as 68A or 4619A.
-   The DNA eg 68A or 4619A indicates you are searching for the DNA either by sample numbers '68A' or '4619A' etc.
-   At one time, you can only search for one sample number in this search category.
-         
    Below is the search result obtained from DNA search by sample number '01A'.
    ![Navigation Bar](../images/site_navigation/SampleNumberSearch.png) 
    
