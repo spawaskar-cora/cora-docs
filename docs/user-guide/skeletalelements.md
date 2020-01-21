@@ -129,7 +129,7 @@ The easiest way to search for specimens is to use the top search bar in the nav 
 
 By default, "Bone" is selected as the search option. Select the desired search category before typing your search text into the search bar. Then click the magnifying glass to execute your search.
 
-![SE Search Categories](../images/skeletalElements/searchcategorynew.png)
+![SE Search Categories](../images/skeletalElements/searchCategories.png)
 
 Once you complete your search, you are taken to the Specimens search screen. The following columns are visible for all the specimens search:
 
@@ -159,7 +159,7 @@ There are some columns which are not displayed at the screen but can be made vis
 - Updated At
 
 
-![SE Search Results](../images/skeletalElements/seSearchnew.png)
+![SE Search Results](../images/skeletalElements/seSearch.png)
 
 On this page you can filter how many results are shown per page, as well as search the results.
 To view the details of a skeletal elements, click on the key in the search results. You can also export the search results in Excel and PDF format. 
@@ -194,7 +194,7 @@ If you have correct permissions, you can click in actions button in the top righ
 
 ### Specimen Details  
 When you are view the details of a specimen, you can click "Details" in the top left to select a specimen detail drilldown. Each of these selections will be described in detail.  
-![SE Details](../images/skeletalElements/seDetails1.png)
+![SE Details](../images/skeletalElements/seDetails.png)
 
 ##### Biological Profile
 ![SE Biological Profile](../images/skeletalElements/biologicalProfile.png)
@@ -270,7 +270,7 @@ The biological profile ancestry search is broken down in the "Element Highlights
 The bone ancestry detail shows the stature detail of the chosen bone. You must select a stature method for a stature to appear in the "Methods" tab.
 
 ##### DNA Profile
-![SE DNA Profile](../images/skeletalElements/dnaProfile1.png)
+![SE DNA Profile](../images/skeletalElements/dnaProfile.png)
 
 The DNA Profile screen displays the following elements about a bone:
 
@@ -355,7 +355,7 @@ These fields are read only - to edit then click "Actions" - then "Edit".
 When you are finished making changes click save on the bottom of the page.
 
 ##### Measurements
-![SE Measurements](../images/skeletalElements/measurements1.png)
+![SE Measurements](../images/skeletalElements/measurements.png)
 The measurement search is broken down in the "Element Highlights" and "Measurements" sections. The element highlights section is read only and displays the following information about the selected bone:
 
 - Bone

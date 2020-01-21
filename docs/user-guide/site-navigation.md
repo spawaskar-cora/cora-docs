@@ -8,31 +8,27 @@ The CoRA web application consists of the four basic components. These are-
   4. Application Container
 
 
-   ![Welcome Screen](../images/site_navigation/WelcomeScreenNew.png)
+   ![Welcome Screen](../images/site_navigation/Welcome Screen.png)
    
    
 ## Top Navigation Bar
 The navigation bar consists of the CoRA icon, toggle the left sidebar button, project switcher dropdown, advance search bar, the notifications icon, user profile avatar, and the right sidebar button.
        
-   ![Navigation Bar](../images/site_navigation/NavigationBar.png)
+   ![Navigation Bar](../images/site_navigation/Navigation bar.png)
    
    1. CoRA (1) - The CoRA icon take the user to the home page of the site.
    2. Toggle the Left Side bar (2) - The Toggle button opens and close the left sidebar.
    3. Project Switcher (3) - The Project switcher button allows the user to select the different projects the user is a part of.
-   4. Advance Search bar (4) - The Advance search bar allows the user to search the Skeletal Elements and DNA. The user can search the Skeletal Element by - Bone, Composite key, Accession, Provenance 1, Provenace 2, Designator, External ID, Individual Number.
-          The DNA can be searched by the Bone, Composite Key, Accession, Sample Number, Mito seq Number, Haplogroup, External Id, Individual Number.
-          
-        ![Navigation Bar](../images/skeletalElements/searchCategories.png)                            
+   4. Advance Search bar (4) - The Advance search bar allows the user to search the Skeletal Elements and DNA. The user can search the Skeletal Element by - Bone, Composite key, Accession, Provenance 1, Provenace 2, Designator, External ID, Individual Number. The DNA can be searched by the Bone, Composite Key, Accession, Sample Number, Mito seq Number, Haplogroup, External Id, Individual Number.                          
    5. Search Input (5) - Once the search type is selected the user can enter the value in the search input.
    6. Notification Icon (6) - The Notification icon show the notifications of the Export file, Import file, job completion and other user specific notification.
    7. User Avatar (7) - The user avatar shows the user drop down. The user drop down has User Image, User Name and Role (1), the github CoRA docs (2), CoRA Forum (3), CoRA Slack (4), change password link (5), the CoRA-Docs (6), the About (7), the My Profile button (8) and the Logout button (9). The Org Profile button will only be available to the Org admin in which the Org Admin can change the settings of the project.    
-     ![Navigation Bar](../images/site_navigation/AvatarNew.png)    
+     ![Navigation Bar](../images/site_navigation/user_avatar.png)    
      The header (1) shows the User Image, User Name, email and Role. Github CoRA docs (2) opens the github repo on which the user can check the documentation code. CoRA Forum (3) allows the user to leave comments and other related information about the cora eco system. 
      CoRA Slack (4) allows users and developers to communicate and have private group discussion. The change password link (5) allows the user to change the current password. Online help (6) opens the online help documentation of the CoRA web application, it includes the user manual and other important docs.
      The About (7) displays the meta data of the application and the browser.
      The My Profile button (8) open the user profile page in which the user can save the settings of their choice.
      The Logout button (9) logs out the user out of CoRA Web Application.
-        
    8. Right Sidebar Toggle Button (8) - The Right sidebar buttons toggles between the open and closed state of right sidebar.  
        
    **User Guide for Search Capability**:
@@ -79,7 +75,7 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
    ![Navigation Bar](../images/site_navigation/AccessionSearch.png) 
    
    Provenance 1
-   ![Navigation Bar](../images/site_navigation/Provenance1new.png)  
+   ![Navigation Bar](../images/site_navigation/Provenance1.png)  
         
    With the Provenance 1 option, User can search specimens by writing their Provenance 1. As seen in the image above, user can search for the specimen by providing the Provenance 1 such as G-21, G-212 etc.
    The SE eg G-21 0r G-212 indicates you are searching for the Skeletal elements either by Provenance 1 'G-21' or 'G-212'
@@ -135,16 +131,6 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
    Below is the search result obtained from DNA search by sample number '01A'.
    ![Navigation Bar](../images/site_navigation/SampleNumberSearch.png) 
    
-   Sample Number
-   ![Navigation Bar](../images/site_navigation/SampleNumber.png)  
-         
-   With the Sample Number option, User can search DNA by writing their Sample numbers. As seen in the image above, user can search for the DNA by the sample numbers such as 68A or 4619A.
-   The DNA eg 68A or 4619A indicates you are searching for the DNA either by sample numbers '68A' or '4619A' etc.
-   At one time, you can only search for one sample number in this search category.
-         
-   Below is the search result obtained from DNA search by sample number '01A'.
-   ![Navigation Bar](../images/site_navigation/SampleNumberSearch.png) 
-   
    
    Mito Seq Number
    ![Navigation Bar](../images/site_navigation/MitoSeq.png)  
@@ -170,7 +156,7 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
 ## Left Side Bar
 The left side bar includes the various modules of the CoRA web application that the user can select. The left side bar will have modules according to the role of the user. The following section shows the left side bar for Anthropologist-
    
-   ![LeftsideBar](../images/site_navigation/LeftSideBar_AnthroNew.png) 
+   ![LeftsideBar](../images/site_navigation/leftsidebar_anthro.png) 
          
    1. The Dashboard icon takes the user to the dashboard based on the user-role. If the user is Anthropologist then the Anthropologist dashboard will open and if the user iss Org-Admin the Org-Admin Dashboard will open.
      The dashboard page contains data visualization of the specimens data and dna module. 
@@ -189,17 +175,17 @@ The Right side bar includes the 4 different tabs and each of the tabs includes t
     2.Help Tab
     3.Activity Feed Tab
     4.General Settings Tab      
-    ![RightsideBar](../images/site_navigation/RightSideBarNew1.png)
+    ![RightsideBar](../images/site_navigation/rightsidebar.png)
  
 1.Layout and Skin Tab  
    
 Layout and Skin Tab (1) - The Layout tab includes the Layout Option (2) and Skins (3).      
   
-  ![layout](../images/site_navigation/Layout_option1new.png)
+  ![layout](../images/site_navigation/layout_options_settings.png)
       
 The Layout Options (2) allows the user to make changes in the layout of the app. The following are the description of the options in layout-
       
-  ![layout](../images/site_navigation/layout_optionsnew.png)
+  ![layout](../images/site_navigation/layout_options.png)
       
    Toggle Side Bar (1)- The Toggle Sidebar checkbox open and close the left sidebar. If checked the left side bar will open and if unchecked the left sidebar will be closed.
    Left Sidebar Expand on Hover (2)- This option allows the user to allow the user to show the left sidebar menu on mouseover.
@@ -214,21 +200,21 @@ The Layout Options (2) allows the user to make changes in the layout of the app.
 2.Help Tab
    
 Help Tab (2) - The Help tab allows the user to access the CoRA-Docs inside the right side bar.
-  ![help](../images/site_navigation/helpnew1.png)    
+  ![help](../images/site_navigation/help.png)    
    The documentation of the CoRA application along with the user manual can be found in this tab. The Menu button can be clicked to select the different sections of the documentation.
    
 3.Activity Feed Tab
 
 The Activity feed tab shows the 10 recent Skeletal Elements and DNA created and updated by the user.
        
-  ![activityFeed](../images/site_navigation/activity_feednew.png)        
+  ![activityFeed](../images/site_navigation/activity_feed.png)        
    The key can be of the skeletal element can be clicked which takes the user to the selected skeletal element so, that the user can easily access the recently added skeletal elements and update it if needed. This activity feed can also be found in user profile under the activity feed tab.
    
 4.General Tab 
 
 The General Tab allows the user to customize the user settings. 
    
-   ![settings](../images/site_navigation/general_se_updatenew.png)
+   ![settings](../images/site_navigation/general_se_update.png)
     ![settingsDNA](../images/site_navigation/dna_update.png) 
    
    The Lines per page (1) allows the user to select the number of rows to be display for views with table. The user can set this value from the user profile as well.
@@ -241,7 +227,7 @@ The General Tab allows the user to customize the user settings.
 ## Application Container
   The Application container is the main area which includes all the CoRA-Modules.
         
-  ![settings](../images/site_navigation/app_containernew.png)
+  ![settings](../images/site_navigation/app_container.png)
         
   The Application container has Breadcrumbs (1) on the top left which shows on which page the user is currently working on. It helps the user to go back to the last page.
         
