@@ -1,7 +1,7 @@
 #DNA Profile
 Specimens which have had a DNA sample successfully completed will 
 have an associated *DNA Profile*.  The profile contains all relevant DNA attributes and are editable via  ![action](../images/dna/action.png)(appropriate permissions required)<br> 
-![dna_profile](../images/dna/ViewDnanew.png) <br/>
+![dna_profile](../images/dna/ViewDna.png) <br/>
 
 The fields associated with a DNA are:
 
@@ -27,7 +27,7 @@ DNA elements are further divided into Mito, auSTR and Y-STR.
 
 ##Mito
 
-![dna_profile](../images/dna/Mito_Dnanew.png)
+![dna_profile](../images/dna/Mito_Dna.png)
 
 The elements associated with Mito are:
 
@@ -57,7 +57,7 @@ Base Pairs | Numeric |Can only contain numbers| Optional
 
 ##auSTR
 
-![dna_profile](../images/dna/Austr_Dnanew.png)
+![dna_profile](../images/dna/Austr_Dna.png)
 
 The elements associated with auSTR are:
 
@@ -84,7 +84,7 @@ Number of Loci | Numeric | Can only numbers| Optional
 
 ##Y-STR
 
-![dna_profile](../images/dna/Y-STR_Dnanew.png)
+![dna_profile](../images/dna/Y-STR_Dna.png)
 
 The elements associated with Y-STR are:
 
