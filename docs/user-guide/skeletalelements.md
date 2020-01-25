@@ -321,9 +321,10 @@ The taphonomy search is broken down in the "Element Highlights" and "Taphonomies
 
 The Taphonomies section allows you to view Taphonomies for the given bone. To add Taphonomies, click the "Actions" button and then "Edit". 
 
-![SE Add Taphonomies](../images/skeletalElements/zonalClassification.png)
+![SE createAnomalies1](../images/skeletalElements/addTaphonomies.png)
+Click Save when finished adding Taphonomies to be returned to the Taphonomy page.
 
-After you click "Save" you will be taken to the Taphonomies 
+
 ##### Zonal Classification
 ![SE Zonal](../images/skeletalElements/zones.png)
 The zonal search is broken down in the "Element Highlights" and "Zones" sections. The element highlights section is read only and displays the following information about the selected bone:
@@ -337,7 +338,7 @@ The zonal search is broken down in the "Element Highlights" and "Zones" sections
    - Inventory Completed Status
    - Reviewed Status
    
-The Zones pane displays the following information about the bone:
+The Zones pane displays various zones of the bone. For example below are the following zones about the bone Radius:
 
 - Lateral half of radial head
 - Medial half of radial head
@@ -367,7 +368,7 @@ The measurement search is broken down in the "Element Highlights" and "Measureme
    - Inventory Completed Status
    - Reviewed Status
   
-  The measurements pane display the following measurements for a given bone:
+The measurements pane display various measurements of the given bone. The following are the measurements for a given bone Radius:
 - Rad_01 Maximum Length
 - Rad_02 Maximum Diameter of the Radius at Midshaft
 - Rad_03 Minimum Diameter of the Radius at Midshaft
@@ -386,8 +387,6 @@ The measurement search is broken down in the "Element Highlights" and "Measureme
 ### Associations   
 ##### Articulations
 
-![SE Articulations](../images/skeletalElements/articulations.png)
-
 The Articulations search is broken down in the "Element Highlights" and "Articulations" sections. The element highlights section is read only and displays the following information about the selected bone:
 
 - Bone
@@ -399,12 +398,41 @@ The Articulations search is broken down in the "Element Highlights" and "Articul
    - Inventory Completed Status
    - Reviewed Status
   
-  The articulations section is read-only, and shows articulation information for a given bone. To make edits to go "Actions" "Edit". Click Save when finished adding articulation to be returned to the articulations page.
+The articulations section is read-only, and shows articulation information for a given bone. To make edits, go to "Actions" "Edit". Click Save when finished adding articulation to be returned to the articulations page.
   
+![SE Articulations](../images/skeletalElements/NewArticulation.png)
+
+Once the articulation method is added, you are taken Articulation screen. The following columns are visible for all the Articulations:
+
+- Key
+- Bone
+- Side
+- Bone Group
+- Individual Number
+- DNA Sampled
+- Mito Sequence Number
+- Measured
+- Isotope Sampled
+- Clavicle Triage
+- CT Scanned
+- Xray Scanned
+
+There are some columns which are not displayed at the screen but can be made visible by checking the column visibility section. The names of those columns are given below:
+- Inventoried
+- Reviewed
+- Inventoried By
+- Inventoried At
+- Reviewed By
+- Reviewed At
+- Created By
+- Created At
+- Updated By
+- Updated At
+
+![SE Articulations](../images/skeletalElements/articulations.png)
+
+
 ##### Pair Matching
-
-![SE Pair Matching](../images/skeletalElements/pairmatching.png)
-
 
 The Pair Matching search is broken down in the "Element Highlights" and "Pair Matches" sections. The element highlights section is read only and displays the following information about the selected bone:
 
@@ -417,8 +445,9 @@ The Pair Matching search is broken down in the "Element Highlights" and "Pair Ma
    - Inventory Completed Status
    - Reviewed Status
   
-  The Pair Matching section is read-only, and shows Pair Matches information for a given bone. To make edits to go "Actions" "Edit". Click Save when finished adding pair matches to be returned to the Pair Matching page.
-  
+The Pair Matching section is read-only, and shows Pair Matches information for a given bone. To make edits, go to "Actions" "Edit". Click Save when finished adding pair matches to be returned to the Pair Matching page.
+The columns in the Pair Matching are similar to the Articulation screen.
+
 ##### Refits
 ![SE Refits](../images/skeletalElements/refits.png)
 
@@ -433,11 +462,12 @@ The Refits search is broken down in the "Element Highlights" and "Refits" sectio
    - Inventory Completed Status
    - Reviewed Status
   
-  The Refits section is read-only, and shows Refits information for a given bone. To make edits to go "Actions" "Edit". Click Save when finished adding Refits to be returned to the Refits page.
+The Refits section is read-only, and shows Refits information for a given bone. To make edits, go to "Actions" "Edit". Click Save when finished adding Refits to be returned to the Refits page.
 ### Pathology   
 
 ##### Trauma
 ![SE Traumas](../images/skeletalElements/traumas.png)
+
 The Trauma search is broken down in the "Element Highlights" and "Trauma" sections. The element highlights section is read only and displays the following information about the selected bone:
 
 - Bone
@@ -449,7 +479,7 @@ The Trauma search is broken down in the "Element Highlights" and "Trauma" sectio
    - Inventory Completed Status
    - Reviewed Status
   
-The Trauma section is read-only, and shows Trauma information for a given bone. To make edits to go "Create". 
+The Trauma section is read-only, and shows Trauma information for a given bone. To make edits, go to "Create". 
 
 ![SE CTrauma](../images/skeletalElements/createTrauma.png)
 Click Save when finished adding Trauma to be returned to the Trauma page.
@@ -484,14 +514,14 @@ The Anomaly search is broken down in the "Element Highlights" and "Anomaly" sect
    - Inventory Completed Status
    - Reviewed Status
   
-The Anomaly section is read-only, and shows Anomaly information for a given bone. To make edits to go "Actions" "Edit". 
+The Anomaly section is read-only, and shows Anomaly information for a given bone. To make edits, go to "Actions" "Edit". 
 ![SE createAnomalies1](../images/skeletalElements/createAnomalies.png)
 Click Save when finished adding Anomalies to be returned to the Anomaly page.
 
 ### Review
 
 The review tab is a pane which displays all other sub reports in one area. All reports are editable in the pane.
-For information on individual reports - see their detailed documentation in this document.
+For information on individual reports - see their detailed documentation.
 
 ![SE Review](../images/skeletalElements/review.png)
 
