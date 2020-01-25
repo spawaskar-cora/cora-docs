@@ -2,8 +2,6 @@ site_name: CoRA Docs
 #site_url: http://www.mkdocs.org
 site_description: CoRA documentation with Markdown.
 site_author: Sachin Pawaskar
-copyright: Copyright &copy; 2016 - 2020 <a href="https://sachinpawaskaruno.github.io">Sachin Pawaskar</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">CoRA Team</a>.
-# google_analytics: ['UA-27795084-5', 'mkdocs.org']
 
 repo_url: https://github.com/spawaskar-cora/cora-docs-mkdocs
 edit_uri: ""
@@ -42,6 +40,9 @@ theme_dir: 'custom_theme'
 #        permalink: 
 #    - admonition
 #    - def_list
+
+copyright: Copyright &copy; 2016 - 2020 <a href="https://sachinpawaskaruno.github.io">Sachin Pawaskar</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">CoRA Team</a>.
+# google_analytics: ['UA-27795084-5', 'mkdocs.org']
 
 #plugins:
 #    - search
