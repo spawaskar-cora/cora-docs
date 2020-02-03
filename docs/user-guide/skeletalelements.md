@@ -13,7 +13,7 @@ Specimen are individual human remains which can be categorized. Many of the modu
 On the left side bar - you can access the main options for specimens. For Report Dashboard - please see the **Reports** documentation.
 
 ##### Creating a New Specimen
-![New SE](../images/skeletalElements/newspecimen.png)
+![New SE](../images/skeletalElements/CreateSkeletalElement.gif)
 
 To create a new specimen - click the "New" link on the Specimens left navigation bar. You will be taken to the new specimen screen.
 
