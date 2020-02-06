@@ -167,9 +167,9 @@ externally)
 *Zones*
 
 1\. Body  
-2\. Right ala to include area of foramina  
-3\. Left ala to include area of foramina  
-4\. Dorsal wall  
+2\. Right ala  
+3\. Left ala  
+4\. Spinous processes  
 
 ## **Thorax and Shoulder**
 ### Rib 1
