@@ -167,9 +167,9 @@ externally)
 *Zones*
 
 1\. Body  
-2\. Right transverse process, including the pedicle, pars interarticularis, and articular facets  
-3\. Left transverse process, including the pedicle, pars interarticularis, and articular facets  
-4\. Spinous process  
+2\. Right ala to include area of foramina  
+3\. Left ala to include area of foramina  
+4\. Dorsal wall  
 
 ## **Thorax and Shoulder**
 ### Rib 1
