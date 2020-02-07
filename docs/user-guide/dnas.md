@@ -17,10 +17,22 @@ The fields associated with a DNA are:
 
 The bolded fields are required. Below are some fields with their validation rule
 
-Element  | Data Type  | Validation Rule  | Required/Optional
-------------- | -------------| ------------- | -------------
-DNA Sample Number  | Alphanumeric |Can only contain letters and numbers| Required
-External Case id  | Alphanumeric |Can only contain letters and numbers| Optional
+Element  |  Validation Rule  | Required/Optional
+------------- | ------------- | -------------
+DNA Sample Number  | Can only contain letters and numbers| Required
+External Case id  | Can only contain letters and numbers| Optional
+Priority  |  Can only contain letters, numbers, dash, space and dot  | Optional
+External Sample Number  | Can only contain letters, numbers, dash and space  | Optional
+Disposition of Evidence | Can only contain letters and numbers  | Optional
+Additional Testing | Boolean (True or False)  | Optional
+Priority Date  | Can only contain dates| Optional
+BTB Request Date  | Can only contain dates| Optional
+BTB Result Date | Can only contain dates| Optional
+Disposition | Either Stored, Consumed or Returned| Optional
+Sample Condition| Either Stored, Consumed or Returned| Optional
+Weight Sample Remaining| Can only contain numbers| Optional
+Resample Indicator| Boolean (True or False)| Optional
+Notes| | Optional
 
 
 DNA elements are further divided into Mito, auSTR and Y-STR. 
@@ -47,14 +59,26 @@ The elements associated with Mito are:
 
 The bolded fields are required. Below are some fields with their data type and validation rule
 
-Element  | Data Type  | Validation Rule  | Required/Optional
-------------- | -------------| ------------- | -------------
-Mito Sequence Number| Numeric |Can only contains numbers| Optional
-Mito Sequence Subgroup  | Alphanumeric Dash Space| Can only contain letters, numbers, dash and space | Optional
-Mito Sequence Similar  | Alphanumeric Dash Space| Can only contain letters, numbers, dash and space  | Optional
-Match Count / Population Frequency | Numeric | Can only contains numbers | Optional
-Base Pairs | Numeric |Can only contain numbers| Optional
-
+Element  |  Validation Rule  | Required/Optional
+------------- | ------------- | -------------
+Mito Method  | Choose from the options available | Required
+Mito Request Date|Can only contain date| Optional
+Mito Receive Date|Can only contain date| Optional
+Mito Results Confidence|Either Pending, Reportable, Inconclusive, Unable to Assign, Cancelled or No Results| Optional
+Mito Sequence Number|Can only contain numbers| Optional
+Mito Sequence Subgroup  |  Can only contain letters, numbers, dash and space | Optional
+Mito Sequence Similar  |  Can only contain letters, numbers, dash and space  | Optional
+Mito Match Count |  Can only contain numbers | Optional
+Mito Total Count |  Can only contain numbers | Optional
+Mito Base Pairs | Can only contain letters, numbers, dash and space | Optional
+Mito Confirmed Regions | Can only contain letters, numbers, dash and space | Optional
+Mito Polymorphisms | Can only contain letters, numbers, dash and space | Optional
+Mito Haplogroup|  Can only contain numbers | Optional
+Mito MCC Date|Can only contain date| Optional
+Mito Fasta Sequence| Can only contain letters, numbers, dash and space | Optional
+Mito Haplosubgroup | Can only contain letters, numbers, dash and space | Optional
+Mito locus | Special characters are not allowed | Optional
+Mito Num Loci  Can only contain numbers | Optional
 ##auSTR
 
 ![dna_profile](../images/dna/Austr_Dna.png)
@@ -74,13 +98,21 @@ The elements associated with auSTR are:
 
 The bolded fields are required. Below are some fields with their data type and validation rule
 
-Element  | Data Type  | Validation Rule  | Required/Optional
-------------- | -------------| ------------- | -------------
-Method  | Lookup | Choose from the options available | Required
-auSTR Sequence Number| Numeric |Can only contains numbers| Optional
-auSTR Sequence Subgroup  | Alphanumeric Dash Space| Can only contain letters, numbers, dash and space | Optional
-auSTR Sequence Similar  | Alphanumeric Dash Space| Can only contain letters, numbers, dash and space  | Optional
-Number of Loci | Numeric | Can only numbers| Optional
+Element  |  Validation Rule  | Required/Optional
+------------- |  ------------- | -------------
+AuSTR Method  | Choose from the options available | Required
+AuSTR Request Date|Can only contain date| Optional
+AuSTR Receive Date|Can only contain date| Optional
+AuSTR Results Confidence|Either Pending, Reportable, Inconclusive, Unable to Assign, Cancelled or No Results| Optional
+AuSTR Sequence Number| Can only contain numbers| Optional
+AuSTR Sequence Subgroup  |  Can only contain letters, numbers, dash and space | Optional
+AuSTR Sequence Similar  |  Can only contain letters, numbers, dash and space  | Optional
+AuSTR Match Count |  Can only contain numbers | Optional
+AuSTR Total Count |  Can only contain numbers | Optional
+AusTR loci | Special characters are not allowed | Optional
+AusTR Number of Loci | Can only contain numbers| Optional
+AusTR MCC Date|Can only contain date| Optional
+
 
 ##Y-STR
 
@@ -103,13 +135,22 @@ The elements associated with Y-STR are:
 The bolded fields are required. Below are some fields with their data type and validation rule
 
 
-Element  | Data Type  | Validation Rule  | Required/Optional
-------------- | -------------| ------------- | -------------
-Y-STR Sequence Number| Numeric |Can only contains numbers| Optional
-Y-STR Sequence Similar  | Alphanumeric Dash Space | Can only contain letters, numbers, dash and space  | Optional
-Match Count / Population Frequency | Numeric |   Can only contains numbers | Optional
-Number of Loci | Numeric |   Can only contains numbers | Optional
-
+Element  |  Validation Rule  | Required/Optional
+------------- |  ------------- | -------------
+Y-STR Method  | Choose from the options available | Required
+Y-STR Request Date|Can only contain date| Optional
+Y-STR Receive Date|Can only contain date| Optional
+Y-STR Results Confidence|Either Pending, Reportable, Inconclusive, Unable to Assign, Cancelled or No Results| Optional
+Y-STR Sequence Number| Can only contain numbers| Optional
+Y-STR Sequence Subgroup  |  Can only contain letters, numbers, dash and space | Optional
+Y-STR Sequence Similar  |  Can only contain letters, numbers, dash and space  | Optional
+Y-STR Match Count |  Can only contain numbers | Optional
+Y-STR Total Count |  Can only contain numbers | Optional
+Y-STR loci | Special characters are not allowed | Optional
+Y-STR Number of Loci | Can only contain numbers| Optional
+Y-STR MCC Date|Can only contain date| Optional
+Y-STR Haplogroup|  Can only contain numbers | Optional
+Y-STR Haplosubgroup|  Can only contain letters, numbers, dash and space| Optional
 
 ##Element Highlights
 Additional skeletal element attributes about the DNA sample can found in the *Element Highlights* section above the DNA Profile.  By default this section is collapsed.
