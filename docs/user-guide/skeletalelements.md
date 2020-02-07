@@ -53,7 +53,7 @@ This page is view only, here all fields related to the specimens are displayed. 
 - Status of the bone, including:
   - Measured 
   - DNA Sampled 
-  - Isotope Scanned
+  - Isotope Sampled
   - Inventory Completed 
   - Reviewed
   - CT Scanned
@@ -77,7 +77,7 @@ The bolded fields are required. Some of the fields along with their validation r
  Completeness | Either Complete or Incomplete | Required
  Measured  |  Boolean (True or False) | Optional
  DNA Sampled| Boolean (True or False) | Optional
- Isotope Scanned | Boolean (True or False) | Optional
+ Isotope Sampled | Boolean (True or False) | Optional
  Inventory Completed |  Boolean (True or False) | Optional
  Reviewed| Boolean (True or False) | Optional
  CT Scanned | Boolean (True or False) | Optional
@@ -112,8 +112,8 @@ The bolded fields are required. Below are some fields with some validation rule
  
   Element  | Validation Rule  | Required/Optional
   ------------- | -------------| -------------
-  Grouping  |  Can only contain letters | Required
-  Bones | UUID  | Required
+  Bone Group  |  Can only contain letters | Required
+  Bone Group Id | UUID  | Required
                              
                                  
 

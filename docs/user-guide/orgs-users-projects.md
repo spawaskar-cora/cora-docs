@@ -52,8 +52,21 @@ In the image above we can see some users have been inactive since a year and som
 1.2.6 Enter the information on the New User creation page (required fields are marked 
 with a red asterisk*)
 
+ 
 Users will be able to change their password once they have logged in. Ensure to check the Active box so that the user account is active and the user can login. Through the "Roles" field, various user roles can be selected such as Org Admin, Anthropologist, Manager, DNA Analyst, Historian, Intern, Isotope Analyst.
 ![Click on Action](../images/Images_Org_Users_Project/Usercreation.png)
+
+Below are some fields with some validation rule
+ 
+ Element  | Validation Rule  | Required/Optional
+ ------------- | -------------| -------------
+ First Name  |  Can only contain letters | Required
+ Last Name | Can only contain letters and  dash | Required
+ Email  |  Should be unique with 255 max char | Required
+ Cell phone | Can only contain numbers and dash | Optional
+ Role | Choose from the dropdown | Required
+ Active Status | Boolean (True or False) | Optional
+ Password | Should fulfill all the password requirements | Required
 
 1.2.7 Once all information is entered, click Save, and a message will appear at the top informing the user that the *“User successfully added”*
 
@@ -117,6 +130,24 @@ The Project list screen provides the information related to the project such as 
 <small>*The public option enables the public to view the project *</small>
 
 ![Click on Administration](../images/Images_Org_Users_Project/Projectcreate.png)
+
+Below are some fields with some validation rule
+ 
+ Element  | Validation Rule  | Required/Optional
+ ------------- | -------------| -------------
+ Name  |  Can only contain letters and numbers | Required
+ Description | Can only contain letters and  numbers | Required
+ Status Id |  Can only contain numbers| Required
+ Start Date | Can only contain date| Required
+ Manager Id | Can only contain numbers | Required
+ Geo latitude | Can only contain numbers| Required
+ Geo Longitude | Can only contain numbers | Required
+ Slack Channel | Can only contain numbers and letters | Optional
+ Latest MCC Date | Should fulfill all the password requirements | Optional
+ Public | Boolean (True or False)| Optional
+ Allow users To create Accessions | Boolean (True or False) | Optional
+ Isotope Analysis | Boolean (True or False) | Optional
+ Zones Autocomplete | Boolean (True or False) | Optional
 
 #####Adding Users to a Project
 The Org Admin will be able to add users to specific projects through 'Assigned Users' field. From the dropdown box, the OrgAdmin adds users to the project and clicks save option.
