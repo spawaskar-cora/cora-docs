@@ -135,8 +135,8 @@ Below are some fields with some validation rule
  
  Element  | Validation Rule  | Required/Optional
  ------------- | -------------| -------------
- Name  |  Can only contain letters and numbers | Required
- Description | Can only contain letters and  numbers | Required
+ Name  |  Can only contain letters and numbers, min:3 and max:255 chars | Required
+ Description |Can minimum 3 chars and 255 max chars | Required
  Status Id |  Can only contain numbers| Required
  Start Date | Can only contain date| Required
  Manager Id | Can only contain numbers | Required
@@ -185,6 +185,15 @@ On the Project Management page, click on Actions, then Edit
 On the create accessions page, enter the required information (*required fields are marked with a red asterisk*) for a particular project and click save
 After clicking save, the Org Admin will be redirected to the page displaying accession details associated with a specific project.
 
+Below are some fields with some validation rule
+ 
+ Element  | Validation Rule  | Required/Optional
+ ------------- | -------------| -------------
+ Number  |  Can only contain letters | Required
+ Provenance 1 | Can only contain letters, numbers, dash and space | Optional
+ Provenance 2 |  Can only contain letters, numbers, dash and space  | Optional
+
+
 
 ### Instrument Management 
 
@@ -206,6 +215,14 @@ After clicking save, the Org Admin will be redirected to the page displaying acc
  with a red asterisk*)
 
 ![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate1.png)
+
+ Element  | Validation Rule  | Required/Optional
+ ------------- | -------------| -------------
+ Code | Can have max 255 chars | Required
+ Category |  Can have max 255 chars| Required
+ Module|Can have max 255 chars| Required
+ Reference | Can have max 255 chars| Optional
+ Assigned Users | Can choose from the options available| Optional
 
 The Org Admin will also be able to edit the users associated with the instrument by clicking the dropdown "Assigned Users"
 
@@ -240,6 +257,16 @@ On the Instrument Management page, click on Actions, then Edit
 
 ![Click on Action](../images/Images_Org_Users_Project/HaplogroupCreate.png)
 
+Below are some fields with some validation rule
+ 
+ Element  | Validation Rule  | Required/Optional
+ ------------- | -------------| -------------
+ Type | Can choose from the option available | Required
+ Letter |  Can only contain one character from A-Z| Required
+ Subgroup|No specified rule| Optional
+ Ancestry | Can choose from the option available| Optional
+ 
+
 #### Edit Haplogroup
 1.6.6 After the creation of a Haplogroup, the Org Admin can edit the Haplogroup.
 On the Haplogroup Management page, click on Actions, then Edit
@@ -250,7 +277,7 @@ On the Haplogroup Management page, click on Actions, then Edit
 ![Click on Action](../images/Images_Org_Users_Project/HaploEdit.png)
 
 ##Org Manager
-Org Manager is one of the Users. Below image shows the screen of Org Manager. The left side bar includes the various modules of the CoRA web application that the Org Manager can select.  It consists of Dashboard, Specimens, DNA and Isoptope
+Org Manager is one of the Users. Below image shows the screen of Org Manager. The left side bar includes the various modules of the CoRA web application that the Org Manager can select.  It consists of Dashboard, Specimens, DNA and Isotope
  
 
 ![Click on Action](../images/Images_Org_Users_Project/OrgManager.png)
@@ -273,10 +300,99 @@ Anthropologist Lead is one of the Users. Below image shows the screen of Anthrop
 Isotope Analyst is one of the Users. Below image shows the screen of Isotope Analyst. The left side bar includes the various modules of the CoRA web application that the Isotope Analyst can select.  It consists of Dashboard, Specimens and Isotope
 ![Click on Action](../images/Images_Org_Users_Project/IsotopeAnalyst.png)
 
+##Isotope 
 
+You can create/view Isotope Batches as an Admin and Manager. In order to view the isotope batches, click on 'Isotope Batches' on left navigation bar
+![Click on Action](../images/Images_Org_Users_Project/IsotopeSearch.png)
 
+In order to create a new isotope batch, click on 'New Isotope Batch'
 
+![Click on Action](../images/Images_Org_Users_Project/Isotopecreate.png)
 
+On the Create Isotope Batch page, enter the required information and click save (required fields are marked 
+ with a red asterisk*)
 
+![Click on Action](../images/Images_Org_Users_Project/CreateIsotopeBatch.png)
 
+After the isotope batch is created successfully, you 
+will receive success message as given  below
+![Click on Action](../images/Images_Org_Users_Project/IsotopeAddSuccess.png)
 
+#### Edit Isotope Batch
+After the creation of a Isotope Batch, the Org Admin and Manager can edit the Isotope Batch.
+On the Isotope Batches page, click on the batch number to edit
+
+![Click on Action](../images/Images_Org_Users_Project/EditIsotopeBatch.png)
+
+Edit the needed information on the page, and click save
+![Click on Action](../images/Images_Org_Users_Project/EditIsotopeBatchDetail.png)
+
+Below are some validation rules associated with Isotope Batch
+ 
+ Element  | Validation Rule  | Required/Optional
+ ------------- | -------------| -------------
+ Lab | Can choose from the option available | Required
+ External Case # |  Can only contain letters and numbers| Optional
+ Isotope Batch Number|Can only contain letters and numbers| Required
+ Status|Either Open, Associating Isotopes, Cleaning, Demineralizing, Removal Humic Acids, Solubilizing, Freeze Drying Collagen, Determining Collagen Yield and closed|Optional
+ Cleaning start date | Can only contain Date | Optional
+ Label tubes and caps| Boolean (True or False) | Optional
+ Remove all visible signs of surface contamination |Boolean (True or False) | Optional
+ Ringes sample with dH20 | Boolean (True or False) | Optional
+ Sonicate samples with dh2o-cycle1 | Boolean (True or False) | Optional
+ Sonicate samples with dh2o-cycle1 Start Date | Date | Optional
+ Sonicate samples with dh2o-cycle2 | Boolean (True or False) | Optional
+ Sonicate samples with dh2o-cycle2 Start Date | Date | Optional
+ Sonicate samples with 95% ethanol | Boolean (True or False) | Optional
+ Sonicate samples with 95% ethanol Start Date | Date | Optional
+ Sonicate samples with 100% ethanol | Boolean (True or False) | Optional
+ Sonicate samples with 100% ethanol Start Date | Date | Optional
+ Dry samples start | Boolean (True or False) | Optional
+ Dry sample start date | Date | Optional
+ Dry samples end | Boolean (True or False) | Optional
+ Dry sample end date | Date | Optional
+ Cleaning initials | Can only contain letters and numbers | Optional
+ Demineralizing Treatment Start | Boolean (True or False) | Optional
+ Demineralizing Treatment End | Boolean (True or False) | Optional
+ Demineralizing Treatment Start Date | Date | Optional
+ Demineralizing Treatment End Date | Date | Optional
+ Rinse Demineralized Samples | Boolean (True or False) | Optional
+ Removal Humic Acids treatment start | Boolean (True or False) | Optional
+ Removal Humic Acids treatment End | Boolean (True or False) | Optional
+ Removal Humic Acids treatment start Date | Date | Optional
+ Removal Humic Acids treatment End Date | Date| Optional
+ Removal Humic Acids treatment rinse 1 start | Boolean (True or False) | Optional
+ Removal Humic Acids treatment rinse 1 End | Boolean (True or False) | Optional
+ Removal Humic Acids treatment rinse 1 start Date | Date | Optional
+ Removal Humic Acids treatment rinse 1 End Date | Date| Optional
+ Removal Humic Acids treatment rinse 2 start | Boolean (True or False) | Optional
+ Removal Humic Acids treatment rinse 2 End | Boolean (True or False) | Optional
+ Removal Humic Acids treatment rinse 2 start Date | Date | Optional
+ Removal Humic Acids treatment rinse 2 End Date | Date| Optional
+ Removal Humic Acids treatment rinse 3 start | Boolean (True or False) | Optional
+ Removal Humic Acids treatment rinse 3 End | Boolean (True or False) | Optional
+ Removal Humic Acids treatment rinse 3 start Date | Date | Optional
+ Removal Humic Acids treatment rinse 3 End Date | Date| Optional
+ Removal Humic Acids treatment rinse 4 start | Boolean (True or False) | Optional
+ Removal Humic Acids treatment rinse 4 End | Boolean (True or False) | Optional
+ Removal Humic Acids treatment rinse 4 start Date | Date | Optional
+ Removal Humic Acids treatment rinse 4 End Date | Date| Optional
+ Removal Humic Acids treatment rinse 5 start | Boolean (True or False) | Optional
+ Removal Humic Acids treatment rinse 5 End | Boolean (True or False) | Optional
+ Removal Humic Acids treatment rinse 5 start Date | Date | Optional
+ Removal Humic Acids treatment rinse 5 End Date | Date| Optional
+ Solubilizing clean vials and lids | Boolean (True or False) | Optional
+ Solubilizing clean vials and lids date| Date | Optional
+ Solubilizing add solubale | Boolean (True or False) | Optional
+ Solubilizing place in oven | Boolean (True or False) | Optional
+ Solubilizing centrifuge tubes | Boolean (True or False) | Optional
+ Solubilizing num acid heat treatment | Can only contain numbers | Optional
+ Solubilizing num collagen transfers| Can only contain numbers | Optional
+ Solubilizing freeze vials| Boolean (True or False) | Optional
+ Solubilizing freeze vials date| Date | Optional
+ Freeze Drying Collagen on| Boolean (True or False) | Optional
+ Freeze Drying Collagen Start| Boolean (True or False) | Optional
+ Freeze Drying Collagen End| Boolean (True or False) | Optional
+ Freeze Drying Collagen Start Date| Date | Optional
+ Freeze Drying Collagen End Date| Date| Optional
+ Combined Sample Weight| Boolean (True or False) | Optional
