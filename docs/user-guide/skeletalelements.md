@@ -39,7 +39,7 @@ The bolded fields are required. Below are some fields with some validation rule
  Once you have filled out all the fields, click the save button, and you will be taken to the Specimen View page.
 
 ##### Specimens View
-![SE View](../images/skeletalElements/viewspecimen.png)
+![SE View](../images/skeletalElements/viewspecimen.gif)
 
 This page is view only, here all fields related to the specimens are displayed. To further edit the new specimen, click the "Actions" button, and select edit. The screen will refresh will all fields being editable. The fields available for edit are:
 
@@ -89,7 +89,7 @@ Click "Save" When you are done making changes.
 To add another new specimen, clicks "Actions" followed by "Create".
 
 ##### New Bone Group
-![New Bone Group](../images/skeletalElements/SpecimenNewBoneGroup.png)
+![New Bone Group](../images/skeletalElements/SpecimenNewBoneGroup.gif)
 
 To add a new bone group - click "New Bone Group" on the left navbar. You will be taken to the "New Bone Group Page". 
 Here you can create a superclass which can contain multiple specimens.
@@ -159,7 +159,7 @@ There are some columns which are not displayed at the screen but can be made vis
 - Updated At
 
 
-![SE Search Results](../images/skeletalElements/seSearch.png)
+![SE Search Results](../images/skeletalElements/seSearch.gif)
 
 On this page you can filter how many results are shown per page, as well as search the results.
 To view the details of a skeletal elements, click on the key in the search results. You can also export the search results in Excel and PDF format. 
@@ -307,6 +307,47 @@ The 'Create Isotope' section allows to create a isotope for the given bone. This
 
 The bolded elements are required.
 
+After you create the Isotope, you will receive "Isotope Add Successful" message. You can also edit other fields of isotope and those fields along with their
+validation rules are given below:
+![SE Isotope](../images/skeletalElements/IsotopeAdd.png)
+![SE Isotope](../images/skeletalElements/IsotopeFields.png)
+
+
+Below are some validation rules associated with Isotope Request
+ 
+ Element  | Validation Rule  | Required/Optional
+ ------------- | -------------| -------------
+ Lab | Can choose from the option available | Required
+ External Case # |  Can only contain letters and numbers| Optional
+ Sample Number|Can only contain letters, numbers, dash and space| Required
+ Batch|Can choose from the option available |Required
+ Result Status | Either Pending, Reportable, Inconclusive, Unable to Assign, Cancelled or No Results' | Optional
+ Weight Sampled Clean| Can only contain numbers| Optional
+ Weight Vial and Lid| Can only contain numbers| Optional
+ Weight Sample, Vial and Lid| Can only contain numbers| Optional
+ Weight Collagen| Can only contain numbers| Optional
+ Yield Collagen| Can only contain numbers| Optional
+ Collagen Weight used for Analysis| Can only contain numbers| Optional
+ Demineralizing Start Date| Date| Optional
+ Demineralizing End Date| Date| Optional
+ Analysis Requested| Can only contain numbers and letters| Optional
+ Well Location | Can only contain numbers and letters| Optional
+ Carbon Delta| Can only contain numbers| Optional
+ Carbon Weight| Can only contain numbers| Optional
+ Carbon Percentage| Can only contain numbers| Optional
+ Nitrogen Delta:| Can only contain numbers| Optional
+ Nitrogen Weight| Can only contain numbers| Optional
+ Nitrogen Percentage| Can only contain numbers| Optional
+ Carbon/Nitrogen Ratio| Can only contain numbers| Optional
+ Oxygen Delta| Can only contain numbers| Optional
+ Oxygen Weight| Can only contain numbers| Optional
+ Carbon/Oxygen Ratio| Can only contain numbers| Optional
+ Sulphur Delta| Can only contain numbers| Optional
+ Sulphur Weight| Can only contain numbers| Optional
+ Sulphur Percentage| Can only contain numbers| Optional
+      
+ 
+ 
 ##### Taphonomy
 ![SE Taphonomies](../images/skeletalElements/taphonomies.png)
 The taphonomy search is broken down in the "Element Highlights" and "Taphonomies" sections. The element highlights section is read only and displays the following information about the selected bone:
