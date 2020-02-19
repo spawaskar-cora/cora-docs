@@ -43,16 +43,15 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
    At one time, you can only search for one bone name in this search category.
    
    Below is the search result obtained from specimen search by bone 'Humerus'.
-   ![Navigation Bar](../images/site_navigation/seHumerus.png) 
+   ![Navigation Bar](../images/site_navigation/seSearch.gif) 
    
    Composite key
    ![Navigation Bar](../images/site_navigation/composite.png)  
       
    When searching by composite key, use the comma separator "," to differentiate between accession number, provenance1, provenance2 and designator fields.
-   For example if you want to lookup all specimens with accession number **CIL2017-053** and provenance1 **HF2015-054J** then type in **CIL2017-053, HF2015-054J**
    
-   Below is the search result obtained from specimen search by composite key **'2003-116, G-01'**.
-   ![Navigation Bar](../images/site_navigation/CompositeSearch.png) 
+   Below is the search result obtained from specimen search by composite key **'2016-238, 164,,002'**.
+   ![Navigation Bar](../images/site_navigation/CompositeSearch.gif) 
    
    The pattern for the composite search is 'Accession,Provenance1,Provenance2,Designator'. 
    If any of fields are not there or if you want to skip some fields, then you can keep the fields empty and use the comma separator.
@@ -70,9 +69,9 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
    With the Accession option, User can search specimens by choosing the their Accession number from the drop down menu. As seen in the image above, user can search for the specimen from the Accession numbers such as '2016-230', '2016-231' etc
    At one time, you can only search for one accession number in this search category.
       
-   Below is the search result obtained from specimen search by Accession number '2016-232'.
+   Below is the search result obtained from specimen search by Accession number '2016-233'.
     
-   ![Navigation Bar](../images/site_navigation/AccessionSearch.png) 
+   ![Navigation Bar](../images/site_navigation/AccessionSearch.gif) 
    
    Provenance 1
    ![Navigation Bar](../images/site_navigation/Provenance1.png)  
@@ -80,9 +79,9 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
    With the Provenance 1 option, User can search specimens by writing their Provenance 1. As seen in the image above, user can search for the specimen by providing the Provenance 1 such as G-21, G-212 etc.
    The SE eg G-21 0r G-212 indicates you are searching for the Skeletal elements either by Provenance 1 'G-21' or 'G-212'
    At one time, you can only search for one Provenance 1 in this search category.
-   Below is the search result obtained from specimen search by Provenance 1 'G-01'.
+   Below is the search result obtained from specimen search by Provenance 1 'X-59'.
       
-   ![Navigation Bar](../images/site_navigation/Provenance1Search.png)  
+   ![Navigation Bar](../images/site_navigation/Provenance1Search.gif)  
     
    Provenance 2
    ![Navigation Bar](../images/site_navigation/Provenance2.png)  
@@ -92,7 +91,7 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
    At one time, you can only search for one Provenance 2 in this search category.
    Below is the search result obtained from specimen search by Provenance 2 'X-299C'.
          
-   ![Navigation Bar](../images/site_navigation/Provenance2Search.png)   
+   ![Navigation Bar](../images/site_navigation/Provenance2Search.gif)   
     
    Designator
    
@@ -101,9 +100,9 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
    With the Designator option, User can search specimens by writing their Designator. As seen in the image above, user can search for the specimen by providing the Designator such as 201, 602 etc.
    The SE eg 201 or 602 indicates you are searching for the Skeletal elements either by Designator '201' or '602'.
    At one time, you can only search for one Designator in this search category.
-   Below is the search result obtained from specimen search by Designator '803'.
+   Below is the search result obtained from specimen search by Designator '003'.
              
-   ![Navigation Bar](../images/site_navigation/DesignatorSearch.png)   
+   ![Navigation Bar](../images/site_navigation/DesignatorSearch.gif)   
    
    Individual Number
       
@@ -115,7 +114,7 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
    At one time, you can only search for one Individual Number in this search category.
    Below is the search result obtained from specimen search by Individual Number 'I-01' with Accession '2016-235'.
                 
-   ![Navigation Bar](../images/site_navigation/IndividualSearch.png)
+   ![Navigation Bar](../images/site_navigation/IndividualSearch.gif)
    
    **Search by DNA**
    

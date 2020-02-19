@@ -255,7 +255,7 @@ The biological profile stature search is broken down in the "Element Highlights"
 The bone stature detail shows the stature detail of the chosen bone. You must select a stature method for a stature to appear in the "Methods" tab.
 
 ##### Ancestry
-![SE Ancestry Bone](../images/skeletalElements/boneAncestry.png)
+![SE Ancestry Bone](../images/skeletalElements/boneAncestry.gif)
 
 The biological profile ancestry search is broken down in the "Element Highlights" and "Methods" sections. The element highlights section is read only and displays the following information about the selected bone:
 - Bone
@@ -267,7 +267,7 @@ The biological profile ancestry search is broken down in the "Element Highlights
    - Inventory Completed Status
    - Reviewed Status
 
-The bone ancestry detail shows the stature detail of the chosen bone. You must select a stature method for a stature to appear in the "Methods" tab.
+The bone ancestry detail shows the ancestry detail of the chosen bone. You must select a ancestry method for a stature to appear in the "Methods" tab.
 
 ##### DNA Profile
 ![SE DNA Profile](../images/skeletalElements/dnaProfile.png)
@@ -475,6 +475,8 @@ There are some columns which are not displayed at the screen but can be made vis
 
 ##### Pair Matching
 
+![SE PairMatching](../images/skeletalElements/pairmatching.gif)
+
 The Pair Matching search is broken down in the "Element Highlights" and "Pair Matches" sections. The element highlights section is read only and displays the following information about the selected bone:
 
 - Bone
@@ -490,7 +492,7 @@ The Pair Matching section is read-only, and shows Pair Matches information for a
 The columns in the Pair Matching are similar to the Articulation screen.
 
 ##### Refits
-![SE Refits](../images/skeletalElements/refits.png)
+![SE Refits](../images/skeletalElements/refits.gif)
 
 The Refits search is broken down in the "Element Highlights" and "Refits" sections. The element highlights section is read only and displays the following information about the selected bone:
 
@@ -522,7 +524,7 @@ The Trauma search is broken down in the "Element Highlights" and "Trauma" sectio
   
 The Trauma section is read-only, and shows Trauma information for a given bone. To make edits, go to "Create". 
 
-![SE CTrauma](../images/skeletalElements/createTrauma.png)
+![SE CTrauma](../images/skeletalElements/createTrauma.gif)
 Click Save when finished adding Trauma to be returned to the Trauma page.
 
 ##### Pathology
@@ -539,7 +541,7 @@ The Pathology search is broken down in the "Element Highlights" and "Pathology" 
    - Reviewed Status
   
 The Pathology section is read-only, and shows Pathology information for a given bone. To make edits to go "Actions" "Edit". 
-![SE CTrauma](../images/skeletalElements/createPath.png)
+![SE CTrauma](../images/skeletalElements/createPath.gif)
 Click Save when finished adding Trauma to be returned to the Trauma page.
 
 ##### Anomaly
@@ -556,7 +558,7 @@ The Anomaly search is broken down in the "Element Highlights" and "Anomaly" sect
    - Reviewed Status
   
 The Anomaly section is read-only, and shows Anomaly information for a given bone. To make edits, go to "Actions" "Edit". 
-![SE createAnomalies1](../images/skeletalElements/createAnomalies.png)
+![SE createAnomalies1](../images/skeletalElements/createAnomalies.gif)
 Click Save when finished adding Anomalies to be returned to the Anomaly page.
 
 ### Review
