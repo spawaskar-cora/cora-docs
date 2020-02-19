@@ -202,7 +202,7 @@ When you are view the details of a specimen, you can click "Details" in the top 
 There are 4 Biological Profile subcategories. 
 
 ##### Age
-![SE Bone Age](../images/skeletalElements/boneAge.png)
+![SE Bone Age](../images/skeletalElements/boneAge.gif)
 
 The biological profile age search is broken down in the "Element Highlights" and "Methods" sections. The element highlights section is read only and displays the following information about the selected bone:
 - Bone
@@ -216,12 +216,10 @@ The biological profile age search is broken down in the "Element Highlights" and
  
 The "Methods" section of the pane displays the age of the bone by chosen method. This requires that you have selected a method from the "Applicable Methods" select box. If no age is present, select the desired method in the "Applicable Methods" select box and click "Create". You will be taken to the Create Age Method page.
 
-![SE Bone Age Method](../images/skeletalElements/createAgeMethod.png)
-
 Fill in the desired fields for your selected Bone Age Method and click "Save". When you return to the Bone Age page you will see the age of the bone in the selected method.
 
 ##### Sex
-![SE Bone Sex](../images/skeletalElements/boneSex.png)
+![SE Bone Sex](../images/skeletalElements/boneSex.gif)
 
 The biological profile sex search is broken down in the "Element Highlights" and "Methods" sections. The element highlights section is read only and displays the following information about the selected bone:
 - Bone
@@ -235,8 +233,6 @@ The biological profile sex search is broken down in the "Element Highlights" and
  
  If no bone sex table is present under the "Methods" tab - click on "Create" after choosing the Desired sex method from the "Applicable Method" dropdown. You will be taken to the "Create Method" screen.
  
-![SE Create Sex Method](../images/skeletalElements/createSexMethod.png)
-
 Select the desired options, and click "Save". You will be taken back to the Sex Biological Profile screen with the chosen method appearing in the "Methods" dropdown.
 
 ##### Stature
@@ -270,7 +266,7 @@ The biological profile ancestry search is broken down in the "Element Highlights
 The bone ancestry detail shows the ancestry detail of the chosen bone. You must select a ancestry method for a stature to appear in the "Methods" tab.
 
 ##### DNA Profile
-![SE DNA Profile](../images/skeletalElements/dnaProfile.png)
+![SE DNA Profile](../images/skeletalElements/dnaProfile.gif)
 
 The DNA Profile screen displays the following elements about a bone:
 
@@ -289,7 +285,7 @@ The bolded elements are required.
 On this screen, you can also view the "Mito", "auSTR", and "Y-STR" tabs.
 
 ##### Isotope Analysis
-![SE Isotope](../images/skeletalElements/isotopedetails.png)
+![SE Isotope](../images/skeletalElements/isotopedetails.gif)
 The Isotope Analysis is broken down in the "Element Highlights" and "Create Isotope" sections. The element highlights section is read only and displays the following information about the selected bone:
 - Bone
 - Side
@@ -309,8 +305,8 @@ The bolded elements are required.
 
 After you create the Isotope, you will receive "Isotope Add Successful" message. You can also edit other fields of isotope and those fields along with their
 validation rules are given below:
-![SE Isotope](../images/skeletalElements/IsotopeAdd.png)
-![SE Isotope](../images/skeletalElements/IsotopeFields.png)
+
+![SE Isotope](../images/skeletalElements/IsotopeFields.gif)
 
 
 Below are some validation rules associated with Isotope Request
@@ -322,29 +318,29 @@ Below are some validation rules associated with Isotope Request
  Sample Number|Can only contain letters, numbers, dash and space| Required
  Batch|Can choose from the option available |Required
  Result Status | Either Pending, Reportable, Inconclusive, Unable to Assign, Cancelled or No Results' | Optional
- Weight Sampled Clean| Can only contain numbers| Optional
- Weight Vial and Lid| Can only contain numbers| Optional
+ Weight Sampled Clean| Can only contain numeric value| Optional
+ Weight Vial and Lid| Can only contain numeric value| Optional
  Weight Sample, Vial and Lid| Can only contain numbers| Optional
- Weight Collagen| Can only contain numbers| Optional
- Yield Collagen| Can only contain numbers| Optional
- Collagen Weight used for Analysis| Can only contain numbers| Optional
+ Weight Collagen| Can only contain numeric value| Optional
+ Yield Collagen| Can only contain numeric value| Optional
+ Collagen Weight used for Analysis| Can only contain numeric value| Optional
  Demineralizing Start Date| Date| Optional
  Demineralizing End Date| Date| Optional
  Analysis Requested| Can only contain numbers and letters| Optional
  Well Location | Can only contain numbers and letters| Optional
- Carbon Delta| Can only contain numbers| Optional
- Carbon Weight| Can only contain numbers| Optional
- Carbon Percentage| Can only contain numbers| Optional
- Nitrogen Delta:| Can only contain numbers| Optional
- Nitrogen Weight| Can only contain numbers| Optional
- Nitrogen Percentage| Can only contain numbers| Optional
- Carbon/Nitrogen Ratio| Can only contain numbers| Optional
- Oxygen Delta| Can only contain numbers| Optional
- Oxygen Weight| Can only contain numbers| Optional
- Carbon/Oxygen Ratio| Can only contain numbers| Optional
- Sulphur Delta| Can only contain numbers| Optional
- Sulphur Weight| Can only contain numbers| Optional
- Sulphur Percentage| Can only contain numbers| Optional
+ Carbon Delta| Can only contain numeric value| Optional
+ Carbon Weight| Can only contain numeric value| Optional
+ Carbon Percentage| Can only contain numeric value| Optional
+ Nitrogen Delta:| Can only contain numeric value| Optional
+ Nitrogen Weight| Can only contain numeric value| Optional
+ Nitrogen Percentage| Can only contain numeric value| Optional
+ Carbon/Nitrogen Ratio| Can only contain numeric value| Optional
+ Oxygen Delta| Can only contain numeric value| Optional
+ Oxygen Weight| Can only contain numeric value| Optional
+ Carbon/Oxygen Ratio| Can only contain numeric value| Optional
+ Sulphur Delta| Can only contain numeric value| Optional
+ Sulphur Weight| Can only contain numeric value| Optional
+ Sulphur Percentage|Can only contain numeric value| Optional
       
  
  
@@ -362,12 +358,12 @@ The taphonomy search is broken down in the "Element Highlights" and "Taphonomies
 
 The Taphonomies section allows you to view Taphonomies for the given bone. To add Taphonomies, click the "Actions" button and then "Edit". 
 
-![SE createAnomalies1](../images/skeletalElements/addTaphonomies.png)
+![SE createAnomalies1](../images/skeletalElements/addTaphonomies.gif)
 Click Save when finished adding Taphonomies to be returned to the Taphonomy page.
 
 
 ##### Zonal Classification
-![SE Zonal](../images/skeletalElements/zones.png)
+![SE Zonal](../images/skeletalElements/zones.gif)
 The zonal search is broken down in the "Element Highlights" and "Zones" sections. The element highlights section is read only and displays the following information about the selected bone:
 
 - Bone
@@ -397,7 +393,7 @@ These fields are read only - to edit then click "Actions" - then "Edit".
 When you are finished making changes click save on the bottom of the page.
 
 ##### Measurements
-![SE Measurements](../images/skeletalElements/measurements.png)
+![SE Measurements](../images/skeletalElements/measurements.gif)
 The measurement search is broken down in the "Element Highlights" and "Measurements" sections. The element highlights section is read only and displays the following information about the selected bone:
 
 - Bone
@@ -441,7 +437,7 @@ The Articulations search is broken down in the "Element Highlights" and "Articul
   
 The articulations section is read-only, and shows articulation information for a given bone. To make edits, go to "Actions" "Edit". Click Save when finished adding articulation to be returned to the articulations page.
   
-![SE Articulations](../images/skeletalElements/NewArticulation.png)
+![SE Articulations](../images/skeletalElements/NewArticulation.gif)
 
 Once the articulation method is added, you are taken Articulation screen. The following columns are visible for all the Articulations:
 
@@ -470,7 +466,6 @@ There are some columns which are not displayed at the screen but can be made vis
 - Updated By
 - Updated At
 
-![SE Articulations](../images/skeletalElements/articulations.png)
 
 
 ##### Pair Matching
