@@ -20,41 +20,30 @@ Org Administrator is one of the Users. Below image shows the screen of Org Admin
                                                                                       
 ![Click on Action](../images/Images_Org_Users_Project/OrgAdmin.png)
 
-The Org Admin takes the responsibility of creating and managing the <b> Users, <b> Projects, <b> Accession, <b> Instruments </b> and <b> Haplogroup </b>.
+The Org Admin takes the responsibility of creating and managing the  Users,  Projects,  Accession,  Instruments and Haplogroup.
 
 ### User Management 
 
 #### User Creation
 
-1.2.1 Login as Org Administrator
-
-![Login as Org Administrator](../images/Images_Org_Users_Project/loginAdmin.png)
-
-1.2.2 On the left navigation bar, click on the Administration
-
-![Click on Administration](../images/Images_Org_Users_Project/Admin.png)
-
-1.2.3 Under Administration, click on User Management
-
-![Click on User Management](../images/Images_Org_Users_Project/UserManagement.png)
-
-1.2.4 After you click on User Management, you will see list of all users
-
-![Click on User Management](../images/Images_Org_Users_Project/UserList.png)
+- Login as Org Administrator
+- On the left navigation bar, click on the Administration
+- Under Administration, click on User Management
+- After you click on User Management, you will see list of all users
 
 The user list screen provides the information related to the user such as its Name, Role, Email, Cell Phone, Active Status, Country, Language, Time Zone, IP Address and Last Activity.
-In the image above we can see some users have been inactive since a year and some are still active.
+In the gif above we can see some users have been inactive since a year and some are still active.
 
-1.2.5 On the User Management page, click on Actions, then Create
-
-![Click on Action](../images/Images_Org_Users_Project/Action.png)
-
-1.2.6 Enter the information on the New User creation page (required fields are marked 
+- On the User Management page, click on Actions, then Create
+- Enter the information on the New User creation page (required fields are marked 
 with a red asterisk*)
+- Through the "Roles" field, various user roles can be selected such as Org Admin, Anthropologist, Manager, DNA Analyst, Historian, Intern, Isotope Analyst.
+- Once all information is entered, click Save, and a message will appear at the top informing the user that the *“User successfully added”*
 
+
+ Users will be able to change their password once they have logged in. Ensure to check the Active box so that the user account is active and the user can login. 
  
-Users will be able to change their password once they have logged in. Ensure to check the Active box so that the user account is active and the user can login. Through the "Roles" field, various user roles can be selected such as Org Admin, Anthropologist, Manager, DNA Analyst, Historian, Intern, Isotope Analyst.
-![Click on Action](../images/Images_Org_Users_Project/Usercreation.png)
+![Click on Action](../images/Images_Org_Users_Project/Usercreation.gif)
 
 Below are some fields with some validation rule
  
@@ -68,16 +57,13 @@ Below are some fields with some validation rule
  Active Status | Boolean (True or False) | Optional
  Password | Should fulfill all the password requirements | Required
 
-1.2.7 Once all information is entered, click Save, and a message will appear at the top informing the user that the *“User successfully added”*
 
-![Click on Action](../images/Images_Org_Users_Project/Usercreated.png)
-
-### Edit an Existing User
+####  Edit an Existing User
 
 Click on their name in all user list. You will be taken to a read only page of their user profile. 
 
 To Edit their Profile Information - Click "Actions" - "Edit". 
- ![SE Search Categories](../images/skeletalElements/UserEdit.png)
+ ![SE Search Categories](../images/Images_Org_Users_Project/UserEdit.gif)
  
 The following fields are available on the user edit screen:
 
@@ -96,13 +82,8 @@ The following fields are available on the user edit screen:
  - Default Time Zone
  - Instruments
  
-Required fields are marked with a red asterisk*. Click save when finished editing.
-  
-To Reset their Password - Click "Reset Password".
- ![SE Search Categories](../images/skeletalElements/PasswordReset.png)
- 
-Enter the new password in both the fields and change password.
-  ![SE Search Categories](../images/skeletalElements/PasswordChange.png)
+Required fields are marked with a red asterisk*. Click save when finished editing. To Reset their Password - Click "Reset Password". Enter the new password in both the fields and change password.
+
   
 
 ### Project Management
