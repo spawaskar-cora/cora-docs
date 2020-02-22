@@ -128,7 +128,7 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
    At one time, you can only search for one sample number in this search category.
       
    Below is the search result obtained from DNA search by sample number '01A'.
-   ![Navigation Bar](../images/site_navigation/SampleNumberSearch.png) 
+   ![Navigation Bar](../images/site_navigation/SampleNumberSearch.gif) 
    
    
    Mito Seq Number
@@ -139,7 +139,7 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
    At one time, you can only search for one mito seq number in this search category.
            
    Below is the search result obtained from DNA search by mito seq number '2'.
-   ![Navigation Bar](../images/site_navigation/MitoSeqSearch.png) 
+   ![Navigation Bar](../images/site_navigation/MitoSeqSearch.gif) 
    
    External ID
    ![Navigation Bar](../images/site_navigation/ExternalId.png)  
@@ -150,8 +150,8 @@ The navigation bar consists of the CoRA icon, toggle the left sidebar button, pr
   
    At one time, you can only search for one external id in this search category.
               
-   Below is the search result obtained from DNA search by external id '2004HO114'.
-   ![Navigation Bar](../images/site_navigation/ExternalIdSearch.png) 
+   Below is the search result obtained from DNA search by external id '2016H2408'.
+   ![Navigation Bar](../images/site_navigation/ExternalIdSearch.gif) 
 ## Left Side Bar
 The left side bar includes the various modules of the CoRA web application that the user can select. The left side bar will have modules according to the role of the user. The following section shows the left side bar for Anthropologist-
    
