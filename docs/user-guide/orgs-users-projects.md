@@ -90,27 +90,21 @@ Required fields are marked with a red asterisk*. Click save when finished editin
 
 #### Project Creation
 
-1.3.1 Login as Org Administrator
+- Login as Org Administrator
+- Under Administration, click Project Management
+- After you click on Project Management, you will see list of all Projects
 
-1.3.2 Under Administration, click Project Management
-
-![Click on Administration](../images/Images_Org_Users_Project/ProjectManagement.png)
-
-1.3.3 After you click on Project Management, you will see list of all Projects
-![Click on User Management](../images/Images_Org_Users_Project/ProjectList.png)
 The Project list screen provides the information related to the project such as its Name, Description, Manager, Start Date, Status and whether it is Public or not.
 
-1.3.4 On the Project Management Page, click on Actions, then Create
-
-![Click on Administration](../images/Images_Org_Users_Project/Projectaction.png)
-
-
-1.3.5 Enter the information on the New Project creation page (required fields are marked 
+- On the Project Management Page, click on Actions, then Create
+- Enter the information on the New Project creation page (required fields are marked 
       with a red asterisk*)
-
 <small>*The public option enables the public to view the project *</small>
+- Adding Users to a Project <br>
+The Org Admin will be able to add users to specific projects through 'Assigned Users' field. From the dropdown box, the OrgAdmin adds users to the project and clicks save option.
 
-![Click on Administration](../images/Images_Org_Users_Project/Projectcreate.png)
+
+![Click on Administration](../images/Images_Org_Users_Project/Projectcreate.gif)
 
 Below are some fields with some validation rule
  
@@ -121,8 +115,8 @@ Below are some fields with some validation rule
  Status Id |  Can only contain numbers| Required
  Start Date | Can only contain date| Required
  Manager Id | Can only contain numbers | Required
- Geo latitude | Can only contain numbers| Required
- Geo Longitude | Can only contain numbers | Required
+ Geo latitude | Can only contain numeric value| Required
+ Geo Longitude | Can only contain numeric value | Required
  Slack Channel | Can only contain numbers and letters | Optional
  Latest MCC Date | Should fulfill all the password requirements | Optional
  Public | Boolean (True or False)| Optional
@@ -130,38 +124,25 @@ Below are some fields with some validation rule
  Isotope Analysis | Boolean (True or False) | Optional
  Zones Autocomplete | Boolean (True or False) | Optional
 
-#####Adding Users to a Project
-The Org Admin will be able to add users to specific projects through 'Assigned Users' field. From the dropdown box, the OrgAdmin adds users to the project and clicks save option.
 
 #### Edit Project
-1.3.6 After the creation of a Project and adding Users to a Project, the Org Admin can edit the Project.
+- After the creation of a Project and adding Users to a Project, the Org Admin can edit the Project.
 On the Project Management page, click on Actions, then Edit
 
-![Click on Action](../images/Images_Org_Users_Project/ProjectActions.png)
-
-1.3.7 Edit the needed information on the Project page, and click save
-![Click on Action](../images/Images_Org_Users_Project/ProjectEdit.png)
+- Edit the needed information on the Project page, and click save
+![Click on Action](../images/Images_Org_Users_Project/ProjectEdit.gif)
 
 
 ### Accession Management
 
 #### Creating Accession
-1.4.1 Login as Org Administrator
+- Login as Org Administrator
+- Under Administration, click Accession Management
+- After you click on Accession Management, you will see list of all Projects along with Key, Accession number, Provenance 1 and Provenance 2 fields.
+- On the Accession Management page, click on actions, and then click create
+- On the create accession page, the Org Admin can choose a specific project from the drop down option to assign the accession details.
 
-1.4.2 Under Administration, click Accession Management
-
-![Click on Administration](../images/Images_Org_Users_Project/AccessionManagement.png)
-
-1.4.3 After you click on Accession Management, you will see list of all Projects along with Key, Accession number, Provenance 1 and Provenance 2 fields.
-![Click on User Management](../images/Images_Org_Users_Project/AccessionList.png)
-
-1.4.4 On the Accession Management page, click on actions, and then click create
-
-![Click on Action](../images/Images_Org_Users_Project/AcessionAction.png)
-
-1.4.2 On the create accession page, the Org Admin can choose a specific project from the drop down option to assign the accession details.
-
-![Click on Action](../images/Images_Org_Users_Project/AccessionCreate.png)
+![Click on Action](../images/Images_Org_Users_Project/AccessionCreate.gif)
 
 On the create accessions page, enter the required information (*required fields are marked with a red asterisk*) for a particular project and click save
 After clicking save, the Org Admin will be redirected to the page displaying accession details associated with a specific project.
@@ -170,32 +151,28 @@ Below are some fields with some validation rule
  
  Element  | Validation Rule  | Required/Optional
  ------------- | -------------| -------------
- Number  |  Can only contain letters | Required
+ Number  |  Can only contain letters, numbers, dash and space | Required
  Provenance 1 | Can only contain letters, numbers, dash and space | Optional
  Provenance 2 |  Can only contain letters, numbers, dash and space  | Optional
 
+#### Edit Accession
+- After the creation of a Accession, the Org Admin can edit the Accession.
+On the Accession list page, click on Actions, then Edit
 
+- Edit the needed information on the Accession edit page, and click save
+![Click on Action](../images/Images_Org_Users_Project/AccessionEdit.gif)
 
 ### Instrument Management 
 
 #### Creating Instrument
-1.5.1 Login as Org Administrator
-
-1.5.2 Under Administration, click Instrument Management
-
-![Click on Administration](../images/Images_Org_Users_Project/InstrumentManagement.png)
-
-1.5.3 After you click on Instrument Management, you will see list of all Instruments with Code, Module, Category, Reference and Assigned Users fields.
-![Click on User Management](../images/Images_Org_Users_Project/InstrumentList.png)
-
-1.5.4 On the Instrument Management page, click on Actions and then click Create.
-
-![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate.png)
-
-1.5.5 On the create Instrument page, enter the required information and click save (required fields are marked 
+- Login as Org Administrator
+- Under Administration, click Instrument Management
+- After you click on Instrument Management, you will see list of all Instruments with Code, Module, Category, Reference and Assigned Users fields.
+- On the Instrument Management page, click on Actions and then click Create.
+- On the create Instrument page, enter the required information and click save (required fields are marked 
  with a red asterisk*)
 
-![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate1.png)
+![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate.gif)
 
  Element  | Validation Rule  | Required/Optional
  ------------- | -------------| -------------
@@ -208,35 +185,24 @@ Below are some fields with some validation rule
 The Org Admin will also be able to edit the users associated with the instrument by clicking the dropdown "Assigned Users"
 
 #### Edit Instrument
-1.5.6 After the creation of a Instrument, the Org Admin can edit the Instrument.
+- After the creation of a Instrument, the Org Admin can edit the Instrument.
 On the Instrument Management page, click on Actions, then Edit
 
-![Click on Action](../images/Images_Org_Users_Project/InstrumentEdit.png)
-
-1.5.7 Edit the needed information on the page, and click save
-![Click on Action](../images/Images_Org_Users_Project/EditInstru.png)
+- Edit the needed information on the page, and click save
+![Click on Action](../images/Images_Org_Users_Project/InstrumentEdit.gif)
 
 
 ### Haplogroup Management 
 #### Creating Haplogroup
 
-1.6.1 Login as Org Administrator
-
-1.6.2 Under Administration, click Haplogroup Management
-
-![Click on Administration](../images/Images_Org_Users_Project/HaplogroupManagement.png)
-
-1.6.3 After you click on Haplogroup Management, you will see list of all Haplogroups with their columns such as Type, Letter, Subgroup and Ancestry.
-![Click on User Management](../images/Images_Org_Users_Project/HaplogroupList.png)
-
-1.6.4 On the Haplogroup Management page, click on Actions and then click Create.
-
-![Click on Action](../images/Images_Org_Users_Project/HaploAction.png)
-
-1.6.5 On the create Haplogroup page, enter the required information and click save (required fields are marked 
+- Login as Org Administrator
+- Under Administration, click Haplogroup Management
+- After you click on Haplogroup Management, you will see list of all Haplogroups with their columns such as Type, Letter, Subgroup and Ancestry.
+- On the Haplogroup Management page, click on Actions and then click Create.
+- On the create Haplogroup page, enter the required information and click save (required fields are marked 
  with a red asterisk*)
 
-![Click on Action](../images/Images_Org_Users_Project/HaplogroupCreate.png)
+![Click on Action](../images/Images_Org_Users_Project/HaplogroupCreate.gif)
 
 Below are some fields with some validation rule
  
@@ -249,13 +215,11 @@ Below are some fields with some validation rule
  
 
 #### Edit Haplogroup
-1.6.6 After the creation of a Haplogroup, the Org Admin can edit the Haplogroup.
+- After the creation of a Haplogroup, the Org Admin can edit the Haplogroup.
 On the Haplogroup Management page, click on Actions, then Edit
 
-![Click on Action](../images/Images_Org_Users_Project/HaploEditAction.png)
-
-1.6.7 Edit the needed information on the page, and click save
-![Click on Action](../images/Images_Org_Users_Project/HaploEdit.png)
+- Edit the needed information on the page, and click save
+![Click on Action](../images/Images_Org_Users_Project/HaploEdit.gif)
 
 ##Org Manager
 Org Manager is one of the Users. Below image shows the screen of Org Manager. The left side bar includes the various modules of the CoRA web application that the Org Manager can select.  It consists of Dashboard, Specimens, DNA and Isotope
