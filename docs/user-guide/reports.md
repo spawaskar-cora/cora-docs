@@ -33,7 +33,7 @@ Each report will be outlined in detail.
 
 ## Advanced Report
 
-![Advanced Report](../images/reports/advancedReport.png)
+![Advanced Report](../images/reports/advancedReport.gif)
 
 The Advanced Report is the most comprehensive search available for a given skeletal element. It allows the user to search by the following fields.
 
@@ -58,7 +58,7 @@ This report has no required fields.
 
 ## mtDNA Report
 
-![mtDNA Report](../images/reports/mtDNAReport.png)
+![mtDNA Report](../images/reports/mtDNAReport.gif)
 
 The mtDNA report is designed to allow a user to locate bones by Mitochondrial DNA. The search fields available are:
 
@@ -68,6 +68,8 @@ The mtDNA report is designed to allow a user to locate bones by Mitochondrial DN
 - Result Status
 - Mito Sequence Number
 - Mito Sequence Subgroup
+- Request Dates From
+- Request Dates To
 
 Multiple Mito Sequence Numbers can be searched at one time.
 
