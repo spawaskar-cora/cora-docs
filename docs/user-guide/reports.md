@@ -76,7 +76,7 @@ Multiple Mito Sequence Numbers can be searched at one time.
 
 ## Zones Report
 
-![zones Report](../images/reports/zonesReport.png)
+![zones Report](../images/reports/zonesReport.gif)
 
 The Zones Report is designed to allow a user to locate bones by specific zones. The search fields available are:
 
@@ -105,7 +105,7 @@ The user is required to select a Bone, Zones and Search Select Type for this rep
 
 ## Methods Report
 
-![Methods Report](../images/reports/methodReport.png)
+![Methods Report](../images/reports/methodReport.gif)
 
 The Method Report allows a user to search by bones by a specific method. The search fields available are:
 
@@ -123,7 +123,7 @@ The bolded fields are required. The user is required to select a bone and a meth
 
 ## Measurements Report
 
-![Measurements Report](../images/reports/measurementsReport.png)
+![Measurements Report](../images/reports/measurementsReport.gif)
 
 The Measurements Report allows a user to select by individual number and side of a bone. The search fields available are:
 
@@ -139,7 +139,7 @@ The bolded fields are required. The user is required to select a bone and a indi
 
 ## Articulations Report
 
-![Articulations Report](../images/reports/articulationsReport.png)
+![Articulations Report](../images/reports/articulationsReport.gif)
 
 The Articulations Report allows a user to select by articulations. The search fields available are:
 
@@ -155,7 +155,7 @@ A Group or Bone is required for this report.
 
 ## Individual Number Report
 
-![Individual Number Report](../images/reports/individualNumberReport.png)
+![Individual Number Report](../images/reports/individualNumberReport.gif)
 
 The Individual Number Report allows a user to select by an individual bone number. The search fields available are:
 
@@ -170,7 +170,7 @@ The bolded fields are required. An Individual Number and Bone is required to run
 
 ## Trauma Report
 
-![Trauma Report](../images/reports/traumaReport.png)
+![Trauma Report](../images/reports/traumaReport.gif)
 
 The Trauma Report allows a user to select by an trauma category. The search fields available are:
 
@@ -185,7 +185,7 @@ You must select a trauma category to run this report.
 
 ## Anomaly Report
 
-![Anomaly Report](../images/reports/anomalyReport.png)
+![Anomaly Report](../images/reports/anomalyReport.gif)
 
 The Anomaly Report allows a user to select by an anomaly category. The search fields available are:
  
@@ -200,7 +200,7 @@ An anomaly category must be selected to run this report.
 
 ## Pathology Report
 
-![Pathology Report](../images/reports/pathologyReport.png)
+![Pathology Report](../images/reports/pathologyReport.gif)
 
 The Pathology Report allows a user to select by an pathology category. The search fields available are:
   
