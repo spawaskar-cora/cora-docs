@@ -29,12 +29,12 @@ The fields to create a new specimen are:
 
 The bolded fields are required. Below are some fields with some validation rule
  
- Element  | Validation Rule  | Required/Optional
- ------------- | -------------| -------------
- Accession  |  Can only contain letters, numbers, dash and space | Required
- Provenance 1 | Can only contain letters, numbers, dash and space  | Optional
- Provenance 2  |  Can only contain letters, numbers, dash and space | Optional
- Designator | Can only contain letters and numbers | Required
+ Attributes  |Data Type |Size | Validation Rule  | Required/Optional
+ ------------- | ------------- | -------------|-------------| -------------
+ Accession  |  String |32 chars | Can only contain letters, numbers, dash and space and should have min 3 chars | Required
+ Provenance 1 |  String |32 chars |Can only contain letters, numbers, dash and space  | Optional
+ Provenance 2  |  String |32 chars | Can only contain letters, numbers, dash and space | Optional
+ Designator |  Alphanumeric |32 chars |Can only contain letters and numbers | Required
   
  Once you have filled out all the fields, click the save button, and you will be taken to the Specimen View page.
 
@@ -66,24 +66,24 @@ This page is view only, here all fields related to the specimens are displayed. 
 
 The bolded fields are required. Some of the fields along with their validation rules are as follows:
 
- Element  | Validation Rule  | Required/Optional
- ------------- | -------------| -------------
- Accession  |  Can only contain letters, numbers, dash and space | Required
- Provenance 1 | Can only contain letters, numbers, dash and space  | Optional
- Provenance 2  |  Can only contain letters, numbers, dash and space | Optional
- Designator | Can only contain Alphanumeric (letters and numbers) | Required
- Individual Number | Can only contain letters, numbers, dash and space | Optional
- Side  |  Either Left, Right, Middle or Unsided| Required
- Completeness | Either Complete or Incomplete | Required
- Measured  |  Boolean (True or False) | Optional
- DNA Sampled| Boolean (True or False) | Optional
- Isotope Sampled | Boolean (True or False) | Optional
- Inventory Completed |  Boolean (True or False) | Optional
- Reviewed| Boolean (True or False) | Optional
- CT Scanned | Boolean (True or False) | Optional
- X-ray Scanned| Boolean (True or False) | Optional
- 3D Scanned | Boolean (True or False) | Optional
- Remain Status | Either In Lab or Released | Optional
+ Attributes  | Data Type |Size |Validation Rule  | Required/Optional
+ ------------- |------------- | -------------| -------------| -------------
+ Accession  |  String |32 chars | Can only contain letters, numbers, dash and space | Required
+ Provenance 1 |  String |32 chars |Can only contain letters, numbers, dash and space  | Optional
+ Provenance 2  |  String |32 chars | Can only contain letters, numbers, dash and space | Optional
+ Designator | Alphanumeric |32 chars | Can only contain  letters and numbers | Required
+ Individual Number | String |32 chars | Can only contain letters, numbers, dash and space | Optional
+ Side  |  NA| NA|Either Left, Right, Middle or Unsided| Required
+ Completeness |  NA| NA|Either Complete or Incomplete | Required
+ Measured  |  Boolean |NA|True or False | Optional
+ DNA Sampled| Boolean |NA|True or False | Optional
+ Isotope Sampled | Boolean |NA|True or False | Optional
+ Inventory Completed |  Boolean |NA|True or False | Optional
+ Reviewed|Boolean |NA|True or False |Optional
+ CT Scanned | Boolean |NA|True or False | Optional
+ X-ray Scanned| Boolean |NA|True or False | Optional
+ 3D Scanned | Boolean |NA|True or False | Optional
+ Remain Status | NA|NA|Either In Lab or Released | Optional
 Click "Save" When you are done making changes. 
 
 To add another new specimen, clicks "Actions" followed by "Create".
@@ -110,10 +110,10 @@ The fields to create a new bone group are:
 
 The bolded fields are required. Below are some fields with some validation rule
  
-  Element  | Validation Rule  | Required/Optional
-  ------------- | -------------| -------------
-  Bone Group  |  Can only contain letters | Required
-  Bone Group Id | UUID  | Required
+  Attributes  | Data Type |Size |Validation Rule  | Required/Optional
+  ------------- | ------------- | -------------|-------------| -------------
+  Bone Group  |  String |64 chars|Can only contain letters | Required
+  Bone Group Id |String |64 chars| UUID  | Required
                              
                                  
 
