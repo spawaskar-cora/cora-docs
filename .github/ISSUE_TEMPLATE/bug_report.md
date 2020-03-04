@@ -10,6 +10,9 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**What is the environment**
+Is this bug in the CAT or PROD environment?
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
