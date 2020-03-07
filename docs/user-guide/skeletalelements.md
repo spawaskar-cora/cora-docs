@@ -311,36 +311,36 @@ validation rules are given below:
 
 Below are some validation rules associated with Isotope Request
  
- Element  | Validation Rule  | Required/Optional
- ------------- | -------------| -------------
- Lab | Can choose from the option available | Required
- External Case # |  Can only contain letters and numbers| Optional
- Sample Number|Can only contain letters, numbers, dash and space| Required
- Batch|Can choose from the option available |Required
- Result Status | Either Pending, Reportable, Inconclusive, Unable to Assign, Cancelled or No Results' | Optional
- Weight Sampled Clean| Can only contain numeric value| Optional
- Weight Vial and Lid| Can only contain numeric value| Optional
- Weight Sample, Vial and Lid| Can only contain numbers| Optional
- Weight Collagen| Can only contain numeric value| Optional
- Yield Collagen| Can only contain numeric value| Optional
- Collagen Weight used for Analysis| Can only contain numeric value| Optional
- Demineralizing Start Date| Date| Optional
- Demineralizing End Date| Date| Optional
- Analysis Requested| Can only contain numbers and letters| Optional
- Well Location | Can only contain numbers and letters| Optional
- Carbon Delta| Can only contain numeric value| Optional
- Carbon Weight| Can only contain numeric value| Optional
- Carbon Percentage| Can only contain numeric value| Optional
- Nitrogen Delta:| Can only contain numeric value| Optional
- Nitrogen Weight| Can only contain numeric value| Optional
- Nitrogen Percentage| Can only contain numeric value| Optional
- Carbon/Nitrogen Ratio| Can only contain numeric value| Optional
- Oxygen Delta| Can only contain numeric value| Optional
- Oxygen Weight| Can only contain numeric value| Optional
- Carbon/Oxygen Ratio| Can only contain numeric value| Optional
- Sulphur Delta| Can only contain numeric value| Optional
- Sulphur Weight| Can only contain numeric value| Optional
- Sulphur Percentage|Can only contain numeric value| Optional
+ Attributes  |  Data Type |Size |Validation Rule  | Required/Optional
+ ------------- | -------------|------------- | -------------| -------------
+ Lab | NA|NA|Can choose from the option available | Required
+ External Case # |Alphanumeric|32 chars|  Can only contain letters and numbers| Optional
+ Sample Number|String|32 chars| Can only contain letters, numbers, dash and space| Required
+ Batch|NA|NA|Can choose from the option available |Required
+ Result Status |NA|NA| Either Pending, Reportable, Inconclusive, Unable to Assign, Cancelled or No Results' | Optional
+ Weight Sampled Clean| Numeric|32 chars| Can only contain numeric value| Optional
+ Weight Vial and Lid|Numeric|32 chars|  Can only contain numeric value| Optional
+ Weight Sample, Vial and Lid| Numeric|32 chars|Can only contain numeric value| Optional
+ Weight Collagen| Numeric|32 chars|Can only contain numeric value| Optional
+ Yield Collagen| Numeric|32 chars|Can only contain numeric value| Optional
+ Collagen Weight used for Analysis| Numeric|32 chars|Can only contain numeric value| Optional
+ Demineralizing Start Date| Date|NA|Can only contain date| Optional
+ Demineralizing End Date| Date|NA|Can only contain date| Optional
+ Analysis Requested| Alphanumeric|32 chars|Can only contain numbers and letters| Optional
+ Well Location |Alphanumeric|32 chars| Can only contain numbers and letters| Optional
+ Carbon Delta| Numeric|32 chars|Can only contain numeric value| Optional
+ Carbon Weight| Numeric|32 chars|Can only contain numeric value| Optional
+ Carbon Percentage| Numeric|32 chars|Can only contain numeric value| Optional
+ Nitrogen Delta| Numeric|32 chars|Can only contain numeric value| Optional
+ Nitrogen Weight|  Numeric|32 chars|Can only contain numeric value| Optional
+ Nitrogen Percentage|  Numeric|32 chars|Can only contain numeric value| Optional
+ Carbon/Nitrogen Ratio|  Numeric|32 chars|Can only contain numeric value| Optional
+ Oxygen Delta|  Numeric|32 chars|Can only contain numeric value| Optional
+ Oxygen Weight|  Numeric|32 chars|Can only contain numeric value| Optional
+ Carbon/Oxygen Ratio|  Numeric|32 chars|Can only contain numeric value| Optional
+ Sulphur Delta|  Numeric|32 chars|Can only contain numeric value| Optional
+ Sulphur Weight|  Numeric|32 chars|Can only contain numeric value| Optional
+ Sulphur Percentage| Numeric|32 chars|Can only contain numeric value| Optional
       
  
  

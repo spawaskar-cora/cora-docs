@@ -64,7 +64,7 @@ Attributes  |  Data Type |Size |Validation Rule  | Required/Optional
 Mito Method  | NA|NA|Choose from the options available | Required
 Mito Request Date| Date| NA|Can only contain date| Optional
 Mito Receive Date| Date| NA|Can only contain date| Optional
-Mito Results Confidence||NA|NA|Either Pending, Reportable, Inconclusive, Unable to Assign, Cancelled or No Results| Optional
+Mito Results Confidence|NA|NA|Either Pending, Reportable, Inconclusive, Unable to Assign, Cancelled or No Results| Optional
 Mito Sequence Number|Numeric| 32 chars|Can only contain numeric value| Optional
 Mito Sequence Subgroup  | String|32 chars| Can only contain letters, numbers, dash and space | Optional
 Mito Sequence Similar  |  String|32 chars|Can only contain letters, numbers, dash and space  | Optional
@@ -79,6 +79,8 @@ Mito Fasta Sequence|  String|32 chars|Can only contain letters, numbers, dash an
 Mito Haplosubgroup | String|32 chars| Can only contain letters, numbers, dash and space | Optional
 Mito locus | String|32 chars|Special characters are not allowed | Optional
 Mito Num Loci| Numeric |32 chars| Can only contain numeric value | Optional
+
+
 ##auSTR
 
 ![dna_profile](../images/dna/Austr_Dna.gif)
