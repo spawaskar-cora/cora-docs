@@ -47,15 +47,15 @@ with a red asterisk*)
 
 Below are some fields with some validation rule
  
- Element  | Validation Rule  | Required/Optional
- ------------- | -------------| -------------
- First Name  |  Can only contain letters | Required
- Last Name | Can only contain letters and  dash | Required
- Email  |  Should be unique with 255 max char | Required
- Cell phone | Can only contain numbers and dash | Optional
- Role | Choose from the dropdown | Required
- Active Status | Boolean (True or False) | Optional
- Password | Should fulfill all the password requirements | Required
+ Attributes  | Data Type |Size |Validation Rule  | Required/Optional
+ ------------- | ------------- | -------------|-------------| -------------
+ First Name  |  String| 32 chars|Can only contain letters | Required
+ Last Name | String| 32 chars|Can only contain letters and  dash | Required
+ Email  |  String| 255 chars|Should be unique with 255 max chars | Required
+ Cell phone | String| 32 chars|Can only contain numbers and dash | Optional
+ Role | NA|NA|Choose from the dropdown | Required
+ Active Status | Boolean |NA|True or False| Optional
+ Password | String| 64 chars|Should fulfill all the password requirements | Required
 
 
 ####  Edit an Existing User
@@ -103,26 +103,25 @@ The Project list screen provides the information related to the project such as 
 - Adding Users to a Project <br>
 The Org Admin will be able to add users to specific projects through 'Assigned Users' field. From the dropdown box, the OrgAdmin adds users to the project and clicks save option.
 
-
 ![Click on Administration](../images/Images_Org_Users_Project/Projectcreate.gif)
 
 Below are some fields with some validation rule
  
- Element  | Validation Rule  | Required/Optional
- ------------- | -------------| -------------
- Name  |  Can only contain letters and numbers, min:3 and max:255 chars | Required
- Description |Can minimum 3 chars and 255 max chars | Required
- Status Id |  Can only contain numbers| Required
- Start Date | Can only contain date| Required
- Manager Id | Can only contain numbers | Required
- Geo latitude | Can only contain numeric value| Required
- Geo Longitude | Can only contain numeric value | Required
- Slack Channel | Can only contain numbers and letters | Optional
- Latest MCC Date | Should fulfill all the password requirements | Optional
- Public | Boolean (True or False)| Optional
- Allow users To create Accessions | Boolean (True or False) | Optional
- Isotope Analysis | Boolean (True or False) | Optional
- Zones Autocomplete | Boolean (True or False) | Optional
+ Attributes  |  Data Type |Size |Validation Rule  | Required/Optional
+ ------------- | ------------- | -------------|-------------| -------------
+ Name  |  String|255 chars|Can only contain letters and numbers, min:3 and max:255 chars | Required
+ Description |String|255 chars|Can contain minimum 3 chars and 255 max chars | Required
+ Status Id |  Numeric| 32 chars|Can only contain numbers| Required
+ Start Date | Date|NA|Can only contain date| Required
+ Manager Id | Numeric| 32 chars|Can only contain numbers | Required
+ Geo latitude | Numeric| 32 chars|Can only contain numeric value| Required
+ Geo Longitude | Numeric| 32 chars|Can only contain numeric value | Required
+ Slack Channel | Alphanumeric| 32 chars|Can only contain numbers and letters | Optional
+ Latest MCC Date |Date|NA|Can only contain date | Optional
+ Public | Boolean |NA|True or False| Optional
+ Allow users To create Accessions | Boolean |NA|True or False| Optional
+ Isotope Analysis |Boolean |NA|True or False| Optional
+ Zones Autocomplete | Boolean |NA|True or False| Optional
 
 
 #### Edit Project
@@ -149,11 +148,11 @@ After clicking save, the Org Admin will be redirected to the page displaying acc
 
 Below are some fields with some validation rule
  
- Element  | Validation Rule  | Required/Optional
- ------------- | -------------| -------------
- Number  |  Can only contain letters, numbers, dash and space | Required
- Provenance 1 | Can only contain letters, numbers, dash and space | Optional
- Provenance 2 |  Can only contain letters, numbers, dash and space  | Optional
+ Attributes  |Data Type |Size | Validation Rule  | Required/Optional
+ ------------- | ------------- | -------------|-------------| -------------
+ Number  | String|32 chars| Can only contain letters, numbers, dash and space | Required
+ Provenance 1 |String|32 chars| Can only contain letters, numbers, dash and space | Optional
+ Provenance 2 | String|32 chars| Can only contain letters, numbers, dash and space  | Optional
 
 #### Edit Accession
 - After the creation of a Accession, the Org Admin can edit the Accession.
@@ -174,13 +173,13 @@ On the Accession list page, click on Actions, then Edit
 
 ![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate.gif)
 
- Element  | Validation Rule  | Required/Optional
- ------------- | -------------| -------------
- Code | Can have max 255 chars | Required
- Category |  Can have max 255 chars| Required
- Module|Can have max 255 chars| Required
- Reference | Can have max 255 chars| Optional
- Assigned Users | Can choose from the options available| Optional
+ Attributes  |Data Type |Size | Validation Rule  | Required/Optional
+ ------------- |  ------------- | -------------|-------------| -------------
+ Code | String|255 chars|Can have max 255 chars | Required
+ Category |  String|255 chars|Can have max 255 chars| Required
+ Module|String|255 chars|Can have max 255 chars| Required
+ Reference |String|255 chars| Can have max 255 chars| Optional
+ Assigned Users | NA|NA|Can choose from the options available| Optional
 
 The Org Admin will also be able to edit the users associated with the instrument by clicking the dropdown "Assigned Users"
 
@@ -206,12 +205,12 @@ On the Instrument Management page, click on Actions, then Edit
 
 Below are some fields with some validation rule
  
- Element  | Validation Rule  | Required/Optional
- ------------- | -------------| -------------
- Type | Can choose from the option available | Required
- Letter |  Can only contain one character from A-Z| Required
- Subgroup|No specified rule| Optional
- Ancestry | Can choose from the option available| Optional
+ Attributes  |Data Type |Size | Validation Rule  | Required/Optional
+ ------------- | ------------- | -------------|-------------| -------------
+ Type | NA|NA|Can choose from the option available | Required
+ Letter |  String|1 char|Can only contain one character from A-Z| Required
+ Subgroup|String|32 chars|No specified rule| Optional
+ Ancestry | NA|NA|Can choose from the option available| Optional
  
 
 #### Edit Haplogroup
