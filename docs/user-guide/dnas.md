@@ -1,4 +1,9 @@
 #DNA Profile
+
+##Create DNA
+
+![SE DNA Profile](../images/skeletalElements/dnaProfile.gif)
+
 Specimens which have had a DNA sample successfully completed will 
 have an associated *DNA Profile*.  The profile contains all relevant DNA attributes and are editable via  ![action](../images/dna/action.png)(appropriate permissions required)<br> 
 ![dna_profile](../images/dna/viewDna.gif) <br/>
