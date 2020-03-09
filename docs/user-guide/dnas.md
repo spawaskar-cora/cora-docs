@@ -65,7 +65,7 @@ Mito Method  | NA|NA|Choose from the options available | Required
 Mito Request Date| Date| NA|Can only contain date| Optional
 Mito Receive Date| Date| NA|Can only contain date| Optional
 Mito Results Confidence|NA|NA|Either Pending, Reportable, Inconclusive, Unable to Assign, Cancelled or No Results| Optional
-Mito Sequence Number|Numeric| 32 chars|Can only contain numeric value| Optional
+Mito Sequence Number|String| 32 chars|Can only contain letters, numbers, dash and space| Optional
 Mito Sequence Subgroup  | String|32 chars| Can only contain letters, numbers, dash and space | Optional
 Mito Sequence Similar  |  String|32 chars|Can only contain letters, numbers, dash and space  | Optional
 Mito Match Count |  Numeric| 32 chars|Can only contain numeric value | Optional
@@ -106,7 +106,7 @@ AuSTR Method  | NA|NA|Choose from the options available | Required
 AuSTR Request Date| Date| NA|Can only contain date| Optional
 AuSTR Receive Date| Date| NA|Can only contain date| Optional
 AuSTR Results Confidence|NA|NA|Either Pending, Reportable, Inconclusive, Unable to Assign, Cancelled or No Results| Optional
-AuSTR Sequence Number| Numeric| 32 chars|Can only contain numeric value| Optional
+AuSTR Sequence Number| String| 32 chars|Can only contain letters, numbers, dash and space| Optional
 AuSTR Sequence Subgroup  | String| 32 chars| Can only contain letters, numbers, dash and space | Optional
 AuSTR Sequence Similar  |  String| 32 chars|Can only contain letters, numbers, dash and space  | Optional
 AuSTR Match Count | Numeric| 32 chars| Can only contain numeric value| Optional
@@ -143,7 +143,7 @@ Y-STR Method  | NA|NA|Choose from the options available | Required
 Y-STR Request Date|Date| NA|Can only contain date| Optional
 Y-STR Receive Date|Date| NA|Can only contain date| Optional
 Y-STR Results Confidence|NA|NA|Either Pending, Reportable, Inconclusive, Unable to Assign, Cancelled or No Results| Optional
-Y-STR Sequence Number|Numeric|32 chars |Can only contain numeric value| Optional
+Y-STR Sequence Number|String|32 chars |Can only contain letters, numbers, dash and space| Optional
 Y-STR Sequence Subgroup  | String| 32 chars| Can only contain letters, numbers, dash and space | Optional
 Y-STR Sequence Similar  | String| 32 chars| Can only contain letters, numbers, dash and space  | Optional
 Y-STR Match Count |  Numeric|32 chars |Can only contain numeric value | Optional
