@@ -296,7 +296,7 @@ The Isotope Analysis is broken down in the "Element Highlights" and "Create Isot
    - Inventory Completed Status
    - Reviewed Status
 
-The 'Create Isotope' section allows to create a isotope for the given bone. This section ahs the following elements. 
+The 'Create Isotope' section allows to create a isotope for the given bone. This section has the following elements. 
 - **Lab**
 - External Case #
 - **Isotope Sample Number**
