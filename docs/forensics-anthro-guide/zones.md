@@ -180,7 +180,7 @@ externally)
 *Zones*
 
 1\. Head  
-2\. Area of the angle of the rib, including the articular and non-articular costal facets in ribs 1 through 10  
+2\. Rib angle including tubercle 
 3\. Corpus  
 4\. Sternal end    
 
