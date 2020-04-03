@@ -1,12 +1,10 @@
-In this section we present the images for measurements used in the inventory of human remains, along with captions and desciptions of each measurement. The measurement definitions are derived from:
+In this section we present the images for measurements used in the inventory of human remains, along with captions and desciptions of each measurement. Images are derived from Langley et al. (2016), drawn by Elizabeth Lockett, or drawn by Nandar Yukyi. The measurement definitions are derived from:
 
 Langley et al. (2016) Data Collection Procedures for Forensic Skeletal Material 2.0. University of Tennessee and Lincoln Memorial University;
 
 Byrd & Adams (2003) Osteometric sorting of commingled human remains. Journal of Forensic Sciences, 48:717-724; and
 
 Berg (2014) Biological affinity and sex from the mandible utilizing multiple world populations. In: Berg GE, Ta’ala SC, editors. Biological Affinity in Forensic Identification of Human Skeletal Remains:  Beyond Black and White. pp. 43–81.
-
-Images derived from Langley et al. (2016) by Elizabeth Lockett and Nandar Yukyi.
 
 # Cranium
 
@@ -216,6 +214,21 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* mandibulometer.
 
 **Man_10 Mandibular Angle:**  The angle formed by inferior border of the corpus and the posterior border of the ramus. 
+
+* *Instrument:* mandibulometer.
+* *Comment:*  In case of “rocker jaws”, the bone is held in place by pressing down on the second molars (Martin and Knussmann 1988:185, #79; Moore-Jansen et al. 1994, #34; Langley et al. 2016:72, #37). 
+
+**Man_11 Mandibular Angle:**  The angle formed by inferior border of the corpus and the posterior border of the ramus. 
+
+* *Instrument:* mandibulometer.
+* *Comment:*  In case of “rocker jaws”, the bone is held in place by pressing down on the second molars (Martin and Knussmann 1988:185, #79; Moore-Jansen et al. 1994, #34; Langley et al. 2016:72, #37). 
+
+**Man_12 Mandibular Angle:**  The angle formed by inferior border of the corpus and the posterior border of the ramus. 
+
+* *Instrument:* mandibulometer.
+* *Comment:*  In case of “rocker jaws”, the bone is held in place by pressing down on the second molars (Martin and Knussmann 1988:185, #79; Moore-Jansen et al. 1994, #34; Langley et al. 2016:72, #37). 
+
+**Man_13 Mandibular Angle:**  The angle formed by inferior border of the corpus and the posterior border of the ramus. 
 
 * *Instrument:* mandibulometer.
 * *Comment:*  In case of “rocker jaws”, the bone is held in place by pressing down on the second molars (Martin and Knussmann 1988:185, #79; Moore-Jansen et al. 1994, #34; Langley et al. 2016:72, #37). 
