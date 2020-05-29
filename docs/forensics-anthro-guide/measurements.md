@@ -1,4 +1,11 @@
-In this section we present the images for measurements used in the inventory of human remains, along with captions and desciptions of each measurement. The measurement definitions are derived from Langley et al. (2016) Data Collection Procedures for Forensic Skeletal Material 2.0. University of Tennessee and Lincoln Memorial University and Byrd & Adams (2003) Osteometric sorting of commingled human remains. Journal of Forensic Sciences, 48:717-724. Images derived from Langley et al. (2016) by Elizabeth Lockett and Nandar Yukyi.
+In this section we present the images for measurements used in the inventory of human remains, along with captions and desciptions of each measurement. 
+
+Measurement definitions are derived from:
+* Langley et al. (2016) *Data Collection Procedures for Forensic Skeletal Material 2.0.* University of Tennessee and Lincoln Memorial University
+* Byrd & Adams (2003) Osteometric sorting of commingled human remains. *Journal of Forensic Sciences*, 48:717-724.
+* Meadows and Langley (1992) Estimation of stature from metacarpal lengths. *Journal of Forensic Sciences*, 37:147-154.
+
+Images by Elizabeth Lockett and Nandar Yukyi are derived from Langley et al. (2016).
 
 ---
 
@@ -127,7 +134,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 **Cra_23 Foramen Magnum Length (ba-o, FOL):**  The mid-sagittal distance from the most anterior point on the foramen magnum margin to opisthion (o). 
 
 * *Instrument:* sliding caliper
-* *Comment:*  Measure with the skull base up, using the inside jaws of the calipers. (Martin and Knussmann 1988:169 #7; Moore-Jansen et al. 1994, #22; Langley et al. 2016:69, #23). 
+* *Comment:*  Measure with the skull base up, using the inside jaws of the calipers (Martin and Knussmann 1988:169 #7; Moore-Jansen et al. 1994, #22; Langley et al. 2016:69, #23). 
 
 **Cra_24 Foramen Magnum Breadth (FOB):**  The distance between the lateral margins of the foramen magnum at the point of greatest lateral curvature. 
 
@@ -168,7 +175,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 **Man_01 Chin Height (id-gn):**  The distance from infradentale (id) to gnathion (gn). 
 
 * *Instrument:* sliding caliper
-* *Comments:*  When the mandibular alveolar process is damaged between the central incisors, estimates of this measurement are recorded by using the intact alveolar process at the position of the lateral incisors. Any estimate or adjustment should be indicated on the recording form. In mandibles where the alveolar process exhibit pronounced erosion or resorption, this measurement is not taken (Martin and Knussmann 1988:183, #69; Moore-Jansen et al. 1994, #25; Langley et al. 2016:71, #29). 
+* *Comment:*  When the mandibular alveolar process is damaged between the central incisors, estimates of this measurement are recorded by using the intact alveolar process at the position of the lateral incisors. Any estimate or adjustment should be indicated on the recording form. In mandibles where the alveolar process exhibit pronounced erosion or resorption, this measurement is not taken (Martin and Knussmann 1988:183, #69; Moore-Jansen et al. 1994, #25; Langley et al. 2016:71, #29). 
 
 ![Mandible](../images/measurements/mandible_500.png)
 
@@ -184,18 +191,18 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 **Man_04 Bigonial Breadth (go-go):**  The distance between the right and left gonion (go). 
 
-* *Instrument:* sliding caliper. 
-* *Comments:*  Apply the blunt points of the caliper arms to the most prominent external points at the mandibular angles (Martin and Knussmann 1988:182, #66; Moore-Jansen et al. 1994, #28; Langley et al. 2016:71, #32). 
+* *Instrument:* sliding caliper 
+* *Comment:*  Apply the blunt points of the caliper arms to the most prominent external points at the mandibular angles (Martin and Knussmann 1988:182, #66; Moore-Jansen et al. 1994, #28; Langley et al. 2016:71, #32). 
 
 **Man_05 Bicondylar Breadth (cdl-cdl):**  The distance between the most lateral points on the mandibular condyles (cdl). 
 
 * *Instrument:* sliding caliper
-* *Comments:*  Place the blunt point of the fixed end of the instrument against the right condyle and apply the movable end to the left condyle (Martin and Knussmann 1988:182, #65; Moore-Jansen et al. 1994, #29; Langley et al. 2016:71, #33). 
+* *Comment:*  Place the blunt point of the fixed end of the instrument against the right condyle and apply the movable end to the left condyle (Martin and Knussmann 1988:182, #65; Moore-Jansen et al. 1994, #29; Langley et al. 2016:71, #33). 
 
 **Man_06L and Man_06R Minimum Ramus Breadth:**  The minimum breadth of the mandibular ramus measured perpendicular to the height of the ramus, of the left (L) and right (R) sides, respectively. 
 
 * *Instrument:* sliding caliper
-* *Comments:*  The measurement is taken at the waist of the ramus (the point where the distance between the anterior and posterior margins of the ramus is the smallest) (Martin and Knussmann 1988:183, #71a; Moore-Jansen et al. 1994, #30; Langley et al. 2016:72, #34). 
+* *Comment:*  The measurement is taken at the waist of the ramus (the point where the distance between the anterior and posterior margins of the ramus is the smallest) (Martin and Knussmann 1988:183, #71a; Moore-Jansen et al. 1994, #30; Langley et al. 2016:72, #34). 
 
 **Man_07L and Man_07R Maximum Ramus Breadth:**  Distance between the most anterior point on the mandibular ramus and a line connecting the most posterior point on the condyle and the angle of the jaw (Moore-Jansen et al. 1994, #31), of the left (L) and right (R) sides, respectively. 
 
@@ -204,7 +211,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 **Man_08 Maximum Ramus Height:**  The distance from gonion (go) to the highest point on the mandibular condyle. 
 
 * *Instrument:* mandibulometer
-* *Comments:*  Apply movable board of the mandibulometer to the posterior borders of the mandibular rami and the fixed board against the most anterior point of the chin (Martin and Knussmann 1988:183, #70; Moore-Jansen et al. 1994, #32; Langley et al. 2016:72, #35). 
+* *Comment:*  Apply movable board of the mandibulometer to the posterior borders of the mandibular rami and the fixed board against the most anterior point of the chin (Martin and Knussmann 1988:183, #70; Moore-Jansen et al. 1994, #32; Langley et al. 2016:72, #35). 
 
 **Man_09 Mandibular Length:**  The distance from the anterior margin of the chin to the midpoint of a straight line extending from the posterior border of the right and left mandibular angles (Martin and Knussmann 1988:182, #68; Moore-Jansen et al. 1994, #33; Langley et al. 2016:72, #36). 
 
@@ -227,7 +234,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 **Cer1_03 (Left) and Cer1_04 (Right) Maximum Length of the Inferior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81M). 
 
-* *Instrument:* sliding caliper.
+* *Instrument:* sliding caliper
 
 **Cer2_01 (Left) and Cer2_02 (Right) Maximum Length of the Superior Articular Facet of C2:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81B). 
 
@@ -327,7 +334,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 **Hum_02 Epicondylar Breadth of the Humerus:**  The distance from the most laterally protruding point on the lateral epicondyle to the corresponding projection on the medial epicondyle (Martin and Knussmann 1988:199, #4; Moore-Jansen et al. 1994, #41; Langley et al. 2016:74, #46). 
 
-* *Instrument:* osteometric board or sliding calipers
+* *Instrument:* osteometric board or sliding caliper
 
 **Hum_03 Maximum Vertical Diameter of Head:**  The distance between the most superior and inferior points on the border of the articular surface. 
 
@@ -464,7 +471,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 **Uln_10 Minimum Diameter of the Diaphysis:**  This measurement will be found near the distal epiphysis of the ulna. The bone should be rotated in order to locate the minimum distance (Byrd and Adams 2003, #51B). 
 
-* *Instrument:* sliding caliper.
+* *Instrument:* sliding caliper
 
 **Uln_11 Breadth of the Semilunar Notch:**  This is a measure of only the distal surface of the semilunar notch (the base). 
 
@@ -481,6 +488,21 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 # Wrist and Hand
 
 ![Hands](../images/measurements/hand_500.png)
+
+**Maximum lengths of the carpals:** This is the maximum length of the bone.  
+
+* **Scp_01 Maximum Length of the Scaphoid (Byrd and Adams 2015, #52.5F)**
+* **Lun_01 Maximum Length of the Lunate (Byrd and Adams 2015, #52.5G)**
+* **Tri_01 Maximum Length of the Triquetral (Byrd and Adams 2015, #52.5H)**
+* **Pis_01 Maximum Length of the Pisiform (Byrd and Adams 2015, #52.5I)**
+* **Tzm_01 Maximum Length of the Trapezium (Byrd and Adams 2015, #52.5J)**
+* **Tzd_01 Maximum Length of the Trapezoid (Byrd and Adams 2015, #52.5K)**
+* **Cap_01 Maximum Length of the Capitate (Byrd and Adams 2015, #52.5L)**
+* **Ham_01 Maximum Length of the Hamate (Byrd and Adams 2015, #52.5M)**
+
+*Instrument:* sliding caliper
+
+*Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance.
 
 **Maximum Lengths of the Metacarpals:** This is the maximum length of the bone.  
 
@@ -503,21 +525,6 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * **MC5_02 Midline Length of the 5th Metacarpal (Meadows and Jantz 1992)**
 
 *Instrument:* sliding caliper
-
-**Maximum lengths of the carpals:** This is the maximum length of the bone.  
-
-* **Scp_01 Maximum Length of the Scaphoid (Byrd and Adams 2015, #52.5F)**
-* **Lun_01 Maximum Length of the Lunate (Byrd and Adams 2015, #52.5G)**
-* **Tri_01 Maximum Length of the Triquetral (Byrd and Adams 2015, #52.5H)**
-* **Pis_01 Maximum Length of the Pisiform (Byrd and Adams 2015, #52.5I)**
-* **Tzm_01 Maximum Length of the Trapezium (Byrd and Adams 2015, #52.5J)**
-* **Tzd_01 Maximum Length of the Trapezoid (Byrd and Adams 2015, #52.5K)**
-* **Cap_01 Maximum Length of the Capitate (Byrd and Adams 2015, #52.5L)**
-* **Ham_01 Maximum Length of the Hamate (Byrd and Adams 2015, #52.5M)**
-
-*Instrument:* sliding caliper
-
-*Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance .
 
 ---
 # Sacrum
@@ -567,7 +574,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 **Osc_03 Pubis Length:**  The distance from the point in the acetabulum where the three elements of the os coxae meet to the upper end of the pubic symphysis. 
 
-* *Instrument:* sliding caliper.
+* *Instrument:* sliding caliper
 * *Comment:*  The measuring point in the acetabulum may be identified in the adult by (1) an irregularity which is frequently visible, both on the acetabular and pelvic surfaces; (2) a change in thickness which may be seen by holding the bone up to a light; (3) a notch often present in the border of the articular surface in the acetabulum. In measuring the pubis, care should be taken to hold the caliper parallel to the long axis of the bone (Moore-Jansen et al. 1994, #58).
 
 **Osc_04 Ischium Length:**  The measuring point in the acetabulum is defined under Pubis Length. The distance from the point in the acetabulum where the three elements meet to the deepest point on the ischial tuberosity. 
