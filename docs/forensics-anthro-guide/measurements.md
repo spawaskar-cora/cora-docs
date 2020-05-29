@@ -497,45 +497,25 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding calipers. 
 * *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5E).
 
-**Scp_01 Maximum Length of the Scaphoid:**  This is the maximum length of the bone.  
+**Scp_01 Maximum Length of the Scaphoid (Byrd and Adams 2015, #52.5F)**
+
+**Lun_01 Maximum Length of the Lunate (Byrd and Adams 2015, #52.5G)**
+
+**Tri_01 Maximum Length of the Triquetral (Byrd and Adams 2015, #52.5H)**
+
+**Pis_01 Maximum Length of the Pisiform (Byrd and Adams 2015, #52.5I)**
+
+**Tzm_01 Maximum Length of the Trapezium (Byrd and Adams 2015, #52.5J)**
+
+**Tzd_01 Maximum Length of the Trapezoid (Byrd and Adams 2015, #52.5K)**
+
+**Cap_01 Maximum Length of the Capitate (Byrd and Adams 2015, #52.5L)**
+
+**Ham_01 Maximum Length of the Hamate (Byrd and Adams 2015, #52.5M)**
+For each carpal, this is the maximum length of the bone.  
 
 * *Instrument:* sliding calipers.  
-* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5F).
-
-**Lun_01 Maximum Length of the Lunate:**  This is the maximum length of the bone.  
-
-* *Instrument:* sliding calipers.  
-* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5G).
-
-**Tri_01 Maximum Length of the Triquetral:**  This is the maximum length of the bone.  
-
-* *Instrument:* sliding calipers. 
-* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5H).
-
-**Pis_01 Maximum Length of the Pisiform:** This is the maximum length of the bone.  
-
-* *Instrument:* sliding calipers.  
-* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5I).
-
-**Tzm_01 Maximum Length of the Trapezium:** This is the maximum length of the bone.  
-
-* *Instrument:* sliding calipers.  
-* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5J).
-
-**Tzd_01 Maximum Length of the Trapezoid:** This is the maximum length of the bone.  
-
-* *Instrument:* sliding calipers.  
-* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5K).
-
-**Cap_01 Maximum Length of the Capitate:** This is the maximum length of the bone.  
-
-* *Instrument:* sliding calipers.  
-* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5L).
-
-**Ham_01 Maximum Length of the Hamate:** This is the maximum length of the bone.  
-
-* *Instrument:* sliding calipers.  
-* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance (Byrd and Adams 2015, #52.5M).
+* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance .
 
 
 # Sacrum
