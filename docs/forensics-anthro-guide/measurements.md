@@ -473,25 +473,31 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 ![Hands](../images/measurements/hand_500.png)
 
 **Maximum Lengths of the Metacarpals:** This is the maximum length of the bone.  
+
 * **MC1_01 Maximum Length of the 1st Metacarpal (Byrd and Adams 2015, #52.5A)**
 * **MC2_01 Maximum Length of the 2nd Metacarpal (Byrd and Adams 2015, #52.5B)**
 * **MC3_01 Maximum Length of the 3rd Metacarpal (Byrd and Adams 2015, #52.5C)**
 * **MC4_01 Maximum Length of the 4th Metacarpal (Byrd and Adams 2015, #52.5D)**
 * **MC5_01 Maximum Length of the 5th Metacarpal (Byrd and Adams 2015, #52.5E)**
 
+
 * *Instrument:* sliding caliper
 * *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance.
 
 **Midline Lengths of the Metacarpals:** The length from the midline of the proximal articular surface to the midline of the distal articular surface. 
+
 * **MC1_02 Midline Length of the 1st Metacarpal (Meadows and Jantz 1992)**
 * **MC2_02 Midline Length of the 2nd Metacarpal (Meadows and Jantz 1992)**
 * **MC3_02 Midline Length of the 3rd Metacarpal (Meadows and Jantz 1992)**
 * **MC4_02 Midline Length of the 4th Metacarpal (Meadows and Jantz 1992)**
 * **MC5_02 Midline Length of the 5th Metacarpal (Meadows and Jantz 1992)**
 
+
 * *Instrument:* sliding caliper
 
+
 **Maximum lengths of the carpals:** This is the maximum length of the bone.  
+
 * **Scp_01 Maximum Length of the Scaphoid (Byrd and Adams 2015, #52.5F)**
 * **Lun_01 Maximum Length of the Lunate (Byrd and Adams 2015, #52.5G)**
 * **Tri_01 Maximum Length of the Triquetral (Byrd and Adams 2015, #52.5H)**
@@ -500,6 +506,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * **Tzd_01 Maximum Length of the Trapezoid (Byrd and Adams 2015, #52.5K)**
 * **Cap_01 Maximum Length of the Capitate (Byrd and Adams 2015, #52.5L)**
 * **Ham_01 Maximum Length of the Hamate (Byrd and Adams 2015, #52.5M)**
+
 
 * *Instrument:* sliding caliper
 * *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance .
