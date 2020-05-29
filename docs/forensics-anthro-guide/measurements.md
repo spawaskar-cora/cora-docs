@@ -1,5 +1,7 @@
 In this section we present the images for measurements used in the inventory of human remains, along with captions and desciptions of each measurement. The measurement definitions are derived from Langley et al. (2016) Data Collection Procedures for Forensic Skeletal Material 2.0. University of Tennessee and Lincoln Memorial University and Byrd & Adams (2003) Osteometric sorting of commingled human remains. Journal of Forensic Sciences, 48:717-724. Images derived from Langley et al. (2016) by Elizabeth Lockett and Nandar Yukyi.
 
+---
+
 # Cranium
 
 ![Cranium, Cra_01-06](../images/measurements/midsagittal_1_500.png)
@@ -129,7 +131,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 **Cra_24 Foramen Magnum Breadth (FOB):**  The distance between the lateral margins of the foramen magnum at the point of greatest lateral curvature. 
 
-* *Instrument:* sliding caliper.
+* *Instrument:* sliding caliper
 * *Comment:*  Measure with the skull base up using the inside jaws of the calipers (Martin and Knussmann 1988:171, #16; Moore-Jansen et al. 1994, #23; Langley et al. 2016:69, #24). 
 
 ![Cranium, Cra_25](../images/measurements/lateral_1_500.png)
@@ -155,6 +157,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
+---
 
 # Mandible
 
@@ -212,6 +215,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* mandibulometer
 * *Comment:*  In case of “rocker jaws”, the bone is held in place by pressing down on the second molars (Martin and Knussmann 1988:185, #79; Moore-Jansen et al. 1994, #34; Langley et al. 2016:72, #37). 
 
+---
 
 # Vertebrae
 
@@ -229,6 +233,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
+---
 
 # Clavicle
 
@@ -277,6 +282,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
+---
 
 # Scapula
 
@@ -306,6 +312,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
+---
 
 # Humerus
 
@@ -353,6 +360,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
+---
 
 # Radius
 
@@ -405,6 +413,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
+---
 
 # Ulna
 
