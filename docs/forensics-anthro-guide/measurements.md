@@ -478,7 +478,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ---
 
-# Hands
+# Wrist and Hand
 
 ![Hands](../images/measurements/hand_500.png)
 
@@ -549,7 +549,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* osteometric board
 
-
+---
 # Os coxa
 
 ![Os coxa](../images/measurements/oscoxa_500.png)
@@ -631,7 +631,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
-
+---
 # Femur
 
 ![femur](../images/measurements/femur_500.png)
@@ -725,7 +725,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
-
+---
 # Patella
 
 ![Patella](../images/measurements/patella_500.png)
@@ -742,7 +742,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
-
+---
 # Tibia
 
 ![Tibia](../images/measurements/tibia_500.png)
@@ -819,7 +819,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
-
+---
 # Fibula
 
 ![Fibula](../images/measurements/fibula_500.png)
@@ -848,8 +848,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
-
-# Calcaneus
+---
+# Ankle and foot
 
 ![Calcaneus](../images/measurements/calcaneus_500.png)
 
@@ -871,9 +871,6 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
-
-# Talus
-
 ![Talus](../images/measurements/talus_500.png)
 
 **Tal_01 Minimum Trochlear Breadth:**  This is the minimum breadth of the trochlea (superior articular surface). Place the flat surfaces of the jaws of the sliding calipers on either side of the articular surface with the jaws (approximately) parallel to the long axis of the bones. Close the jaws to take the minimum value (Byrd 2008, #79). 
@@ -887,10 +884,19 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 **Tal_03 Maximum Articular Length:**  The maximum length between the most anterior point of the head and the posterior surface of the tibial articulation (excluding the tubercle). Position the fixed caliper arm along the posterior surface of the tibial articulation and bring the calipers closed on the most anterior point of the head (Byrd and Adams 2015, #79B). 
 
 * *Instrument:* sliding caliper
----
-# Feet
 
 ![Feet](../images/measurements/foot_500.png)
+
+**Maximum Lengths of the Tarsals:** This is the maximum length of the bone. 
+* **Cub_01 Maximum Length of the Cuboid (Byrd and Adams 2015, #80F)**
+* **Nav_01 Maximum Length of the Navicular (Byrd and Adams 2015, #80G)**
+* **Cf1_01 Maximum Length of the 1st Cuneiform (Byrd and Adams 2015, #80H)**
+* **Cf2_01 Maximum Length of the 2nd Cuneiform (Byrd and Adams 2015, #80I)**
+* **Cf3_01 Maximum Length of the 3rd Cuneiform (Byrd and Adams 2015, #80J)**
+
+*Instrument:* sliding caliper
+
+*Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc.
 
 **Maximum Lengths of the Metatarsals:** This is the maximum length of the bone.
 * **MT1_01 Maximum Length of the 1st Metatarsal (Byrd and Adams 2015, #80A)**
@@ -901,18 +907,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 *Instrument:* osteometric board or sliding caliper
 
-*Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc .
+*Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc.
 
-**Maximum Lengths of the Tarsals:** This is the maximum length of the bone. 
-* **Cub_01 Maximum Length of the Cuboid (Byrd and Adams 2015, #80F)**
-* **Nav_01 Maximum Length of the Navicular (Byrd and Adams 2015, #80G)**
-* **Cf1_01 Maximum Length of the 1st Cuneiform (Byrd and Adams 2015, #80H)**
-* **Cf2_01 Maximum Length of the 2nd Cuneiform (Byrd and Adams 2015, #80I)**
-* **Cf3_01 Maximum Length of the 3rd Cuneiform (Byrd and Adams 2015, #80J)**
-
-*Instrument:* sliding caliper.
-
-*Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc .
 ---
 # Measurement Standards Table
 Links to measurement standards table, provided by OsteoCodeR.com are below.
