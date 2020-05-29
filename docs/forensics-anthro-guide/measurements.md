@@ -467,6 +467,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* spreading caliper
 * *Comment:*  Do not include the styloid process or the groove between the styloid process and the distal articular surface (Langley et al. 2016:76, #57). *This is an update to the **Physiological Length** measurement definition in Moore-Jansen et al.'s 1994 publication (measurement #51).*
 
+---
 
 # Hands
 
@@ -474,11 +475,11 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 **Maximum Lengths of the Metacarpals:** This is the maximum length of the bone.  
 
-* **MC1_01 Maximum Length of the 1st Metacarpal (Byrd and Adams 2015, #52.5A)**
-* **MC2_01 Maximum Length of the 2nd Metacarpal (Byrd and Adams 2015, #52.5B)**
-* **MC3_01 Maximum Length of the 3rd Metacarpal (Byrd and Adams 2015, #52.5C)**
-* **MC4_01 Maximum Length of the 4th Metacarpal (Byrd and Adams 2015, #52.5D)**
-* **MC5_01 Maximum Length of the 5th Metacarpal (Byrd and Adams 2015, #52.5E)**
+* **MC1_01 Maximum Length of the 1st Metacarpal (Byrd and Adams 2015, #52.5A)
+* MC2_01 Maximum Length of the 2nd Metacarpal (Byrd and Adams 2015, #52.5B)
+* MC3_01 Maximum Length of the 3rd Metacarpal (Byrd and Adams 2015, #52.5C)
+* MC4_01 Maximum Length of the 4th Metacarpal (Byrd and Adams 2015, #52.5D)
+* MC5_01 Maximum Length of the 5th Metacarpal (Byrd and Adams 2015, #52.5E)**
 
 
 * *Instrument:* sliding caliper
