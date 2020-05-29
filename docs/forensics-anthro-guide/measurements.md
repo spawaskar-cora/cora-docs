@@ -887,8 +887,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 **Tal_03 Maximum Articular Length:**  The maximum length between the most anterior point of the head and the posterior surface of the tibial articulation (excluding the tubercle). Position the fixed caliper arm along the posterior surface of the tibial articulation and bring the calipers closed on the most anterior point of the head (Byrd and Adams 2015, #79B). 
 
 * *Instrument:* sliding caliper
- 
-
+---
 # Feet
 
 ![Feet](../images/measurements/foot_500.png)
@@ -914,9 +913,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 *Instrument:* sliding caliper.
 
 *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc .
-
-
----# Measurement Standards Table
+---
+# Measurement Standards Table
 Links to measurement standards table, provided by OsteoCodeR.com are below.
 
 * [Osteocoder Measurement Standards Website](https://osteocoder.com/measurements.html)
