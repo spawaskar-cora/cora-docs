@@ -900,8 +900,9 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * **MT4_01 Maximum Length of the 4th Metatarsal (Byrd and Adams 2015, #80D)**
 * **MT5_01 Maximum Length of the 5th Metatarsal (Byrd and Adams 2015, #80E)**
 
-* *Instrument:* osteometric board or sliding caliper
-* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc .
+*Instrument:* osteometric board or sliding caliper
+
+*Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc .
 
 **Maximum Lengths of the Tarsals:** This is the maximum length of the bone. 
 * **Cub_01 Maximum Length of the Cuboid (Byrd and Adams 2015, #80F)**
@@ -910,11 +911,12 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * **Cf2_01 Maximum Length of the 2nd Cuneiform (Byrd and Adams 2015, #80I)**
 * **Cf3_01 Maximum Length of the 3rd Cuneiform (Byrd and Adams 2015, #80J)**
 
-* *Instrument:* sliding caliper.
-* *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc .
+*Instrument:* sliding caliper.
+
+*Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc .
 
 
-# Measurement Standards Table
+---# Measurement Standards Table
 Links to measurement standards table, provided by OsteoCodeR.com are below.
 
 * [Osteocoder Measurement Standards Website](https://osteocoder.com/measurements.html)
