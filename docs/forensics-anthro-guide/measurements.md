@@ -1,8 +1,9 @@
 In this section we present the images for measurements used in the inventory of human remains, along with captions and desciptions of each measurement. 
 
 Measurement definitions are derived from:
-* Langley et al. (2016) *Data Collection Procedures for Forensic Skeletal Material 2.0.* University of Tennessee and Lincoln Memorial University
+* Berg (2014) Biological affinity and sex from the mandible utilizing multiple world populations. In: Berg GE, Ta’ala SC, editors. *Biological Affinity in Forensic Identification of Human Skeletal Remains:  Beyond Black and White.* pp. 43–81.
 * Byrd & Adams (2003) Osteometric sorting of commingled human remains. *Journal of Forensic Sciences*, 48:717-724.
+* Langley et al. (2016) *Data Collection Procedures for Forensic Skeletal Material 2.0.* University of Tennessee and Lincoln Memorial University
 * Meadows and Langley (1992) Estimation of stature from metacarpal lengths. *Journal of Forensic Sciences*, 37:147-154.
 
 Images by Elizabeth Lockett and Nandar Yukyi are derived from Langley et al. (2016).
@@ -221,6 +222,24 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* mandibulometer
 * *Comment:*  In case of “rocker jaws”, the bone is held in place by pressing down on the second molars (Martin and Knussmann 1988:185, #79; Moore-Jansen et al. 1994, #34; Langley et al. 2016:72, #37). 
+
+**Man_11 Mandibular Body Breadth at the Mental Foramen:** The maximum width of the mandibular body taken at the mental foramen.
+
+*Instrument:* sliding caliper
+
+*Comment:* The measurement is typically taken from a superior-to-interior direction and the caliper arm should be parallel to the flat surface on which the mandible is resting (Berg 2014, TML).
+
+**Man_12 Mandibular Body Breadth at the M2/M3 Junction:** The maximum mediolateral breadth of the corpus taken at the level of the articulation between the second and third molars.
+
+*Instrument:* sliding caliper
+
+*Comment:* The sliding caliper arm should be parallel to the surface upon which the mandible rests. The measurement location usually corresponds to a medial-lateral thickening of the mandible at that location (Berg 2014, TML23).
+
+**Man_13 Dental Arcade Width at the Third Molar:** The maximum breadth of the dental arcade at the level of the most posterior points of the third molar crypt on the lingual surface.
+
+*Instrument:* sliding caliper
+
+*Comment:* If necessary, a line should be drawn perpendicular to the ramus body and the tooth crypt to mark the measurement locations. If the third molars are absent, the measurement could be taken at the location of the second molar position, but should be annotated appropriately (Berg 2014, XDA).
 
 ---
 
