@@ -349,6 +349,8 @@ Reconsidering the auricular surface as an indicator of age at death. *Journal of
 * *Phase 5:* Surface becomes irregular; surface texture is largely dense; moderate retroauricular activity; moderate apical change; macroporosity. **53.1 +/- 14.14 yrs (24-82 yrs)**
 * *Phase 6:* Irregular surface; densification accompanied by subchondral destruction; severe retroauricular activity; severe apical change; macroporosity. **58.9 +/- 15.24 yrs (29-89 yrs)**
 
+## **Rouge-Mallard (2009)** 
+New Method
 
 ## **Samworth R, Gowland R (2007)** 
 Estimation of adult skeletal age-at-death: Statistical assumptions and applications. *International Journal of Osteoarchaeology* 17:174-188.
