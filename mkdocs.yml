@@ -17,7 +17,7 @@ pages:
         - DNA: user-guide/dnas.md
         - Reports: user-guide/reports.md
         - Dashboards: user-guide/dashboards.md
-        - File Export/Import: user-guide/file-export-import.md
+        - File Export Import: user-guide/file-export-import.md
     - Forensic Anthro Guide:
         - Field Attributes: forensics-anthro-guide/field-attributes.md
         - Methods: forensics-anthro-guide/methods.md
