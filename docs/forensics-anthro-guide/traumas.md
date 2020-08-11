@@ -8,7 +8,7 @@ Please note that you can request new traumas to be added to CoRA if the one you 
 ## Antemortem
 
 |Timing     |Type               |
-|-------------------------------|
+|-----------|-------------------|
 |Antemortem |                   |
 |Antemortem |Blunt force        |
 |Antemortem |Projectile         |
