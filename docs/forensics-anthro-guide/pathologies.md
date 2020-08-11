@@ -8,7 +8,7 @@ Please note that you can request new pathologies to be added to CoRA if the one 
 ## Deformative
 
 |Abnormality Category |Characteristics         |
-|----------------------------------------------|
+|---------------------|------------------------|
 |Deformative          |                        |
 |Deformative          |Cribra orbitalia        |
 |Deformative          |Osteomyelitis           |
