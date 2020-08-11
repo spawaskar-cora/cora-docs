@@ -22,6 +22,7 @@ pages:
         - Field Attributes: forensics-anthro-guide/field-attributes.md
         - Methods: forensics-anthro-guide/methods.md
         - Measurements: forensics-anthro-guide/measurements.md
+        - Taphonomy: forensics-anthro-guide/taphonomy.md
         - Zones: forensics-anthro-guide/zones.md
     - CoRA Analytics:
         - Home: analytics/index.md
