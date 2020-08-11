@@ -9,24 +9,24 @@ Please note that you can request new taphonoies to be added to CoRA if the one y
 
 |branch|category          |type                            |subtype                  |
 |------|------------------|--------------------------------|-------------------------|
-|Bio   |Adherent Materials|Insect Debris                   |                         |
-|Bio   |Adherent Materials|Roots/Rootlets                  |                         |
-|Bio   |Adherent Materials|Copper                          |                         |
+|Bio   |Adherent Materials|Adipocere                       |                         |
 |Bio   |Adherent Materials|Algae/Fungi/Lichens             |                         |
-|Bio   |Adherent Materials|Iron                            |                         |
-|Bio   |Adherent Materials|Silver                          |                         |
-|Bio   |Adherent Materials|Soil                            |                         |
-|Bio   |Adherent Materials|Crystals                        |                         |
-|Bio   |Adherent Materials|Textile/Impression              |                         |
 |Bio   |Adherent Materials|Aluminium                       |                         |
 |Bio   |Adherent Materials|Barnacles                       |                         |
-|Bio   |Adherent Materials|Adipocere                       |                         |
-|Bio   |Adherent Materials|Dessicated Tissue               |                         |
-|Bio   |Adherent Materials|Hair/Fur                        |                         |
+|Bio   |Adherent Materials|Copper                          |                         |
+|Bio   |Adherent Materials|Crystals                        |                         |
+|Bio   |Adherent Materials|Desiccated Tissue               |                         |
 |Bio   |Adherent Materials|Gold                            |                         |
+|Bio   |Adherent Materials|Hair/Fur                        |                         |
+|Bio   |Adherent Materials|Insect Debris                   |                         |
+|Bio   |Adherent Materials|Iron                            |                         |
 |Bio   |Adherent Materials|Metal                           |                         |
 |Bio   |Adherent Materials|Oil Residue                     |                         |
 |Bio   |Adherent Materials|Other Material                  |                         |
+|Bio   |Adherent Materials|Roots/Rootlets                  |                         |
+|Bio   |Adherent Materials|Silver                          |                         |
+|Bio   |Adherent Materials|Soil                            |                         |
+|Bio   |Adherent Materials|Textile/Impression              |                         |
 
 ## Biological
 
