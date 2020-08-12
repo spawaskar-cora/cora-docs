@@ -13,3 +13,45 @@ Please note that you can request new pathologies to be added to CoRA if the one 
 |Deformative          |Cribra orbitalia        |
 |Deformative          |Osteomyelitis           |
 |Deformative          |Porotic hyperostosis    |
+
+## Density
+
+|Abnormality Category |Characteristics         |
+|---------------------|------------------------|
+|Density              |                        |
+|Density              |Osteoporosis            |
+
+## Lytic
+
+|Abnormality Category |Characteristics         |
+|---------------------|------------------------|
+|Lytic                |                        |
+|Lytic                |Abscess                 |
+|Lytic                |Cloaca                  |
+|Lytic                |Schmorls node           |
+
+## Morphology
+
+|Abnormality Category |Characteristics         |
+|---------------------|------------------------|
+|Morphology           |                        |
+|Morphology           |Atrophy                 |
+|Morphology           |Cleft                   |
+|Morphology           |Eburnation              |
+|Morphology           |Kyphosis                |
+|Morphology           |Pseudoarthrosis         |
+|Morphology           |Scoliosis               |
+|Morphology           |Spina bifida            |
+|Morphology           |Spondylolysis           |
+
+## Proliferative
+
+|Abnormality Category |Characteristics         |
+|---------------------|------------------------|
+|Proliferative        |                        |
+|Proliferative        |Ankylosis               |
+|Proliferative        |Enthesis                |
+|Proliferative        |Lipping                 |
+|Proliferative        |Osteophyte              |
+|Proliferative        |Periostitis             |
+
