@@ -1,5 +1,5 @@
 # File Export and Import 
-Files can be exported from and import into CoRA via the File Import/Export and File Manager system. Options for File Import and Export can be viewed under the left navigation bar.
+Files can be exported from and import into CoRA via the File Import/Export and File Manager system. Options for File Export and Import can be viewed under the left navigation bar.
 
 ## File Export 
 In order to create a file export, click on 'File Export' under 'File Export/Import' on left navigation bar. 
