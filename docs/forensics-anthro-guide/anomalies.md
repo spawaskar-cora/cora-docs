@@ -168,27 +168,27 @@ Please note that you can request new anomalies to be added to CoRA if the one yo
 |Accessory sacroiliac articulation|              
 |Acetabulum crease                |
 
- ## Palatine
+## Palatine
  
 |Individuating Trait              |
 |---------------------------------|   
 |Accessory lesser palatine foramen|
 |Palatine torus                   |
 
- ## Parietal
+## Parietal
  
 |Individuating Trait            |
 |-------------------------------|
 |Parietal foramen               | 
 
- ## Sacrum
+## Sacrum
  
 |Individuating Trait              |
 |---------------------------------|
 |Accessory sacroiliac articulation|            
 |Vertebral shift                  |
 
- ## Scapula
+## Scapula
  
 |Individuating Trait               |
 |----------------------------------|
@@ -198,7 +198,7 @@ Please note that you can request new anomalies to be added to CoRA if the one yo
 |Scapular foramen                  |
 |Unfused acromion process          |
 
- ## Sphenoid
+## Sphenoid
  
 |Individuating Trait            |
 |-------------------------------|
@@ -207,62 +207,62 @@ Please note that you can request new anomalies to be added to CoRA if the one yo
 |Foramen spinosum open          |
 
 
- ## Sternum
+## Sternum
  
 |Individuating Trait            |
 |-------------------------------|
 |Sternal aperture               |
 
- ## Sternal body
+## Sternal body
  
 |Individuating Trait            |
 |-------------------------------|
 |Sternal aperture               |
 
- ## Talus
+## Talus
  
 |Individuating Trait            |
 |-------------------------------|
 |Squatting facets               |
 
- ## Temporal
+## Temporal
  
 |Individuating Trait            |
 |-------------------------------|
 |Auditory torus                 |
 |Mastoid foramen exsutural      |
 
- ## Thoracic vertebra 1
+## Thoracic vertebra 1
  
 |Individuating Trait            |
 |-------------------------------|
 |Vertebral shift                |
 
- ## Thoracic vertebra 11
+## Thoracic vertebra 11
  
 |Individuating Trait            |
 |-------------------------------|
 |Vertebral shift                |
 
- ## Thoracic vertebra 12
+## Thoracic vertebra 12
  
 |Individuating Trait            |
 |-------------------------------|
 |Vertebral shift                |
 
- ## Tibia
+## Tibia
  
 |Individuating Trait            |
 |-------------------------------|
 |Squatting facets               |
 
- ## Ulna
+## Ulna
  
 |Individuating Trait            |
 |-------------------------------|
 |Divided trochlear notch        |
 
- ## Unseriated cervical vertebra
+## Unseriated cervical vertebra
  
 |Individuating Trait              |
 |---------------------------------|
@@ -272,7 +272,7 @@ Please note that you can request new anomalies to be added to CoRA if the one yo
 |Open foramen transversarium      |
 |Retroarticular bridge            |
 
- ## Zygomatic
+## Zygomatic
  
 |Individuating Trait            |
 |-------------------------------|
