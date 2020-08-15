@@ -7,25 +7,25 @@ Please note that you can request new anomalies to be added to CoRA if the one yo
 
 ## Calcaneus
 
-|Individuating Trait            |
-|-------------------------------|
-|Anterior facet double          |
+|Individuating Trait             |
+|--------------------------------|
+|Anterior facet double           |
 |Shape of talar articular surface|
 
 ## Cervical vertebra 1
 
-|Individuating Trait            |
-|-------------------------------|
-|Bifurcate foramen transversarium|
+|Individuating Trait              |
+|---------------------------------|
+|Bifurcate foramen transversarium |
 |Incomplete foramen transversarium|
 |Retroarticular bridge            |
 
 ## Cervical vertebra 2
 
-|Individuating Trait            |
-|-------------------------------|
+|Individuating Trait             |
+|--------------------------------|
 |Bifurcate foramen transversarium|
-|Open foramen transversarium|
+|Open foramen transversarium     |
 
 ## Cervical vertebra 3
 
@@ -67,36 +67,36 @@ Please note that you can request new anomalies to be added to CoRA if the one yo
 
 ## Cranium
 
-|Individuating Trait            |
-|-------------------------------|
-|Accessory infra-orbital foramen|
+|Individuating Trait              |
+|---------------------------------|
+|Accessory infra-orbital foramen  |
 |Accessory lesser palatine foramen|
-|Anterior ethmoid foramen       |
-|Asterion ossicle               |
-|Auditory torus                 |
-|Bregmatic bone                 |
-|Condylar facet                 |
-|Coronal ossicle                |
-|Deviated nasal septum          |
-|Epipteric bone                 |
-|Foramen ovale incomplete       |
-|Foramen of Huschke             |
-|Foramen spinosum open          |
-|Frontal foramen                |
-|Fronto-temporal articulation   |
-|Lambda ossicle                 |
-|Lambdoidal suture ossicle      |
-|Mastoid foramen exsutural      |
-|Maxillary torus                |
-|Metopism                       |
-|Palatine torus                 |
-|Parietal foramen               |
-|Parietal notch                 |
-|Posterior condylar canal       |
-|Posterior ethmoid foramen      |
-|Precondylar tubercle           |
-|Supra-orbital foramen          |
-|Zygomatico-facial foramen      |
+|Anterior ethmoid foramen         |
+|Asterion ossicle                 |
+|Auditory torus                   |
+|Bregmatic bone                   |
+|Condylar facet                   |
+|Coronal ossicle                  |
+|Deviated nasal septum            |
+|Epipteric bone                   |
+|Foramen ovale incomplete         |
+|Foramen of Huschke               |
+|Foramen spinosum open            |
+|Frontal foramen                  |
+|Fronto-temporal articulation     |
+|Lambda ossicle                   |
+|Lambdoidal suture ossicle        |
+|Mastoid foramen exsutural        |
+|Maxillary torus                  |
+|Metopism                         |
+|Palatine torus                   |
+|Parietal foramen                 |
+|Parietal notch                   |
+|Posterior condylar canal         |
+|Posterior ethmoid foramen        |
+|Precondylar tubercle             |
+|Supra-orbital foramen            |
+|Zygomatico-facial foramen        |
 
 ## Ethmoid
 
@@ -163,17 +163,17 @@ Please note that you can request new anomalies to be added to CoRA if the one yo
 
 ## Os coxa
 
-|Individuating Trait            |
-|-------------------------------|
+|Individuating Trait              |
+|---------------------------------|
 |Accessory sacroiliac articulation|              
-|Acetabulum crease              |
+|Acetabulum crease                |
 
  ## Palatine
  
-|Individuating Trait            |
-|-------------------------------|   
+|Individuating Trait              |
+|---------------------------------|   
 |Accessory lesser palatine foramen|
-|Palatine torus                 |
+|Palatine torus                   |
 
  ## Parietal
  
@@ -183,20 +183,20 @@ Please note that you can request new anomalies to be added to CoRA if the one yo
 
  ## Sacrum
  
-|Individuating Trait            |
-|-------------------------------|
+|Individuating Trait              |
+|---------------------------------|
 |Accessory sacroiliac articulation|            
-|Vertebral shift                |
+|Vertebral shift                  |
 
  ## Scapula
  
-|Individuating Trait            |
-|-------------------------------|
+|Individuating Trait               |
+|----------------------------------|
 |Accessory acromion articular facet|
-|Circumflex sulcus              |
-|Glenoid fossa extension        |
-|Scapular foramen               |
-|Unfused acromion process       |
+|Circumflex sulcus                 |
+|Glenoid fossa extension           |
+|Scapular foramen                  |
+|Unfused acromion process          |
 
  ## Sphenoid
  
@@ -264,19 +264,16 @@ Please note that you can request new anomalies to be added to CoRA if the one yo
 
  ## Unseriated cervical vertebra
  
-|Individuating Trait            |
-|-------------------------------|
-|Accessory transverse foramen   |
-|Bifurcate foramen transversarium|
+|Individuating Trait              |
+|---------------------------------|
+|Accessory transverse foramen     |
+|Bifurcate foramen transversarium |
 |Incomplete foramen transversarium|
-|Open foramen transversarium    |
-|Retroarticular bridge          |
+|Open foramen transversarium      |
+|Retroarticular bridge            |
 
  ## Zygomatic
  
 |Individuating Trait            |
 |-------------------------------|
 |Zygomatico-facial foramen      |
-
-
-         
