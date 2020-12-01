@@ -11,4 +11,4 @@ The CoRA Ecosystem is built with security in mind. The CoRA application and info
 
 # Contribution Guidelines
 
-If you are submitting documentation for the **current stable release**, submit it to the corresponding branch. For example, documentation for CoRA 1.0 would be submitted to the `1.0` branch. Documentation intended for the next release of CoRA should be submitted to the `master` branch.
+If you are submitting documentation for the **current stable release**, submit it to the corresponding branch. For example, documentation for CoRA 1.0 would be submitted to the `1.0` branch, documentation for CoRA 2.0 would be submitted to the `2.0` branch and so on. Documentation intended for the next release of CoRA should be submitted to the `master` branch.
