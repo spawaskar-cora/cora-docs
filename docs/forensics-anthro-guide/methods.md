@@ -353,6 +353,7 @@ Reconsidering the auricular surface as an indicator of age at death. *Journal of
 ## **Rougé-Maillart C, Vielle B, Jousset N, Chappard D, Telmon N and Cunha E (2009)** 
 Estimation of skeletal age at death in adults using the acetabulum and the auricular surface on a Portuguese population. *Forensic science international* 188(1-3), pp.91-95. 
 
+![Cranium, Cra_11-](../images/measurements/anterior_2_500.png)
 LucieBiehlerGomez to provide details here. HI it's me.
 
 
