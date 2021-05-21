@@ -350,6 +350,12 @@ Reconsidering the auricular surface as an indicator of age at death. *Journal of
 * *Phase 6:* Irregular surface; densification accompanied by subchondral destruction; severe retroauricular activity; severe apical change; macroporosity. **58.9 +/- 15.24 yrs (29-89 yrs)**
 
 
+## **Rougé-Maillart C, Vielle B, Jousset N, Chappard D, Telmon N and Cunha E (2009)** 
+Estimation of skeletal age at death in adults using the acetabulum and the auricular surface on a Portuguese population. *Forensic science international* 188(1-3), pp.91-95. 
+
+LucieBiehlerGomez to provide details here
+
+
 ## **Samworth R, Gowland R (2007)** 
 Estimation of adult skeletal age-at-death: Statistical assumptions and applications. *International Journal of Osteoarchaeology* 17:174-188.
 
