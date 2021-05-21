@@ -353,7 +353,19 @@ Reconsidering the auricular surface as an indicator of age at death. *Journal of
 ## **Rougé-Maillart C, Vielle B, Jousset N, Chappard D, Telmon N and Cunha E (2009)** 
 Estimation of skeletal age at death in adults using the acetabulum and the auricular surface on a Portuguese population. *Forensic science international* 188(1-3), pp.91-95. 
 
-LucieBiehlerGomez to provide details here
+* *Purpose:*  A composite scoring method for age estimation from a combination of the auricular surface and acetabulum.
+* *Sample:* 462 hip bones from a series of identified skeletons, of known age and sex, from the Coimbra Identified Skeletal Collection (Portugal)
+* *Features examined in the auricular surface (scores):* transverse organization (1-7), surface texture (1-5), porosity (1-5), and apical activity (1-3).
+* *Features examined in the acetabulum (scores):* rim (1-5), fossa (1-4), and apical activity posterior cornus (1-3). 
+* After each feature is examined and scored, a composite score is generated.
+* **Score Category (Composite Score): Age range (probability)**
+* *Score Category I (7-10):* 15-24 yrs (81.6%), 15-34 yrs (100%)
+* *Score Category II (11-14):* 25-34 yrs (65%), 15-44 yrs (100%)
+* *Score Category III (15-18):* 35-44 yrs (52.7%), 25-44 yrs (95.5%)
+* *Score Category IV (19-22):* 45-54 yrs (43.5%), 35-64 yrs (87.9%)
+* *Score Category V (23-26):* 55-64 yrs (42.4%), 45-74 yrs (85%)
+* *Score Category VI (27-30):* 75-85 yrs (40.6%), >65 yrs (92.1%)
+* *Score Category VII (31-32):* >84 yrs (60.5%), >75 yrs (86.9%) 
 
 
 ## **Samworth R, Gowland R (2007)** 
