@@ -164,6 +164,22 @@ There are some columns which are not displayed at the screen but can be made vis
 On this page you can filter how many results are shown per page, as well as search the results.
 To view the details of a skeletal elements, click on the key in the search results. You can also export the search results in Excel and PDF format. 
 
+##### Search Options
+Two search options are available to the user inside the User Profile Project tab.
+
+*Client-Side Pagination*
+
+The server renders all results queried from the project search bar request, allowing the user to paginate and search through the entire response. Limitations with this search options, include longer response times or application overload for projects with large sets of data.
+
+*Server-Side Pagination (Default)*
+
+The server will render only the selected quantity of data provided by show rows options at the top left corner of the page. 
+
+Each tab will generate a new call to the server and retrieve the next set of data.
+
+This search option is ideal for project with larger set of data. Search result filter is not available with this option.
+
+
 ##### Specimen Detail View
 ![SE Detail View](../images/skeletalElements/specimenview.png)
  
