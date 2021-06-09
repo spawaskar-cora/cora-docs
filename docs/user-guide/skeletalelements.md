@@ -166,18 +166,28 @@ To view the details of a skeletal elements, click on the key in the search resul
 
 ##### Search Options
 Two search options are available to the user inside the User Profile Project tab.
+![Search Option View](../images/skeletalElements/searchOption.png)
 
 *Client-Side Pagination*
 
-The server renders all results queried from the project search bar request, allowing the user to paginate and search through the entire response. Limitations with this search options, include longer response times or application overload for projects with large sets of data.
+**Ideal for small projects**
+![Old Search View](../images/skeletalElements/oldSearch.png)
+
+The server renders all results queried from the project search bar request, allowing the user to paginate and search through the entire response. Limitations with this search options, include longer response times or application overload for projects with large sets of data. **Max Search Limit 500**
 
 *Server-Side Pagination (Default)*
 
+**Ideal for large projects**
+
+![New Search View](../images/skeletalElements/newSearch.gif)
+
 The server will render only the selected quantity of data provided by show rows options at the top left corner of the page. 
+![Show Row View](../images/skeletalElements/showRows.png)
 
 Each tab will generate a new call to the server and retrieve the next set of data.
+![Search Tabs View](../images/skeletalElements/searchPagination.png)
 
-This search option is ideal for project with larger set of data. Search result filter is not available with this option.
+This search option is ideal for project with larger sets of data. Search result filter is not available with this option. **Max Search Limit 250**
 
 
 ##### Specimen Detail View
