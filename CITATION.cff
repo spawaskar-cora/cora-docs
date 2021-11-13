@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Sachin
+    given-names: Pawaskar
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Franklin
+    given-names: Damann
+    orcid: https://orcid.org/0000-0000-0000-0000
+title: spawaskar-cora/cora-docs: v2.1.0 Open Community Release
+version: v2.1.0
+date-released: 2017-12-21
