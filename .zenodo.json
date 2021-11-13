@@ -1,0 +1,56 @@
+{
+    "description": "<p>This release includes the following</p>\n<p>The main reason for this release was to tie this to a Zenodo DOI number for citation purposes.\nGIF images for most of the important screens and workflows\nIncludes all available Anomalies, Pathologies, Traumas, and Taphonomies.\nAdded documentation for CoRA Data Export and Import (of measurements for Osteometric Sorting Algorithms).</p>", 
+    "license": "other-open", 
+    "title": "spawaskar-cora/cora-docs: v2.1.0 Open Community Release", 
+    "version": "v2.1.0", 
+    "upload_type": "software", 
+    "publication_date": "2021-11-13", 
+    "creators": [
+        {
+            "name": "Sachin Pawaskar"
+        }, 
+        {
+            "name": "Emily Streetman"
+        }, 
+        {
+            "name": "C. LeGarde"
+        }, 
+        {
+            "name": "Franklin Damann"
+        }, 
+        {
+            "name": "Jasmine Smith"
+        }, 
+        {
+            "name": "LucieBiehlerGomez"
+        }, 
+        {
+            "name": "Katie-East"
+        }, 
+        {
+            "name": "Traci Van Deest"
+        }, 
+        {
+            "name": "Jeff Lynch"
+        }, 
+        {
+            "name": "btrnew"
+        }, 
+        {
+            "name": "Sihley Pawaskar"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/spawaskar-cora/cora-docs/tree/v2.1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.5694495", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
