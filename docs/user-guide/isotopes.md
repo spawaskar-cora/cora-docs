@@ -1,4 +1,4 @@
-# Isotope 
+# Isotopes
 
 ## Create Isotope Batch
 - You can create/view Isotope Batches as an Admin and Manager. In order to view the isotope batches, click on 'Isotope Batches' on left navigation bar
@@ -37,8 +37,8 @@ To edit the Tabs, click "Start Processing" after you create an Isotope Batch. In
 
 Below are some validation rules associated with Isotope Batch
  
-Attributes  |Data Type |Size | Validation Rule  | Required/Optional
-------------- | -------------| ------------- |-------------|  -------------|
+Attributes  |Data Type |Size | Validation Rule  | Required/Optional 
+------------- | -------------| ------------- |-------------|  -------------
 Lab | NA |NA |Can choose from the option available | Required
 External Case # |  Alphanumeric |32 chars |Can only contain letters and numericals| Optional
 Isotope Batch Number| Alphanumeric |32 chars |Can only contain letters and numericals| Required
