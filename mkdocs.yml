@@ -2,11 +2,12 @@ site_name: CoRA Docs
 #site_url: http://www.mkdocs.org
 site_description: CoRA documentation with Markdown.
 site_author: Sachin Pawaskar
+copyright: Copyright &copy; 2016 - 2024 <a href="https://sachinpawaskaruno.github.io">Sachin Pawaskar</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">CoRA Team</a>.
 
 repo_url: https://github.com/spawaskar-cora/cora-docs-mkdocs
 edit_uri: ""
 
-pages:
+nav:
     - Home: index.md
     - User Guide:
         - Site Navigation: user-guide/site-navigation.md
@@ -34,19 +35,35 @@ pages:
         - References: about/references.md
         - AAFS 2018 Conference: aafs-2018/readme.md
 
-theme: mkdocs
-theme_dir: 'custom_theme'
+# Themeing the documentation options [mkdocs, readthedocs]
+# We have installed the mkdocs-material theme
+theme:
+    name: mkdocs
+    # palette:
+    # - media: '(prefers-color-scheme: light)'
+    #     primary: teal
+    #     scheme: default
+    #     toggle:
+    #         # icon: material/brightness-7
+    #         name: Switch to dark mode
+    # - media: '(prefers-color-scheme: dark)'
+    #     primary: teal
+    #     scheme: slate
+    #     toggle:
+    #         # icon: material/brightness-4
+    #         name: Switch to light mode
+
+# theme_dir: 'custom_theme'
 
 #extra_css:
 #    - css/extra.css
 
-#markdown_extensions:
+# markdown_extensions:
 #    - toc:
-#        permalink: 
+#        permalink: true
 #    - admonition
 #    - def_list
 
-copyright: Copyright &copy; 2016 - 2020 <a href="https://sachinpawaskaruno.github.io">Sachin Pawaskar</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">CoRA Team</a>.
 # google_analytics: ['UA-27795084-5', 'mkdocs.org']
 
 #plugins:

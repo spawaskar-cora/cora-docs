@@ -1,4 +1,5 @@
 [![Documentation Status](https://readthedocs.org/projects/cora-docs/badge/?version=latest)](https://cora-docs.readthedocs.io/en/latest/?badge=latest)
+[![DOI](https://zenodo.org/badge/109620072.svg)](https://zenodo.org/badge/latestdoi/109620072)
 
 # CoRA - Commingled Remains Analytics Documentation
 
