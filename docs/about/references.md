@@ -1,6 +1,6 @@
 # References used within CoRA Docs
 
-This is not a intended to be a full comprehensive listing of all references. If you feel there are some important references that are missing please feel free to add them or create a GitHub issue/ticket to get it added
+This is not intended to be a full comprehensive listing of all references. If you feel there are some important references that are missing please feel free to add them or create a GitHub issue/ticket to get it added
 
 Albert A.M. and W.R. Maples 
 1995	Stages of epiphyseal union for thoracic and lumbar vertebral centra as a method of age determination for teenage and young adult skeletons. Journal of Forensic Sciences 40:623-633.

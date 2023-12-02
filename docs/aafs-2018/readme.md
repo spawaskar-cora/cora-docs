@@ -1,5 +1,5 @@
-# AAFS 70th Annual Presentations, Workshop \#7
-Welcome to Workshop \#7: Data Standards, Archiving and Analytics in Forensic Anthropology
+# AAFS 70th Annual Presentation
+**Welcome to Workshop \#7: Data Standards, Archiving and Analytics in Forensic Anthropology**
 
 ---
 

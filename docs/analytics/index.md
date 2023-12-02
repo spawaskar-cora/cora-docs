@@ -5,29 +5,29 @@ The CoRA Analytics engine is part of the CoRA Ecosystem that can be thought of a
 The diagram below details the logical diagram for the CoRA Ecosystem Analytics Architecture.
 ![CoRA Ecosystem Analytics Architecture](../images/architecture/Cora-Ecosystem-Analytics-Architecture-Diagram.png)
 
-# Basic Analytics
+## Basic Analytics
 The CoRA analytics engine will provide some basic analytics out of the box such as simple regression analysis for the datasets that are most commonly used in forensic anthropology. Other more advanced analytics will be provided via independent analytics application that can be developed by any reseracher and plug-in into the CoRA Ecosystem. 
 
-# Independent Analytics Applications
+## Independent Analytics Applications
 Following are some of the independent analytics applications that are either being developed or have already been developed that work with the CoRA Ecosystem.
 
-## Osteometic Sorting
+### Osteometic Sorting
 Blurb by author here - Jeffery Lynch
 
-## Z-Transform
+### Z-Transform
 Blurb by author - Julia Sommer
 
-## Odontosearch
+### Odontosearch
 Blurb by author here - Author Name
 
-## Optosearch
+### Optosearch
 Blurb by author here - Author Name
 
-## HumanID
+### HumanID
 Blurb by author here - Author Name
 
-## Dental Metrics
+### Dental Metrics
 Blurb by author here - Author Name
 
-# Contribution Guidelines for CoRA Analytics
+## Contribution Guidelines for CoRA Analytics
 
