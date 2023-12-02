@@ -1,3 +1,5 @@
+# Measurements
+
 In this section we present the images for measurements used in the inventory of human remains, along with captions and desciptions of each measurement. 
 
 Measurement definitions are derived from:
@@ -10,7 +12,7 @@ Images by Elizabeth Lockett and Nandar Yukyi are derived from Langley et al. (20
 
 ---
 
-# Cranium
+## Cranium
 
 ![Cranium, Cra_01-06](../images/measurements/midsagittal_1_500.png)
 
@@ -167,7 +169,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ---
 
-# Mandible
+## Mandible
 
 ![Mandible_anterior](../images/measurements/mandible_2_500.png)
 
@@ -240,7 +242,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ---
 
-# Vertebrae
+## Vertebrae
 
 ![Vertebrae](../images/measurements/vertebrae_500.png)
 
@@ -258,7 +260,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ---
 
-# Clavicle
+## Clavicle
 
 ![Clavicle](../images/measurements/clavicle_500.png)
 
@@ -307,7 +309,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ---
 
-# Scapula
+## Scapula
 
 ![Scapula](../images/measurements/scapula_500.png)
 
@@ -337,7 +339,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ---
 
-# Humerus
+## Humerus
 
 ![Humerus](../images/measurements/humerus_500.png)
 
@@ -385,7 +387,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ---
 
-# Radius
+## Radius
 
 ![Radius](../images/measurements/radius_500.png)
 
@@ -438,7 +440,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ---
 
-# Ulna
+## Ulna
 
 ![Ulna](../images/measurements/ulna_500.png)
 
@@ -501,7 +503,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ---
 
-# Wrist and Hand
+## Wrist and Hand
 
 ![Hands](../images/measurements/hand_500.png)
 
@@ -543,7 +545,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 *Instrument:* sliding caliper
 
 ---
-# Sacrum
+
+## Sacrum
 
 ![Sacrum](../images/measurements/sacrum_500.png)
 
@@ -573,7 +576,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* osteometric board
 
 ---
-# Os coxa
+
+## Os coxa
 
 ![Os coxa](../images/measurements/oscoxa_500.png)
 
@@ -655,7 +659,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper
 
 ---
-# Femur
+
+## Femur
 
 ![femur](../images/measurements/femur_500.png)
 
@@ -749,7 +754,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper
 
 ---
-# Patella
+
+## Patella
 
 ![Patella](../images/measurements/patella_500.png)
 
@@ -766,7 +772,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper
 
 ---
-# Tibia
+
+## Tibia
 
 ![Tibia](../images/measurements/tibia_500.png)
 
@@ -843,7 +850,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper
 
 ---
-# Fibula
+
+## Fibula
 
 ![Fibula](../images/measurements/fibula_500.png)
 
@@ -872,7 +880,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper
 
 ---
-# Ankle and foot
+
+## Ankle and foot
 
 ![Calcaneus](../images/measurements/calcaneus_500.png)
 
@@ -933,7 +942,8 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 *Comment:*  Move the bone up, down, and sideways in order to obtain the maximum distance, in the same manner that maximum length is obtained for the humerus, femur, etc.
 
 ---
-# Measurement Standards Table
+
+## Measurement Standards Table
 Links to measurement standards table, provided by OsteoCodeR.com are below.
 
 * [Osteocoder Measurement Standards Website](https://osteocoder.com/measurements.html)

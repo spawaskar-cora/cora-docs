@@ -1,9 +1,9 @@
+# Pathology
+
 In this section we present the pathologies available within CoRA for assignment to individual specimens. 
 Pathologies are organized by abnormality category
 
 Please note that you can request new pathologies to be added to CoRA if the one you are looking for is not present by creating a issue/ticket.
-
-# **Pathology**
 
 ## Deformative
 

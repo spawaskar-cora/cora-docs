@@ -1,9 +1,9 @@
+# Taphonomy
+
 In this section we present the taphonomies available within CoRA for assignment to individual specimens. 
 We currently only have Bio Taphonomy within CoRA as it is most relevant to forensic anthropologists.
 
 Please note that you can request new taphonoies to be added to CoRA if the one you are looking for is not present by creating a issue/ticket.
-
-# **Taphonomy**
 
 ## Adherent Materials
 

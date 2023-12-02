@@ -1,11 +1,14 @@
+# Zones
+
 In this section we present the images used in the zonation method for inventory of fragmented human remains, along with captions and desciptions of each of the zones. 
 
 The zone method of skeletal specimen inventory is derived from Knusel & Outram (2004) Fragmentation: The zonation method applied to fragmented human remains from archaeological and forensic contexts. *Environmental Archaeology*, 9(1):85-98. 
 
 Images by Elizabeth Lockett and Nandar Yukyi derived from Knusel and Outram (2004) and Langley et al. (2016).
 
-# **SKULL**
-## **Cranium**
+## SKULL
+
+### Cranium
 
 ![Cranium anterior](../images/zones/cranium_ant_500.png)
 
@@ -96,7 +99,7 @@ Ear ossicles
 
 1\. Present or absent  
 
-## **Mandible**
+### Mandible
 
 ![Mandible](../images/zones/mandible_500.png)
 
@@ -124,10 +127,12 @@ externally)
 14\. Anterior portion of the right corpus, including the alveoli of the incisors and the incisors themselves  
 
 
-# **POSTCRANIAL REMAINS**
-## **Vertebrae and hyoid**
+## POSTCRANIAL REMAINS
 
-### Hyoid
+### Vertebrae and hyoid
+
+#### Hyoid
+
 ![Hyoid](../images/zones/hyoid_500.png)
 
 **Hyoid. Anterior view.**
@@ -139,7 +144,8 @@ externally)
 3\. Right greater horn    
 
 
-### Cervical vertebrae
+#### Cervical vertebrae
+
 ![Cervical vertebra](../images/zones/cervical_500.png)
 
 **Cervical vertebra. Above: superior view; below: lateral view.**
@@ -151,7 +157,8 @@ externally)
 3\. Left transverse process, including the pedicle, pars interarticularis, and articular facets  
 4\. Spinous process  
 
-### Thoracic and lumbar vertebrae
+#### Thoracic and lumbar vertebrae
+
 ![Thoracic vertebra](../images/zones/thoracic_500.png)
 
 **Thoracic vertebra (also applies to lumbar vertebrae). Above: superior view, below: lateral view.**
@@ -163,7 +170,8 @@ externally)
 3\. Left transverse process, including the pedicle, pars interarticularis, and articular facets  
 4\. Spinous process  
 
-### Sacrum
+#### Sacrum
+
 ![Sacrum](../images/zones/sacrum_500.png)
 
 **Sacrum. Left: anterior view; right: posterior view.**
@@ -175,8 +183,10 @@ externally)
 3\. Left transverse process, including the pedicle, pars interarticularis, and articular facets  
 4\. Spinous process  
 
-## **Thorax and Shoulder**
-### Rib 1
+### Thorax and Shoulder
+
+#### Rib 1
+
 ![Rib1](../images/zones/rib01_500.png)
 
 **Left rib 1. Above: inferior view; below: superior view.**
@@ -188,7 +198,8 @@ externally)
 3\. Corpus  
 4\. Sternal end    
 
-### Ribs 2-12
+#### Ribs 2-12
+
 ![Ribs](../images/zones/ribs_500.png)
 
 **Left rib 7. Above: inferior view; below: superior view.**
@@ -200,7 +211,8 @@ externally)
 3\. Corpus  
 4\. Sternal end  
 
-### Sternum
+#### Sternum
+
 ![Sternum](../images/zones/sternum_500.png)
 
 **Sternum. Left: anterior view; right: posterior view.**
@@ -211,7 +223,8 @@ externally)
 2\. Corpus sterni  
 3\. Xiphoid process  
 
-### Clavicle
+#### Clavicle
+
 ![Clavicle](../images/zones/clavicle_left_500.png)
 
 **Left clavicle. Above: superior view; below: inferior view.**
@@ -222,7 +235,8 @@ externally)
 2\. Acromial end, including the conoid tubercle and trapezoid line  
 3\. Diaphysis, including the groove that marks the attachment for M. subclavius  
 
-### Scapula
+#### Scapula
+
 ![Scapula](../images/zones/scapula_left_500.png)
 
 **Left scapula. Left: anterior view; right: posterior view.**
@@ -239,8 +253,10 @@ externally)
 8\. Vertebral third of the squamous portion and spine, including the attachment for M. rhomboideus major and suprasprinous fossa  
 9\. Vertebral half of the squamous portion inferior to the spine, including the infraspinous fossa  
 
-## **Upper limb**
-### Humerus
+### Upper limb
+
+#### Humerus
+
 ![Humerus](../images/zones/humerus_left_500.png)
 
 **Left humerus. Left: posterior view; right: anterior view.**
@@ -259,7 +275,8 @@ externally)
 10\. Area opposite zone 9 making up one-half of the diaphysis longitudinally in the sagittal plane and cutting the bone transversely from medial to lateral  
 11\. Proximal portion of the diaphysis, including the surgical neck  
 
-### Radius
+#### Radius
+
 ![Radius](../images/zones/radius_left_500.png)
 
 **Left radius. Left: posterior view; right: anterior view.**
@@ -278,7 +295,8 @@ externally)
 10\. Medial distal third of the diaphysis  
 11\. Styloid process of the distal end  
 
-### Ulna
+#### Ulna
+
 ![Ulna](../images/zones/ulna_left_500.png)
 
 **Left ulna. Left: posterior view; right: anterior view.**
@@ -294,8 +312,10 @@ externally)
 7\. Distal half of the distal third of the diaphysis, including the attachment of M. pronator quadratus  
 8\. Styloid process and head, including the posterior groove for M. extensor carpi ulnaris  
 
-## **Pelvis and Lower Limb**
-### Os coxa
+### Pelvis and Lower Limb
+
+#### Os coxa
+
 ![Os coxa](../images/zones/oscoxa_left_500.png)
 
 **Left os coxa. Left: medial/internal view; right: lateral/external view.**
@@ -315,7 +335,8 @@ externally)
 11\. Inferior portion of the ischial tuberosity  
 12\. Iliac crest  
 
-### Femur
+#### Femur
+
 ![Femur](../images/zones/femur3_500.png)
 
 **Left femur. Left: posterior view; right: anterior view.**
@@ -334,12 +355,14 @@ externally)
 10\. Medial condyle and epicondyle  
 11\. Intercondylar space and distal articulation anteriorly  
 
-### Patella
+#### Patella
+
 ![Patella](../images/zones/patella_500.png)
 
 **Left patella. Above: posterior view; below: anterior view.**
 
-### Tibia
+#### Tibia
+
 ![Tibia](../images/zones/tibia_left_500.png)
 
 **Left tibia. Left: posterior view; right: anterior view.**
@@ -357,7 +380,8 @@ externally)
 9\. Third quarter of the diaphysis  
 10\. Distal quarter of the diaphysis  
 
-### Fibula
+#### Fibula
+
 ![Fibula](../images/zones/fibula_500.png)
 
 **Left fibula. Left: anterior view; right: posterior view.**
@@ -372,8 +396,10 @@ externally)
 6\. Most proximal quarter of the diaphysis, distal to the juvenile epiphysis  
 
 
-## **Hands and Feet**
-### Hand
+### Hands and Feet
+
+#### Hand
+
 ![Hand](../images/zones/hand_left_500.png)
 
 **Left hand and wrist. Left: dorsal view; right: palmar view.**
@@ -390,7 +416,8 @@ Metacarpals
 2\. Distal articular condyle  
 3\. Diaphysis  
 
-### Foot
+#### Foot
+
 ![Foot](../images/zones/foot_right_500.png)
 
 **Right foot and ankle. Left: dorsal view; right: plantar view.**
