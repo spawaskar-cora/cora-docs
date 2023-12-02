@@ -4,8 +4,8 @@ site_description: CoRA documentation with Markdown.
 site_author: Sachin Pawaskar
 copyright: Copyright &copy; 2016 - 2024 <a href="https://sachinpawaskaruno.github.io">Sachin Pawaskar</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">CoRA Team</a>.
 
-repo_url: https://github.com/spawaskar-cora/cora-docs-mkdocs
-edit_uri: ""
+repo_url: https://github.com/spawaskar-cora/cora-docs
+edit_uri: edit/master/docs/
 
 nav:
     - Home: index.md
@@ -38,20 +38,59 @@ nav:
 # Themeing the documentation options [mkdocs, readthedocs]
 # We have installed the mkdocs-material theme
 theme:
-    name: mkdocs
-    # palette:
-    # - media: '(prefers-color-scheme: light)'
-    #     primary: teal
-    #     scheme: default
-    #     toggle:
-    #         # icon: material/brightness-7
-    #         name: Switch to dark mode
-    # - media: '(prefers-color-scheme: dark)'
-    #     primary: teal
-    #     scheme: slate
-    #     toggle:
-    #         # icon: material/brightness-4
-    #         name: Switch to light mode
+  name: material
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  features:
+    # Search capabilities
+    - search.highlight
+    - search.share
+    - search.suggest
+
+    # Git repository 
+    # Edit this page/View source of this page
+    - content.action.edit
+    - content.action.view
+
+    # Header
+    - header.autohide
+    - announce.dismiss
+
+    # Footor
+    - navigation.footer
+
+  icon:
+    logo: material/skull
+    repo: fontawesome/brands/github
+    edit: material/file-edit-outline
+    view: material/file-eye-outline
+    next: fontawesome/solid/angle-right
+    previous: fontawesome/solid/angle-left
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/SachinPawaskarUNO
+      name: GitHub
+    - icon: material/web
+      link: https://sachinpawaskaruno.github.io/
+      name: Website
 
 # theme_dir: 'custom_theme'
 
