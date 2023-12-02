@@ -11,7 +11,6 @@ The CoRA Ecosystem is built with security in mind. The CoRA application and info
 
 In the near future, we plan to be in compliance with the Cybersecurity Maturity Model Certification (CMMC) which is a unifying standard for the implementation of cybersecurity across the Defense Industrial Base (DIB). The [CMMC framework](https://dodcio.defense.gov/CMMC/) includes a comprehensive and scalable certification element to verify the implementation of processes and practices associated with the achievement of a cybersecurity maturity level. The [CMMC 2.0 Model](https://dodcio.defense.gov/Portals/0/Documents/CMMC/ModelOverview_V2.0_FINAL2_20211202_508.pdf)  is designed to provide increased assurance to the Department that a DIB company can adequately protect sensitive unclassified information, accounting for information flow down to subcontractors in a multi-tier supply chain.
 
-
-# Contribution Guidelines
+## Contribution Guidelines
 
 If you are submitting documentation for the **current stable release**, submit it to the corresponding branch. For example, documentation for CoRA 1.0 would be submitted to the `1.0` branch, documentation for CoRA 2.0 would be submitted to the `2.0` branch and so on. Documentation intended for the next release of CoRA should be submitted to the `master` branch.

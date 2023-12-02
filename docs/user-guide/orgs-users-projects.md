@@ -1,7 +1,6 @@
 # User Creation & Roles
 
-User accounts can be created by Org Admins, and can be set up under various roles. Certain roles provide specific level of access to
-features on the website.
+User accounts can be created by Org Admins, and can be set up under various roles. Certain roles provide specific level of access to features on the website.
 
 ## User Roles
 
@@ -15,7 +14,7 @@ features on the website.
 8. Dentist
 9. Intern
 
-##Org Administrator
+## Org Administrator
 Org Administrator is one of the Users. Below image shows the screen of Org Administrator. The left side bar includes the various modules of the CoRA web application that the Org Administrator can select.  It consists of Dashboard, Specimens, DNA, Isotope and Administration
                                                                                       
 ![Click on Action](../images/Images_Org_Users_Project/OrgAdmin.png)
@@ -35,13 +34,11 @@ The user list screen provides the information related to the user such as its Na
 In the gif above we can see some users have been inactive since a year and some are still active.
 
 - On the User Management page, click on Actions, then Create
-- Enter the information on the New User creation page (required fields are marked 
-with a red asterisk*)
+- Enter the information on the New User creation page (required fields are marked with a red asterisk*)
 - Through the "Roles" field, various user roles can be selected such as Org Admin, Anthropologist, Manager, DNA Analyst, Historian, Intern, Isotope Analyst.
 - Once all information is entered, click Save, and a message will appear at the top informing the user that the *“User successfully added”*
 
-
- Users will be able to change their password once they have logged in. Ensure to check the Active box so that the user account is active and the user can login. 
+Users will be able to change their password once they have logged in. Ensure to check the Active box so that the user account is active and the user can login. 
  
 ![Click on Action](../images/Images_Org_Users_Project/Usercreation.gif)
 
@@ -63,7 +60,7 @@ Below are some fields with some validation rule
 Click on their name in all user list. You will be taken to a read only page of their user profile. 
 
 To Edit their Profile Information - Click "Actions" - "Edit". 
- ![SE Search Categories](../images/Images_Org_Users_Project/UserEdit.gif)
+![SE Search Categories](../images/Images_Org_Users_Project/UserEdit.gif)
  
 The following fields are available on the user edit screen:
 
@@ -84,7 +81,6 @@ The following fields are available on the user edit screen:
  
 Required fields are marked with a red asterisk*. Click save when finished editing. To Reset their Password - Click "Reset Password". Enter the new password in both the fields and change password.
 
-  
 
 ### Project Management
 
@@ -97,8 +93,7 @@ Required fields are marked with a red asterisk*. Click save when finished editin
 The Project list screen provides the information related to the project such as its Name, Description, Manager, Start Date, Status and whether it is Public or not.
 
 - On the Project Management Page, click on Actions, then Create
-- Enter the information on the New Project creation page (required fields are marked 
-      with a red asterisk*)
+- Enter the information on the New Project creation page (required fields are marked with a red asterisk*)
 <small>*The public option enables the public to view the project *</small>
 - Adding Users to a Project <br>
 The Org Admin will be able to add users to specific projects through 'Assigned Users' field. From the dropdown box, the OrgAdmin adds users to the project and clicks save option.
@@ -107,24 +102,25 @@ The Org Admin will be able to add users to specific projects through 'Assigned U
 
 Below are some fields with some validation rule
  
- Attributes  |  Data Type |Size |Validation Rule  | Required/Optional
- ------------- | ------------- | -------------|-------------| -------------
- Name  |  String|255 chars|Can only contain letters and numbers, min:3 and max:255 chars | Required
- Description |String|255 chars|Can contain minimum 3 chars and 255 max chars | Required
- Status Id |  Numeric| 32 chars|Can only contain numbers| Required
- Start Date | Date|NA|Can only contain date| Required
- Manager Id | Numeric| 32 chars|Can only contain numbers | Required
- Geo latitude | Numeric| 32 chars|Can only contain numeric value| Required
- Geo Longitude | Numeric| 32 chars|Can only contain numeric value | Required
- Slack Channel | Alphanumeric| 32 chars|Can only contain numbers and letters | Optional
- Latest MCC Date |Date|NA|Can only contain date | Optional
- Public | Boolean |NA|True or False| Optional
- Allow users To create Accessions | Boolean |NA|True or False| Optional
- Isotope Analysis |Boolean |NA|True or False| Optional
- Zones Autocomplete | Boolean |NA|True or False| Optional
+Attributes  |  Data Type |Size |Validation Rule  | Required/Optional
+------------- | ------------- | -------------|-------------| -------------
+Name  |  String|255 chars|Can only contain letters and numbers, min:3 and max:255 chars | Required
+Description |String|255 chars|Can contain minimum 3 chars and 255 max chars | Required
+Status Id |  Numeric| 32 chars|Can only contain numbers| Required
+Start Date | Date|NA|Can only contain date| Required
+Manager Id | Numeric| 32 chars|Can only contain numbers | Required
+Geo latitude | Numeric| 32 chars|Can only contain numeric value| Required
+Geo Longitude | Numeric| 32 chars|Can only contain numeric value | Required
+Slack Channel | Alphanumeric| 32 chars|Can only contain numbers and letters | Optional
+Latest MCC Date |Date|NA|Can only contain date | Optional
+Public | Boolean |NA|True or False| Optional
+Allow users To create Accessions | Boolean |NA|True or False| Optional
+Isotope Analysis |Boolean |NA|True or False| Optional
+Zones Autocomplete | Boolean |NA|True or False| Optional
 
 
 #### Edit Project
+
 - After the creation of a Project and adding Users to a Project, the Org Admin can edit the Project.
 On the Project Management page, click on Actions, then Edit
 
@@ -135,6 +131,7 @@ On the Project Management page, click on Actions, then Edit
 ### Accession Management
 
 #### Creating Accession
+
 - Login as Org Administrator
 - Under Administration, click Accession Management
 - After you click on Accession Management, you will see list of all Projects along with Key, Accession number, Provenance 1 and Provenance 2 fields.
@@ -143,20 +140,19 @@ On the Project Management page, click on Actions, then Edit
 
 ![Click on Action](../images/Images_Org_Users_Project/AccessionCreate.gif)
 
-On the create accessions page, enter the required information (*required fields are marked with a red asterisk*) for a particular project and click save
-After clicking save, the Org Admin will be redirected to the page displaying accession details associated with a specific project.
+On the create accessions page, enter the required information (*required fields are marked with a red asterisk*) for a particular project and click save. After clicking save, the Org Admin will be redirected to the page displaying accession details associated with a specific project.
 
 Below are some fields with some validation rule
  
- Attributes  |Data Type |Size | Validation Rule  | Required/Optional
- ------------- | ------------- | -------------|-------------| -------------
- Number  | String|32 chars| Can only contain letters, numbers, dash and space | Required
- Provenance 1 |String|32 chars| Can only contain letters, numbers, dash and space | Optional
- Provenance 2 | String|32 chars| Can only contain letters, numbers, dash and space  | Optional
+Attributes  |Data Type |Size | Validation Rule  | Required/Optional
+------------- | ------------- | -------------|-------------| -------------
+Number  | String|32 chars| Can only contain letters, numbers, dash and space | Required
+Provenance 1 |String|32 chars| Can only contain letters, numbers, dash and space | Optional
+Provenance 2 | String|32 chars| Can only contain letters, numbers, dash and space  | Optional
 
 #### Edit Accession
-- After the creation of a Accession, the Org Admin can edit the Accession.
-On the Accession list page, click on Actions, then Edit
+
+- After the creation of a Accession, the Org Admin can edit the Accession. On the Accession list page, click on Actions, then Edit
 
 - Edit the needed information on the Accession edit page, and click save
 ![Click on Action](../images/Images_Org_Users_Project/AccessionEdit.gif)
@@ -164,6 +160,7 @@ On the Accession list page, click on Actions, then Edit
 ### Instrument Management 
 
 #### Creating Instrument
+
 - Login as Org Administrator
 - Under Administration, click Instrument Management
 - After you click on Instrument Management, you will see list of all Instruments with Code, Module, Category, Reference and Assigned Users fields.
@@ -173,74 +170,81 @@ On the Accession list page, click on Actions, then Edit
 
 ![Click on Action](../images/Images_Org_Users_Project/InstrumentCreate.gif)
 
- Attributes  |Data Type |Size | Validation Rule  | Required/Optional
- ------------- |  ------------- | -------------|-------------| -------------
- Code | String|255 chars|Can have max 255 chars | Required
- Category |  String|255 chars|Can have max 255 chars| Required
- Module|String|255 chars|Can have max 255 chars| Required
- Reference |String|255 chars| Can have max 255 chars| Optional
- Assigned Users | NA|NA|Can choose from the options available| Optional
+Attributes  |Data Type |Size | Validation Rule  | Required/Optional
+------------- |  ------------- | -------------|-------------| -------------
+Code | String|255 chars|Can have max 255 chars | Required
+Category |  String|255 chars|Can have max 255 chars| Required
+Module|String|255 chars|Can have max 255 chars| Required
+Reference |String|255 chars| Can have max 255 chars| Optional
+Assigned Users | NA|NA|Can choose from the options available| Optional
 
 The Org Admin will also be able to edit the users associated with the instrument by clicking the dropdown "Assigned Users"
 
 #### Edit Instrument
+
 - After the creation of a Instrument, the Org Admin can edit the Instrument.
 On the Instrument Management page, click on Actions, then Edit
 
 - Edit the needed information on the page, and click save
 ![Click on Action](../images/Images_Org_Users_Project/InstrumentEdit.gif)
 
+### Haplogroup Management
 
-### Haplogroup Management 
 #### Creating Haplogroup
 
 - Login as Org Administrator
 - Under Administration, click Haplogroup Management
 - After you click on Haplogroup Management, you will see list of all Haplogroups with their columns such as Type, Letter, Subgroup and Ancestry.
 - On the Haplogroup Management page, click on Actions and then click Create.
-- On the create Haplogroup page, enter the required information and click save (required fields are marked 
- with a red asterisk*)
+- On the create Haplogroup page, enter the required information and click save (required fields are marked with a red asterisk*)
 
 ![Click on Action](../images/Images_Org_Users_Project/HaplogroupCreate.gif)
 
 Below are some fields with some validation rule
  
- Attributes  |Data Type |Size | Validation Rule  | Required/Optional
- ------------- | ------------- | -------------|-------------| -------------
- Type | NA|NA|Can choose from the option available | Required
- Letter |  String|1 char|Can only contain one character from A-Z| Required
- Subgroup|String|32 chars|No specified rule| Optional
- Ancestry | NA|NA|Can choose from the option available| Optional
+Attributes  |Data Type |Size | Validation Rule  | Required/Optional
+------------- | ------------- | -------------|-------------| -------------
+Type | NA|NA|Can choose from the option available | Required
+Letter |  String|1 char|Can only contain one character from A-Z| Required
+Subgroup|String|32 chars|No specified rule| Optional
+Ancestry | NA|NA|Can choose from the option available| Optional
  
 
 #### Edit Haplogroup
+
 - After the creation of a Haplogroup, the Org Admin can edit the Haplogroup.
 On the Haplogroup Management page, click on Actions, then Edit
 
 - Edit the needed information on the page, and click save
 ![Click on Action](../images/Images_Org_Users_Project/HaploEdit.gif)
 
-##Org Manager
-Org Manager is one of the Users. Below image shows the screen of Org Manager. The left side bar includes the various modules of the CoRA web application that the Org Manager can select.  It consists of Dashboard, Specimens, DNA and Isotope
- 
+## Manager
 
+Manager is one of the Users. Below image shows the screen of Manager. The left side bar includes the various modules of the CoRA web application that the Manager can select.  It consists of Dashboard, Specimens, DNA and Isotope
+ 
 ![Click on Action](../images/Images_Org_Users_Project/OrgManager.png)
 
-##Anthropologist
+## Anthropologist
+
 Anthropologist is one of the Users. Below image shows the screen of Anthropologist. The left side bar includes the various modules of the CoRA web application that the Anthropologist can select.  It consists of Dashboard, Specimens and DNA
                                                                                       
 ![Click on Action](../images/Images_Org_Users_Project/Anthropologist.png)
 
-##DNA Analyst
-DNA Analyst is one of the Users. Below image shows the screen of DNA Analyst. The left side bar includes the various modules of the CoRA web application that the DNA Analyst can select.  It consists of Dashboard, Specimens and DNA
-![Click on Action](../images/Images_Org_Users_Project/DnaAnalyst.png)
+## Anthropologist Lead
 
-##Anthropologist Lead
 Anthropologist Lead is one of the Users. Below image shows the screen of Anthropologist Lead. The left side bar includes the various modules of the CoRA web application that the Anthropologist Lead can select.  It consists of Dashboard, Specimens and DNA
                                                                                       
 ![Click on Action](../images/Images_Org_Users_Project/AnthropologistLead.png)
 
-##Isotope Analyst
+## DNA Analyst
+
+DNA Analyst is one of the Users. Below image shows the screen of DNA Analyst. The left side bar includes the various modules of the CoRA web application that the DNA Analyst can select.  It consists of Dashboard, Specimens and DNA
+
+![Click on Action](../images/Images_Org_Users_Project/DnaAnalyst.png)
+
+## Isotope Analyst
+
 Isotope Analyst is one of the Users. Below image shows the screen of Isotope Analyst. The left side bar includes the various modules of the CoRA web application that the Isotope Analyst can select.  It consists of Dashboard, Specimens and Isotope
+
 ![Click on Action](../images/Images_Org_Users_Project/IsotopeAnalyst.png)
 

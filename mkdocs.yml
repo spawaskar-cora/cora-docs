@@ -36,41 +36,72 @@ copyright: Copyright &copy; 2016 - 2024 <a href="https://sachinpawaskaruno.githu
 # We have installed the mkdocs-material theme as well
 theme:
   name: material
-  palette:
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: blue
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: blue
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
-
+#   custom_dir: material/overrides
   features:
-    # Search capabilities
-    - search.highlight
-    - search.share
-    - search.suggest
-
+    - announce.dismiss
     # Git repository 
     # Edit this page/View source of this page
     - content.action.edit
     - content.action.view
 
-    # Header
-    - header.autohide
-    - announce.dismiss
-
-    # Footor
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
     - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+
+    # Search capabilities
+    - search.highlight
+    - search.share
+    - search.suggest
+
+    # Table of contents
+    - toc.follow
+    # - toc.integrate
+
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # - media: "(prefers-color-scheme: light)"
+    #   scheme: default
+    #   primary: blue
+    #   toggle:
+    #     icon: material/brightness-7
+    #     name: Switch to dark mode
+
+    # - media: "(prefers-color-scheme: dark)"
+    #   scheme: slate
+    #   primary: blue
+    #   toggle:
+    #     icon: material/brightness-4
+    #     name: Switch to system preference
 
   icon:
     logo: material/skull

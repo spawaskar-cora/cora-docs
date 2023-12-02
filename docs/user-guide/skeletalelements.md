@@ -1,3 +1,4 @@
+# Specimens or Skeletal Elements
 Specimen are individual human remains which can be categorized. Many of the modules on the site are focused on specimens and their details. This section will explore:
 
 - Specimen Navigation
@@ -6,16 +7,17 @@ Specimen are individual human remains which can be categorized. Many of the modu
 - Specimen Search
 - Specimen Details
 
+## Specimen Navigation
 
-##### Specimen Navigation
 ![SE Navigation](../images/skeletalElements/specimen_navigation.png)
 
 On the left side bar - you can access the main options for specimens. For Report Dashboard - please see the **Reports** documentation.
 
-##### Creating a New Specimen
-![New SE](../images/skeletalElements/CreateSkeletalElement.gif)
+### Creating a New Specimen
 
 To create a new specimen - click the "New" link on the Specimens left navigation bar. You will be taken to the new specimen screen.
+
+![New SE](../images/skeletalElements/CreateSkeletalElement.gif)
 
 The fields to create a new specimen are:
 
@@ -38,10 +40,11 @@ The bolded fields are required. Below are some fields with some validation rule
   
  Once you have filled out all the fields, click the save button, and you will be taken to the Specimen View page.
 
-##### Specimens View
-![SE View](../images/skeletalElements/viewspecimen.gif)
+### Specimens View
 
 This page is view only, here all fields related to the specimens are displayed. To further edit the new specimen, click the "Actions" button, and select edit. The screen will refresh will all fields being editable. The fields available for edit are:
+
+![SE View](../images/skeletalElements/viewspecimen.gif)
 
 - **Accession**
 - Provenance 1
@@ -66,33 +69,35 @@ This page is view only, here all fields related to the specimens are displayed. 
 
 The bolded fields are required. Some of the fields along with their validation rules are as follows:
 
- Attributes  | Data Type |Size |Validation Rule  | Required/Optional
- ------------- |------------- | -------------| -------------| -------------
- Accession  |  String |32 chars | Can only contain letters, numbers, dash and space | Required
- Provenance 1 |  String |32 chars |Can only contain letters, numbers, dash and space  | Optional
- Provenance 2  |  String |32 chars | Can only contain letters, numbers, dash and space | Optional
- Designator | Alphanumeric |32 chars | Can only contain  letters and numbers | Required
- Individual Number | String |32 chars | Can only contain letters, numbers, dash and space | Optional
- Side  |  NA| NA|Either Left, Right, Middle or Unsided| Required
- Completeness |  NA| NA|Either Complete or Incomplete | Required
- Measured  |  Boolean |NA|True or False | Optional
- DNA Sampled| Boolean |NA|True or False | Optional
- Isotope Sampled | Boolean |NA|True or False | Optional
- Inventory Completed |  Boolean |NA|True or False | Optional
- Reviewed|Boolean |NA|True or False |Optional
- CT Scanned | Boolean |NA|True or False | Optional
- X-ray Scanned| Boolean |NA|True or False | Optional
- 3D Scanned | Boolean |NA|True or False | Optional
- Remain Status | NA|NA|Either In Lab or Released | Optional
+Attributes  | Data Type |Size |Validation Rule  | Required/Optional
+------------- |------------- | -------------| -------------| -------------
+Accession  |  String |32 chars | Can only contain letters, numbers, dash and space | Required
+Provenance 1 |  String |32 chars |Can only contain letters, numbers, dash and space  | Optional
+Provenance 2  |  String |32 chars | Can only contain letters, numbers, dash and space | Optional
+Designator | Alphanumeric |32 chars | Can only contain  letters and numbers | Required
+Individual Number | String |32 chars | Can only contain letters, numbers, dash and space | Optional
+Side  |  NA| NA|Either Left, Right, Middle or Unsided| Required
+Completeness |  NA| NA|Either Complete or Incomplete | Required
+Measured  |  Boolean |NA|True or False | Optional
+DNA Sampled| Boolean |NA|True or False | Optional
+Isotope Sampled | Boolean |NA|True or False | Optional
+Inventory Completed |  Boolean |NA|True or False | Optional
+Reviewed|Boolean |NA|True or False |Optional
+CT Scanned | Boolean |NA|True or False | Optional
+X-ray Scanned| Boolean |NA|True or False | Optional
+3D Scanned | Boolean |NA|True or False | Optional
+Remain Status | NA|NA|Either In Lab or Released | Optional
+
 Click "Save" When you are done making changes. 
 
 To add another new specimen, clicks "Actions" followed by "Create".
 
-##### New Bone Group
-![New Bone Group](../images/skeletalElements/SpecimenNewBoneGroup.gif)
+### New Bone Group
 
 To add a new bone group - click "New Bone Group" on the left navbar. You will be taken to the "New Bone Group Page". 
 Here you can create a superclass which can contain multiple specimens.
+
+![New Bone Group](../images/skeletalElements/SpecimenNewBoneGroup.gif)
 
 The fields to create a new bone group are:
 
@@ -115,15 +120,14 @@ The bolded fields are required. Below are some fields with some validation rule
   Bone Group  |  String |64 chars|Can only contain letters | Required
   Bone Group Id |String |64 chars| UUID  | Required
                              
-                                 
 
 Once you have created a new bone group, you can edit the fields and click "Save" to update the bone group.
 
+### Specimens Search
+The easiest way to search for specimens is to use the top search bar in the nav bar.
+To complete a search, first select the project you wish to search on the left-most select field, you will only be able to view projects which are assigned to your user profile. 
 
-
-##### Specimens Search
 ![SE Search](../images/skeletalElements/topNavBar.png)
-The easiest way to search for specimens is to use the top search bar in the nav bar. To complete a search, first select the project you wish to search on the left-most select field, you will only be able to view projects which are assigned to your user profile. 
 
 ![SE Project Categories](../images/skeletalElements/projectCategories.png)
 
@@ -369,7 +373,6 @@ Below are some validation rules associated with Isotope Request
  Sulphur Weight|  Numeric|32 chars|Can only contain numeric value| Optional
  Sulphur Percentage| Numeric|32 chars|Can only contain numeric value| Optional
       
- 
  
 ##### Taphonomy
 ![SE Taphonomies](../images/skeletalElements/taphonomies.png)

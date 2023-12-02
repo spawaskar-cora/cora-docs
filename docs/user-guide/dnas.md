@@ -1,6 +1,6 @@
-#DNA Profile
+# DNA Profile
 
-##Create DNA
+## Create DNA
 
 ![SE DNA Profile](../images/skeletalElements/dnaProfile.gif)
 
@@ -42,7 +42,7 @@ Notes| String |64 chars | Can contains a string of letters, numbers| Optional
 
 DNA elements are further divided into Mito, auSTR and Y-STR. 
 
-##Mito
+## Mito
 
 ![dna_profile](../images/dna/Mito_Dna.gif)
 
@@ -86,7 +86,7 @@ Mito locus | String|32 chars|Special characters are not allowed | Optional
 Mito Num Loci| Numeric |32 chars| Can only contain numeric value | Optional
 
 
-##auSTR
+## auSTR
 
 ![dna_profile](../images/dna/Austr_Dna.gif)
 
@@ -121,7 +121,7 @@ AusTR Number of Loci | Numeric| 32 chars|Can only contain numeric value| Optiona
 AusTR MCC Date|Date| NA|Can only contain date| Optional
 
 
-##Y-STR
+## Y-STR
 
 ![dna_profile](../images/dna/Y-STR_Dna.gif)
 
@@ -141,7 +141,6 @@ The elements associated with Y-STR are:
 
 The bolded fields are required. Below are some fields with their data type and validation rule
 
-
 Attributes  |  Data Type |Size | Validation Rule  | Required/Optional
 ------------- |  ------------- |  ------------- |------------- | -------------
 Y-STR Method  | NA|NA|Choose from the options available | Required
@@ -159,6 +158,8 @@ Y-STR MCC Date|Date|NA|Can only contain date| Optional
 Y-STR Haplogroup| NA|NA| Choose from options available | Optional
 Y-STR Haplosubgroup| String|32 chars | Can only contain letters, numbers, dash and space| Optional
 
-##Element Highlights
+## Element Highlights
+
 Additional skeletal element attributes about the DNA sample can found in the *Element Highlights* section above the DNA Profile.  By default this section is collapsed.
- ![highlights](../images/dna/dna_element_highlights.png)
+
+![highlights](../images/dna/dna_element_highlights.png)

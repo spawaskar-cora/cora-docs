@@ -28,7 +28,6 @@ Here you can view the export and table view options for a set of results
 
 ![Report Results](../images/reports/sampleResults.png)
 
-
 Each report will be outlined in detail.
 
 ## Advanced Report
@@ -73,7 +72,6 @@ The mtDNA report is designed to allow a user to locate bones by Mitochondrial DN
 
 Multiple Mito Sequence Numbers can be searched at one time.
 
-
 ## Zones Report
 
 ![zones Report](../images/reports/zonesReport.gif)
@@ -99,7 +97,6 @@ You can also select from one of 5 search types:
 - Exclusive Or
 
 ![Inclusive Exclusive](../images/reports/inclusiveExclusive.png)
-
 
 The user is required to select a Bone, Zones and Search Select Type for this report.
 
