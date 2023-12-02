@@ -193,6 +193,7 @@ nav:
         - Modules: user-guide/modules.md
         - Specimens: user-guide/skeletalelements.md
         - DNA: user-guide/dnas.md
+        - Isotopes: user-guide/isotopes.md
         - Reports: user-guide/reports.md
         - Dashboards: user-guide/dashboards.md
         - File Export Import: user-guide/file-export-import.md
