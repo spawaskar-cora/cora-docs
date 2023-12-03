@@ -103,6 +103,7 @@ theme:
     #     icon: material/brightness-4
     #     name: Switch to system preference
 
+  favicon: assets/favicon.png
   icon:
     logo: material/skull
     repo: fontawesome/brands/github
@@ -143,6 +144,11 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/sachinpawaskar/
       name: LinkedIn
+
+# extra javascript
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
 
 # Extensions
 markdown_extensions:
