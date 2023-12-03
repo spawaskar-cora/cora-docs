@@ -2,13 +2,16 @@
 
 In this section we present the images for measurements used in the inventory of human remains, along with captions and desciptions of each measurement. 
 
-Measurement definitions are derived from:
-* Berg (2014) Biological affinity and sex from the mandible utilizing multiple world populations. In: Berg GE, Ta’ala SC, editors. *Biological Affinity in Forensic Identification of Human Skeletal Remains:  Beyond Black and White.* pp. 43–81.
-* Byrd & Adams (2003) Osteometric sorting of commingled human remains. *Journal of Forensic Sciences*, 48:717-724.
-* Langley et al. (2016) *Data Collection Procedures for Forensic Skeletal Material 2.0.* University of Tennessee and Lincoln Memorial University
-* Meadows and Langley (1992) Estimation of stature from metacarpal lengths. *Journal of Forensic Sciences*, 37:147-154.
+???+ abstract "Measurement definitions are derived from"
 
-Images by Elizabeth Lockett and Nandar Yukyi are derived from Langley et al. (2016).
+    - Berg (2014) Biological affinity and sex from the mandible utilizing multiple world populations. In: Berg GE, Ta’ala SC, editors. *Biological Affinity in Forensic Identification of Human Skeletal Remains:  Beyond Black and White.* pp. 43–81.
+    - Byrd & Adams (2003) Osteometric sorting of commingled human remains. *Journal of Forensic Sciences*, 48:717-724.
+    - Langley et al. (2016) *Data Collection Procedures for Forensic Skeletal Material 2.0.* University of Tennessee and Lincoln Memorial University
+    - Meadows and Langley (1992) Estimation of stature from metacarpal lengths. *Journal of Forensic Sciences*, 37:147-154.
+
+!!! info "Recognition, Kudos and Thanks 🎀"
+
+    Images by Elizabeth Lockett and Nandar Yukyi are derived from Langley et al. (2016).
 
 ---
 

@@ -2,7 +2,7 @@
 
 In this section we present an annotated bibliography of analytical methods available in CoRA. This list will be updated as new methods are developed, published and added to the CoRA environment.
 
-## SEX
+## :material-human-male-female: SEX
 
 ### Bass WM (2005)
 
@@ -102,7 +102,7 @@ Sexing skulls using discriminant function analysis of visually assessed traits.�
 
 
 
-## AGE
+## :material-pound: AGE
 
 ### Albert AM, Maples WR (1995)
 
@@ -433,7 +433,7 @@ A summary of epiphyseal union timings in Bosnian males. *International Journal o
 * This method is meant for aging the adolescent skeleton.  
 
 
-## ANCESTRY
+## :simple-awsorganizations: ANCESTRY
 
 ### Edgar HJH (2013)
 
@@ -485,7 +485,7 @@ Non-metric skull racing.  In *Skeletal Attribution of Race: Methods for Forens
 * The traits determined to be the most useful in ancestry assessment are provided for each group.
 
 
-## ZONES
+## :material-group: ZONES
 
 ### Knusel CJ, Outram AK (2004)
 
@@ -495,7 +495,7 @@ Fragmentation: The zonation method applied to fragmented human remains from arch
 * Anatomical descriptions and zone drawings are provided. 
 
 
-## MEASUREMENTS
+## :fontawesome-solid-ruler-combined: MEASUREMENTS
 
 ### Buikstra JE, Ubelaker DH (1994)
 

@@ -110,9 +110,21 @@ theme:
     view: material/file-eye-outline
     next: fontawesome/solid/angle-right
     previous: fontawesome/solid/angle-left
+    admonition:
+      kudos: fontawesome/solid/ruler-combined
+      instrument: material/ruler-square
+    #   instrument: straight_ruler
+      measurement: fontawesome/solid/quote-left
 
 plugins:
-   - search
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+      enable_creation_date: true
+      type: timeago
+  # - git-committers:
+  #     repository: spawaskar-cora/cora-docs
+  #     branch: master
 
 # Additional configuration
 extra:
@@ -167,7 +179,7 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.snippets:
       auto_append:
-        - includes/mkdocs.md
+        - includes/abbreviations.md
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
