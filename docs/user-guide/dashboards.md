@@ -32,7 +32,7 @@ Widgets come with a handful of standard features/functions.
 ## Org Admin Dashboard
 
 ### Project Map
-![orgAdminDashboard](../assets/screenshots/dashboard/orgAdminDash.png)
+![orgAdminDashboard](../assets/screenshots/dashboard/orgAdminDashboard.png)
 
 
 ### Markers
