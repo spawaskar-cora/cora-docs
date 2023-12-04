@@ -44,4 +44,5 @@ tmp
 
 # IDEs & Editors
 .idea
+.vscode
 *~

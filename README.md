@@ -3,7 +3,7 @@
 
 # CoRA - Commingled Remains Analytics Documentation
 
-![Cora-Home](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/images/cora-home.png)
+![Cora-Home](https://github.com/spawaskar-cora/cora-docs/blob/master/docs/assets/screenshots/cora-home.png)
 
 ## Contribution Guidelines
 

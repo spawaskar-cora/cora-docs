@@ -6,4 +6,4 @@ CoRA consists of a core body of code, which is composed of the navigational and 
 
 The current modules which have been delivered are the Skeletal Elements and DNA module. 
 
-![currentModules1](../images/dashboard/currentModules.png)
+![currentModules1](../assets/screenshots/dashboard/currentModules.png)

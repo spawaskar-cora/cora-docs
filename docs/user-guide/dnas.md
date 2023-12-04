@@ -2,11 +2,11 @@
 
 ## Create DNA
 
-![SE DNA Profile](../images/skeletalElements/dnaProfile.gif)
+![SE DNA Profile](../assets/screenshots/skeletalElements/dnaProfile.gif)
 
 Specimens which have had a DNA sample successfully completed will 
-have an associated *DNA Profile*.  The profile contains all relevant DNA attributes and are editable via  ![action](../images/dna/action.png)(appropriate permissions required)<br> 
-![dna_profile](../images/dna/viewDna.gif) <br/>
+have an associated *DNA Profile*.  The profile contains all relevant DNA attributes and are editable via  ![action](../assets/screenshots/dna/action.png)(appropriate permissions required)<br> 
+![dna_profile](../assets/screenshots/dna/viewDna.gif) <br/>
 
 The fields associated with a DNA are:
 
@@ -44,7 +44,7 @@ DNA elements are further divided into Mito, auSTR and Y-STR.
 
 ## Mito
 
-![dna_profile](../images/dna/Mito_Dna.gif)
+![dna_profile](../assets/screenshots/dna/Mito_Dna.gif)
 
 The elements associated with Mito are:
 
@@ -88,7 +88,7 @@ Mito Num Loci| Numeric |32 chars| Can only contain numeric value | Optional
 
 ## auSTR
 
-![dna_profile](../images/dna/Austr_Dna.gif)
+![dna_profile](../assets/screenshots/dna/Austr_Dna.gif)
 
 The elements associated with auSTR are:
 
@@ -123,7 +123,7 @@ AusTR MCC Date|Date| NA|Can only contain date| Optional
 
 ## Y-STR
 
-![dna_profile](../images/dna/Y-STR_Dna.gif)
+![dna_profile](../assets/screenshots/dna/Y-STR_Dna.gif)
 
 The elements associated with Y-STR are:
 
@@ -162,4 +162,4 @@ Y-STR Haplosubgroup| String|32 chars | Can only contain letters, numbers, dash a
 
 Additional skeletal element attributes about the DNA sample can found in the *Element Highlights* section above the DNA Profile.  By default this section is collapsed.
 
-![highlights](../images/dna/dna_element_highlights.png)
+![highlights](../assets/screenshots/dna/dna_element_highlights.png)

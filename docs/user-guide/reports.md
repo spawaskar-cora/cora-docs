@@ -26,13 +26,13 @@ Additionally, on each report results table, you can select how many results shou
 
 Here you can view the export and table view options for a set of results
 
-![Report Results](../images/reports/sampleResults.png)
+![Report Results](../assets/screenshots/reports/sampleResults.png)
 
 Each report will be outlined in detail.
 
 ## Advanced Report
 
-![Advanced Report](../images/reports/advancedReport.gif)
+![Advanced Report](../assets/screenshots/reports/advancedReport.gif)
 
 The Advanced Report is the most comprehensive search available for a given skeletal element. It allows the user to search by the following fields.
 
@@ -57,7 +57,7 @@ This report has no required fields.
 
 ## mtDNA Report
 
-![mtDNA Report](../images/reports/mtDNAReport.gif)
+![mtDNA Report](../assets/screenshots/reports/mtDNAReport.gif)
 
 The mtDNA report is designed to allow a user to locate bones by Mitochondrial DNA. The search fields available are:
 
@@ -74,7 +74,7 @@ Multiple Mito Sequence Numbers can be searched at one time.
 
 ## Zones Report
 
-![zones Report](../images/reports/zonesReport.gif)
+![zones Report](../assets/screenshots/reports/zonesReport.gif)
 
 The Zones Report is designed to allow a user to locate bones by specific zones. The search fields available are:
 
@@ -96,13 +96,13 @@ You can also select from one of 5 search types:
 - Exclusive Only
 - Exclusive Or
 
-![Inclusive Exclusive](../images/reports/inclusiveExclusive.png)
+![Inclusive Exclusive](../assets/screenshots/reports/inclusiveExclusive.png)
 
 The user is required to select a Bone, Zones and Search Select Type for this report.
 
 ## Methods Report
 
-![Methods Report](../images/reports/methodReport.gif)
+![Methods Report](../assets/screenshots/reports/methodReport.gif)
 
 The Method Report allows a user to search by bones by a specific method. The search fields available are:
 
@@ -120,7 +120,7 @@ The bolded fields are required. The user is required to select a bone and a meth
 
 ## Measurements Report
 
-![Measurements Report](../images/reports/measurementsReport.gif)
+![Measurements Report](../assets/screenshots/reports/measurementsReport.gif)
 
 The Measurements Report allows a user to select by individual number and side of a bone. The search fields available are:
 
@@ -136,7 +136,7 @@ The bolded fields are required. The user is required to select a bone and a indi
 
 ## Articulations Report
 
-![Articulations Report](../images/reports/articulationsReport.gif)
+![Articulations Report](../assets/screenshots/reports/articulationsReport.gif)
 
 The Articulations Report allows a user to select by articulations. The search fields available are:
 
@@ -152,7 +152,7 @@ A Group or Bone is required for this report.
 
 ## Individual Number Report
 
-![Individual Number Report](../images/reports/individualNumberReport.gif)
+![Individual Number Report](../assets/screenshots/reports/individualNumberReport.gif)
 
 The Individual Number Report allows a user to select by an individual bone number. The search fields available are:
 
@@ -167,7 +167,7 @@ The bolded fields are required. An Individual Number and Bone is required to run
 
 ## Trauma Report
 
-![Trauma Report](../images/reports/traumaReport.gif)
+![Trauma Report](../assets/screenshots/reports/traumaReport.gif)
 
 The Trauma Report allows a user to select by an trauma category. The search fields available are:
 
@@ -182,7 +182,7 @@ You must select a trauma category to run this report.
 
 ## Anomaly Report
 
-![Anomaly Report](../images/reports/anomalyReport.gif)
+![Anomaly Report](../assets/screenshots/reports/anomalyReport.gif)
 
 The Anomaly Report allows a user to select by an anomaly category. The search fields available are:
  
@@ -197,7 +197,7 @@ An anomaly category must be selected to run this report.
 
 ## Pathology Report
 
-![Pathology Report](../images/reports/pathologyReport.gif)
+![Pathology Report](../assets/screenshots/reports/pathologyReport.gif)
 
 The Pathology Report allows a user to select by an pathology category. The search fields available are:
   

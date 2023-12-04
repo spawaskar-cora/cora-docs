@@ -7,8 +7,8 @@ There are three different dashboards available in CoRA with each view being driv
 
 ## Sample Dashboard
 
-![sampleDash1](../images/dashboard/sampleDash1.png)
-![sampleDash2](../images/dashboard/sampleDash2.png)
+![sampleDash1](../assets/screenshots/dashboard/sampleDash1.png)
+![sampleDash2](../assets/screenshots/dashboard/sampleDash2.png)
 
 
 ## Dashboard Widgets
@@ -17,7 +17,7 @@ There are three different dashboards available in CoRA with each view being driv
 
 ### Attributes of a Widget
  
-![widget](../images/dashboard/stacked_numbers.png)
+![widget](../assets/screenshots/dashboard/stacked_numbers.png)
   
 Widgets come with a handful of standard features/functions. 
 
@@ -26,18 +26,18 @@ Widgets come with a handful of standard features/functions.
 3.  View Details (Drill Into The Data)
 4.  Widget Controls   
 
-![widget](../images/dashboard/control.png)
+![widget](../assets/screenshots/dashboard/control.png)
 
 
 ## Org Admin Dashboard
 
 ### Project Map
-![orgAdminDashboard](../images/dashboard/orgAdminDashboard.PNG)
+![orgAdminDashboard](../assets/screenshots/dashboard/orgAdminDashboard.PNG)
 
 
 ### Markers
 The markers displayed on the map showcase the latitude and longitude of a particular project. 
-On mouse over additional project details as well as a link ![dashboard icon](../images/dashboard/dash-icon.PNG)
+On mouse over additional project details as well as a link ![dashboard icon](../assets/screenshots/dashboard/dash-icon.PNG)
  to the corresponding project dashboard can be found in the in popup window.
 
 ### DNA Summary
@@ -56,7 +56,7 @@ The dashboard is comprised of *widgets*, which are individual visual representat
   * Mitosequence Information
   * Inventory Process
   
-Those *widgets* can be added and removed via the *widget selector*.  For more information regarding the data being represented in a *widget*, click the help icon  ![widget](../images/dashboard/help.png)
+Those *widgets* can be added and removed via the *widget selector*.  For more information regarding the data being represented in a *widget*, click the help icon  ![widget](../assets/screenshots/dashboard/help.png)
  in the top right of the widget.
  
 ## User Dashboard
@@ -68,7 +68,7 @@ The dashboard is comprised of *widgets*, which are individual visual representat
   * Mitosequence Information
   * Inventory Process
   
-Those *widgets* can be added and removed via the *widget selector*.  For more information regarding the data being represented in a *widget*, click the help icon  ![widget](../images/dashboard/help.png)
+Those *widgets* can be added and removed via the *widget selector*.  For more information regarding the data being represented in a *widget*, click the help icon  ![widget](../assets/screenshots/dashboard/help.png)
  in the top right of the widget.
  
 
@@ -76,8 +76,8 @@ Those *widgets* can be added and removed via the *widget selector*.  For more in
 
 The dashboard is customizable - allowing users to select their desired widgets to display. Click the gear icon,
 
-![gearz](../images/dashboard/gearz.png) to display available widgets. 
+![gearz](../assets/screenshots/dashboard/gearz.png) to display available widgets. 
 
-![customizeWidgets](../images/dashboard/customizeWidgets.png) 
+![customizeWidgets](../assets/screenshots/dashboard/customizeWidgets.png) 
  
  

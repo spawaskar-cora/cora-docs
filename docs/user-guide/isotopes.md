@@ -5,7 +5,7 @@
 - In order to create a new isotope batch, click on 'New Isotope Batch' or 'Action/Create' under Isotope Batches.
 - On the Create Isotope Batch page, enter the required information and click save (required fields are marked with a red asterisk*)
 
-![Click on Action](../images/isotope/CreateIsotopeBatch.gif)
+![Click on Action](../assets/screenshots/isotope/CreateIsotopeBatch.gif)
 
 - After the isotope batch is created successfully, you will receive success message 
 
@@ -14,14 +14,14 @@
 - After Isotope Batch is created, you can view it under "Isotope Batch" in left navigation bar. 
 - In order to add isotope counts and change the status of the isotope, you can further edit the isotope by clicking it.
 
-![Click on Action](../images/isotope/IsotopeCount.gif)
+![Click on Action](../assets/screenshots/isotope/IsotopeCount.gif)
 
 ### Edit Isotope Batch
 
 After the creation of a Isotope Batch, the Org Admin and Manager can edit the Isotope Batch.
 On the Isotope Batches page, click on the batch number to edit
 
-![Click on Action](../images/isotope/EditIsotopeBatch.gif)
+![Click on Action](../assets/screenshots/isotope/EditIsotopeBatch.gif)
 
 Edit the needed information on the page, and click save. Under Edit Isotope Batch you can move to different tabs and edit different attributes. The tabs are 
 - Cleaning
@@ -33,7 +33,7 @@ Edit the needed information on the page, and click save. Under Edit Isotope Batc
 
 To edit the Tabs, click "Start Processing" after you create an Isotope Batch. In order to move to the next tab, click "Edit" under Action and Check all the given fields and click "Save". Repeat this step, until all the fields are checked mark.
 
-![Click on Action](../images/isotope/EditIsotopeBatchTabs.gif)
+![Click on Action](../assets/screenshots/isotope/EditIsotopeBatchTabs.gif)
 
 Below are some validation rules associated with Isotope Batch
  

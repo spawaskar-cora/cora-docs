@@ -15,7 +15,7 @@ In this section we present the images used in the zonation method for inventory 
 
 ### Cranium
 
-![Cranium anterior](../images/zones/cranium_ant_500.png)
+![Cranium anterior](../assets/images/zones/cranium_ant_500.png)
 
 **Skull, anterior view.**
 
@@ -40,7 +40,7 @@ In this section we present the images used in the zonation method for inventory 
 23\. Right inferior nasal concha (not depicted)  
 
 
-![Skull right](../images/zones/skull_right_500.png)
+![Skull right](../assets/images/zones/skull_right_500.png)
 
 **Skull, lateral right view.**
 
@@ -57,7 +57,7 @@ In this section we present the images used in the zonation method for inventory 
 17\. Right lacrimal bone  
 20\. Ethmoid  
 
-![Skull left](../images/zones/skull_left_500.png)
+![Skull left](../assets/images/zones/skull_left_500.png)
 
 **Skull, lateral left view.**
 
@@ -75,7 +75,7 @@ In this section we present the images used in the zonation method for inventory 
 20\. Ethmoid   
 
 
-![Cranium inferior](../images/zones/cranium_inf_500.png)
+![Cranium inferior](../assets/images/zones/cranium_inf_500.png)
 
 **Skull, inferior view.**
 
@@ -94,7 +94,7 @@ In this section we present the images used in the zonation method for inventory 
 19\. Right palatine bone  
 21\. Vomer  
 
-![Ossicles](../images/zones/ossicles_500.png)
+![Ossicles](../assets/images/zones/ossicles_500.png)
 
 **Ear ossicles. Top to bottom: malleus, incus, and stapes.**
 
@@ -106,7 +106,7 @@ Ear ossicles
 
 ### Mandible
 
-![Mandible](../images/zones/mandible_500.png)
+![Mandible](../assets/images/zones/mandible_500.png)
 
 **Mandible. Top left: medial/internal view of left; 
 Top right: medial/internal view of right; 
@@ -138,7 +138,7 @@ externally)
 
 #### Hyoid
 
-![Hyoid](../images/zones/hyoid_500.png)
+![Hyoid](../assets/images/zones/hyoid_500.png)
 
 **Hyoid. Anterior view.**
 
@@ -151,7 +151,7 @@ externally)
 
 #### Cervical vertebrae
 
-![Cervical vertebra](../images/zones/cervical_500.png)
+![Cervical vertebra](../assets/images/zones/cervical_500.png)
 
 **Cervical vertebra. Above: superior view; below: lateral view.**
 
@@ -164,7 +164,7 @@ externally)
 
 #### Thoracic and lumbar vertebrae
 
-![Thoracic vertebra](../images/zones/thoracic_500.png)
+![Thoracic vertebra](../assets/images/zones/thoracic_500.png)
 
 **Thoracic vertebra (also applies to lumbar vertebrae). Above: superior view, below: lateral view.**
 
@@ -177,7 +177,7 @@ externally)
 
 #### Sacrum
 
-![Sacrum](../images/zones/sacrum_500.png)
+![Sacrum](../assets/images/zones/sacrum_500.png)
 
 **Sacrum. Left: anterior view; right: posterior view.**
 
@@ -192,7 +192,7 @@ externally)
 
 #### Rib 1
 
-![Rib1](../images/zones/rib01_500.png)
+![Rib1](../assets/images/zones/rib01_500.png)
 
 **Left rib 1. Above: inferior view; below: superior view.**
 
@@ -205,7 +205,7 @@ externally)
 
 #### Ribs 2-12
 
-![Ribs](../images/zones/ribs_500.png)
+![Ribs](../assets/images/zones/ribs_500.png)
 
 **Left rib 7. Above: inferior view; below: superior view.**
 
@@ -218,7 +218,7 @@ externally)
 
 #### Sternum
 
-![Sternum](../images/zones/sternum_500.png)
+![Sternum](../assets/images/zones/sternum_500.png)
 
 **Sternum. Left: anterior view; right: posterior view.**
 
@@ -230,7 +230,7 @@ externally)
 
 #### Clavicle
 
-![Clavicle](../images/zones/clavicle_left_500.png)
+![Clavicle](../assets/images/zones/clavicle_left_500.png)
 
 **Left clavicle. Above: superior view; below: inferior view.**
 
@@ -242,7 +242,7 @@ externally)
 
 #### Scapula
 
-![Scapula](../images/zones/scapula_left_500.png)
+![Scapula](../assets/images/zones/scapula_left_500.png)
 
 **Left scapula. Left: anterior view; right: posterior view.**
 
@@ -262,7 +262,7 @@ externally)
 
 #### Humerus
 
-![Humerus](../images/zones/humerus_left_500.png)
+![Humerus](../assets/images/zones/humerus_left_500.png)
 
 **Left humerus. Left: posterior view; right: anterior view.**
 
@@ -282,7 +282,7 @@ externally)
 
 #### Radius
 
-![Radius](../images/zones/radius_left_500.png)
+![Radius](../assets/images/zones/radius_left_500.png)
 
 **Left radius. Left: posterior view; right: anterior view.**
 
@@ -302,7 +302,7 @@ externally)
 
 #### Ulna
 
-![Ulna](../images/zones/ulna_left_500.png)
+![Ulna](../assets/images/zones/ulna_left_500.png)
 
 **Left ulna. Left: posterior view; right: anterior view.**
 
@@ -321,7 +321,7 @@ externally)
 
 #### Os coxa
 
-![Os coxa](../images/zones/oscoxa_left_500.png)
+![Os coxa](../assets/images/zones/oscoxa_left_500.png)
 
 **Left os coxa. Left: medial/internal view; right: lateral/external view.**
 
@@ -342,7 +342,7 @@ externally)
 
 #### Femur
 
-![Femur](../images/zones/femur3_500.png)
+![Femur](../assets/images/zones/femur3_500.png)
 
 **Left femur. Left: posterior view; right: anterior view.**
 
@@ -362,13 +362,13 @@ externally)
 
 #### Patella
 
-![Patella](../images/zones/patella_500.png)
+![Patella](../assets/images/zones/patella_500.png)
 
 **Left patella. Above: posterior view; below: anterior view.**
 
 #### Tibia
 
-![Tibia](../images/zones/tibia_left_500.png)
+![Tibia](../assets/images/zones/tibia_left_500.png)
 
 **Left tibia. Left: posterior view; right: anterior view.**
 
@@ -387,7 +387,7 @@ externally)
 
 #### Fibula
 
-![Fibula](../images/zones/fibula_500.png)
+![Fibula](../assets/images/zones/fibula_500.png)
 
 **Left fibula. Left: anterior view; right: posterior view.**
 
@@ -405,7 +405,7 @@ externally)
 
 #### Hand
 
-![Hand](../images/zones/hand_left_500.png)
+![Hand](../assets/images/zones/hand_left_500.png)
 
 **Left hand and wrist. Left: dorsal view; right: palmar view.**
 
@@ -423,7 +423,7 @@ Metacarpals
 
 #### Foot
 
-![Foot](../images/zones/foot_right_500.png)
+![Foot](../assets/images/zones/foot_right_500.png)
 
 **Right foot and ankle. Left: dorsal view; right: plantar view.**
 

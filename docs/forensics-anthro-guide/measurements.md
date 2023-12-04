@@ -17,7 +17,7 @@ In this section we present the images for measurements used in the inventory of 
 
 ## Cranium
 
-![Cranium, Cra_01-06](../images/measurements/midsagittal_1_500.png)
+![Cranium, Cra_01-06](../assets/images/measurements/midsagittal_1_500.png)
 
 **Cra_01 Maximum Cranial Length (g-op, GOL):**  The straight-line distance from glabella (g) to opisthocranion (op) in the midsagittal plane. 
 
@@ -29,14 +29,14 @@ In this section we present the images for measurements used in the inventory of 
 * *Instrument:* spreading caliper
 * *Comment:*  With the skull in position as for Maximum Cranial Length, place the one caliper point at (n) and move the other point along the occiput in the midline for the maximum reading (Howells 1973:171; Langley et al. 2016:65, #2).
 
-![Cranium, Cra_03](../images/measurements/anterior_1_500.png)
+![Cranium, Cra_03](../assets/images/measurements/anterior_1_500.png)
 
 **Cra_03 Maximum Cranial Breadth (eu-eu, XCB):**  The maximum width of the skull perpendicular to the mid-sagittal plane wherever it is located with the exception of the inferior temporal line and the immediate area surround the latter (i.e. the posterior roots of the zygomatic arches and supramastoid crest). 
 
 * *Instrument:* spreading caliper
 * *Comment:*  Cra_03 is measured with the skull resting either on its base or on the occiput. The two measuring points (eurya) should lie in the same horizontal and frontal planes. Place the arms of the caliper at the same level while maintaining the hinge joint of the caliper in the mid-sagittal plane. Hold the ends of the caliper in each hand and apply to the lateral portions of the skull, making circular motions. Make sure you include areas below the squamosal suture, where the maximum is sometimes found. (Howells 1973:172; Hrdlicka 1920:14; Martin and Knussmann 1988:170, #8; Moore-Jansen et al. 1994, #2; Langley et al. 2016:65, #3). 
 
-![Cranium, Cra_04-](../images/measurements/inferior_1_500.png)
+![Cranium, Cra_04-](../assets/images/measurements/inferior_1_500.png)
 
 **Cra_04 Bizygomatic Breadth (zy-zy, ZYB):**  The maximum breadth across the zygomatic arches, wherever found, perpendicular to the mid-sagittal plane. 
 
@@ -73,7 +73,7 @@ In this section we present the images for measurements used in the inventory of 
 * *Instrument:* sliding caliper
 * *Comment:*  With the skull resting on the occiput, and with the base toward the observer, measure to the outside of the roots of the zygomatic processes at their deepest incurvature, generally slightly anterior to the external auditory meatus, with the sharp points of the caliper (Howells 1973:173; Martin and Knussmann 1988:170, #11b; Moore-Jansen et al. 1994, #9; Langley et al. 2016:66, #10).
 
-![Cranium, Cra_11-](../images/measurements/anterior_2_500.png)
+![Cranium, Cra_11-](../assets/images/measurements/anterior_2_500.png)
 
 **Cra_11 Nasion-Prosthion Height (n-pr, NPH):**  The distance from nasion (n) to prosthion (pr), upper facial height. 
 
@@ -101,7 +101,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper
 * *Comment:*  Carefully place the points of the instrument on the sharp lateral margins of the nasal aperture at its most lateral curvature; this is not an inside measurement. The measurement is perpendicular to the mid-sagittal plane and recorded to the nearest millimeter (Howells 1973: 176; Martin and Knussmann 1988:181 #54; Moore-Jansen et al. 1994, #14; Langley et al. 2016:68, #15). 
 
-![Cranium, Cra_16-](../images/measurements/anterior_3_500.png)
+![Cranium, Cra_16-](../assets/images/measurements/anterior_3_500.png)
 
 **Cra_16L and Cra_16R Orbital Breadth (d-ec, OBB):**  The distance from dacryon (d) to ectoconchion (ec), of the left (L) and right (R) orbit, respectively. 
 
@@ -121,7 +121,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
-![Cranium, Cra_20-22-](../images/measurements/midsagittal_2_500.png)
+![Cranium, Cra_20-22-](../assets/images/measurements/midsagittal_2_500.png)
 
 **Cra_20 Frontal Chord (n-b, FRC):**  The distance from nasion (n) to bregma (b) taken in the mid-sagittal plane. 
 
@@ -147,7 +147,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper
 * *Comment:*  Measure with the skull base up using the inside jaws of the calipers (Martin and Knussmann 1988:171, #16; Moore-Jansen et al. 1994, #23; Langley et al. 2016:69, #24). 
 
-![Cranium, Cra_25](../images/measurements/lateral_1_500.png)
+![Cranium, Cra_25](../assets/images/measurements/lateral_1_500.png)
 
 **Cra_25L and Cra_25R Mastoid Height (MDH):**  The direct distance between porion (po) and mastoidale (ms) of the left (L) and right (R) sides, respectively. 
 
@@ -159,7 +159,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper
 * *Comment:*  With the skull resting so that the occiput is facing the observer, measure the distance using the sharp points of the calipers (Howells 1973:174; Martin and Knussmann 1988:171, #12; Langley et al. 2016:70, #26).  
 
-![Cranium, Cra_27-28](../images/measurements/anterior_4_500.png)
+![Cranium, Cra_27-28](../assets/images/measurements/anterior_4_500.png)
 
 **Cra_27 Bimaxillary Breadth (zma-zma, ZMB):**  The breadth across the maxillae, from the left to right zygomaxillare anterior (zma). 
 
@@ -174,7 +174,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Mandible
 
-![Mandible_anterior](../images/measurements/mandible_2_500.png)
+![Mandible_anterior](../assets/images/measurements/mandible_2_500.png)
 
 **Mandible, anterior view.**
 
@@ -183,7 +183,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 * *Instrument:* sliding caliper
 * *Comment:*  When the mandibular alveolar process is damaged between the central incisors, estimates of this measurement are recorded by using the intact alveolar process at the position of the lateral incisors. Any estimate or adjustment should be indicated on the recording form. In mandibles where the alveolar process exhibit pronounced erosion or resorption, this measurement is not taken (Martin and Knussmann 1988:183, #69; Moore-Jansen et al. 1994, #25; Langley et al. 2016:71, #29). 
 
-![Mandible](../images/measurements/mandible_500.png)
+![Mandible](../assets/images/measurements/mandible_500.png)
 
 **Mandible, lateral left view.**
 
@@ -247,7 +247,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Vertebrae
 
-![Vertebrae](../images/measurements/vertebrae_500.png)
+![Vertebrae](../assets/images/measurements/vertebrae_500.png)
 
 **Cer1_01 (Left) and Cer1_02 (Right) Maximum Length of the Superior Articular Facet of C1:**  Take the maximum length of the facet as it appears in any direction (Byrd and Adams 2015, #81A). 
 
@@ -265,7 +265,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Clavicle
 
-![Clavicle](../images/measurements/clavicle_500.png)
+![Clavicle](../assets/images/measurements/clavicle_500.png)
 
 **Left clavicle, inferior view.**
 
@@ -314,7 +314,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Scapula
 
-![Scapula](../images/measurements/scapula_500.png)
+![Scapula](../assets/images/measurements/scapula_500.png)
 
 **Right scapula, posterior view.**
 
@@ -344,7 +344,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Humerus
 
-![Humerus](../images/measurements/humerus_500.png)
+![Humerus](../assets/images/measurements/humerus_500.png)
 
 **Right humerus, anterior view.**
 
@@ -392,7 +392,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Radius
 
-![Radius](../images/measurements/radius_500.png)
+![Radius](../assets/images/measurements/radius_500.png)
 
 **Left radius, anterior view.**
 
@@ -445,7 +445,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Ulna
 
-![Ulna](../images/measurements/ulna_500.png)
+![Ulna](../assets/images/measurements/ulna_500.png)
 
 **Right ulna, anterior view.**
 
@@ -508,7 +508,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Wrist and Hand
 
-![Hands](../images/measurements/hand_500.png)
+![Hands](../assets/images/measurements/hand_500.png)
 
 **Maximum lengths of the carpals:** This is the maximum length of the bone.  
 
@@ -551,7 +551,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Sacrum
 
-![Sacrum](../images/measurements/sacrum_500.png)
+![Sacrum](../assets/images/measurements/sacrum_500.png)
 
 **Sacrum, anterior view.**
 
@@ -582,7 +582,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Os coxa
 
-![Os coxa](../images/measurements/oscoxa_500.png)
+![Os coxa](../assets/images/measurements/oscoxa_500.png)
 
 **Right os coxa. Left above and below: lateral view; right: medial view.**
 
@@ -665,7 +665,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Femur
 
-![femur](../images/measurements/femur_500.png)
+![femur](../assets/images/measurements/femur_500.png)
 
 **Left femur, posterior view.**
 
@@ -760,7 +760,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Patella
 
-![Patella](../images/measurements/patella_500.png)
+![Patella](../assets/images/measurements/patella_500.png)
 
 **Pat_01 Maximum Length of the Patella:**  Find the maximum length (superior to inferior) of the patella (Byrd and Adams 2015, #74.5A). 
 
@@ -778,7 +778,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Tibia
 
-![Tibia](../images/measurements/tibia_500.png)
+![Tibia](../assets/images/measurements/tibia_500.png)
 
 **Left tibia, anterior view.**
 
@@ -856,7 +856,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Fibula
 
-![Fibula](../images/measurements/fibula_500.png)
+![Fibula](../assets/images/measurements/fibula_500.png)
 
 **Left fibula, anterior view.**
 
@@ -886,7 +886,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 ## Ankle and foot
 
-![Calcaneus](../images/measurements/calcaneus_500.png)
+![Calcaneus](../assets/images/measurements/calcaneus_500.png)
 
 **Cal_01 Maximum Length of the Calcaneus (MCAL):**  The distance between the most posteriorly projecting point on the calcaneal tuberosity and the most anterior point on the superior margin of the articular facet for the cuboid measured in the sagittal plane (Martin and Knussmann 1988:225 #1). 
 
@@ -906,7 +906,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
-![Talus](../images/measurements/talus_500.png)
+![Talus](../assets/images/measurements/talus_500.png)
 
 **Tal_01 Minimum Trochlear Breadth:**  This is the minimum breadth of the trochlea (superior articular surface). Place the flat surfaces of the jaws of the sliding calipers on either side of the articular surface with the jaws (approximately) parallel to the long axis of the bones. Close the jaws to take the minimum value (Byrd 2008, #79). 
 
@@ -920,7 +920,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 
 * *Instrument:* sliding caliper
 
-![Feet](../images/measurements/foot_500.png)
+![Feet](../assets/images/measurements/foot_500.png)
 
 **Maximum Lengths of the Tarsals:** This is the maximum length of the bone. 
 * **Cub_01 Maximum Length of the Cuboid (Byrd and Adams 2015, #80F)**
