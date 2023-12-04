@@ -148,7 +148,7 @@ extra:
 # extra javascript
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.js
+  - assets/js/tablesort.js
 
 # Extensions
 markdown_extensions:
@@ -179,8 +179,8 @@ markdown_extensions:
   - pymdownx.magiclink:
       normalize_issue_symbols: true
       repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
+      user: SachinPawaskarUNO
+      repo: spawaskar-cora/cora-docs
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:
@@ -224,7 +224,7 @@ nav:
         - Taphonomy: forensics-anthro-guide/taphonomy.md
         - Trauma: forensics-anthro-guide/traumas.md
         - Zones: forensics-anthro-guide/zones.md
-    - CoRA Analytics:
+    - Analytics & Visualiztions:
         - Home: analytics/index.md
     - About:
         - Contributing: about/contributing.md
