@@ -14,7 +14,7 @@ Click on their name in all user list. You will be taken to a read only page of t
 
 To Edit their Profile Information - Click "Actions" - "Edit". 
 
-![SE Search Categories](../assets/screenshots/Images_Org_Users_Project/UserEdit.png)
+![SE Search Categories](../assets/screenshots/administration/UserEdit.png)
  
 The following fields are available on the user edit screen:
 
@@ -37,11 +37,11 @@ Bold fields are required. Click save when finished editing.
   
 To Reset their Password - Click "Reset Password".
 
-![SE Search Categories](../assets/screenshots/Images_Org_Users_Project/PasswordReset.png)
+![SE Search Categories](../assets/screenshots/administration/PasswordReset.png)
  
 Enter the new password in both the fields and change password.
 
-![SE Search Categories](../assets/screenshots/Images_Org_Users_Project/PasswordChange.png)
+![SE Search Categories](../assets/screenshots/administration/PasswordChange.png)
   
 
 ### User Permissions
