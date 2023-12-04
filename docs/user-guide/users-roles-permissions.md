@@ -2,11 +2,11 @@
 
 To edit or create users, navigate to "Administration" - "User Management"
 
-![SE Search Categories](../assets/screenshots/skeletalElements/users.png)
+![SE Search Categories](../assets/screenshots/specimens/users.png)
 
 You will be taken to a list of all application users.
 
-![SE Search Categories](../assets/screenshots/skeletalElements/UserList.png)
+![SE Search Categories](../assets/screenshots/specimens/UserList.png)
 
 ### Edit an Existing User
 

@@ -9,7 +9,7 @@ Specimen are individual human remains which can be categorized. Many of the modu
 
 ## Specimen Navigation
 
-![SE Navigation](../assets/screenshots/skeletalElements/specimen_navigation.png)
+![SE Navigation](../assets/screenshots/specimens/specimen_navigation.png)
 
 On the left side bar - you can access the main options for specimens. For Report Dashboard - please see the **Reports** documentation.
 
@@ -17,7 +17,7 @@ On the left side bar - you can access the main options for specimens. For Report
 
 To create a new specimen - click the "New" link on the Specimens left navigation bar. You will be taken to the new specimen screen.
 
-![New SE](../assets/screenshots/skeletalElements/CreateSkeletalElement.gif)
+![New SE](../assets/screenshots/specimens/CreateSkeletalElement.gif)
 
 The fields to create a new specimen are:
 
@@ -44,7 +44,7 @@ The bolded fields are required. Below are some fields with some validation rule
 
 This page is view only, here all fields related to the specimens are displayed. To further edit the new specimen, click the "Actions" button, and select edit. The screen will refresh will all fields being editable. The fields available for edit are:
 
-![SE View](../assets/screenshots/skeletalElements/viewspecimen.gif)
+![SE View](../assets/screenshots/specimens/viewspecimen.gif)
 
 - **Accession**
 - Provenance 1
@@ -97,7 +97,7 @@ To add another new specimen, clicks "Actions" followed by "Create".
 To add a new bone group - click "New Bone Group" on the left navbar. You will be taken to the "New Bone Group Page". 
 Here you can create a superclass which can contain multiple specimens.
 
-![New Bone Group](../assets/screenshots/skeletalElements/SpecimenNewBoneGroup.gif)
+![New Bone Group](../assets/screenshots/specimens/SpecimenNewBoneGroup.gif)
 
 The fields to create a new bone group are:
 
@@ -127,13 +127,13 @@ Once you have created a new bone group, you can edit the fields and click "Save"
 The easiest way to search for specimens is to use the top search bar in the nav bar.
 To complete a search, first select the project you wish to search on the left-most select field, you will only be able to view projects which are assigned to your user profile. 
 
-![SE Search](../assets/screenshots/skeletalElements/topNavBar.png)
+![SE Search](../assets/screenshots/specimens/topNavBar.png)
 
-![SE Project Categories](../assets/screenshots/skeletalElements/projectCategories.png)
+![SE Project Categories](../assets/screenshots/specimens/projectCategories.png)
 
 By default, "Bone" is selected as the search option. Select the desired search category before typing your search text into the search bar. Then click the magnifying glass to execute your search.
 
-![SE Search Categories](../assets/screenshots/skeletalElements/searchCategories.png)
+![SE Search Categories](../assets/screenshots/specimens/searchCategories.png)
 
 Once you complete your search, you are taken to the Specimens search screen. The following columns are visible for all the specimens search:
 
@@ -163,7 +163,7 @@ There are some columns which are not displayed at the screen but can be made vis
 - Updated At
 
 
-![SE Search Results](../assets/screenshots/skeletalElements/seSearch.gif)
+![SE Search Results](../assets/screenshots/specimens/seSearch.gif)
 
 On this page you can filter how many results are shown per page, as well as search the results.
 To view the details of a skeletal elements, click on the key in the search results. You can also export the search results in Excel and PDF format. 
@@ -171,13 +171,13 @@ To view the details of a skeletal elements, click on the key in the search resul
 ##### Search Options
 Two search options are available to the user inside the User Profile Project tab.
 
-![Search Option View](../assets/screenshots/skeletalElements/searchOption.png)
+![Search Option View](../assets/screenshots/specimens/searchOption.png)
 
 *Client-Side Pagination - **Ideal for small projects***
 
 **Max Search Limit 500**
 
-![Old Search View](../assets/screenshots/skeletalElements/oldSearch.png)
+![Old Search View](../assets/screenshots/specimens/oldSearch.png)
 
 The server renders all results queried from the project search bar request, allowing the user to paginate and search through the entire response. Limitations with this search options, include longer response times or application overload for projects with large sets of data.  
 
@@ -185,18 +185,18 @@ The server renders all results queried from the project search bar request, allo
 
 **Max Search Limit 250**
 
-![New Search View](../assets/screenshots/skeletalElements/newSearch.gif)
+![New Search View](../assets/screenshots/specimens/newSearch.gif)
 
 The server will render only the selected quantity of data provided by show rows options at the top left corner of the page. 
 
-![Show Row View](../assets/screenshots/skeletalElements/showRows.png)
+![Show Row View](../assets/screenshots/specimens/showRows.png)
 
 Each tab will generate a new call to the server and retrieve the next set of data. This search option is ideal for project with larger sets of data. Search result filter is not available with this option.  
 
-![Search Tabs View](../assets/screenshots/skeletalElements/searchPagination.png)
+![Search Tabs View](../assets/screenshots/specimens/searchPagination.png)
 
 ##### Specimen Detail View
-![SE Detail View](../assets/screenshots/skeletalElements/specimenview.png)
+![SE Detail View](../assets/screenshots/specimens/specimenview.png)
  
  The skeletal elements detail view consists of the same fields when a new skeletal element is created:
  
@@ -225,15 +225,15 @@ If you have correct permissions, you can click in actions button in the top righ
 
 ### Specimen Details  
 When you are view the details of a specimen, you can click "Details" in the top left to select a specimen detail drilldown. Each of these selections will be described in detail.  
-![SE Details](../assets/screenshots/skeletalElements/seDetails.png)
+![SE Details](../assets/screenshots/specimens/seDetails.png)
 
 ##### Biological Profile
-![SE Biological Profile](../assets/screenshots/skeletalElements/biologicalProfile.png)
+![SE Biological Profile](../assets/screenshots/specimens/biologicalProfile.png)
 
 There are 4 Biological Profile subcategories. 
 
 ##### Age
-![SE Bone Age](../assets/screenshots/skeletalElements/boneAge.gif)
+![SE Bone Age](../assets/screenshots/specimens/boneAge.gif)
 
 The biological profile age search is broken down in the "Element Highlights" and "Methods" sections. The element highlights section is read only and displays the following information about the selected bone:
 - Bone
@@ -250,7 +250,7 @@ The "Methods" section of the pane displays the age of the bone by chosen method.
 Fill in the desired fields for your selected Bone Age Method and click "Save". When you return to the Bone Age page you will see the age of the bone in the selected method.
 
 ##### Sex
-![SE Bone Sex](../assets/screenshots/skeletalElements/boneSex.gif)
+![SE Bone Sex](../assets/screenshots/specimens/boneSex.gif)
 
 The biological profile sex search is broken down in the "Element Highlights" and "Methods" sections. The element highlights section is read only and displays the following information about the selected bone:
 - Bone
@@ -267,7 +267,7 @@ The biological profile sex search is broken down in the "Element Highlights" and
 Select the desired options, and click "Save". You will be taken back to the Sex Biological Profile screen with the chosen method appearing in the "Methods" dropdown.
 
 ##### Stature
-![SE Create Stature Method](../assets/screenshots/skeletalElements/boneStature.png)
+![SE Create Stature Method](../assets/screenshots/specimens/boneStature.png)
 
 The biological profile stature search is broken down in the "Element Highlights" and "Methods" sections. The element highlights section is read only and displays the following information about the selected bone:
 - Bone
@@ -282,7 +282,7 @@ The biological profile stature search is broken down in the "Element Highlights"
 The bone stature detail shows the stature detail of the chosen bone. You must select a stature method for a stature to appear in the "Methods" tab.
 
 ##### Ancestry
-![SE Ancestry Bone](../assets/screenshots/skeletalElements/boneAncestry.gif)
+![SE Ancestry Bone](../assets/screenshots/specimens/boneAncestry.gif)
 
 The biological profile ancestry search is broken down in the "Element Highlights" and "Methods" sections. The element highlights section is read only and displays the following information about the selected bone:
 - Bone
@@ -297,7 +297,7 @@ The biological profile ancestry search is broken down in the "Element Highlights
 The bone ancestry detail shows the ancestry detail of the chosen bone. You must select a ancestry method for a stature to appear in the "Methods" tab.
 
 ##### DNA Profile
-![SE DNA Profile](../assets/screenshots/skeletalElements/dnaProfile.gif)
+![SE DNA Profile](../assets/screenshots/specimens/dnaProfile.gif)
 
 The DNA Profile screen displays the following elements about a bone:
 
@@ -316,7 +316,7 @@ The bolded elements are required.
 On this screen, you can also view the "Mito", "auSTR", and "Y-STR" tabs.
 
 ##### Isotope Analysis
-![SE Isotope](../assets/screenshots/skeletalElements/isotopedetails.gif)
+![SE Isotope](../assets/screenshots/specimens/isotopedetails.gif)
 The Isotope Analysis is broken down in the "Element Highlights" and "Create Isotope" sections. The element highlights section is read only and displays the following information about the selected bone:
 - Bone
 - Side
@@ -337,7 +337,7 @@ The bolded elements are required.
 After you create the Isotope, you will receive "Isotope Add Successful" message. You can also edit other fields of isotope and those fields along with their
 validation rules are given below:
 
-![SE Isotope](../assets/screenshots/skeletalElements/IsotopeFields.gif)
+![SE Isotope](../assets/screenshots/specimens/IsotopeFields.gif)
 
 
 Below are some validation rules associated with Isotope Request
@@ -375,7 +375,7 @@ Below are some validation rules associated with Isotope Request
       
  
 ##### Taphonomy
-![SE Taphonomies](../assets/screenshots/skeletalElements/taphonomies.png)
+![SE Taphonomies](../assets/screenshots/specimens/taphonomies.png)
 The taphonomy search is broken down in the "Element Highlights" and "Taphonomies" sections. The element highlights section is read only and displays the following information about the selected bone:
 - Bone
 - Side
@@ -388,12 +388,12 @@ The taphonomy search is broken down in the "Element Highlights" and "Taphonomies
 
 The Taphonomies section allows you to view Taphonomies for the given bone. To add Taphonomies, click the "Actions" button and then "Edit". 
 
-![SE createAnomalies1](../assets/screenshots/skeletalElements/addTaphonomies.gif)
+![SE createAnomalies1](../assets/screenshots/specimens/addTaphonomies.gif)
 Click Save when finished adding Taphonomies to be returned to the Taphonomy page.
 
 
 ##### Zonal Classification
-![SE Zonal](../assets/screenshots/skeletalElements/zones.gif)
+![SE Zonal](../assets/screenshots/specimens/zones.gif)
 The zonal search is broken down in the "Element Highlights" and "Zones" sections. The element highlights section is read only and displays the following information about the selected bone:
 
 - Bone
@@ -423,7 +423,7 @@ These fields are read only - to edit then click "Actions" - then "Edit".
 When you are finished making changes click save on the bottom of the page.
 
 ##### Measurements
-![SE Measurements](../assets/screenshots/skeletalElements/measurements.gif)
+![SE Measurements](../assets/screenshots/specimens/measurements.gif)
 The measurement search is broken down in the "Element Highlights" and "Measurements" sections. The element highlights section is read only and displays the following information about the selected bone:
 
 - Bone
@@ -467,7 +467,7 @@ The Articulations search is broken down in the "Element Highlights" and "Articul
   
 The articulations section is read-only, and shows articulation information for a given bone. To make edits, go to "Actions" "Edit". Click Save when finished adding articulation to be returned to the articulations page.
   
-![SE Articulations](../assets/screenshots/skeletalElements/NewArticulation.gif)
+![SE Articulations](../assets/screenshots/specimens/NewArticulation.gif)
 
 Once the articulation method is added, you are taken Articulation screen. The following columns are visible for all the Articulations:
 
@@ -500,7 +500,7 @@ There are some columns which are not displayed at the screen but can be made vis
 
 ##### Pair Matching
 
-![SE PairMatching](../assets/screenshots/skeletalElements/pairmatching.gif)
+![SE PairMatching](../assets/screenshots/specimens/pairmatching.gif)
 
 The Pair Matching search is broken down in the "Element Highlights" and "Pair Matches" sections. The element highlights section is read only and displays the following information about the selected bone:
 
@@ -517,7 +517,7 @@ The Pair Matching section is read-only, and shows Pair Matches information for a
 The columns in the Pair Matching are similar to the Articulation screen.
 
 ##### Refits
-![SE Refits](../assets/screenshots/skeletalElements/refits.gif)
+![SE Refits](../assets/screenshots/specimens/refits.gif)
 
 The Refits search is broken down in the "Element Highlights" and "Refits" sections. The element highlights section is read only and displays the following information about the selected bone:
 
@@ -534,7 +534,7 @@ The Refits section is read-only, and shows Refits information for a given bone. 
 ### Pathology   
 
 ##### Trauma
-![SE Traumas](../assets/screenshots/skeletalElements/traumas.png)
+![SE Traumas](../assets/screenshots/specimens/traumas.png)
 
 The Trauma search is broken down in the "Element Highlights" and "Trauma" sections. The element highlights section is read only and displays the following information about the selected bone:
 
@@ -549,11 +549,11 @@ The Trauma search is broken down in the "Element Highlights" and "Trauma" sectio
   
 The Trauma section is read-only, and shows Trauma information for a given bone. To make edits, go to "Create". 
 
-![SE CTrauma](../assets/screenshots/skeletalElements/createTrauma.gif)
+![SE CTrauma](../assets/screenshots/specimens/createTrauma.gif)
 Click Save when finished adding Trauma to be returned to the Trauma page.
 
 ##### Pathology
-![SE Pathologies](../assets/screenshots/skeletalElements/pathologies.png)
+![SE Pathologies](../assets/screenshots/specimens/pathologies.png)
 The Pathology search is broken down in the "Element Highlights" and "Pathology" sections. The element highlights section is read only and displays the following information about the selected bone:
 
 - Bone
@@ -566,11 +566,11 @@ The Pathology search is broken down in the "Element Highlights" and "Pathology" 
    - Reviewed Status
   
 The Pathology section is read-only, and shows Pathology information for a given bone. To make edits to go "Actions" "Edit". 
-![SE CTrauma](../assets/screenshots/skeletalElements/createPath.gif)
+![SE CTrauma](../assets/screenshots/specimens/createPath.gif)
 Click Save when finished adding Trauma to be returned to the Trauma page.
 
 ##### Anomaly
-![SE Anomalies](../assets/screenshots/skeletalElements/anomalies.png)
+![SE Anomalies](../assets/screenshots/specimens/anomalies.png)
 The Anomaly search is broken down in the "Element Highlights" and "Anomaly" sections. The element highlights section is read only and displays the following information about the selected bone:
 
 - Bone
@@ -583,7 +583,7 @@ The Anomaly search is broken down in the "Element Highlights" and "Anomaly" sect
    - Reviewed Status
   
 The Anomaly section is read-only, and shows Anomaly information for a given bone. To make edits, go to "Actions" "Edit". 
-![SE createAnomalies1](../assets/screenshots/skeletalElements/createAnomalies.gif)
+![SE createAnomalies1](../assets/screenshots/specimens/createAnomalies.gif)
 Click Save when finished adding Anomalies to be returned to the Anomaly page.
 
 ### Review
@@ -591,7 +591,7 @@ Click Save when finished adding Anomalies to be returned to the Anomaly page.
 The review tab is a pane which displays all other sub reports in one area. All reports are editable in the pane.
 For information on individual reports - see their detailed documentation.
 
-![SE Review](../assets/screenshots/skeletalElements/review.png)
+![SE Review](../assets/screenshots/specimens/review.png)
 
 
 
