@@ -32,12 +32,12 @@ Widgets come with a handful of standard features/functions.
 ## Org Admin Dashboard
 
 ### Project Map
-![orgAdminDashboard](../assets/screenshots/dashboard/orgAdminDashboard.PNG)
+![orgAdminDashboard](../assets/screenshots/dashboard/orgAdminDash.png)
 
 
 ### Markers
 The markers displayed on the map showcase the latitude and longitude of a particular project. 
-On mouse over additional project details as well as a link ![dashboard icon](../assets/screenshots/dashboard/dash-icon.PNG)
+On mouse over additional project details as well as a link ![dashboard icon](../assets/screenshots/dashboard/dashboard-icon.png)
  to the corresponding project dashboard can be found in the in popup window.
 
 ### DNA Summary
