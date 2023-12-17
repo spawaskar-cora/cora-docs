@@ -6,9 +6,9 @@ In this section we present the images used in the zonation method for inventory 
 
     - Knusel & Outram (2004) Fragmentation: The zonation method applied to fragmented human remains from archaeological and forensic contexts. *Environmental Archaeology*, 9(1):85-98. 
 
-!!! info "Recognition, Kudos and Thanks 🎀"
+!!! kudos-bow-tie "Recognition, Kudos and Thanks 🎀"
 
-    Images by Elizabeth Lockett and Nandar Yukyi are derived from Knusel and Outram (2004) and Langley et al. (2016).
+    Images by ***Elizabeth Lockett*** and ***Nandar Yukyi*** are derived from Knusel and Outram (2004)[^1] and Langley et al. (2016)[^2].
 
 
 ## SKULL
@@ -452,4 +452,12 @@ Metatarsals
 
 1\. Proximal articulation  
 2\. Distal artiuclar condyle  
-3\. Diaphysis  
+3\. Diaphysis
+
+[^1]: Knüsel, C.J. and A.K. Outram
+(2004) Fragmentation: The zonation method applied to fragmented human remains from archaeological and forensic contexts. *Environmental Archaeology* 9:85-98.Material 2.0.* University of Tennessee and Lincoln Memorial University
+
+[^2]: Langley, N.R., L.M. Jantz, S.D Ousley, R.L. Jantz, and G. Milner 
+(2016) *Data Collection Procedures for Forensic Skeletal Material 2.0.* University of Tennessee and Lincoln Memorial University
+
+

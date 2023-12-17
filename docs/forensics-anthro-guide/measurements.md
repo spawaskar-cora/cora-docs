@@ -9,9 +9,9 @@ In this section we present the images for measurements used in the inventory of 
     - Langley et al. (2016) *Data Collection Procedures for Forensic Skeletal Material 2.0.* University of Tennessee and Lincoln Memorial University
     - Meadows and Langley (1992) Estimation of stature from metacarpal lengths. *Journal of Forensic Sciences*, 37:147-154.
 
-!!! info "Recognition, Kudos and Thanks 🎀"
+!!! kudos-bow-tie "Recognition, Kudos and Thanks 🎀"
 
-    Images by Elizabeth Lockett and Nandar Yukyi are derived from Langley et al. (2016).
+    Images by ***Elizabeth Lockett*** and ***Nandar Yukyi*** are derived from Langley et al. (2016)[^1].
 
 ---
 
@@ -950,3 +950,7 @@ is recorded (Hrdlicka 1920: 15; Martin and Knussmann 1988:170, #9; Moore-Jansen 
 Links to measurement standards table, provided by OsteoCodeR.com are below.
 
 * [Osteocoder Measurement Standards Website](https://osteocoder.com/measurements.html)
+
+[^1]: Langley, N.R., L.M. Jantz, S.D Ousley, R.L. Jantz, and G. Milner 
+(2016) *Data Collection Procedures for Forensic Skeletal Material 2.0.* University of Tennessee and Lincoln Memorial University
+

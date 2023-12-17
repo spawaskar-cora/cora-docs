@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.org/projects/cora-docs/badge/?version=latest)](https://cora-docs.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/cora-docs/badge/?version=latest)](https://docs.coracore.org/en/latest/?badge=latest)
 [![DOI](https://zenodo.org/badge/109620072.svg)](https://zenodo.org/badge/latestdoi/109620072)
 
 # CoRA - Commingled Remains Analytics Documentation
@@ -19,3 +19,4 @@ Here are some links to help you get started
 * [GitHub Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * [Adam Pritchard's Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [GitHub Features - Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Markdown Guide](https://www.markdownguide.org/)

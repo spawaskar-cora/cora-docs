@@ -1,7 +1,6 @@
 ---
 name: Method proposal
-about: Propose adding a new forensic anthropology method that does not exist in CoRA
-  today.
+about: Propose adding a new forensic anthropology method that does not exist in CoRA today.
 title: ''
 labels: enhancement
 assignees: ''

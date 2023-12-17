@@ -2,7 +2,12 @@
 
 In this section we present the anomalies available within CoRA for assignment to individual specimens. Anomalies are organized by Bone
 
-Please note that you can request new anomalies to be added to CoRA if the one you are looking for is not present by creating a issue/ticket.
+!!! question "How can I add a new anomalies to CoRA?"
+
+    You can request new anomalies to be added to CoRA if the one you are looking for is not present 
+    by creating an issue on our [issue tracker].
+
+[issue tracker]: https://github.com/spawaskar-cora/cora-docs/issues
 
 ## Calcaneus
 

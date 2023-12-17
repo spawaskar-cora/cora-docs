@@ -1,0 +1,73 @@
+/* Admonitions */
+/* instruments */
+:root {
+    --md-admonition-icon--instruments: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>tools</title><path d="M21.71 20.29L20.29 21.71A1 1 0 0 1 18.88 21.71L7 9.85A3.81 3.81 0 0 1 6 10A4 4 0 0 1 2.22 4.7L4.76 7.24L5.29 6.71L6.71 5.29L7.24 4.76L4.7 2.22A4 4 0 0 1 10 6A3.81 3.81 0 0 1 9.85 7L21.71 18.88A1 1 0 0 1 21.71 20.29M2.29 18.88A1 1 0 0 0 2.29 20.29L3.71 21.71A1 1 0 0 0 5.12 21.71L10.59 16.25L7.76 13.42M20 2L16 4V6L13.83 8.17L15.83 10.17L18 8H20L22 4Z" /></svg>')
+  }
+  .md-typeset .admonition.instruments,
+  .md-typeset details.instruments {
+    border-color: rgb(43, 155, 70);
+  }
+  .md-typeset .instruments > .admonition-title,
+  .md-typeset .instruments > summary {
+    background-color: rgba(43, 155, 70, 0.1);
+  }
+  .md-typeset .instruments > .admonition-title::before,
+  .md-typeset .instruments > summary::before {
+    background-color: rgb(43, 155, 70);
+    -webkit-mask-image: var(--md-admonition-icon--instruments);
+            mask-image: var(--md-admonition-icon--instruments);
+  }
+
+/* measurements */
+:root {
+    --md-admonition-icon--measurements: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>ruler-square</title><path d="M3,5V21H9V19.5H7V18H9V16.5H5V15H9V13.5H7V12H9V10.5H5V9H9V5H10.5V9H12V7H13.5V9H15V5H16.5V9H18V7H19.5V9H21V3H5A2,2 0 0,0 3,5M6,7A1,1 0 0,1 5,6A1,1 0 0,1 6,5A1,1 0 0,1 7,6A1,1 0 0,1 6,7Z" /></svg>')
+  }
+  .md-typeset .admonition.measurements,
+  .md-typeset details.measurements {
+    border-color: rgb(43, 155, 70);
+  }
+  .md-typeset .measurements > .admonition-title,
+  .md-typeset .measurements > summary {
+    background-color: rgba(43, 155, 70, 0.1);
+  }
+  .md-typeset .measurements > .admonition-title::before,
+  .md-typeset .measurements > summary::before {
+    background-color: rgb(43, 155, 70);
+    -webkit-mask-image: var(--md-admonition-icon--measurements);
+            mask-image: var(--md-admonition-icon--measurements);
+  }
+
+/* kudos-bow-tie */
+:root {
+    --md-admonition-icon--kudos-bow-tie: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15 14 6 3V7l-6 3v4m-6 0-6 3V7l6 3v4m1-4h4v4h-4v-4Z"/></svg>')
+  }
+  .md-typeset .admonition.kudos-bow-tie,
+  .md-typeset details.kudos-bow-tie {
+    border-color: rgb(155, 43, 99);
+  }
+  .md-typeset .kudos-bow-tie > .admonition-title,
+  .md-typeset .kudos-bow-tie > summary {
+    background-color: rgba(155, 43, 99, 0.1);
+  }
+  .md-typeset .kudos-bow-tie > .admonition-title::before,
+  .md-typeset .kudos-bow-tie > summary::before {
+    background-color: rgb(155, 43, 99);
+    -webkit-mask-image: var(--md-admonition-icon--kudos-bow-tie);
+            mask-image: var(--md-admonition-icon--kudos-bow-tie);
+  }
+
+.youtube {
+  color: #EE0F0F;
+}
+
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+.heart {
+  animation: heart 1000ms infinite;
+}

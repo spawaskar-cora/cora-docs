@@ -6,31 +6,31 @@ Files can be exported from and import into CoRA via the File Import/Export and F
 
 In order to create a file export, click on 'File Export' under 'File Export/Import' on the left navigation bar. 
 
-![Click on Action](../assets/screenshots/file-import-export/HomeScreenExport.png)
+![Click on Action](../../assets/screenshots/file-import-export/HomeScreenExport.png)
 
 This will take you to the File Export page. This page lists different types of files available to export from CoRA. Currently, bone measurements formatted for intput into osteometric sorting tools are avaiable. Click on the green export button for the file(s) that you want to export. 
 
-![Click on Action](../assets/screenshots/file-import-export/Export.png)
+![Click on Action](../../assets/screenshots/file-import-export/Export.png)
 
 Clicking on a file export button will not result in an immediate file(s) download. Instead, a request is made to CoRA to begin a file export job in the background. This may take several minutes depending on the number of background jobs that are currently queued in CoRA. Once the file export job is competed a real-time notification will be seen under the notifications bell located on the top right of the CoRA webpage header. You may have to refresh the page to see the notification.        
 
-![Click on Action](../assets/screenshots/file-import-export/CompletedExport.png)
+![Click on Action](../../assets/screenshots/file-import-export/CompletedExport.png)
 
 To get rid of the notification, click on mark as read. 
 
-![Click on Action](../assets/screenshots/file-import-export/MarkAsRead.png)
+![Click on Action](../../assets/screenshots/file-import-export/MarkAsRead.png)
 
 ## File Manager
 
 All files exported and imported into CoRA can be accessed at a central location called the File Manager. The file(s) that you just exported will be located here after CoRA completes the file export job. To access the File Manager, click on 'File Manager' under 'File Export/Import' on left navigation bar.
 
 
-![Click on Action](../assets/screenshots/file-import-export/FileManager.png)
+![Click on Action](../../assets/screenshots/file-import-export/FileManager.png)
 
 
 The File Manager will list all of the file export/import jobs that have been completed by CoRA with most recent export/import jobs listed first. To download a file export, click download.  A file export does not become available on this page until the requested file export job has been completed by CoRA. 
 
-![Click on Action](../assets/screenshots/file-import-export/DownloadExport.png)
+![Click on Action](../../assets/screenshots/file-import-export/DownloadExport.png)
 
 ## File Export Types
 
@@ -58,19 +58,19 @@ CoRA produces a zip file of osteometric sorting bone measurement files for all l
 ## File Import
 In order to import a file, click on 'File Import' under 'File Export/Import' on the left navigation bar.
 
-![Click on Action](../assets/screenshots/file-import-export/FileImport.png)
+![Click on Action](../../assets/screenshots/file-import-export/FileImport.png)
 
 On the file import screen, select the import file type that you wish to upload. A template can be download for the file type that you are importing. CoRA will not allow you to import a file unless the file import type is selected.
 
-![Click on Action](../assets/screenshots/file-import-export/MissingFileType.png)
+![Click on Action](../../assets/screenshots/file-import-export/MissingFileType.png)
 
 The pairs file type is shown as selected in the screenshot below. Click on browse to select a file to upload from your computer. Once selected, hit upload to upload the file to CoRA. 
 
-![Click on Action](../assets/screenshots/file-import-export/FileUpload.png)
+![Click on Action](../../assets/screenshots/file-import-export/FileUpload.png)
 
 As with file export, CoRA creates a background job for the file import process. A notification will appear when the job has completed. You may need to refresh your screen to see the notification. The notification will indicate whether your import was successful or not. The imported records will appear in CoRA after a successful import. 
 
-![Click on Action](../assets/screenshots/file-import-export/ImportNotification.png)
+![Click on Action](../../assets/screenshots/file-import-export/ImportNotification.png)
 
 ## File Import Types 
 This section details the type of file import types availiable to the user. Templates can be downloaded for each import file type on the file import page. 

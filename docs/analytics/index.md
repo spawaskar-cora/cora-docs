@@ -5,8 +5,12 @@ The CoRA Analytics engine is part of the CoRA Ecosystem that can be thought of a
 The diagram below details the logical diagram for the CoRA Ecosystem Analytics Architecture.
 ![CoRA Ecosystem Analytics Architecture](../assets/images/architecture/Cora-Ecosystem-Analytics-Architecture-Diagram.png)
 
-## Basic Analytics
-The CoRA analytics engine will provide some basic analytics out of the box such as simple regression analysis for the datasets that are most commonly used in forensic anthropology. Other more advanced analytics will be provided via independent analytics application that can be developed by any reseracher and plug-in into the CoRA Ecosystem. 
+## Built-in Analytics
+The CoRA analytics engine provides some built-in analytics out of the box such as simple regression analysis for the datasets that are most commonly used in forensic anthropology. Other more advanced analytics will be provided via independent analytics application that can be developed by any reseracher and plug-in into the CoRA Ecosystem.
+
+!!! warning "Independent Analytics Applications"
+
+    The following section on this page is work in progress.
 
 ## Independent Analytics Applications
 Following are some of the independent analytics applications that are either being developed or have already been developed that work with the CoRA Ecosystem.

@@ -21,7 +21,7 @@
 # Project information
 site_name: CoRA Docs
 site_author: Sachin Pawaskar
-#site_url: http://www.mkdocs.org
+site_url: https://docs.coracore.org
 site_description: The Commingled Remains Analytics (CoRA) web application, database and APIs are a community resource for inventorying assemblages of commingled human remains, while providing a framework of analytic methods, visualization techniques and tools to assist in the segregation and identification process.
 
 # Repository
@@ -29,14 +29,14 @@ repo_url: https://github.com/spawaskar-cora/cora-docs
 edit_uri: edit/master/docs/
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2024 <a href="https://sachinpawaskaruno.github.io">Sachin Pawaskar</a><br>Maintained with ❤️ by the <a href="/about/release-notes/#maintenance-team">CoRA Team</a>.
+copyright: Copyright &copy; 2016 - 2024 <a href="https://sachinpawaskaruno.github.io">Sachin Pawaskar</a><br>Maintained with ❤️ by the <a href="https://github.com/spawaskar-cora/cora-docs/graphs/contributors">CoRA Team</a>.
 
 # Configuting/Themeing the documentation 
 # mkdocs comes with the theme options [mkdocs, readthedocs]
 # We have installed the mkdocs-material theme as well
 theme:
   name: material
-#   custom_dir: material/overrides
+  custom_dir: material/overrides
   features:
     - announce.dismiss
     # Git repository 
@@ -73,8 +73,17 @@ theme:
     # - toc.integrate
 
   palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
     # Palette toggle for light mode
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
       primary: blue
       accent: blue
       toggle:
@@ -82,26 +91,13 @@ theme:
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - scheme: slate
-      primary: black
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
       accent: blue
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
-
-    # - media: "(prefers-color-scheme: light)"
-    #   scheme: default
-    #   primary: blue
-    #   toggle:
-    #     icon: material/brightness-7
-    #     name: Switch to dark mode
-
-    # - media: "(prefers-color-scheme: dark)"
-    #   scheme: slate
-    #   primary: blue
-    #   toggle:
-    #     icon: material/brightness-4
-    #     name: Switch to system preference
+        name: Switch to system preference
 
   favicon: assets/favicon.png
   icon:
@@ -150,6 +146,10 @@ extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - assets/js/tablesort.js
 
+# extra stylesheet
+extra_css:
+  - assets/css/extra.css
+
 # Extensions
 markdown_extensions:
   - abbr
@@ -160,7 +160,6 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-      permalink: true
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
@@ -168,8 +167,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
       emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -179,8 +178,8 @@ markdown_extensions:
   - pymdownx.magiclink:
       normalize_issue_symbols: true
       repo_url_shorthand: true
-      user: SachinPawaskarUNO
-      repo: spawaskar-cora/cora-docs
+      user: spawaskar-cora
+      repo: cora-docs
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:
@@ -203,31 +202,72 @@ markdown_extensions:
 
 # Navigation/Page tree
 nav:
-    - Home: index.md
-    - User Guide:
-        - Site Navigation: user-guide/site-navigation.md
-        - Orgs Users Projects: user-guide/orgs-users-projects.md
-        - Users Roles Permissions: user-guide/users-roles-permissions.md
-        - Modules: user-guide/modules.md
-        - Specimens: user-guide/specimens.md
-        - DNA: user-guide/dnas.md
-        - Isotopes: user-guide/isotopes.md
-        - Reports: user-guide/reports.md
-        - Dashboards: user-guide/dashboards.md
-        - File Export Import: user-guide/file-export-import.md
-    - Forensic Anthro Guide:
-        - Anomaly: forensics-anthro-guide/anomalies.md
-        - Field Attributes: forensics-anthro-guide/field-attributes.md
-        - Measurements: forensics-anthro-guide/measurements.md
-        - Methods: forensics-anthro-guide/methods.md
-        - Pathology: forensics-anthro-guide/pathologies.md
-        - Taphonomy: forensics-anthro-guide/taphonomy.md
-        - Trauma: forensics-anthro-guide/traumas.md
-        - Zones: forensics-anthro-guide/zones.md
-    - Analytics & Visualiztions:
-        - Home: analytics/index.md
-    - About:
-        - Contributing: about/contributing.md
-        - References: about/references.md
-        - AAFS 2018 Conference: about/aafs-2018.md
+  - Home: index.md
+  - Getting started:
+    - getting-started/index.md
+    - Browser support: getting-started/browser-support.md
+    - Customization: getting-started/customization.md
+    - Conventions: getting-started/conventions.md
+    - Enterprise feedback: getting-started/enterprise-support.md
+    - Philosophy: getting-started/philosophy.md
+    - Language: getting-started/changing-the-language.md
+    # - Alternatives: getting-started/alternatives.md
+    # - License: getting-started/license.md
+    - Changelog:
+      - changelog/index.md
+      - Semantic versioning: changelog/semantic-versioning.md
+    - Contributing:
+      - contributing/index.md
+      - Reporting a bug: contributing/reporting-a-bug.md
+      - Reporting a docs issue: contributing/reporting-a-docs-issue.md
+      - Requesting a change: contributing/requesting-a-change.md
+      - Adding translations: contributing/adding-translations.md
+      - Asking a question: https://github.com/spawaskar-cora/cora-docs/discussions
+  - User Guide:
+    - Site Navigation: user-guide/site-navigation.md
+    - Orgs Users Projects: user-guide/orgs-users-projects.md
+    - Users Roles Permissions: user-guide/users-roles-permissions.md
+    - Modules:
+      - user-guide/modules/index.md
+      - Specimens: user-guide/specimens.md
+      - DNA: user-guide/dnas.md
+      - Dental: user-guide/modules/dental.md
+      - Isotopes: user-guide/isotopes.md
+      - Missing Persons: user-guide/modules/missingpersons.md
+    - Reports: 
+      - user-guide/reports/index.md
+      - Org reports: user-guide/reports/org-reports.md
+      - User reports: user-guide/reports/user-reports.md
+      - Project reports: user-guide/reports/project-reports.md
+    - Dashboards: 
+      - user-guide/dashboards/index.md
+      - Org dashboard: user-guide/dashboards/org-dashboard.md
+      - User dashboard: user-guide/dashboards/user-dashboard.md
+      - Project dashboard: user-guide/dashboards/project-dashboard.md
+    - File Export Import: 
+      - user-guide/file-export-import/index.md
+  - Forensic Anthro Guide:
+    - Anomaly: forensics-anthro-guide/anomalies.md
+    - Measurements: forensics-anthro-guide/measurements.md
+    - Methods: forensics-anthro-guide/methods.md
+    - Pathology: forensics-anthro-guide/pathologies.md
+    - Taphonomy: forensics-anthro-guide/taphonomy.md
+    - Trauma: forensics-anthro-guide/traumas.md
+    - Zones: forensics-anthro-guide/zones.md
+    - Field attributes:
+      - forensics-anthro-guide/field-attributes/index.md
+  - Analytics & Visualiztions:
+    - Home: analytics/index.md
+    - Built-in analytics: 
+      - Collapsible Tree: analytics/built-in/collapsible-tree.md
+      - Hierachical Clustering: analytics/built-in/hierachical-clustering.md
+      - Measurements: analytics/built-in/measurements.md
+      - Osteometric Sorting Regression: analytics/built-in/osr.md
+      - Refits: analytics/built-in/refits.md
+      - Relationships graph: analytics/built-in/relationships-graph.md
+  - Reference:
+    - Contributing: reference/contributing.md
+    - Reference list: reference/references.md
+    - Icons, Emojis: reference/icons-emojis.md
+    - AAFS 2018 Conference: reference/aafs-2018.md
 

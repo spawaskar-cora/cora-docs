@@ -1,4 +1,8 @@
-# Types Of Dashboards
+# Dashboards
+
+!!! warning
+
+    This page is work in progress.
 
 There are three different dashboards available in CoRA with each view being driven by the user's profile attributes.
 1.  The Org Admin Dashboard
@@ -7,8 +11,8 @@ There are three different dashboards available in CoRA with each view being driv
 
 ## Sample Dashboard
 
-![sampleDash1](../assets/screenshots/dashboard/sampleDash1.png)
-![sampleDash2](../assets/screenshots/dashboard/sampleDash2.png)
+![sampleDash1](../../assets/screenshots/dashboard/sampleDash1.png)
+![sampleDash2](../../assets/screenshots/dashboard/sampleDash2.png)
 
 
 ## Dashboard Widgets
@@ -17,7 +21,7 @@ There are three different dashboards available in CoRA with each view being driv
 
 ### Attributes of a Widget
  
-![widget](../assets/screenshots/dashboard/stacked_numbers.png)
+![widget](../../assets/screenshots/dashboard/stacked_numbers.png)
   
 Widgets come with a handful of standard features/functions. 
 
@@ -26,18 +30,18 @@ Widgets come with a handful of standard features/functions.
 3.  View Details (Drill Into The Data)
 4.  Widget Controls   
 
-![widget](../assets/screenshots/dashboard/control.png)
+![widget](../../assets/screenshots/dashboard/control.png)
 
 
 ## Org Admin Dashboard
 
 ### Project Map
-![orgAdminDashboard](../assets/screenshots/dashboard/orgAdminDashboard.png)
+![orgAdminDashboard](../../assets/screenshots/dashboard/orgAdminDashboard.png)
 
 
 ### Markers
 The markers displayed on the map showcase the latitude and longitude of a particular project. 
-On mouse over additional project details as well as a link ![dashboard icon](../assets/screenshots/dashboard/dashboard-icon.png)
+On mouse over additional project details as well as a link ![dashboard icon](../../assets/screenshots/dashboard/dashboard-icon.png)
  to the corresponding project dashboard can be found in the in popup window.
 
 ### DNA Summary
@@ -56,7 +60,7 @@ The dashboard is comprised of *widgets*, which are individual visual representat
   * Mitosequence Information
   * Inventory Process
   
-Those *widgets* can be added and removed via the *widget selector*.  For more information regarding the data being represented in a *widget*, click the help icon  ![widget](../assets/screenshots/dashboard/help.png)
+Those *widgets* can be added and removed via the *widget selector*.  For more information regarding the data being represented in a *widget*, click the help icon  ![widget](../../assets/screenshots/dashboard/help.png)
  in the top right of the widget.
  
 ## User Dashboard
@@ -68,7 +72,7 @@ The dashboard is comprised of *widgets*, which are individual visual representat
   * Mitosequence Information
   * Inventory Process
   
-Those *widgets* can be added and removed via the *widget selector*.  For more information regarding the data being represented in a *widget*, click the help icon  ![widget](../assets/screenshots/dashboard/help.png)
+Those *widgets* can be added and removed via the *widget selector*.  For more information regarding the data being represented in a *widget*, click the help icon  ![widget](../../assets/screenshots/dashboard/help.png)
  in the top right of the widget.
  
 
@@ -76,8 +80,8 @@ Those *widgets* can be added and removed via the *widget selector*.  For more in
 
 The dashboard is customizable - allowing users to select their desired widgets to display. Click the gear icon,
 
-![gearz](../assets/screenshots/dashboard/gearz.png) to display available widgets. 
+![gearz](../../assets/screenshots/dashboard/gearz.png) to display available widgets. 
 
-![customizeWidgets](../assets/screenshots/dashboard/customizeWidgets.png) 
+![customizeWidgets](../../assets/screenshots/dashboard/customizeWidgets.png) 
  
  
