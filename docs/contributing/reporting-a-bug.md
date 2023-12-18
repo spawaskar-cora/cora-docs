@@ -105,8 +105,9 @@ consists of the following parts:
 - [Context] <small>optional</small>
 - [Bug description]
 - [Related links]
-- [Reproduction]
 - [Steps to reproduce]
+- [Device] <small>optional</small>
+- [OS] <small>optional</small>
 - [Browser] <small>optional</small>
 - [Checklist]
 
@@ -114,8 +115,9 @@ consists of the following parts:
   [Context]: #context
   [Bug description]: #bug-description
   [Related links]: #related-links
-  [Reproduction]: #reproduction
   [Steps to reproduce]: #steps-to-reproduce
+  [Device]: #device
+  [OS]: #os
   [Browser]: #browser
   [Checklist]: #checklist
 
@@ -210,29 +212,6 @@ make it easier for us maintainers to improve the documentation.
 
   [search for solutions]: #search-for-solutions
 
-### Reproduction
-
-Steps for minimal reproduction is at the heart of every well-written bug report, as
-it allows us maintainers to instantly recreate the necessary conditions to
-inspect the bug to quickly find its root cause. It's a proven fact that issues
-with concise and small reproductions can be fixed much faster.
-
----
-
-> __Why we need this__: if an issue contains no minimal reproduction or just
-> a link to a repository with thousands of files, the maintainers would need to
-> invest a lot of time into trying to recreate the right conditions to even
-> inspect the bug, let alone fix it.
-
-!!! warning "Don't share links to repositories"
-
-    While we know that it is a good practice among developers to include a link
-    to a repository with the bug report, we currently don't support those in our
-    process.
-
-    Additionally, there are many non-technical users of CoRA that
-    have trouble creating repositories.
-
 ### Steps to reproduce
 
 At this point, you provided us with enough information to understand the bug
@@ -249,12 +228,20 @@ five-year-old, and focus on continuity.
 > to observe the bug, as some bugs only occur at certain viewports or in
 > specific conditions.
 
+### Device <small>optional</small> { #device }
+
+If you're reporting a bug that only occurs in one or more _specific_ devices,
+we need to know which devices are affected. This field is optional.
+
+### OS <small>optional</small> { #os }
+
+If you're reporting a bug that only occurs in one or more _specific_ operating systems,
+we need to know which operating systems (OS) are affected. This field is optional.
+
 ### Browser <small>optional</small> { #browser }
 
 If you're reporting a bug that only occurs in one or more _specific_ browsers,
-we need to know which browsers are affected. This field is optional, as it is
-only relevant when the bug you are reporting does not involve a crash when
-[previewing] or [building] your site.
+we need to know which browsers are affected. This field is optional.
 
 ---
 
@@ -267,8 +254,6 @@ the bug. If it's gone, it's caused by an extension.
 > version in which it occurs, but we might ask for it later. When in doubt, add
 > the browser version as the first step in the field above.
 
-  [previewing]: http://localhost:8000/mkdocs-material/creating-your-site/#previewing-as-you-write
-  [building]: http://localhost:8000/mkdocs-material/creating-your-site/#building-your-site
 
 ### Checklist
 
