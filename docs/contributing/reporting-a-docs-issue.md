@@ -1,9 +1,5 @@
 # Documentation issues
 
-!!! warning
-
-    This page is work in progress.
-
 Our documentation is composed of more than 50 pages and includes extensive
 information on features, configurations, customizations, and much more. If you
 have found an inconsistency or see room for improvement, please follow this

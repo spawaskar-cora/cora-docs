@@ -1,9 +1,5 @@
 # Change requests
 
-!!! warning
-
-    This page is work in progress.
-
 CoRA is a powerful tool for creating beautiful and functional
 documentation. With users across the globe, we understand that our project
 serves a wide range of use cases, which is why we have created the following

@@ -1,9 +1,5 @@
 # Bug reports
 
-!!! warning
-
-    This page is work in progress.
-
 CoRA is an actively maintained project that we constantly strive
 to improve. With a project of this size and complexity, bugs may occur. If you
 think you have discovered a bug, you can help us by submitting an issue in our

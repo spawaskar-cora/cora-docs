@@ -1,6 +1,6 @@
 name: Report a documentation issue
 description: Missing information in our docs? Report a documentation issue
-title: "[Doc]: "
+title: "[Documentation]: "
 labels: ["documentation"]
 assignees:
   - SachinPawaskarUNO
