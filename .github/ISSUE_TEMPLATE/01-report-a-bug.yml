@@ -70,7 +70,7 @@ body:
         please select them from the dropdown below. If your device is not
         listed or the version is relevant, you may select _Other_ and provide
         more details in the field above.
-        [More](https://docs.coracore.org/en/latest/contributing/reporting-a-bug/#browser)
+        [More](https://docs.coracore.org/en/latest/contributing/reporting-a-bug/#device)
       multiple: true
       options:
         - Desktop
@@ -87,7 +87,7 @@ body:
         please select them from the dropdown below. If your OS is not
         listed or the version is relevant, you may select _Other_ and provide
         more details in the field above.
-        [More](https://docs.coracore.org/en/latest/contributing/reporting-a-bug/#browser)
+        [More](https://docs.coracore.org/en/latest/contributing/reporting-a-bug/#os)
       multiple: true
       options:
         - Windows
