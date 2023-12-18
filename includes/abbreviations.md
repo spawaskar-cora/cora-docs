@@ -5,5 +5,6 @@
 *[CUI]: Controlled Unclassified Information
 *[DIB]: Defense Industrial Base
 *[HTML]: Hyper Text Markup Language
+*[OS]: Operating System
 *[Saas]: Software as a Service
 *[W3C]: World Wide Web Consortium
