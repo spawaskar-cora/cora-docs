@@ -186,7 +186,7 @@ existing functionality?
 > its users. This information helps us to understand the expected value of the
 > idea and how it aligns with the goals of the project.
 
-### Solutions
+### Solutions <small>optional</small> { #solutions }
 
 Explain how your suggested solution would work from an author's and user's
 perspective – what's the expected impact, and why does it not only benefit you,
@@ -198,7 +198,7 @@ existing functionality?
 > its users. This information helps us to understand the expected value of the
 > idea and how it aligns with the goals of the project.
 
-### Alternatives
+### Alternatives <small>optional</small> { #alternatives }
 
 Please provide a clear and concise alternative that you have considered. 
 Explain alternatives that you may have thought of from an author's and user's perspective.
