@@ -133,7 +133,3 @@ body:
             and possibly related [issues](https://github.com/spawaskar-cora/cora-docs/issues)
             and [discussions](https://github.com/spawaskar-cora/cora-docs/discussions).
           required: true
-        - label: >-
-            I assure that I have [removed all customizations](https://docs/coracore.org/contributing/reporting-a-bug/#remove-customizations)
-            before submitting this bug report.
-          required: true
