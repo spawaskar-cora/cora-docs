@@ -1,7 +1,7 @@
 name: Request a change
 description: Want to submit an idea? Propose a change or feature request
-title: "[Bug]: "
-labels: ["enhancemnet", "idea"]
+title: "[Enhancement]: "
+labels: ["enhancement", "idea"]
 assignees:
   - SachinPawaskarUNO
 

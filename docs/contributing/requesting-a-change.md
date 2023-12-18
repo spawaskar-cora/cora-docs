@@ -198,7 +198,7 @@ existing functionality?
 > its users. This information helps us to understand the expected value of the
 > idea and how it aligns with the goals of the project.
 
-### Alernatives
+### Alternatives
 
 Please provide a clear and concise alternative that you have considered. 
 Explain alternatives that you may have thought of from an author's and user's perspective.
