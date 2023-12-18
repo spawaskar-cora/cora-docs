@@ -11,7 +11,7 @@ body:
         you want to report, helping us to understand what you are working on and
         what you are trying to achieve. If the context is not relevant, you can
         leave this field empty.
-        [More](https://docs/coracore.org/contributing/reporting-a-bug/#context)
+        [More](https://docs.coracore.org/contributing/reporting-a-bug/#context)
 
   - type: textarea
     id: description
@@ -22,7 +22,7 @@ body:
         does not behave as you would expect it to. Be as specific as
         possible. If you have found a workaround or a fix for the problem,
         please let us maintainers (and all other users) know.
-        [More](https://docs/coracore.org/contributing/reporting-a-bug/#bug-description)
+        [More](https://docs.coracore.org/contributing/reporting-a-bug/#bug-description)
     validations:
       required: true
 
@@ -32,15 +32,15 @@ body:
       label: Related links
       description: >-
         Please list all links to the sections of
-        [our documentation](https://docs/coracore.org/) that
+        [our documentation](https://docs.coracore.org/) that
         are relevant to the bug in order to show that you have consulted and
         thoroughly read it. Additionally, list links to possibly related open
         and closed [issues](https://github.com/spawaskar-cora/cora-docs/issues)
         and [discussions](https://github.com/spawaskar-cora/cora-docs/discussions)
         you encountered when searching our issue tracker.
-        [More](https://docs/coracore.org/contributing/reporting-a-bug/#related-links)
+        [More](https://docs.coracore.org/contributing/reporting-a-bug/#related-links)
       value: |-
-        - [Reporting a bug](https://docs/coracore.org/contributing/reporting-a-bug/)
+        - [Reporting a bug](https://docs.coracore.org/contributing/reporting-a-bug/)
         -
     validations:
       required: false
@@ -53,7 +53,7 @@ body:
         Please provide a detailed list of instructions, guiding us maintainers
         through the required steps, helping us to recreate the problem. Be as specific 
         as possible and as verbose as necessary – try not to leave anything out.
-        [More](https://docs/coracore.org/contributing/reporting-a-bug/#steps-to-reproduce)
+        [More](https://docs.coracore.org/contributing/reporting-a-bug/#steps-to-reproduce)
       placeholder: |-
         1. ...
         2. ...
@@ -70,7 +70,7 @@ body:
         please select them from the dropdown below. If your device is not
         listed or the version is relevant, you may select _Other_ and provide
         more details in the field above.
-        [More](https://docs/coracore.org/contributing/reporting-a-bug/#browser)
+        [More](https://docs.coracore.org/contributing/reporting-a-bug/#browser)
       multiple: true
       options:
         - Desktop
@@ -87,7 +87,7 @@ body:
         please select them from the dropdown below. If your OS is not
         listed or the version is relevant, you may select _Other_ and provide
         more details in the field above.
-        [More](https://docs/coracore.org/contributing/reporting-a-bug/#browser)
+        [More](https://docs.coracore.org/contributing/reporting-a-bug/#browser)
       multiple: true
       options:
         - Windows
@@ -105,7 +105,7 @@ body:
         please select them from the dropdown below. If your browser is not
         listed or the version is relevant, you may select _Other_ and provide
         more details in the field above.
-        [More](https://docs/coracore.org/contributing/reporting-a-bug/#browser)
+        [More](https://docs.coracore.org/contributing/reporting-a-bug/#browser)
       multiple: true
       options:
         - Chrome
@@ -126,10 +126,10 @@ body:
         box. This will save the maintainers and you valuable time.
       options:
         - label: >-
-            I have read and followed the [bug reporting guidelines](https://docs/coracore.org/contributing/reporting-a-bug/).
+            I have read and followed the [bug reporting guidelines](https://docs.coracore.org/contributing/reporting-a-bug/).
           required: true
         - label: >-
-            I have attached links to [the documentation](https://docs/coracore.org/),
+            I have attached links to [the documentation](https://docs.coracore.org/),
             and possibly related [issues](https://github.com/spawaskar-cora/cora-docs/issues)
             and [discussions](https://github.com/spawaskar-cora/cora-docs/discussions).
           required: true

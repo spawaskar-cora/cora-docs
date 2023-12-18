@@ -10,7 +10,7 @@ body:
       value: >-
         **Important**: Before creating a new translation, please check if
         CoRA already supports your language. Review the list of
-        [available languages](https://docs/coracore.org/setup/changing-the-language/#site-language),
+        [available languages](https://docs.coracore.org/setup/changing-the-language/#site-language),
         pick your language to add new or improve existing translations.
 
   - type: textarea
@@ -21,7 +21,7 @@ body:
         Please translate the labels on the right. For new languages, translate
         each line. For existing languages, only translate lines containing the
         :arrow_left: icon and remove the icon before submitting.
-        [More](https://docs/coracore.org/contributing/adding-translations/#translations_1)
+        [More](https://docs.coracore.org/contributing/adding-translations/#translations_1)
       value: |-
         {% macro t(key) %}{{ {
           "language": "en ⬅️",
@@ -86,10 +86,10 @@ body:
       label: Country flag
       description: >-
         This field is optional. Please add the flag of the country when adding a
-        new language. Go to our [emoji search](https://docs/coracore.org/reference/icons-emojis/#search)
+        new language. Go to our [emoji search](https://docs.coracore.org/reference/icons-emojis/#search)
         and enter `flag` to find all available shortcodes. If your flag is not
         included, please choose the most appropriate available flag.
-        [More](https://docs/coracore.org/contributing/adding-translations/#country-flag)
+        [More](https://docs.coracore.org/contributing/adding-translations/#country-flag)
       placeholder: |-
         Country flag shortcode, e.g. :flag_en:
 
@@ -101,7 +101,7 @@ body:
         Please ensure that your translation fulfills the following requirements.
       options:
         - label: >-
-            I've checked the list of [available languages](https://docs/coracore.org/setup/changing-the-language/#site-language) for existing translations.
+            I've checked the list of [available languages](https://docs.coracore.org/setup/changing-the-language/#site-language) for existing translations.
           required: true
         - label: >-
             I assure that the translations are accurate to the best of my knowledge.

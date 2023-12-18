@@ -11,7 +11,7 @@ body:
         you want to propose, helping us to understand what you are working on
         and what you are trying to achieve. If the context is not relevant, you
         can leave this field empty.
-        [More](https://docs/coracore.org/contributing/requesting-a-change/#context)
+        [More](https://docs.coracore.org/contributing/requesting-a-change/#context)
 
   - type: textarea
     id: description
@@ -22,7 +22,7 @@ body:
         that we maintainers can fully understand what change, feature, or the
         improvement you are proposing. Don't yet explain the benefits of your
         idea, we'll come to that. Focus on functionality.
-        [More](https://docs/coracore.org/contributing/requesting-a-change/#description)
+        [More](https://docs.coracore.org/contributing/requesting-a-change/#description)
     validations:
       required: true
 
@@ -33,13 +33,13 @@ body:
       description: >-
         Please list all links to open and closed [issues](https://github.com/spawaskar-cora/cora-docs/issues),
         [discussions](https://github.com/spawaskar-cora/cora-docs/discussions),
-        or to [documentation sections](https://docs/coracore.org/)
+        or to [documentation sections](https://docs.coracore.org/)
         that are relevant to your idea. If you discussed your idea with the
         community on our [discussion board](https://github.com/spawaskar-cora/cora-docs/discussions)
         prior to creating this change request, please link the discussion here as well.
-        [More](https://docs/coracore.org/contributing/requesting-a-change/#related-links)
+        [More](https://docs.coracore.org/contributing/requesting-a-change/#related-links)
       value: |-
-        - [Requesting a change](https://docs/coracore.org/contributing/requesting-a-change/)
+        - [Requesting a change](https://docs.coracore.org/contributing/requesting-a-change/)
         -
     validations:
       required: true
@@ -51,9 +51,9 @@ body:
       description: >-
         Please explain how your idea will work from an author's and user's
         perspective. Elaborate on how the change would positively impact not only
-        you but our community and how it aligns with the goals and [philosophy](https://docs/coracore.org/philosophy/)
+        you but our community and how it aligns with the goals and [philosophy](https://docs.coracore.org/philosophy/)
         of the project.
-        [More](https://docs/coracore.org/contributing/requesting-a-change/#use-cases)
+        [More](https://docs.coracore.org/contributing/requesting-a-change/#use-cases)
     validations:
       required: true
 
@@ -66,7 +66,7 @@ body:
         or external assets to illustrate your idea. If you have seen this change,
         feature, or improvement used in other static site generators or themes,
         please describe how it is implemented and advertised.
-        [More](https://docs/coracore.org/contributing/requesting-a-change/#visuals)
+        [More](https://docs.coracore.org/contributing/requesting-a-change/#visuals)
       placeholder: |-
         Drag and drop images here or link external assets.
 
@@ -81,15 +81,15 @@ body:
         This will save the maintainers and you valuable time.
       options:
       - label: >-
-            I have read and followed the [change request guidelines](https://docs/coracore.org/contributing/requesting-a-change/).
+            I have read and followed the [change request guidelines](https://docs.coracore.org/contributing/requesting-a-change/).
         required: true
       - label: >-
-            I have verified that [my idea is a change request and not a bug report](https://docs/coracore.org/contributing/requesting-a-change/#its-not-a-bug-its-a-feature).
+            I have verified that [my idea is a change request and not a bug report](https://docs.coracore.org/contributing/requesting-a-change/#its-not-a-bug-its-a-feature).
         required: true
       - label: >-
-            I have ensured that, to the best of my knowledge, [my idea will benefit the entire community](https://docs/coracore.org/contributing/requesting-a-change/#benefit-for-the-community).
+            I have ensured that, to the best of my knowledge, [my idea will benefit the entire community](https://docs.coracore.org/contributing/requesting-a-change/#benefit-for-the-community).
         required: true
       - label: >-
-            I have included relevant links to [the documentation](https://docs/coracore.org/), related [issues](https://github.com/spawaskar-cora/cora-docs/issues),
+            I have included relevant links to [the documentation](https://docs.coracore.org/), related [issues](https://github.com/spawaskar-cora/cora-docs/issues),
             and [discussions](https://github.com/spawaskar-cora/cora-docs/discussions) to underline the need for my idea.
         required: true
