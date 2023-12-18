@@ -1,0 +1,85 @@
+name: Method proposal
+description: Propose adding a new forensic anthropology method that does not exist in CoRA today.
+title: "[Method Proposal]: "
+labels: ["methods", "enhancement"]
+assignees:
+  - SachinPawaskarUNO
+
+body:
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: >-
+        This field is optional. You may provide additional context for the proposed method
+        you want to add to CoRA, helping us to understand what you are working on and
+        what you are trying to achieve. If the context is not relevant, you can
+        leave this field empty.
+        [More](https://docs.coracore.org/en/latest/contributing/reporting-a-bug/#context)
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Method description
+      description: >-
+        Please give a detailed description of the method. Explain how the method works 
+        and provide necessary references with links to the published method. Be as specific as
+        possible to help us maintainers (and all other users) know.
+        [More](https://docs.coracore.org/en/latest/contributing/reporting-a-bug/#bug-description)
+    validations:
+      required: true
+
+  - type: textarea
+    id: related-links
+    attributes:
+      label: Related links
+      description: >-
+        Please list all links to the sections of
+        [our documentation](https://docs.coracore.org/) that
+        are relevant to the bug in order to show that you have consulted and
+        thoroughly read it. Additionally, list links to possibly related open
+        and closed [issues](https://github.com/spawaskar-cora/cora-docs/issues)
+        and [discussions](https://github.com/spawaskar-cora/cora-docs/discussions)
+        you encountered when searching our issue tracker.
+        [More](https://docs.coracore.org/en/latest/contributing/reporting-a-bug/#related-links)
+      value: |-
+        - [Reporting a bug](https://docs.coracore.org/en/latest/contributing/reporting-a-bug/)
+        -
+    validations:
+      required: false
+
+  - type: dropdown
+    id: method_type
+    attributes:
+      label: Method Type
+      description: >-
+        This field is required field. 
+        [More](https://docs.coracore.org/en/latest/contributing/reporting-a-bug/#device)
+      multiple: false
+      options:
+        - Age
+        - Sex
+        - Ancestry
+        - Stature
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      description: >-
+        Please ensure your proposed method report fulfills all of the following requirements.
+        If you are not sure what a specific requirement means, follow the link
+        to learn about it and understand why it is necessary before ticking the
+        box. This will save the maintainers and you valuable time.
+      options:
+        - label: >-
+            I have read and followed the [bug reporting guidelines](https://docs.coracore.org/en/latest/contributing/reporting-a-bug/).
+          required: true
+        - label: >-
+            I have attached links to [the documentation](https://docs.coracore.org/),
+            and possibly related [issues](https://github.com/spawaskar-cora/cora-docs/issues)
+            and [discussions](https://github.com/spawaskar-cora/cora-docs/discussions).
+          required: true
