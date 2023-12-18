@@ -21,7 +21,7 @@ body:
         Please translate the labels on the right. For new languages, translate
         each line. For existing languages, only translate lines containing the
         :arrow_left: icon and remove the icon before submitting.
-        [More](https://docs.coracore.org/contributing/adding-translations/#translations_1)
+        [More](https://docs.coracore.org/en/latest/contributing/adding-translations/#translations_1)
       value: |-
         {% macro t(key) %}{{ {
           "language": "en ⬅️",
@@ -89,7 +89,7 @@ body:
         new language. Go to our [emoji search](https://docs.coracore.org/reference/icons-emojis/#search)
         and enter `flag` to find all available shortcodes. If your flag is not
         included, please choose the most appropriate available flag.
-        [More](https://docs.coracore.org/contributing/adding-translations/#country-flag)
+        [More](https://docs.coracore.org/en/latest/contributing/adding-translations/#country-flag)
       placeholder: |-
         Country flag shortcode, e.g. :flag_en:
 
