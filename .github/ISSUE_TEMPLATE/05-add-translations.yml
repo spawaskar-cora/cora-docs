@@ -1,8 +1,10 @@
 name: Add a translation
 description: Missing support for your language? Add a translation
-title: Add translations for ...
-labels:
-  - change request
+title: "[Add translations for] ..."
+labels: ["change request"]
+assignees:
+  - SachinPawaskarUNO
+     
 body:
 
   - type: markdown

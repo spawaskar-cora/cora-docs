@@ -84,6 +84,8 @@ help you submit a comprehensive and useful issue:
 - [Description]
 - [Related links]
 - [Use cases]
+- [Solutions] <small>optional</small>
+- [Alternatives] <small>optional</small>
 - [Visuals] <small>optional</small>
 - [Checklist]
 
@@ -92,6 +94,8 @@ help you submit a comprehensive and useful issue:
   [Description]: #description
   [Related links]: #related-links
   [Use cases]: #use-cases
+  [Solutions]: #solutions
+  [Alternatives]: #alternatives
   [Visuals]: #visuals
   [Checklist]: #checklist
 
@@ -179,6 +183,28 @@ existing functionality?
 
 > __Why we need this__: Understanding the use cases and benefits of an idea is
 > crucial in evaluating its potential impact and usefulness for the project and
+> its users. This information helps us to understand the expected value of the
+> idea and how it aligns with the goals of the project.
+
+### Solutions
+
+Explain how your suggested solution would work from an author's and user's
+perspective – what's the expected impact, and why does it not only benefit you,
+but other users? How many of them? Furthermore, would it potentially break
+existing functionality?
+
+> __Why we need this__: Understanding the suggested solution and benefits of an idea
+> is crucial in evaluating its potential impact and usefulness for the project and
+> its users. This information helps us to understand the expected value of the
+> idea and how it aligns with the goals of the project.
+
+### Alernatives
+
+Please provide a clear and concise alternative that you have considered. 
+Explain alternatives that you may have thought of from an author's and user's perspective.
+
+> __Why we need this__: Understanding the considered alternative solution and benefits of an idea
+> is crucial in evaluating its potential impact and usefulness for the project and
 > its users. This information helps us to understand the expected value of the
 > idea and how it aligns with the goals of the project.
 

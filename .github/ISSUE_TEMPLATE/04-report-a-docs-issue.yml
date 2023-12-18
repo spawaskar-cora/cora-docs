@@ -1,7 +1,10 @@
 name: Report a documentation issue
 description: Missing information in our docs? Report a documentation issue
-labels:
-  - documentation
+title: "[Doc]: "
+labels: ["documentation"]
+assignees:
+  - SachinPawaskarUNO
+    
 body:
 
   - type: textarea

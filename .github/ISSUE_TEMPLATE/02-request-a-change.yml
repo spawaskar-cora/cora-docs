@@ -1,5 +1,10 @@
 name: Request a change
 description: Want to submit an idea? Propose a change or feature request
+title: "[Bug]: "
+labels: ["enhancemnet", "idea"]
+assignees:
+  - SachinPawaskarUNO
+
 body:
 
   - type: textarea
@@ -56,6 +61,27 @@ body:
         [More](https://docs.coracore.org/en/latest/contributing/requesting-a-change/#use-cases)
     validations:
       required: true
+
+  - type: textarea
+    id: solutions
+    attributes:
+      label: Solutions
+      description: >-
+        Please procvide a clear and concise description of what you want to happen. 
+        Explain solutions that you may have thought of from an author's and user's
+        perspective. Elaborate on how the suggested solution change would positively impact not only
+        you but our community and how it aligns with the goals and [philosophy](https://docs.coracore.org/philosophy/)
+        of the project.
+        [More](https://docs.coracore.org/en/latest/contributing/requesting-a-change/#solutions)
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: >-
+        Please provide a clear and concise alternative that you have considered. Explain alternatives
+        that you may have thought of from an author's and user's perspective.
+        [More](https://docs.coracore.org/en/latest/contributing/requesting-a-change/#alternatives)
 
   - type: textarea
     id: visuals
