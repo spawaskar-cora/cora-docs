@@ -18,8 +18,8 @@ body:
     attributes:
       label: Bug description
       description: >-
-        Please give a detailed description of the bug. Explain where Material
-        for MkDocs does not behave as you would expect it to. Be as specific as
+        Please give a detailed description of the bug. Explain where CoRA
+        does not behave as you would expect it to. Be as specific as
         possible. If you have found a workaround or a fix for the problem,
         please let us maintainers (and all other users) know.
         [More](https://docs/coracore.org/contributing/reporting-a-bug/#bug-description)
@@ -43,23 +43,7 @@ body:
         - [Reporting a bug](https://docs/coracore.org/contributing/reporting-a-bug/)
         -
     validations:
-      required: true
-
-  - type: textarea
-    id: reproduction
-    attributes:
-      label: Reproduction
-      description: >-
-        Please create a __.zip file__ with a __minimal reproduction__ for the
-        bug. First, read our [reproduction guide](https://docs/coracore.org/guides/creating-a-reproduction/)
-        that explains the necessary steps, then use the [built-in info plugin](https://docs/coracore.org/plugins/info/) (mandatory) to create a self-contained
-        .zip file with the reproduction. We reserve the right to close issues
-        without .zip files.
-        [More](https://docs/coracore.org/contributing/reporting-a-bug/#reproduction)
-      placeholder: |-
-        Drag and drop the .zip file with the minimal reproduction here.
-    validations:
-      required: true
+      required: false
 
   - type: textarea
     id: steps-to-reproduce
@@ -67,9 +51,8 @@ body:
       label: Steps to reproduce
       description: >-
         Please provide a detailed list of instructions, guiding us maintainers
-        through the required steps, helping us to recreate the problem using the
-        minimal reproduction you provided. Be as specific as possible and as
-        verbose as necessary – try not to leave anything out.
+        through the required steps, helping us to recreate the problem. Be as specific 
+        as possible and as verbose as necessary – try not to leave anything out.
         [More](https://docs/coracore.org/contributing/reporting-a-bug/#steps-to-reproduce)
       placeholder: |-
         1. ...
@@ -77,6 +60,41 @@ body:
         3. ...
     validations:
       required: true
+
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      description: >-
+        This field is optional. If the bug only happens in __specific device__,
+        please select them from the dropdown below. If your device is not
+        listed or the version is relevant, you may select _Other_ and provide
+        more details in the field above.
+        [More](https://docs/coracore.org/contributing/reporting-a-bug/#browser)
+      multiple: true
+      options:
+        - Desktop
+        - Tablet
+        - Smart Phone
+        - Other
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: OS
+      description: >-
+        This field is optional. If the bug only happens on __specific operating systems__,
+        please select them from the dropdown below. If your OS is not
+        listed or the version is relevant, you may select _Other_ and provide
+        more details in the field above.
+        [More](https://docs/coracore.org/contributing/reporting-a-bug/#browser)
+      multiple: true
+      options:
+        - Windows
+        - Mac
+        - iOS
+        - Android
+        - Other
 
   - type: dropdown
     id: browser
@@ -118,7 +136,4 @@ body:
         - label: >-
             I assure that I have [removed all customizations](https://docs/coracore.org/contributing/reporting-a-bug/#remove-customizations)
             before submitting this bug report.
-          required: true
-        - label: >-
-            I have attached a __.zip file__ with a [minimal reproduction](https://docs/coracore.org/guides/creating-a-reproduction/).
           required: true
