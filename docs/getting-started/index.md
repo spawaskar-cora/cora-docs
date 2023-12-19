@@ -54,17 +54,4 @@ with the following information
 ### Fill out an issue template
 On Github
 
-### Semantic versioning
-    1.  CoRA uses [semantic versioning][^2], which is why it's a
-        good idea to limit upgrades to the current major version.
-
-
-  [^2]:
-    Note that improvements of existing features are sometimes released as
-    patch releases, like for example improved search results with additioanl
-    linkable data, as they're not considered to be new features.
-
-
----
-
   [GitHub]: https://github.com/spawaskar-cora/cora-docs
