@@ -1,5 +1,10 @@
 # Conventions
 
+!!! warning
+
+    This page is work in progress.
+
+
 !!! question "How can I add a new or missing convention symbol to CoRA?"
 
     You can request new or missing convention symbol to be added to CoRA if the one you are looking for is not present 
