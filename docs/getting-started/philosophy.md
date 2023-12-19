@@ -15,12 +15,12 @@ briefly in this documentation.
 
 - :globe_with_meridians: __It's a Saas Web Application__: Focus on the forensic anthroplogy skills 
   you are good at and leave the software and hardware issues to us, because CoRA is managed as 
-  Software as a service (Saas). No need to know Programming, Databases, HTML,CSS or JavaScript.
+  Software as a service (Saas). No need to know Programming, Databases, HTML, CSS or JavaScript.
   – `Let CoRA do the heavy lifting for you.`
 
 - :material-graphql: __Most Advanced Analytics__: Provides the most advanced, current and modern
   analytics and visualaizations to help you find things that matter using state-of-the-art algorithms
-  including advanced statistical techniques & regression models, graph theory and ML/AI models.
+  including advanced statistical techniques & regression models, graph theory and AI/ML models.
    – `The algorithms in CoRA are designed to help you find things that matter`
 
 - :material-devices: __Works on all devices__: Serve your project needs with confidence – the

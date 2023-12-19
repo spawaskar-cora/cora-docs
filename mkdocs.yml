@@ -205,11 +205,11 @@ nav:
   - Home: index.md
   - Getting started:
     - getting-started/index.md
-    - Browser support: getting-started/browser-support.md
-    - Customization: getting-started/customization.md
-    - Conventions: getting-started/conventions.md
-    - Enterprise feedback: getting-started/enterprise-support.md
     - Philosophy: getting-started/philosophy.md
+    - Conventions: getting-started/conventions.md
+    - Customization: getting-started/customization.md
+    - Enterprise feedback: getting-started/enterprise-support.md
+    - Browser support: getting-started/browser-support.md
     - Language: getting-started/changing-the-language.md
     # - Alternatives: getting-started/alternatives.md
     # - License: getting-started/license.md
@@ -219,8 +219,8 @@ nav:
     - Contributing:
       - contributing/index.md
       - Reporting a bug: contributing/reporting-a-bug.md
-      - Reporting a docs issue: contributing/reporting-a-docs-issue.md
       - Requesting a change: contributing/requesting-a-change.md
+      - Reporting a docs issue: contributing/reporting-a-docs-issue.md
       - Adding translations: contributing/adding-translations.md
       - Asking a question: https://github.com/spawaskar-cora/cora-docs/discussions
   - User Guide:

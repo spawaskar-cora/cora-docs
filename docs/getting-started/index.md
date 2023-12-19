@@ -6,7 +6,11 @@
 
 Congratulations you have found the CoRA User guide. This manual is intended to help you get the most out of your CoRA application in your day-to-day use.
 
-This guide answers the “why, where, and how” questions that most users have when learning to use the CoRA platform. You’ll find lots of step-by-step instructions, screenshots, and examples. You’ll get an overview of the modules & resources that are available to you as you work on your Forensic Anthropology projects in CoRA. Finally, you’ll learn the concepts of the CoRA platform with it powerful configuration features, and establish best practices for project standards and requirements.
+This guide answers the “**why, where, and how**” questions that most users have when learning to use the CoRA platform. You’ll find lots of step-by-step instructions, screenshots, and examples. You’ll get an overview of the modules & resources that are available to you as you work on your Forensic Anthropology projects in CoRA. Finally, you’ll learn the concepts of the CoRA platform with it powerful configuration features, and establish best practices for project standards and requirements.
+
+!!! tip
+
+    CoRA can be used for inventorying assemblages of **single** or **commingled** human remains
 
 Commingled human remains are often encountered in archaeological and forensic contexts. A bone by bone inventory is an important step in segregating commingled remains into individuals and determining the minimum number of individuals present. In order to achieve individual identification a controlled and consistent specimen-level inventory procedure must be followed.
 
@@ -15,11 +19,7 @@ a powerful community resource for inventorying assemblages of single or commingl
 human remains, while providing a framework of analytic methods, visualization 
 techniques and tools to assist in the segregation and identification process.
 
-!!! tip
-
-    CoRA can be used for inventorying assemblages of **single** or **commingled** human remains
-
-[CoRA] is a powerful web application ecosystem with an open, flexible, scalable, 
+(CoRA)[^1] is a powerful web application ecosystem with an open, flexible, scalable, 
 plug-n-play architecture and framework.
 
   [^1]:
@@ -66,68 +66,5 @@ On Github
 
 
 ---
-
-:fontawesome-brands-youtube:{ style="color: #EE0F0F" }
-__[How to set up CoRA]__ by @james-willett – :octicons-clock-24:
-15m – Learn how to create and host a documentation site using Material for
-MkDocs on GitHub Pages in a step-by-step guide.
-
-  [How to set up CoRA]: https://www.youtube.com/watch?v=Q-YA_dA8C20
-
----
-
-!!! tip
-
-    If you don't have prior experience with Python, we recommend reading
-    [Using Python's pip to Manage Your Projects' Dependencies], which is a
-    really good introduction on the mechanics of Python package management and
-    helps you troubleshoot if you run into errors.
-
-  [Python package]: https://pypi.org/project/mkdocs-material/
-  [virtual environment]: https://realpython.com/what-is-pip/#using-pip-in-a-python-virtual-environment
-  [semantic versioning]: https://semver.org/
-  [upgrade to the next major version]: upgrade.md
-  [Markdown]: https://python-markdown.github.io/
-  [Pygments]: https://pygments.org/
-  [Python Markdown Extensions]: https://facelessuser.github.io/pymdown-extensions/
-  [Using Python's pip to Manage Your Projects' Dependencies]: https://realpython.com/what-is-pip/
-
-
-??? question "How to add plugins to the Docker image?"
-
-    CoRA only bundles selected plugins in order to keep the size
-    of the official image small. If the plugin you want to use is not included,
-    you can add them easily:
-
-    === "CoRA"
-
-        Create a `Dockerfile` and extend the official image:
-
-        ``` Dockerfile title="Dockerfile"
-        FROM spawaskar-cora/cora-docs
-        RUN pip install mkdocs-macros-plugin
-        RUN pip install mkdocs-glightbox
-        ```
-
-    === "Insiders"
-
-        Clone or fork the Insiders repository, and create a file called
-        `user-requirements.txt` in the root of the repository. Then, add the
-        plugins that should be installed to the file, e.g.:
-
-        ``` txt title="user-requirements.txt"
-        mkdocs-macros-plugin
-        mkdocs-glightbox
-        ```
-
-    Next, build the image with the following command:
-
-    ```
-    docker build -t spawaskar-cora/cora-docs .
-    ```
-
-    The new image will have additional packages installed and can be used
-    exactly like the official image.
-
 
   [GitHub]: https://github.com/spawaskar-cora/cora-docs

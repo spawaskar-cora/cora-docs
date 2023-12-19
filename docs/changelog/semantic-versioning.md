@@ -1,6 +1,11 @@
 # Semantic Versioning
 
-CoRA and its APIs, modules and analytical tools follow semamtic versioning. Major framework releases are released every year, while minor and patch releases may be released as often as every month. Minor and patch releases should never contain breaking changes.
+CoRA and its APIs, modules and analytical tools follow semantic versioning[^1] . Major framework releases are released every year, while minor and patch releases may be released as often as every month. Minor and patch releases should never contain breaking changes.
+
+  [^1]:
+    Note that improvements of existing features are sometimes released as patch releases, like for example
+    improved search results with additioanl linkable data, as they're not considered to be new features.
+
 
 ## What is Semantic Versioning? { id="what-is-semantic-versioing" }
 
