@@ -235,7 +235,6 @@ nav:
       # - Old DNA: user-guide/dnas.md
       - Dental: user-guide/modules/dental/dental.md
       - Isotopes: user-guide/modules/isotopes/isotopes.md
-      - Old Isotopes: user-guide/isotopes.md
       - Individuals: user-guide/modules/individuals.md
       - Missing Persons: user-guide/modules/missingpersons.md
     - Search: 
@@ -265,9 +264,10 @@ nav:
   - Analytics & Visualiztions:
     - Home: analytics/index.md
     - Built-in analytics: 
+      - Bipartite graph: analytics/built-in/bipartite-graph.md
       - Collapsible Tree: analytics/built-in/collapsible-tree.md
       - Hierachical Clustering: analytics/built-in/hierachical-clustering.md
-      - Measurements: analytics/built-in/measurements.md
+      - Measurements Scatterplot: analytics/built-in/measurements-scatterplot.md
       - Osteometric Sorting Regression: analytics/built-in/osr.md
       - Refits: analytics/built-in/refits.md
       - Relationships graph: analytics/built-in/relationships-graph.md
