@@ -229,12 +229,17 @@ nav:
     - Users Roles Permissions: user-guide/users-roles-permissions.md
     - Modules:
       - user-guide/modules/index.md
-      - Specimens: user-guide/specimens.md
-      - DNA: user-guide/dnas.md
-      - Dental: user-guide/modules/dental.md
-      - Isotopes: user-guide/isotopes.md
+      - Specimens: user-guide/modules/specimens/specimens.md
+      # - Old Specimens: user-guide/specimens.md
+      - DNA: user-guide/modules/dnas/dnas.md
+      # - Old DNA: user-guide/dnas.md
+      - Dental: user-guide/modules/dental/dental.md
+      - Isotopes: user-guide/modules/isotopes/isotopes.md
+      - Old Isotopes: user-guide/isotopes.md
       - Individuals: user-guide/modules/individuals.md
       - Missing Persons: user-guide/modules/missingpersons.md
+    - Search: 
+      - user-guide/search/index.md
     - Reports: 
       - user-guide/reports/index.md
       - Org reports: user-guide/reports/org-reports.md

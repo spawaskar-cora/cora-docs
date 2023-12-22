@@ -4,6 +4,7 @@
 *[APIs]: Application Programming Interfaces
 *[ARIA]: Accessible Rich Internet Applications
 *[DB]: Database
+*[dH~2~O]: Distilled Water
 *[CSS]: Cascading Style Sheet
 *[CMMC]: Cybersecurity Maturity Model Certification
 *[CUI]: Controlled Unclassified Information
