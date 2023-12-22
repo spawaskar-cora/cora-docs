@@ -263,7 +263,8 @@ nav:
       - forensics-anthro-guide/field-attributes/index.md
   - Analytics & Visualiztions:
     - Home: analytics/index.md
-    - Built-in analytics: 
+    - Built-in analytics:
+      - analytics/built-in/index.md
       - Bipartite graph: analytics/built-in/bipartite-graph.md
       - Collapsible Tree: analytics/built-in/collapsible-tree.md
       - Hierachical Clustering: analytics/built-in/hierachical-clustering.md
