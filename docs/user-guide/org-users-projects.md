@@ -398,6 +398,8 @@ Icon                     |String         |32 chars     |mdi icon (see material d
 
 CoRA has a very powerful and flexible design which allows every organization to customize how they would like to use CoRA for their projects. The Org Profile screen is where you manage these settings. The information here is organized within tabs, each of these tabs is discussed below.
 
+![](media/org-profile.gif)
+
 #### About
 
 In the About tab the org administrator can edit the Organization Name, Description, Address, Website URL, Phone, Fax, Contact Name, Contact Email, GeoLatitude and GeoLongitude
@@ -421,66 +423,4 @@ In the API Keys tab the org administrator can configure the following for their 
 1. Slack Webhook API URL, this is required to send messages via slack. 
 2. Slack Channel, this is the channel that the orgnization slack messages will be sent to.
 3. Google Maps API Key, this is required to display project location information on a map.
-
-![](media/org-profile.gif)
-
-### User Profile
-
-CoRA has a very powerful and flexible design which allows every user to customize how they would like to use CoRA for their projects. Creating a good and friendly user experience is what CoRA strives for. Users can navigate to the user profile by clicking on the avatar icon on the top right corner. The User Profile screen is where you manage these settings. The information here is organized within tabs, each of these tabs is discussed below.
-
-#### About Profile
-
-In the About tab the user can view their current details and can edit the Name, Cell Phone, Alternative Phone, Slack Channel. The Email and the Organization name are readonly.
-
-#### General
-
-In the General tab the user can update the following
-
-1. Lines per page, this will control the numbers of rows to display in data tables within CoRA. 
-2. Welcome Screen, user can choose to display the Welcome Screen on startup when the user logs into the application. 
-3. Help Slideout, user can choose to have help slide out the right sidebar with help on screens such as Specimen measurements, zones and methods.
-
-#### Project
-
-In the Projects tab the user can update the following within expansion panels.
-
-1. Project: 
-    1. User can set the default project to use when the user logs into the application.
-2. Specimen: 
-    1. User can set the accession, provenance1 , provenance2 number that will be auto-populated on New Specimen screen. 
-    2. The MRU List specimen is the number of Most Recently Used/Accessed (MRU List) Specimens to keep track of. 
-    3. User can set a page direct to any Specimen association module after the creation of a new Specimen.
-3. DNA
-    1. The user can set the lab to be auto-populated on the DNA association screen for Specimen.
-    2. Users can add a configurable default search option to use for quick search. 
-    3. The DNA method will be auto-populated on Y-STR, auSTR DNA associations for Specimens based on the selections in the tab. 
-    4. Also the user can choose to select an option that will use older DNA sample record information if a new DNA sample record exists but has NULL values.
-4. Search: 
-    1. User can set a default search option. 
-    2. User can an save the last used Search By criteria and the search will be defaulted to this saved Search By criteria. 
-    3. User can choose to open the Specimen screen in a new tab via the Search resulst screen.
-
-#### Notification
-
-In the Notification tab the user can choose to receive a notification when 
-1. Either an export or import job is completed that was initiated by that user.
-2. When a specimen has been marked as reviewed,
-3. When changes are made to the DPAA Priority field in Missing Persons records.
-4. User can select which methods for notification they want to use. The notification can be through Email, SMS, or Slack.
-
-![](media/notifications-sliders.png)
-
-#### Localization
-
-In the Localization tab the user can update their default County, Language and Timezone.
-
-#### Last Login
-
-In the Last Login tab the user can view information such as last login time, Device, Total Number of logins, IP address and Password last changed.
-
-#### User Activity
-
-In the User Activity tab the user can view the user activity feed for specimens as a table with columns such as Key, Name, Side, Completeness and Updated At details. Also there is the user activity feed table for DNA with the fields such as key, Mito sequence Number, Mito sequence subgroup and Update at columns with details.
-
-![](media/user-profile.gif)
 
