@@ -117,7 +117,6 @@ plugins:
   - search
   - git-revision-date-localized:
       enable_creation_date: true
-      enable_creation_date: true
       type: timeago
   # - git-committers:
   #     repository: spawaskar-cora/cora-docs
@@ -225,8 +224,8 @@ nav:
       - Asking a question: https://github.com/spawaskar-cora/cora-docs/discussions
   - User Guide:
     - Site Navigation: user-guide/site-navigation.md
-    - Orgs Users Projects: user-guide/orgs-users-projects.md
-    - Users Roles Permissions: user-guide/users-roles-permissions.md
+    - Org Users Projects: user-guide/org-users-projects.md
+    - User Roles Permissions: user-guide/user-roles-permissions.md
     - Modules:
       - user-guide/modules/index.md
       - Specimens: user-guide/modules/specimens/specimens.md
