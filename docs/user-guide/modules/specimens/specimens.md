@@ -10,7 +10,7 @@ This section will explore navigating the specimens and their associations screen
 
 ## Specimen Navigation
 
-![Specimen Navigation](../assets/screenshots/specimens/specimen_navigation.png)
+![Specimen Navigation](../../../assets/screenshots/specimens/specimen_navigation.png)
 
 On the left side bar - you can access the main options for specimens. For Report Dashboard - please see the **Reports** documentation.
 
@@ -122,7 +122,9 @@ The user can add, edit or delete a method.
 
 #### Stature
 
-![](media/stature.gif)
+!!! warning
+
+    This section needs to be documented
 
 
 ### DNA Profile
@@ -152,7 +154,7 @@ The 'Create Isotope' section allows to create a isotope for the given bone. This
 
 After you create the Isotope, you will receive the <font color="green">"success"</font> message. By selecting the sample number, the Isotope screen pops up. Click on the Edit button to edit the information under each section.CLick on the Save button under each section saves the information and navigates the user to the next section of information. All the updated information can be saved at once by clicking on the ‘Save All’ button.
 
-![](/media/isotope.gif)
+![](media/isotope.gif)
 
 
 ### Taphonomy
@@ -233,14 +235,9 @@ Pathology, Trauma and Anomaly can be accessed on one screen as different tabs. T
 
 #### Anomaly
 
-![](media/anomaly.gif )
+![](media/pathology.gif )
 
 #### Trauma
-
-![](media/trauma.gif )
-
-
-Pathology, Trauma and Anomaly can be accessed on one screen as different tabs. The user can create a new item by clicking on the create button. 
 
 ![](media/pathology.gif )
 
