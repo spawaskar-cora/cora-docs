@@ -412,9 +412,12 @@ In the General tab the org administrator can configure the URL for the welcome s
 
 In the Unit of Measure tab the org administrator can configure the unit of measure used for mass/weight and length/measurement fields within all projects in their organization.
 
+1. mass/weight, valid values are grams and ounces
+2. length/measurement, valid values are mm, cm and inches
+
 #### Localization
 
-In the Localization tab the org administrator can configure to set the default county, Language and Timezone for all new users created in their organization.
+In the Localization tab the org administrator can configure to set the default County, Language and Timezone for all new users created in their organization.
 
 #### API Keys
 
