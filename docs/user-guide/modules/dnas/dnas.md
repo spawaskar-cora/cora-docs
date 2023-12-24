@@ -16,11 +16,11 @@ Action or Details, and then to the DNA Profile menu.
 
 CoRA's intellisense will automatically take you to the Create DNA sample screen, if this is the first DNA sample you are 
 trying to create for this specimen or will take you to the DNA list screen if a DNA Sample was previously created for this
-specimen. Note you can create multiple DNA sammples for a specimen. 
+specimen. Note you can create multiple DNA samples for a specimen. 
 
 !!! tip
 
-    CoRA allows you to create multiple DNA sammples for a specimen. If you have multiple dna samples, CoRA will create a
+    CoRA allows you to create multiple DNA samples for a specimen. If you have multiple dna samples, CoRA will create a
     Consensus DNA Profile for you with data from the multipel samples. Consensus DNA Profile is a powerful feature of CoRA.
 
 
@@ -68,7 +68,7 @@ Click on Save if any of the fields were updated
 
 !!! tip
 
-    The DNA profile has atrributes to track Mito, autosomal and ystr components of the specimen DNA.
+    The DNA profile has attributes to track Mito, autosomal and ystr components of the specimen DNA.
 
 ### Mito
 

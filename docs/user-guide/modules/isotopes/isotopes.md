@@ -1,7 +1,80 @@
-# Isotopes
+# Isotopes and Isotope Batch
+
+## Isotope
+
+Isotopes can be an important step in the identification process of missing persons. If your project chooses to use Isotope analysis
+as part of your identification process then you have come to the right place. Here you will learn more about the Isotope module 
+in CoRA. A critical first step is to cut a sample of the speciemn for Isotope analysis and then assign a sample number to it
+for tracking purposes and after you get results from your Isotope lab you can capture Isotope information here to create a
+Isotope Profile for further analysis.
+
+### Create a Isotope Sample
+
+The Isotope sample and Profile are assocaited with a specimen, so you must first choose a specimen for which you want to create
+a Isotope sample for. You can choose a specimen by navigating to the specimen screen from either the specimen search results screen 
+or from any data table row that has a specimen link on it. All search and reports screens have specimen links on them. Simply
+click these links to navigate to the specimen view/edit screen. Once on the specimen screen you can navigate to the Specimen
+Action or Details, and then to the Isotope Profile menu.
+
+CoRA's intellisense will automatically take you to the Create Isotope sample screen, if this is the first Isotope sample you are 
+trying to create for this specimen or will take you to the Isotope list screen if a Isotope Sample was previously created for this
+specimen. Note you can create multiple Isotope samples for a specimen.
+
+!!! tip
+
+    CoRA allows you to create multiple Isotope samples for a specimen. If you have multiple isotope samples, CoRA will create a
+    Consensus Isotope Profile for you with data from the multiple samples. Consensus Isotope Profile is a powerful feature of CoRA.
 
 
-## Create Isotope Batch
+![](media/new-dna-profile.gif)
+
+> The screen fields are shown below. Fields in bold are required.
+
+Attributes           |Data Type      |Size       |Validation Rule                                        |Required/Optional
+---------------------|---------------|-----------|-------------------------------------------------------|-------------
+**Sample Number**    |Alphanumeric   |8 chars    |an only contain letters and numbers                    |Required
+**Lab**              |Id             |id         |valid labs via dropdown setup for the org              |Required
+External Case Number |String         |32 chars   |                                                       |Optional
+
+Clicking Save will take you to the Isotope Profile screen. You can visit the Isotope Profile screen once you have received data from your
+Isotope processing lab to enter Isotope related data.
+
+![](media/new-dna-profile-creation.gif)
+
+-------------
+
+### Edit Isotope Profile
+
+Specimens which have had a Isotope sample successfully created will have an associated Isotope Profile. The Isotope profile contains all 
+the relevant Isotope attributes and are editable via action (user must have appropriate role and permissions). 
+
+You can visit the Isotope Profile screen once you have received data from your Isotope processing lab to enter Isotope related data to build
+the Isotope Profile for the specimen. On this screen click the pencil icon on the top right corner to edit the Isotope profile. 
+
+> The screen fields are shown below. Fields in bold are required.
+
+Attributes                 |Data Type      |Size       |Validation Rule                                        |Required/Optional
+---------------------------|---------------|-----------|-------------------------------------------------------|-------------
+**Lab**                    |Id             |id         |valid labs via dropdown setup for the org              |Required
+External Case Number       |String         |32 chars   |                                                       |Optional
+BTB Request Date           |Date           |           |                                                       |Optional
+BTB Receive Date           |Date           |           |must be greater than BTB Request Date                  |Optional
+Disposition                |String         |16 chars   |valid disposition via dropdown                         |Optional
+Sample Condition           |String         |16 chars   |valid sample condition via dropdown                    |Optional
+Weight Sample Remaining    |Decimal        |           |                                                       |Optional
+Recommended for Resampling |Boolean        |           |true/false toggle                                      |Optional
+
+Click on Save if any of the fields were updated
+
+![](media/new-dna-profile-edit.gif)
+
+!!! tip
+
+    The Isotope profile has attributes to track Carbon, Oxygen, Nitrogen, Sulphur and respective deltas and ratios for further analysis.
+
+
+
+## Isotope Batch
 
 A new isotope batch can be created by navigating to Left Sidebar Menu -\> Isotope -\> New Isotope Batch.
 
