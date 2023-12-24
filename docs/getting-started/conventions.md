@@ -1,5 +1,7 @@
 # Conventions
 
+This section explains several conventions used in CoRA and this documentation.
+
 !!! question "How can I add a new or missing convention symbol to CoRA?"
 
     You can request new or missing convention symbol to be added to CoRA if the one you are looking for is not present 
