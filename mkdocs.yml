@@ -250,6 +250,8 @@ nav:
       - Project dashboard: user-guide/dashboards/project-dashboard.md
     - File Export Import: 
       - user-guide/file-export-import/index.md
+    - Mobile Readiness: 
+      - user-guide/mobile-readiness/index.md
   - Forensic Anthro Guide:
     - Anomaly: forensics-anthro-guide/anomalies.md
     - Measurements: forensics-anthro-guide/measurements.md
