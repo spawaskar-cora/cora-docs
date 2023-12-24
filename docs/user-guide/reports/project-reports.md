@@ -1,137 +1,229 @@
-# Projects Reports
+# Project Reports
 
-!!! warning
+The project reports dashboard is accessible by all users who have access to specimens. This dashboard has a card view listing of all the project reports.
 
-    This page is work in progress.
+## Customize Dashboard
 
-The Project reports dashboard provides at a glance high level reports
-available for the current project.
+The project reports dashboard is highly customizable. You can expand/collapse all the report tabs or individual tabs and also drag and rearrange the tab arrangement. This arrangement is saved even after the user logs out. This state is saved in your local storage until browser cache is cleared. Each report pane displays an image of its respective sample report showing column names of that report.  
 
-## List of Project Reports
+![](media/project-reports-dashboard.gif)
 
-The report page allows a user to search different skeletal elements by another categories.
-The categories currently available for search are:
+### Common Actions
 
-- mtDNA
-- Zones
-- Methods
-- Measurements
-- Articulations
-- Specimens by Individual Number
-- Trauma
-- Anomaly
-- Pathology
-- Individual Number
-- Advanced Specimen
+Each report has a set of search/report criteria that the user can select before generating a report. Once the report is generated the user can perform the following actions that are common across all the reports.
+- Collapse or expand the report criteria.  
+- Choose visible columns on the report  
+- Export as PDF or Excel  
+- Reset the whole report  
+  
+## Advanced Specimen Report
 
-For all reports, you have several export options.
+The Advanced Specimen Report is the most comprehensive report that is available for a skeletal element. 
 
-- Download an Excel file
-- Download a PDf file
+***There are no fields required to generate this report.***
 
-Additionally, on each report results table, you can select how many results should be displayed, and visible columns.
+The search fields that are available are: 
 
-## Sample Report Output
+* Accession Number
+* Provenance 1
+* Provenance 2
+* Bone
+* Side
+* Completeness
+* Created By
+* Reviewed By
+* Inventoried By
 
-Here you can view the export and table view options for a set of results
+The status of the bone toggle buttons that you can enable as part of the search function are:
 
-![Report Results](../../assets/screenshots/reports/sampleResults.png)
+* Measured
+* DNA Sampled
+* CT Scanned
+* Clavicle Triage
+* Xray Scanned
+* Inventory Completed
+* Reviewed
 
-Each report will be outlined in detail.
+![](media/advanced-specimen-report.gif)
 
-## Advanced Report
+## Anomaly Report
 
-![Advanced Report](../../assets/screenshots/reports/advancedReport.gif)
+The Anomaly Report allows a user to select by an anomaly category.
 
-The Advanced Report is the most comprehensive search available for a given skeletal element. It allows the user to search by the following fields.
+***The fields in bold are required fields in order to generate the report. The user is required to select an anomaly for this report.***
 
-- Accession Number
-- Provenance 1
-- Provenance 2
-- Bone Name
-- Bone Side
-- Bone Completeness
-- Who created the record 
-- Who reviewed the record
-- Status of the bone, including:
-  - Measured Status
-  - DNA Sampled Status
-  - CT Scanned Status
-  - Xray Scanned Status
-  - Clavicle Triage Status
-  - Inventory Completed Status
-  - Reviewed Status
+The search fields that are available are: 
 
-This report has no required fields.
+* Accession Number
+* Provenance 1
+* Provenance 2
+* Bone
+* Side
+* **Anomaly**
 
-## mtDNA Report
+![](media/anomaly-report.gif)
 
-![mtDNA Report](../../assets/screenshots/reports/mtDNAReport.gif)
+## Articulations Report
 
-The mtDNA report is designed to allow a user to locate bones by Mitochondrial DNA. The search fields available are:
+The Articulations Report allows a user to select by articulations. 
 
-- Accession Number
-- Provenance 1
-- Provenance 2
-- Result Status
-- Mito Sequence Number
-- Mito Sequence Subgroup
-- Request Dates From
-- Request Dates To
+***The fields in bold are required fields in order to generate the report. The user is required to select a group and a bone for this report.***
 
-Multiple Mito Sequence Numbers can be searched at one time.
+The search fields that are available are: 
 
-## Zones Report
+* **Group**
+* Group Side
+* Accession Number
+* Provenance 1
+* Provenance 2
+* **Bone**
+* Side
 
-![zones Report](../../assets/screenshots/reports/zonesReport.gif)
+![](media/articulation-report.gif)
 
-The Zones Report is designed to allow a user to locate bones by specific zones. The search fields available are:
+## DNA Mito Report
 
-- Accession Number
-- Provenance Number 1
-- Provenance Number 2
-- **Bone**
-- Side
-- **Zones**
-- **Search Select Type**
+The DNA Mito Report allows a user to select DNA mitochondrial sequence numbers and subgroups. 
 
-The bolded fields are required.
+***There are no fields required to generate this report.***
 
-You can also select from one of 5 search types:
+The search fields that are available are: 
 
-- Inclusive
-- Exclusive
-- Inclusive Only
-- Exclusive Only
-- Exclusive Or
+* Accession Number
+* Provenance 1
+* Provenance 2
+* Results Status
+* Mito Sequence Number
+* Mito Sequence Subgroup
+* Request Dates From
+* Request Dates To
+* Receive Dates From
+* Receive Dates To
 
-![Inclusive Exclusive](../../assets/screenshots/reports/inclusiveExclusive.png)
+![](media/dna-mito-report.gif)
 
-The user is required to select a Bone, Zones and Search Select Type for this report.
+## DNA Austr Report
 
-## Methods Report
+The DNA Austr Report allows a user to select DNA Austr sequence numbers and subgroups.
 
-![Methods Report](../../assets/screenshots/reports/methodReport.gif)
+***There are no fields required to generate this report.***
 
-The Method Report allows a user to search by bones by a specific method. The search fields available are:
+The search fields that are available are:
 
-- Accession Number
-- Provenance 1
-- Provenance 2
-- **Bone**
-- Method Type
-- **Method**
-- Method Feature
-- Score
-- Range
+* Accession Number
+* Provenance 1
+* Provenance 2
+* Results Status
+* Austr Sequence Number
+* Austr Sequence Subgroup
+* Request Dates From
+* Request Dates To
+* Receive Dates From
+* Receive Dates To
 
-The bolded fields are required. The user is required to select a bone and a method for this report.
+![](media/dna-austr-report.gif)
+
+## DNA Ystr Report
+
+The DNA Ystr Report allows a user to select DNA Ystr sequence numbers and subgroups.
+
+***There are no fields required to generate this report.***
+
+The search fields that are available are:
+
+* Accession Number
+* Provenance 1
+* Provenance 2
+* Results Status
+* Ystr Sequence Number
+* Ystr Sequence Subgroup
+* Request Dates From
+* Request Dates To
+* Receive Dates From
+* Receive Dates To
+
+![](media/dna-ystr-report.gif)
+
+## Individual Number Report
+
+The Individual Number Report allows a user to view all individual numbers and related specimen counts. 
+
+![](media/individual-number-report-main.gif)
+
+No fields are chosen on the main page, instead you can choose the individual number on the left column to be taken to the "Specimens by Individual Numbers Report" report. The following fields are available once you arrive the "Specimen by Individual Numbers Report" page: 
+
+* Accession Number
+* Provenance 1
+* Provenance 2
+* Individual Number (This will be pre-populated for you from the previous page)
+* Bone
+* Side
+
+![](media/individual-number-report-details.gif)
+
+Alternatively, you can click on the specimen data in the middle column to see more information about the skeletal element and whether the element was measured, DNA sampled, Isotopes sampled, CT Scanned, CT Scanned At date, X-ray Scanned, 3D Scanned, Inventory Completed status, and Inventory Date. 
+
+You can edit the skeletal element by clicking the pencil icon on the upper right corner and update the necessary fields. 
+
+![](media/individual-number-report-specimen.gif)
+
+## Isotopes Report
+
+The Isotope Report allows a user to select by project, lab, result status, and batch ID. 
+
+***There are no fields required to generate the report.***
+
+The search fields that are available are: 
+
+ - Accession Number
+ - Provenance 1
+ - Provenance 2
+ - Batch ID
+ - Lab
+ - Results Status
+ - Collagen Yield From/To
+ - Collagen Weight From/To
+ - Carbon Weight From/To
+ - Nitrogen Weight From/To
+ - Oxygen Weight From/To
+ - Sulfur Weight From/To
+ - Carbon Percentage From/To
+ - Nitrogen Percentage From/To
+ - Oxygen Percentage From/To
+ - Sulfur Percentage From/To
+ - Carbon-to-Nitrogen Ratio From/To
+ - Carbon-to-Oxygen Ratio From/To
+
+The report will return results of of the following if it is available: 
+ - Project
+ - Key
+ - Bone
+ - Side
+ - Bone Group
+ - Individual Number
+ - Sample Number
+ - Collagen Yield
+ - Collagen Weight
+ - Carbon Weight
+ - Nitrogen Weight
+ - Oxygen Weight
+ - Sulfur Weight
+ - Carbon Percentage
+ - Nitrogen Percentage
+ - Oxygen Percentage
+ - Sulfur Percentage
+ - Carbon-to-Nitrogen Ratio
+ - Carbon-to-Oxygen Ratio
+
+![](media/project-isotope-report.gif)
 
 ## Measurements Report
 
-![Measurements Report](../../assets/screenshots/reports/measurementsReport.gif)
+The Measurements Report allows a user to select by individual number or bone. Either individual number or bone is required to run the report. 
 
-The Measurements Report allows a user to select by individual number and side of a bone. The search fields available are:
+***The fields in bold are required fields in order to generate the report. The user is required to select either Bone or Individual Number for this report. Only one or the other can be chosen.***
+
+The search fields that are available are: 
 
  - Accession Number
  - Provenance Number 1
@@ -140,81 +232,134 @@ The Measurements Report allows a user to select by individual number and side of
  - Side
  - **Individual Number**
  - Side
- 
-The bolded fields are required. The user is required to select a bone and a individual number for this report.
 
-## Articulations Report
+The bolded fields are required. The user is required to select a bone or an individual number for this report. 
 
-![Articulations Report](../../assets/screenshots/reports/articulationsReport.gif)
+The report will return results of of the following if it is available: 
 
-The Articulations Report allows a user to select by articulations. The search fields available are:
+ - Key
+ - Bone
+ - Side
+ - Various measurements for the bone that is chosen
 
-- Group
-- Group Side
-- Accession Number
-- Provenance 1
-- Provenance 2
-- Bone
-- Side
+![](media/measurements-report.gif)
 
-A Group or Bone is required for this report.
+## Methods Report
 
-## Individual Number Report
+The Method Report allows a user to search by bones by a specific method. 
 
-![Individual Number Report](../../assets/screenshots/reports/individualNumberReport.gif)
-
-The Individual Number Report allows a user to select by an individual bone number. The search fields available are:
-
-- Accession Number
-- Provenance Number 1
-- Provenance Number 2
-- **Individual Number**
-- **Bone**
-- Side
-
-The bolded fields are required. An Individual Number and Bone is required to run this report.
-
-## Trauma Report
-
-![Trauma Report](../../assets/screenshots/reports/traumaReport.gif)
-
-The Trauma Report allows a user to select by an trauma category. The search fields available are:
-
-- Accession Number
-- Provenance 1
-- Provenance 2
-- Trauma
-- Bone
-- Side
-
-You must select a trauma category to run this report.
-
-## Anomaly Report
-
-![Anomaly Report](../../assets/screenshots/reports/anomalyReport.gif)
-
-The Anomaly Report allows a user to select by an anomaly category. The search fields available are:
- 
-- Accession Number
-- Provenance 1
+The search fields that are available are: 
+  
+***The bolded fields are required. The user is required to select a bone and a method for this report.***
+  
+- Accession Number  
+- Provenance 1  
 - Provenance 2  
-- Anomaly
-- Bone
-- Side
+- **Bone**  
+- Method Type  
+- **Method**  
+- Method Feature  
+- Score  
+- Range  
 
-An anomaly category must be selected to run this report.
+![](media/methods-report.gif)
 
 ## Pathology Report
 
-![Pathology Report](../../assets/screenshots/reports/pathologyReport.gif)
+The Pathology Report allows a user to select by a pathology category. 
 
-The Pathology Report allows a user to select by an pathology category. The search fields available are:
-  
-- Accession Number
-- Provenance Number 1
-- Provenance Number 2
-- **Pathology**
-- Bone
-- Side
+***The bolded fields are required. The user is required to select a Pathology for this report.***
 
-A pathology category must be selected to run this report.
+The search fields that are available are: 
+
+* Accession Number
+* Provenance 1
+* Provenance 2
+* **Pathology**
+* Bone
+* Side
+
+![](media/pathology-report.gif)
+
+## Specimens by Individual Number Report
+
+The Specimens by Individual Number Report allows a user to generate a report by Individual Numbers which will return results of an Individual Number's bone, side, DNA Sample Number, DNA Sequence Number, Traumas, Pathologies, and Anomalies. 
+
+***The bolded fields are required. The user is required to select a Individual Number for this report.***
+
+The search fields that are available are: 
+
+* Accession Number
+* Provenance 1
+* Provenance 2
+* **Individual Number**
+* Bone
+* Side
+
+![](media/specimen-individual-number-report.gif)
+
+## Specimen Comparison Report
+
+The Specimen Comparison Report allows a user to compare more than two specimens side by side. The report return results of bone group, individual number, remains status, Mito Seq Number, Zones, Trauma, Pathology, Taphonomy, Paired, Refit, and Articulated. 
+
+***The bolded fields are required. The user is required to select Bone and Bone Side for this report.***
+
+The search fields that are available are: 
+
+* Accession Number
+* Provenance 1
+* Provenance 2
+* **Bone**
+* **Bone Side**
+
+![](media/specimen-comparison-report.gif)
+
+## Trauma Report
+
+The Trauma Report allows a user to select by an trauma category. 
+
+***The bolded fields are required. The user is required to select Trauma for this report.***
+
+The search fields that are available are:
+
+-   Accession Number
+-   Provenance 1
+-   Provenance 2
+-   **Trauma**
+-   Bone
+-   Side
+
+![](media/trauma-report.gif)
+
+## Zones Report
+
+The Zones Report is designed to allow a user to locate bones by specific zones. 
+
+***The bolded fields are required. The user is required to select Bone, Zones, and Search Select type.***
+
+The search fields that are available are: 
+
+-   Accession Number
+-   Provenance Number 1
+-   Provenance Number 2
+-   **Bone**
+-   Side
+-   **Zones**
+-   **Search Select Type**
+
+![](media/zone-report.gif )
+
+You can also select from one of following search types:
+
+-   Inclusive
+-   Exclusive
+-   Inclusive Only
+-   Exclusive Only
+-   Exclusive Or
+-   Not Present
+
+![Inclusive Exclusive](../../assets/screenshots/reports/inclusiveExclusive.png)
+
+The user is required to select a Bone, Zones and Search Select Type for this report.
+
+
