@@ -4,7 +4,7 @@ Data can be exported from and imported into CoRA via the File Export/Import and 
 
 ## File Export 
 
-In order to export data from CoRA, navigage to Left Sidebar Menu -\> File Export/Import-\> File Export. Please note that users can only export data for the current project.
+In order to export data from CoRA, navigate to Left Sidebar Menu -\> File Export/Import-\> File Export. Please note that users can only export data for the current project.
 
 ![Navigate File Export](media/file-export-navigate.png)
 
@@ -72,7 +72,7 @@ The anthropologist and mp admin role can only see the export button option, whic
 
 ## File Manager
 
-All files exported and imported into CoRA can be accessed at a central location called the File Manager. The file(s) that you just exported will be located here after CoRA completes the file export job. To access the File Manager, navigage to Left Sidebar Menu -\> File Export/Import-\> File Manager.
+All files exported and imported into CoRA can be accessed at a central location called the File Manager. The file(s) that you just exported will be located here after CoRA completes the file export job. To access the File Manager, navigate to Left Sidebar Menu -\> File Export/Import-\> File Manager.
 
 ![Navigate File Manager](media/file-manager-navigate.png)
 
@@ -82,7 +82,7 @@ The File Manager will list all of the file export/import jobs that have been com
 
 ## File Import
 
-In order to import a file, Navigage to Left Sidebar Menu -\> File Export/Import-\> File Import
+In order to import a file, navigate to Left Sidebar Menu -\> File Export/Import-\> File Import
 
 ![Navigate File Import](media/file-import-navigate.png)
 

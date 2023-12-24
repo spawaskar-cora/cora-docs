@@ -235,7 +235,7 @@ nav:
       - Dental: user-guide/modules/dental/dental.md
       - Isotopes: user-guide/modules/isotopes/isotopes.md
       - Individuals: user-guide/modules/individuals.md
-      - Missing Persons: user-guide/modules/missingpersons.md
+      - Missing Persons: user-guide/modules/missing-persons/missing-persons.md
     - Search: 
       - user-guide/search/index.md
     - Reports: 
