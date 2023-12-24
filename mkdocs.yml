@@ -128,7 +128,7 @@ extra:
     json: [.s2]
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: G-WRFNWMKZ4X
     feedback:
       title: Was this page helpful?
       ratings:
