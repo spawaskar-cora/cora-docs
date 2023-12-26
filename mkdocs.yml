@@ -57,6 +57,7 @@ theme:
     # - navigation.instant.prefetch
     # - navigation.instant.progress
     # - navigation.prune
+    - navigation.path
     - navigation.sections
     - navigation.tabs
     # - navigation.tabs.sticky
@@ -295,6 +296,7 @@ nav:
       - Refits: analytics/built-in/refits.md
       - Relationships graph: analytics/built-in/relationships-graph.md
   - Reference:
+    - Country Language Timezone: reference/country-language-timezone.md
     - Contributing: reference/contributing.md
     - Reference list: reference/references.md
     - Icons, Emojis: reference/icons-emojis.md
