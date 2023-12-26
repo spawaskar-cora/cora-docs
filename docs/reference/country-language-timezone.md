@@ -1,4 +1,4 @@
-# Country Language Timezoem
+# Country Language Timezone
 
 Below you will find a listing of country, language and timezones settings supported in CoRA.
 You can use any of these to set the default country, default language and default timezones 
