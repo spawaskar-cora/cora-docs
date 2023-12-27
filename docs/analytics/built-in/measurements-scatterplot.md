@@ -28,7 +28,7 @@ Clicking on 'Go' button under 'Measurements Scatter Plot', it will bring to to t
 
 #### Step 1: Select a bone
 
-Once you select a Bone, the rest of the fileds will be show and enabled.
+Once you select a Bone, the rest of the fields will be show and enabled.
 
 ![Measurement Scatterplot Bone](media/measurement-scatterplot-bone.png)
 
@@ -40,7 +40,7 @@ Once you select a Bone, the rest of the fileds will be show and enabled.
 
 #### Step 3: Click the generate button
 
-Click the generate botton on the right side after fields are selected.
+Click the generate button on the right side after fields are selected.
 
 #### Step 4: Select a specimen
 

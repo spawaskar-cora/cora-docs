@@ -1,4 +1,4 @@
-# Hierachical Clustering
+# Hierarchical Clustering
 
 !!! warning
 

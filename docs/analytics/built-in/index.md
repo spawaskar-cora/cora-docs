@@ -8,6 +8,6 @@ in experimentation phase until final release. You are encouraged to use the buil
 
 !!! info 
 
-    We would appreciate your use of these analytics and visulaizations and your feedback on making them better and more useful to you.
+    We would appreciate your use of these analytics and visualizations and your feedback on making them better and more useful to you.
     Thank you.
 

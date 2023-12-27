@@ -12,7 +12,7 @@ This will allow you visualize OSR (Osteometric Sorting Regression).
 
 Left Sidebar Menu -\> Data Visualization -\> OSR
 
-In order to create OSR, click on the 'Data vistualization' on the left navigation bar.
+In order to create OSR, click on the 'Data visualization' on the left navigation bar.
 This will take you to the Data visualization page. 
 This page lists different types of project visualizations that can be used on CoRA.
 
@@ -30,7 +30,7 @@ Select specimens fields and X-Axis or Y-Axis, you will able to click the generat
 
 ***The bolded fields are required.***
 
-***To generate the OSR, either X-Axis or Y-Axis is manditory***
+***To generate the OSR, either X-Axis or Y-Axis is mandatory***
 
 - **Bone**
 - **Specimens**

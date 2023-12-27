@@ -4,9 +4,9 @@ Below you will find a listing of country, language and timezones settings suppor
 You can use any of these to set the default country, default language and default timezones 
 fields on the user model.
 
-When a new user is created within an organziation the default country, default language and 
+When a new user is created within an organization the default country, default language and 
 default timezones are set to the organization's default country, default language and 
-default timezones. Every user can change their indvidual setting in their My Profile page.
+default timezones. Every user can change their individual setting in their My Profile page.
 
 CoRA stores all date and time fields in UTC and then uses your default timezone settings to 
 determine what timezone to use to display the date and time fields. 

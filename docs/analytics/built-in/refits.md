@@ -12,7 +12,7 @@ This will allow you visualize bone refits based on zones.
 
 Left Sidebar Menu -\> Data Visualization -\> Refits
 
-In order to create Refits-Zone, click on the 'Data vistualization' on the left navigation bar.
+In order to create Refits-Zone, click on the 'Data visualization' on the left navigation bar.
 This will take you to the Data visualization page. 
 This page lists different types of project visualizations that can be used on CoRA.
 

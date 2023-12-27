@@ -13,7 +13,7 @@ This will allow you to visualize collapsible tree.
 
 Left Sidebar Menu -\> Data Visualization -\> Collapsible Tree
 
-In order to create Collapsible Tree, click on the 'Data vistualization' on the left navigation bar.
+In order to create Collapsible Tree, click on the 'Data visualization' on the left navigation bar.
 This will take you to the Data visualization page. 
 This page lists different types of project visualizations that can be used on CoRA.
 
@@ -21,7 +21,7 @@ This page lists different types of project visualizations that can be used on Co
 
 ***The bolded fields are required to generate Bone.***
 
-***It is manditory to choose any one of the optional field to generate Bone***
+***It is mandatory to choose any one of the optional field to generate Bone***
 
 - **Type(Specimens/Individuals)**
 - Individual Number
@@ -35,13 +35,13 @@ Click the Search Bone button to generate Bone options.
 
 #### Step 1: Select a Type
 
-Once you select a Type, the rest of the fileds will be show and enabled.
+Once you select a Type, the rest of the fields will be show and enabled.
 
 ![Collapsible Tree Select Type](media/collapsible-tree-select-type.png)
 
 #### Step 2: Select Fields
 
-It is manditory to choose any one of the optional field to generate Bone.
+It is mandatory to choose any one of the optional field to generate Bone.
 
 ![Collapsible Tree Select Fields](media/collapsible-tree-select-fields.png)
 

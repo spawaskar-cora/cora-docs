@@ -290,7 +290,7 @@ nav:
       - analytics/built-in/index.md
       - Bipartite graph: analytics/built-in/bipartite-graph.md
       - Collapsible Tree: analytics/built-in/collapsible-tree.md
-      - Hierachical Clustering: analytics/built-in/hierachical-clustering.md
+      - Hierarchical Clustering: analytics/built-in/hierarchical-clustering.md
       - Measurements Scatterplot: analytics/built-in/measurements-scatterplot.md
       - Osteometric Sorting Regression: analytics/built-in/osr.md
       - Refits: analytics/built-in/refits.md
