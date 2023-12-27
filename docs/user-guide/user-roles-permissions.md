@@ -3,7 +3,7 @@
 The CoRA application's authorization is structured around the concept of user, roles and permissions. What does this mean for you?
 CoRA was designed with security and traceability in mind to handle both Authentication and Authorization within the application. Each User within
 the organization has a role and these roles have permissions assigned to them. The roles can be that of Anthropologist, DNA analyst, Isotope Analyst, Manager, etc. Each model or resources within CoRA such as Specimen, DNA, Isotope, Missing Person, etc has browse (list), read, edit, add (create) and delete permissions.
-Each role has a permission set that allows the user with that role to access specific functionaility within CoRA. The entiity-relationship diagram below shows this relationship.
+Each role has a permission set that allows the user with that role to access specific functionality within CoRA. The entity-relationship diagram below shows this relationship.
 
 
 ``` mermaid
@@ -26,7 +26,7 @@ erDiagram
 ## User
 
 :material-account: Users in CoRA belong to a org and user accounts are created and typically assigned to projects by the org administrator.
-Anyone who uses CoRA must have a user account and must be assigned a role (such as org administrator, anthropologist, dna analyst, isotope analyst, dentist, historian, etc). Each role is assigned a set of permissions that provides a specific level of authorization to features wothin CoRA. The users are responsible for managing and updating their user profile which are attributes that control user settings within CoRA.
+Anyone who uses CoRA must have a user account and must be assigned a role (such as org administrator, anthropologist, dna analyst, isotope analyst, dentist, historian, etc). Each role is assigned a set of permissions that provides a specific level of authorization to features within CoRA. The users are responsible for managing and updating their user profile which are attributes that control user settings within CoRA.
 
 ## Roles
 
@@ -55,7 +55,7 @@ Following is a list of roles within CoRA.
 
 ## Permissions
 
-:material-shield-account: Permissions in CoRA are set at the model or resource level. Each model or resources within CoRA such as Specimen, DNA, Isotope, Missing Person, etc has browse (list), read, edit, add (create) and delete permissions. Each role has a permission set that allows the user with that role the ability to access specific functionaility within CoRA.
+:material-shield-account: Permissions in CoRA are set at the model or resource level. Each model or resources within CoRA such as Specimen, DNA, Isotope, Missing Person, etc has browse (list), read, edit, add (create) and delete permissions. Each role has a permission set that allows the user with that role the ability to access specific functionality within CoRA.
 
 ## User Profile
 
@@ -93,7 +93,7 @@ In the Projects tab the user can update the following within expansion panels.
 4. Search: 
     1. User can set a default search option. 
     2. User can an save the last used Search By criteria and the search will be defaulted to this saved Search By criteria. 
-    3. User can choose to open the Specimen screen in a new tab via the Search resulst screen.
+    3. User can choose to open the Specimen screen in a new tab via the Search results screen.
 
 ### Notification
 

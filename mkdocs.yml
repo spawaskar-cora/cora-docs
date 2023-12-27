@@ -31,7 +31,7 @@ edit_uri: edit/master/docs/
 # Copyright
 copyright: Copyright &copy; 2016 - 2024 <a href="https://sachinpawaskaruno.github.io">Sachin Pawaskar</a> - <a href="#__consent">Change cookie settings</a><br>Maintained with ❤️ by the <a href="https://github.com/spawaskar-cora/cora-docs/graphs/contributors">CoRA Team</a>.
 
-# Configuting/Themeing the documentation 
+# Configuring/Theming the documentation 
 # mkdocs comes with the theme options [mkdocs, readthedocs]
 # We have installed the mkdocs-material theme as well
 theme:
@@ -284,7 +284,7 @@ nav:
     - Zones: forensics-anthro-guide/zones.md
     - Field attributes:
       - forensics-anthro-guide/field-attributes/index.md
-  - Analytics & Visualiztions:
+  - Analytics & Visualizations:
     - Home: analytics/index.md
     - Built-in analytics:
       - analytics/built-in/index.md

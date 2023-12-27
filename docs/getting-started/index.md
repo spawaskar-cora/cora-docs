@@ -23,14 +23,14 @@ techniques and tools to assist in the segregation and identification process.
 plug-n-play architecture and framework.
 
   [^1]:
-    In 2016, CoRA started out as a simple specimen invertory system for Forensic 
+    In 2016, CoRA started out as a simple specimen inventory system for Forensic 
     Anthropologists. It was first showcased at the [AAFS] 70th Annual Conference 
-    in Seattle, WA in Feburary 2018, but over the course of several years, it's now
+    in Seattle, WA in February 2018, but over the course of several years, it's now
     much more than that – with the many built-in modules such as specimens, dnas, dental,
     isotopes, missing persons, dashboards, reports, search, analytics, visualizations, 
     administration, projects, user settings, and countless customization abilities,
     CoRA is now one of the simplest and most powerful frameworks for managing a 
-    single indiviual remains project or a complex commingled reamins project.
+    single individual remains project or a complex commingled remains project.
 
   [CoRA-web-app]: https://www.coracore.org
   [AAFS]: ../reference/aafs-2018.md

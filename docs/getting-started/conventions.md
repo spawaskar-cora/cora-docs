@@ -50,17 +50,17 @@ sure you have the necessary permissions to use the missing persons module and it
 ### :material-dna: – DNA sampled { data-toc-label="DNA sampled" }
 
 The DNA symbol in conjunction with a green <font color="green">&#x2714</font> check mark denotes
-that a specimen has been DNA smapled. A number next to the check mark denotes the mito sequence number
-assocaited with it. The DNA symbol in conjunction with a red &#10060 cross mark denotes that a 
+that a specimen has been DNA sampled. A number next to the check mark denotes the mito sequence number
+associated with it. The DNA symbol in conjunction with a red &#10060 cross mark denotes that a 
 specimen has not been DNA sampled yet.
 
 ### :material-radioactive: – Isotope sampled { data-toc-label="Isotope sampled" }
 
 The Isotope symbol in conjunction with a green <font color="green">&#x2714</font> check mark denotes
-that a specimen has been Isotope smapled. The Isotope symbol in conjunction with a red &#10060 cross
+that a specimen has been Isotope sampled. The Isotope symbol in conjunction with a red &#10060 cross
 mark denotes that a specimen has not been Isotope sampled yet.
 
-### :material-ruler-square: – Measurements { data-toc-label="Mesurements" }
+### :material-ruler-square: – Measurements { data-toc-label="Measurements" }
 
 The Measurements symbol in conjunction with a green <font color="green">&#x2714</font> check mark denotes
 that a specimen has been measured. The Measurements symbol in conjunction with a red &#10060 cross
@@ -88,7 +88,7 @@ mark denotes that a specimen has not been CT Scanned yet.
 
 The Inventoried symbol in conjunction with a green <font color="green">&#x2714</font> check mark denotes
 that a specimen has inventory completed. The Inventoried symbol in conjunction with a red &#10060 cross
-mark denotes that a specimen has not been invertory completed yet.
+mark denotes that a specimen has not been inventory completed yet.
 
 ### :material-eye-check: – Reviewed { data-toc-label="Reviewed" }
 
@@ -104,7 +104,7 @@ Clicking the help link will take you to the relevant help page on https://doc.co
 ### :material-magnify: – Search { data-toc-label="Search" }
 
 The Search symbol denotes that you can perform a search on a specific page. There is a global search bar
-avaialble that allows the user to search the specimens, dnas, isotopes, dental, individuals and 
+available that allows the user to search the specimens, dnas, isotopes, dental, individuals and 
 missing persons models which will return a data table of all records within the current project that
 match the search criteria.
 
@@ -112,8 +112,8 @@ match the search criteria.
 
 The Search history symbol denotes that you can save or favorite your most frequently used searches. 
 This feature allows users to re-run previously searched models within a project. The Search history
-has two parts, the search history part shows the last 10 seraches the user has performed and the 
-search favoties which allows the user to favorite and run a previous search done by the user. This
+has two parts, the search history part shows the last 10 searches the user has performed and the 
+search favorites which allows the user to favorite and run a previous search done by the user. This
 ia a very powerful and useful capability that is liked by most users.
 
 ### :material-bell: – Notification { data-toc-label="Notification" }
@@ -124,20 +124,20 @@ symbol denotes the number of unread notifications or messages.
 ### :material-fullscreen: – Full Window { data-toc-label="Full Window" }
 
 The Full Window symbol allows the user to maximize the current page or screen the user is viewing.
-Clickign this symbol will expand the current screen by full size by removing the browser title,
-address and button bars while maximing the the browser window to create more screen real estate.
+Clicking this symbol will expand the current screen by full size by removing the browser title,
+address and button bars while maximizing the browser window to create more screen real estate.
 
 ### :material-monitor-dashboard: – Dashboard { data-toc-label="Dashboard" }
 
-The Dashboard symbol allows the user to view the dashboard page. Depending on the user privilages
+The Dashboard symbol allows the user to view the dashboard page. Depending on the user privileges
 either the Org, Project or User dashboard will be made available to the user. The dashboard itself
 contains many widgets which show various charts and numbers relevant to the org, project or user.
 
 ### :material-gender-male-female: – Biological Profile { data-toc-label="Biological Profile" }
 
-The male/femmale symbol denotes that the biological profile for a specimen. The biological profile
+The male/female symbol denotes that the biological profile for a specimen. The biological profile
 is available under more actions button on the specimen screens if that specimen bone has any methods
-associated with it such as age, sex, ancentry and stature.
+associated with it such as age, sex, ancestry and stature.
 
 ### :material-pound: – Age { data-toc-label="Age" }
 
@@ -151,7 +151,7 @@ The human male/female symbol denotes that sex methods for a specimen. The sex me
 in the biological profile menu under more actions button on the specimen screens if that specimen bone
 has any associated sex methods.
 
-### :material-leaf: – Ancentry { data-toc-label="Ancentry" }
+### :material-leaf: – Ancestry { data-toc-label="Ancestry" }
 
 The leaf symbol denotes that ancestry methods for a specimen. The ancestry methods are available 
 in the biological profile menu under more actions button on the specimen screens if that specimen bone
@@ -165,25 +165,25 @@ has any associated stature methods.
 
 ### :material-alpha-t: – Taphonomy { data-toc-label="Taphonomy" }
 
-The "T" symbol denotes that taphonomies can be assocaited with a specimen. The taphonomies are available 
+The "T" symbol denotes that taphonomies can be associated with a specimen. The taphonomies are available 
 under more actions button on the specimen screens.
 
-### :material-ruler-square: – Measurements { data-toc-label="Mesurements" }
+### :material-ruler-square: – Measurements { data-toc-label="Measurements" }
 
-The square ruler symbol denotes that measurements can be assocaited with a specimen. The measurements are 
+The square ruler symbol denotes that measurements can be associated with a specimen. The measurements are 
 available under more actions button on the specimen screens if that specimen bone has allowed measurements.
 
 ### :material-group:– Zone Classification { data-toc-label="Zone Classification" }
 
-The group symbol denotes that zonal classifications can be assocaited with a specimen. The zonal 
+The group symbol denotes that zonal classifications can be associated with a specimen. The zonal 
 classification are available under more actions button on the specimen screens if that specimen bone has
 allowed zonal classification.
 
 ### :material-link: – Associations { data-toc-label="Associations" }
 
-The link ruler symbol denotes that assocaitions can be made for a specimen. The assocaitions is available
+The link ruler symbol denotes that associations can be made for a specimen. The associations is available
 under more actions button on the specimen screens if that specimen bone has any associations allowed
-such as articulations, pair match, refits and morphology. Typically one specimen is related or assocaited 
+such as articulations, pair match, refits and morphology. Typically one specimen is related or associated 
 with another specimen via the articulation, pair match, refit or morphology relationship
 
 ### :material-link-variant: – Articulations { data-toc-label="Articulations" }
@@ -235,15 +235,15 @@ available under more actions button on the specimen screens.
 
 The tag symbol denotes that tags have been assigned for a model (such as specimens, dna, etc). 
 The user can assign multiple tags to a specimen. Tagging is a simple way of grouping, marking or 
-flagging a specimen for further action in the future. Think about tagging as a way colleting, 
-bagging or grouping specimes. It is a powerful feature in CoRA for segregation and analysis purposes.
+flagging a specimen for further action in the future. Think about tagging as a way collecting, 
+bagging or grouping specimens. It is a powerful feature in CoRA for segregation and analysis purposes.
 
 ### :fontawesome-regular-comment-dots: – Comment { data-toc-label="Comment" }
 
 The comment symbol denotes that tags have been assigned for a model (such as specimens, dna, etc). 
 The user can assign multiple comments to a specimen. Comments are useful to provide additional information
 to the forensic scientist or project team for possible insights in the future. It can also be used by the
-project team to communciate additional information about a specimen.
+project team to communicate additional information about a specimen.
 
 ### :material-file-multiple-outline: – File { data-toc-label="File" }
 

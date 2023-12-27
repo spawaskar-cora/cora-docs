@@ -14,13 +14,13 @@ modern CSS features like [custom properties] and [mask images].
 ## Recommended browsers
 
 CoRA is optimized for the Google Chrome browser and we have extensively tested
-its functionaility on the Chrome browser. The product will work on other browsers
+its functionality on the Chrome browser. The product will work on other browsers
 such as Apple Safari, Mozilla Firefox and Microsoft Edge. 
 
 !!! tip
 
     Always make sure that you keep your OS and Browser updated and current, using 
-    older verions may compromise functionality
+    older versions may compromise functionality
 
 ## Supported browsers
 

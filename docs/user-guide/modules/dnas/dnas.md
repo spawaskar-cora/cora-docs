@@ -2,13 +2,13 @@
 
 DNA can be an important step in the identification process of missing persons. If your project chooses to use DNA analysis
 as part of your identification process then you have come to the right place. Here you will learn more about the DNA module 
-in CoRA. A critical first step is to cut a sample of the speciemn for DNA analysis and then assign a sample number to it
+in CoRA. A critical first step is to cut a sample of the specimen for DNA analysis and then assign a sample number to it
 for tracking purposes and after you get results from your DNA lab you can capture DNA information here to create a
 DNA Profile for further analysis.
 
 ## Create a DNA Sample
 
-The DNA sample and Profile are assocaited with a specimen, so you must first choose a specimen for which you want to create
+The DNA sample and Profile are associated with a specimen, so you must first choose a specimen for which you want to create
 a DNA sample for. You can choose a specimen by navigating to the specimen screen from either the specimen search results screen 
 or from any data table row that has a specimen link on it. All search and reports screens have specimen links on them. Simply
 click these links to navigate to the specimen view/edit screen. Once on the specimen screen you can navigate to the Specimen
@@ -21,7 +21,7 @@ specimen. Note you can create multiple DNA samples for a specimen.
 !!! tip
 
     CoRA allows you to create multiple DNA samples for a specimen. If you have multiple dna samples, CoRA will create a
-    Consensus DNA Profile for you with data from the multipel samples. Consensus DNA Profile is a powerful feature of CoRA.
+    Consensus DNA Profile for you with data from the multiple samples. Consensus DNA Profile is a powerful feature of CoRA.
 
 
 ![](media/new-dna-profile.gif)
@@ -90,7 +90,7 @@ Count                      |Number         |           |                        
 Population Frequency       |Number         |           |                                                       |Optional
 Confirmed Regions          |String         |256 chars  |                                                       |Optional
 Mito Polymorphisms         |String         |256 chars  |                                                       |Optional
-Mito Halpogroup            |Id             |id         |valid haplogroups via dropdown setup for the org       |Optional
+Mito Haplogroup            |Id             |id         |valid haplogroups via dropdown setup for the org       |Optional
 MCC Date                   |Date           |           |                                                       |Optional
 
 Click on Save if any of the fields were updated
@@ -115,7 +115,7 @@ Receive Date               |Date           |           |must be greater than Req
 Results Status             |String         |32 chars   |valid results status via dropdown                      |Optional
 Auto Sequence Number       |String         |16 chars   |                                                       |Optional
 Auto Sequence Subgroup     |String         |16 chars   |                                                       |Optional
-Aito Sequence Similar      |String         |16 chars   |                                                       |Optional
+Auto Sequence Similar      |String         |16 chars   |                                                       |Optional
 Number of Loci             |String         |256 chars  |                                                       |Optional
 Loci                       |String         |256 chars  |                                                       |Optional
 MCC Date                   |Date           |           |                                                       |Optional
@@ -147,7 +147,7 @@ Number of Loci             |String         |256 chars  |                        
 Loci                       |String         |256 chars  |                                                       |Optional
 Count                      |Number         |           |                                                       |Optional
 Population Frequency       |Number         |           |                                                       |Optional
-Ystr Halpogroup            |Id             |id         |valid haplogroups via dropdown setup for the org       |Optional
+Ystr Haplogroup            |Id             |id         |valid haplogroups via dropdown setup for the org       |Optional
 MCC Date                   |Date           |           |                                                       |Optional
 
 Click on Save if any of the fields were updated

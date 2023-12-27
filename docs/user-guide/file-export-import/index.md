@@ -12,11 +12,11 @@ This will take you to the File Export page. This page lists the different types 
 
 ### Export Types
 
-***Emport types options available to different role***
+***Export types options available to different role***
 
 | Role              | Available Export Type                                                                                              | 
 | ----------------- | ------------------------------------------------------------------------------------------------------------------ |
-| anthroropologist  | Specimens,Zones,Measurements,DNA,Pairs,Articulations, Osteometric Sorting                                          |
+| anthropologist    | Specimens,Zones,Measurements,DNA,Pairs,Articulations, Osteometric Sorting                                          |
 | org administrator | Specimens,Zones,Measurements,DNA,Pairs,Articulations,Missing Persons, Missing Persons-DCIPS, Osteometric Sorting   |
 | mp administrator  | Missing Persons, Missing Persons-DCIPS                                                                             |
 
@@ -46,7 +46,7 @@ CoRA produces a zip file of osteometric sorting bone measurement files for all l
 |designator              |The designator for the specimen                                                                        |
 |skeletal_bone           |The skeletal bone type                                                                                 |
 |side                    |The side: right, left, unsided                                                                         |
-|measurements            |Example measuement headers for the femur: Fem_01, Fem_02, Fem_03, Fem_04, Fem_05, Fem_06, Fem_07       |
+|measurements            |Example measurement headers for the femur: Fem_01, Fem_02, Fem_03, Fem_04, Fem_05, Fem_06, Fem_07      |
 
 !!! tip
 
@@ -100,7 +100,7 @@ As with file export, CoRA creates a background job for the file import process. 
 
 ### Import Types
 
-This section details the type of file import types availiable to the user. Templates can be downloaded for each import file type on the file import page. Follwoing are the import types that are available to the user.
+This section details the type of file import types available to the user. Templates can be downloaded for each import file type on the file import page. Following are the import types that are available to the user.
 
 1. Specimens
 2. Zones
@@ -130,7 +130,7 @@ The file being imported must contain a specific word depending on the import typ
 
 | Role              | Available Import Type                                                                         | 
 | ----------------- | --------------------------------------------------------------------------------------------- |
-| anthroropologist  | Specimens,Zones,Measurements,DNA,Pairs,Articulations                                          |
+| anthropologist    | Specimens,Zones,Measurements,DNA,Pairs,Articulations                                          |
 | org administrator | Specimens,Zones,Measurements,DNA,Pairs,Articulations,Missing Persons, Missing Persons-DCIPS   |
 | mp administrator  | Missing Persons, Missing Persons-DCIPS                                                        |
 
@@ -141,11 +141,11 @@ Click on browse to select a file to upload from your computer. Once selected, cl
 ![File Import Upload](media/file-import-upload.png)
 
 !!! tip
-    CoRA validates that the type choosen and file name attached match, it will throws an error if they don't match.
+    CoRA validates that the type chosen and file name attached match, it will throws an error if they don't match.
 
 ### File Import Notification
 
-As with file export, CoRA creates a background job for the file import process. A notification will appear when the job has completed. You may need to refresh your screen to see the notification. The notification will indicate whether your import was successful or not. The imported records will appear in CoRA after a successful import. You can click the eye icon under the Action menu to see the detailed result of the import prcess. It explains how many records were successfully imported and if there were failures it will also provide the reason for the failure rows. Click the green bell sign on the top right coner to view and mark all notifications.
+As with file export, CoRA creates a background job for the file import process. A notification will appear when the job has completed. You may need to refresh your screen to see the notification. The notification will indicate whether your import was successful or not. The imported records will appear in CoRA after a successful import. You can click the eye icon under the Action menu to see the detailed result of the import process. It explains how many records were successfully imported and if there were failures it will also provide the reason for the failure rows. Click the green bell sign on the top right corner to view and mark all notifications.
 
 ![File Import Notification Button](media/file-import-notification.png)
 
@@ -196,7 +196,7 @@ A articulations file produced by an osteometric sorting program must have the fo
 |articulation_accession_number  |The accession number for the articulated specimen                                           |
 |articulation_provenance1       |The provenance1 for the articulated specimen                                                |
 |articulation_provenance2       |The provenance2 for the articulated specimen                                                |
-|particulation_designator       |The designator for the articulated specimen                                                 |
+|articulation_designator        |The designator for the articulated specimen                                                 |
 |bonename                       |The specimen bone type                                                                      |
 |compare_method                 |The osteometric sorting method used                                                         |
 |compare_method_settings        |Program settings                                                                            |

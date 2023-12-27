@@ -20,7 +20,7 @@ Laptop          |Large      |1440px
 
 !!! tip
 
-    For smartphones and tablet size and under, the top right side navbar will be displayed as a hamberger menu
+    For smartphones and tablet size and under, the top right side navbar will be displayed as a hamburger menu
 
 ## Login
 

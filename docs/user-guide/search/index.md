@@ -30,7 +30,7 @@ the user with the most appropriate or valid search options for the selected proj
 
 !!! tip "Intellisense Engine"
 
-    CoRA has a built in `intellisense engine` that will provide context senstive information, options and values for the selected project and model.
+    CoRA has a built in `intellisense engine` that will provide context sensitive information, options and values for the selected project and model.
 
 ## Specimen Search
 

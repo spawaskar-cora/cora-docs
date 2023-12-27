@@ -38,14 +38,14 @@ erDiagram
 ## Users
 
 :material-account: Users in CoRA belong to a org and user accounts are created are typically assigned to projects by the org administrator.
-Anyone who uses CoRA must have a user account and must be assigned a role (such as org administrator, anthropologist, dna analyst, isotope analyst, dentist, historian, etc). Each role provide a specific level of authorization to features wothin CoRA. The users are responsible for managing and updating their user profile which are attributes that can control user settings within CoRA.
+Anyone who uses CoRA must have a user account and must be assigned a role (such as org administrator, anthropologist, dna analyst, isotope analyst, dentist, historian, etc). Each role provide a specific level of authorization to features within CoRA. The users are responsible for managing and updating their user profile which are attributes that can control user settings within CoRA.
 
 ## Projects
 
-:fontawesome-solid-briefcase-medical: Projects in CoRA is a container that holds spcimens. In CoRA specimens must belong to a project and projects themselves belong to an org. Project attributes and settings can be controlled and managed by the project manager who is typically an anthropologist who is also assigned to that project. 
+:fontawesome-solid-briefcase-medical: Projects in CoRA is a container that holds specimens. In CoRA specimens must belong to a project and projects themselves belong to an org. Project attributes and settings can be controlled and managed by the project manager who is typically an anthropologist who is also assigned to that project. 
 
 ## Org Administrator
-Every Org must have an Org Administrator (Org Admin for short) who is one of the Users with a privilaged role. The Org Admin has the ability to create and manage the Users, Projects, Accession, Instruments, Haplogroups etc. Users with the Org Administrator role will be presented with the Administration menu to perform these functions. Lets look at some of these functions
+Every Org must have an Org Administrator (Org Admin for short) who is one of the Users with a privileged role. The Org Admin has the ability to create and manage the Users, Projects, Accession, Instruments, Haplogroups etc. Users with the Org Administrator role will be presented with the Administration menu to perform these functions. Lets look at some of these functions
                                                                                       
 ![Click on Action](../assets/screenshots/administration/OrgAdmin.png)
 
@@ -163,8 +163,8 @@ Attributes                            |Data Type    |Size         |Validation Ru
 Description                           |String       |255 chars    |contains letters and numbers                             |Required
 **Status**                            |Id           |             |valid option via dropdown                                |Required (Default Open)
 **Manager**                           |Id           |             |valid option via dropdown                                |Required
-**Geo latitude**                      |Decimal      |             |valid lat/long upto 7 decimal precision                  |Required
-**Geo Longitude**                     |Decimal      |             |valid lat/long upto 7 decimal precision                  |Required
+**Geo latitude**                      |Decimal      |             |valid lat/long up to 7 decimal precision                 |Required
+**Geo Longitude**                     |Decimal      |             |valid lat/long up to 7 decimal precision                 |Required
 **Start Date**                        |Date         |             |valid date                                               |Required
 **Public**                            |Boolean      |             |true/false toggle                                        |Required (Default false)
 **Zones Auto Complete**               |Boolean      |             |true/false toggle                                        |Required (Default true)
@@ -176,7 +176,7 @@ Slack Channel                         |String       |255 chars    |valid url    
 !!! warning
 
     If the project is flagged as **Public**, your project will be visible to all. 
-    This option is rarely used and is only avaialble in case you want to share your project with others not part of your organization.
+    This option is rarely used and is only available in case you want to share your project with others not part of your organization.
 
 
 #### Edit Project
@@ -193,8 +193,8 @@ Attributes                            |Data Type    |Size         |Validation Ru
 Description                           |String       |255 chars    |contains letters and numbers                             |Required
 **Status**                            |Id           |             |valid option via dropdown                                |Required (Default Open)
 **Manager**                           |Id           |             |valid option via dropdown                                |Required
-**Geo latitude**                      |Decimal      |             |valid lat/long upto 7 decimal precision                  |Required
-**Geo Longitude**                     |Decimal      |             |valid lat/long upto 7 decimal precision                  |Required
+**Geo latitude**                      |Decimal      |             |valid lat/long up to 7 decimal precision                 |Required
+**Geo Longitude**                     |Decimal      |             |valid lat/long up to 7 decimal precision                 |Required
 **Start Date**                        |Date         |             |valid date                                               |Required
 **Public**                            |Boolean      |             |true/false toggle                                        |Required (Default false)
 Slack Channel                         |String       |255 chars    |valid url                                                |Optional
@@ -255,7 +255,7 @@ Attributes               |Data Type    |Size         |Validation Rule           
 
 !!! tip
 
-    If you want to edit or delete an accession please make sure that all speciemns under that accession have first been reassigned and another accession and the current coutn is 0 before attempting to edit or delete an accession.
+    If you want to edit or delete an accession please make sure that all specimens under that accession have first been reassigned and another accession and the current count is 0 before attempting to edit or delete an accession.
 
 
 ### Instrument Management
@@ -283,7 +283,7 @@ Attributes               |Data Type      |Size         |Validation Rule         
 **Module**               |String         |32 chars     |contains letters and numbers                             |Required
 **Active Status**        |Boolean        |             |true/false toggle                                        |Required (Default true)
 **Category**             |String         |255 chars    |contains letters and numbers                             |Required
-Reference                |String         |255 chars    |contains alphanumebric values                            |Optional
+Reference                |String         |255 chars    |contains alphanumeric values                            |Optional
 
 #### Edit Instrument
 
@@ -299,39 +299,39 @@ Attributes               |Data Type      |Size         |Validation Rule         
 **Module**               |String         |32 chars     |contains letters and numbers                             |Required
 **Active Status**        |Boolean        |             |true/false toggle                                        |Required (Default true)
 **Category**             |String         |255 chars    |contains letters and numbers                             |Required
-Reference                |String         |255 chars    |contains alphanumebric values                            |Optional
+Reference                |String         |255 chars    |contains alphanumeric values                            |Optional
 Assigned Users           |Id             |             |valid options via dropdown                               |Optional
 
 
-### Halpogroup Management
+### Haplogroup Management
 
-The Org Administrator has the ability to browse halpogroup list, create and manage the halpogroups.
-The halpogroup management screen provides a data table of all the halpogroups in the current organization with information such as Type, Letter, Subgroup, and Ancestry. The halpogroups list will be initially sorted on the type and letter. The data table also has an "Actions" column with buttons to edit the halpogroup.
+The Org Administrator has the ability to browse haplogroup list, create and manage the haplogroups.
+The haplogroup management screen provides a data table of all the haplogroups in the current organization with information such as Type, Letter, Subgroup, and Ancestry. The haplogroups list will be initially sorted on the type and letter. The data table also has an "Actions" column with buttons to edit the haplogroup.
 
 !!! tip
 
-    1. You can edit the halpogroup by clicking the letter link. 
+    1. You can edit the haplogroup by clicking the letter link. 
     2. The column visibility will allow you to add more columns/details to the data table list. 
     3. The Search box can be used to search any details in the data table list.
 
-#### Create Halpogroup
+#### Create Haplogroup
 
-On the halpogroup management screen, click the Create button/icon to create a new halpogroup. Navigation to the halpogroup management screen is shown below. 
+On the haplogroup management screen, click the Create button/icon to create a new haplogroup. Navigation to the haplogroup management screen is shown below. 
 
-The Create button opens a dialog box to prompt to create a new halpogroup. Enter the information for the new halpogroup record. Once all information is entered, click "Save", and a success message *Haplogroup successfully added”* will appear at the top.
+The Create button opens a dialog box to prompt to create a new haplogroup. Enter the information for the new haplogroup record. Once all information is entered, click "Save", and a success message *Haplogroup successfully added”* will appear at the top.
 
 > The screen fields are shown below. Fields in bold are required.
 
 Attributes               |Data Type      |Size         |Validation Rule                                          |Required/Optional
 -------------------------|---------------|-------------|---------------------------------------------------------|-------------
-**Type**                 |Strin          |32 chars     |valid options via dropdown (Mito, YStr)                  |Required
+**Type**                 |String         |32 chars     |valid options via dropdown (Mito, YStr)                  |Required
 **Letter**               |String         |1 char       |contains letter, one char from A-Z                       |Required
-Subgroup                 |String         |32 chars     |contains alphanumebric values                            |Optional
+Subgroup                 |String         |32 chars     |contains alphanumeric values                             |Optional
 Ancestry                 |String         |32 chars     |valid options via dropdown                               |Optional
 
-#### Edit Halpogroup
+#### Edit Haplogroup
 
-To edit an existing halpogroup information, simply click on the Letter and the edit dialog box will open for editing the existing halpogroup information. The following fields are available for update, click "Save" when finished editing, or "Close" to cancel the changes.
+To edit an existing haplogroup information, simply click on the Letter and the edit dialog box will open for editing the existing haplogroup information. The following fields are available for update, click "Save" when finished editing, or "Close" to cancel the changes.
 
 ![](media/haplogroup-management.gif)
 
@@ -339,9 +339,9 @@ To edit an existing halpogroup information, simply click on the Letter and the e
 
 Attributes               |Data Type      |Size         |Validation Rule                                          |Required/Optional
 -------------------------|---------------|-------------|---------------------------------------------------------|-------------
-**Type**                 |Strin          |32 chars     |valid options via dropdown (Mito, YStr)                  |Required
+**Type**                 |String         |32 chars     |valid options via dropdown (Mito, YStr)                  |Required
 **Letter**               |String         |1 char       |contains letter, one char from A-Z                       |Required
-Subgroup                 |String         |32 chars     |contains alphanumebric values                            |Optional
+Subgroup                 |String         |32 chars     |contains alphanumeric values                             |Optional
 Ancestry                 |String         |32 chars     |valid options via dropdown                               |Optional
 
 
@@ -368,8 +368,8 @@ The Create button opens a dialog box to prompt to create a new tag. Enter the in
 Attributes               |Data Type      |Size         |Validation Rule                                          |Required/Optional
 -------------------------|---------------|-------------|---------------------------------------------------------|-------------
 **Project**              |Id             |             |valid option via dropdown                                |Required (Default current project)
-**Tag Name**             |Strin          |32 chars     |contains letters and numbers                             |Required
-**Description**          |String         |255 chars    |contains alphanueric                                     |Required
+**Tag Name**             |String         |32 chars     |contains letters and numbers                             |Required
+**Description**          |String         |255 chars    |contains alphanumeric                                    |Required
 Category                 |String         |32 chars     |contains letters and numbers                             |Optional
 Type                     |String         |32 chars     |contains letters and numbers                             |Optional
 Color                    |String         |32 chars     |color hex number                                         |Optional
@@ -386,8 +386,8 @@ To edit an existing tag information, simply click on the Name and the edit dialo
 Attributes               |Data Type      |Size         |Validation Rule                                          |Required/Optional
 -------------------------|---------------|-------------|---------------------------------------------------------|-------------
 **Project**              |Id             |             |valid option via dropdown                                |Required (Default current project)
-**Tag Name**             |Strin          |32 chars     |contains letters and numbers                             |Required
-**Description**          |String         |255 chars    |contains alphanueric                                     |Required
+**Tag Name**             |String         |32 chars     |contains letters and numbers                             |Required
+**Description**          |String         |255 chars    |contains alphanumeric                                    |Required
 Category                 |String         |32 chars     |contains letters and numbers                             |Optional
 Type                     |String         |32 chars     |contains letters and numbers                             |Optional
 Color                    |String         |32 chars     |color hex number                                         |Optional
@@ -424,6 +424,6 @@ In the Localization tab the org administrator can configure to set the default C
 In the API Keys tab the org administrator can configure the following for their organization
 
 1. Slack Webhook API URL, this is required to send messages via slack. 
-2. Slack Channel, this is the channel that the orgnization slack messages will be sent to.
+2. Slack Channel, this is the channel that the organization slack messages will be sent to.
 3. Google Maps API Key, this is required to display project location information on a map.
 

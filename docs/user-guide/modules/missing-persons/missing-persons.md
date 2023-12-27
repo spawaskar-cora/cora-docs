@@ -41,7 +41,7 @@ The fields to search a missing person case are as follows:
 - Followed Up - Whether the record has been followed up on or not 
 - Updated DCIPS - Whether the record has been updated in DCIPS
 
-When searching for cases, use some or all of the fields to narrow down the results. Filters are used in combination, so specifying multiple filters will limit the results to those records matching all critera specified.
+When searching for cases, use some or all of the fields to narrow down the results. Filters are used in combination, so specifying multiple filters will limit the results to those records matching all criteria specified.
 
 *Note: In order to search for all of the missing persons cases, leave all fields empty.*
 
@@ -88,14 +88,14 @@ The search results will return the following columns if available. Additional co
 
 Once you have your advanced search results refined in a way that you like, export this list with the export buttons on the left hand side.
 
-Avaialble export options are:
+Available export options are:
 
 - PDF
 - Excel
 
 Selecting this option will export the search results in the selected file format for download onto your computer.
 
-### Batchi Edit
+### Batch Edit
 
 Making changes to many cases at the same time can be performed with the batch editing feature. Once you select multiple cases using the check boxes on the left side of the results of an advanced search an actions menu will appear.
 
@@ -105,7 +105,7 @@ Here you will be able to select "Batch Edit" and update one or more fields for e
 
 ## Managing Cases
 
-CoRA allows you to look at and manage missing person cases with ease and flexibilty. Select a specific case by selecting the case number underlined in blue. Once you select the case, a page will open with the details of the selected case.
+CoRA allows you to look at and manage missing person cases with ease and flexibility. Select a specific case by selecting the case number underlined in blue. Once you select the case, a page will open with the details of the selected case.
 
 ![MP Case Number Underlined](media/mp-case-underlined.png)
 
@@ -115,7 +115,7 @@ Once you have the case open, interact with the different fields to make the chan
 
 *Note: Some of the fields may be grayed out, these are fields that you cannot change and are changed in the system of record or by an individual with more access*
 
-Case information is seperated into several different categories:
+Case information is separated into several different categories:
 
 - Basic Case Information
 - DPAA
@@ -192,7 +192,7 @@ This section of the case details also provides the status for the various record
 
 ### Genealogy Request 
 
-The case manager for a case, the missing persons admininstrator, and the system administrator may generate a genealogy request. Those with permission to generate a genealogy request will see a blue Genealogy Request button to the left of the Save and Cancel buttons.
+The case manager for a case, the missing persons administrator, and the system administrator may generate a genealogy request. Those with permission to generate a genealogy request will see a blue Genealogy Request button to the left of the Save and Cancel buttons.
 
 Clicking on this button will generate and download a pdf titled Request for Genealogy Services. 
 
@@ -215,7 +215,7 @@ This will save the comment with your username as well as the date and time the c
 ### Audits
 The Audits section allows users to view all changes made to a missing persons record. This will show the detail of what, who, and when changes were made in the system.
 
-To view the audit data, select the arrow on the right side of the Audits section to view any relevent audit records.
+To view the audit data, select the arrow on the right side of the Audits section to view any relevant audit records.
 
 ### Tags
 The tags section enables users to associate additional information (aka Tags) to missing persons records.

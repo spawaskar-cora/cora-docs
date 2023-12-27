@@ -1,5 +1,5 @@
 # Specimens or Skeletal Elements
-Specimen are individual human remains which can be categorized. Many of the modules on the site are focused on specimens and their assocaition details such as Biological Profile, DNA Profile, Measurements, Zones, Aritculation, Pair Matching, Refits, Morphjology, Pathology, Trauma, Taphonomy, etc.
+Specimen are individual human remains which can be categorized. Many of the modules on the site are focused on specimens and their association details such as Biological Profile, DNA Profile, Measurements, Zones, Articulation, Pair Matching, Refits, Morphology, Pathology, Trauma, Taphonomy, etc.
 This section will explore navigating the specimens and their associations screen related characteristics.
 
 - Specimen Navigation
@@ -40,7 +40,7 @@ Provenance2      |String         |32 chars   |Can only contain letters, numbers,
 **Completeness** |String         |8 chars    |valid completeness via dropdown (Complete, Incomplete)                        | Required
 
 
-Once these details are filled and the specimen is saved, a new specimen with an appropraite `id` is generated and the user is navigated to the below screen. The screen is in View state and the user can edit it by clicking on the edit icon.
+Once these details are filled and the specimen is saved, a new specimen with an appropriate `id` is generated and the user is navigated to the below screen. The screen is in View state and the user can edit it by clicking on the edit icon.
 
 1.  The toolbar shows the options to the Edit/Save button and the Expand/Collapse button.
 2.  The Details button lists all specimen associations.
@@ -57,8 +57,8 @@ To create a multiple specimens via bone group - navigate to the Left Sidebar Men
 
 !!! tip
 
-    This is the preferred way to create multiple specimens within a bone group as CoRA will automatonically create articulation 
-    relationship amongest them. You can also apply Pathology, Trauma and Taphonomy to these specimens at the time of creation 
+    This is the preferred way to create multiple specimens within a bone group as CoRA will automatically create articulation 
+    relationship amongst them. You can also apply Pathology, Trauma and Taphonomy to these specimens at the time of creation 
     simplifying and speeding up the data entry process.
 
 ![](media/new-bone-group.gif)
@@ -96,7 +96,7 @@ To create a multiple specimens via homunculus - click the "New via homunculus" l
 
 ## Specimen Actions or Details
 
-The screenshot below shows the Actions or Details menu for the selected specimen. Here you can enter assoication data for the speciemn.
+The screenshot below shows the Actions or Details menu for the selected specimen. Here you can enter association data for the specimen.
 Each of the Action or Details menu option is explained in the following section.
 
 ![](media/list-of-specimen.png)

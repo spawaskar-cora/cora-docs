@@ -54,7 +54,7 @@ You will able to get the specimen name, bone, side, X-Axis and Y-Axis when hover
 
 ### More graph options
 
-In the menu on the right side, you can see more options on how your measurement scatterpolt display and graph detail information.
+In the menu on the right side, you can see more options on how your measurement scatterplot display and graph detail information.
 
 ![Measurement Scatterplot More Graph Options](media/measurement-scatterplot-more-graph-options.png)
 

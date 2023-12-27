@@ -15,7 +15,7 @@ The CoRA analytics engine provides some built-in analytics out of the box such a
 ## Independent Analytics Applications
 Following are some of the independent analytics applications that are either being developed or have already been developed that work with the CoRA Ecosystem.
 
-### Osteometic Sorting
+### Osteometric Sorting
 Blurb by author here - Jeffery Lynch
 
 ### Z-Transform

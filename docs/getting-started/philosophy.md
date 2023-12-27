@@ -11,12 +11,12 @@ briefly in this documentation.
 
 ### :globe_with_meridians:  It's a Saas Web Application { data-toc-label="Software as a Service" }
 
-Focus on the forensic anthroplogy skills you are good at and leave the software and hardware issues to us, because CoRA is managed as Software as a service (Saas). No need to know Programming, Databases, HTML, CSS or JavaScript.
+Focus on the forensic anthropology skills you are good at and leave the software and hardware issues to us, because CoRA is managed as Software as a service (Saas). No need to know Programming, Databases, HTML, CSS or JavaScript.
 - `Let CoRA do the heavy lifting for you.`
 
 ### :material-graphql:  Advanced Analytics & Visualizations { data-toc-label="Advanced Analytics & Visualizations" }
 
-Provides the most advanced, current and modern analytics and visualaizations to help you find things that matter using state-of-the-art algorithms including advanced statistical techniques & regression models, graph theory and AI/ML models.
+Provides the most advanced, current and modern analytics and visualizations to help you find things that matter using state-of-the-art algorithms including advanced statistical techniques & regression models, graph theory and AI/ML models.
 – `The algorithms in CoRA are designed to help you find things that matter`
 
 ### :material-devices: Works on all devices { data-toc-label="Works on all devices" }
@@ -29,7 +29,7 @@ Change the colors, notifications, org, project & user settings and much more wit
 – `CoRA is a delight to work with.`
 
 ### :material-clock-fast: Fast and lightweight { data-toc-label="Fast and lightweight" }
-Don't let your users wait – get incredible value with a small footprint, by using one of the fastest specimen inventorying system around with excellent performance and tracebility resulting in faster and accurate identifications.
+Don't let your users wait – get incredible value with a small footprint, by using one of the fastest specimen inventorying system around with excellent performance and traceability resulting in faster and accurate identifications.
 – `CoRA delivers on a consistent basis`
 
 ### :octicons-accessibility-inset-16: Accessible { data-toc-label="Accessible" }

@@ -4,13 +4,13 @@
 
 Isotopes can be an important step in the identification process of missing persons. If your project chooses to use Isotope analysis
 as part of your identification process then you have come to the right place. Here you will learn more about the Isotope module 
-in CoRA. A critical first step is to cut a sample of the speciemn for Isotope analysis and then assign a sample number to it
+in CoRA. A critical first step is to cut a sample of the specimen for Isotope analysis and then assign a sample number to it
 for tracking purposes and after you get results from your Isotope lab you can capture Isotope information here to create a
 Isotope Profile for further analysis.
 
 ### Create a Isotope Sample
 
-The Isotope sample and Profile are assocaited with a specimen, so you must first choose a specimen for which you want to create
+The Isotope sample and Profile are associated with a specimen, so you must first choose a specimen for which you want to create
 a Isotope sample for. You can choose a specimen by navigating to the specimen screen from either the specimen search results screen 
 or from any data table row that has a specimen link on it. All search and reports screens have specimen links on them. Simply
 click these links to navigate to the specimen view/edit screen. Once on the specimen screen you can navigate to the Specimen
@@ -105,8 +105,8 @@ Clicking Save will create the isotope batch in the database and will allow you t
 ### Associate Isotopes Samples
 
 Once an isotope batch has been created the user will be allowed to associate isotope samples to this batch.
-In order to assocaite isotope samples to this batch the user must first select the project, this will then show you all
-the specimen isotope samples that are available to be added to this batch. Selecting the isotope sample and clicking the assocaite 
+In order to associate isotope samples to this batch the user must first select the project, this will then show you all
+the specimen isotope samples that are available to be added to this batch. Selecting the isotope sample and clicking the associate 
 button will move the sample into the associated isotopes list, meaning that the sample has now been added to this batch.
 
 ![](media/isotope-batch-associate.gif)
@@ -125,7 +125,7 @@ Attributes             |Data Type      |Size       | Validation Rule            
 
 ## Start Batch Processing
 
-The start processing button will be enable once isotope samples are assocaited with the isotope batch.
+The start processing button will be enable once isotope samples are associated with the isotope batch.
 The batch processing has multiple steps and the following sections describe each of these steps in the order
 they are to be performed. You cannot move forward unless all the tasks in a given step are completed, you can move
 back to look the data in the previous steps. Only when all steps have been completed can you close out the
@@ -269,7 +269,7 @@ Click Save
 
 ***Note: Dates cannot be edited, the dates are taken from when the toggle switch was enabled.***
 
-***You will be moved to the next tab, "Collagen Yield", if you are not able to go to the next tabl, please ensure all fields and toggles are filled out properly.***
+***You will be moved to the next tab, "Collagen Yield", if you are not able to go to the next tab, please ensure all fields and toggles are filled out properly.***
 
 ![](media/isotope-batch-freeze-drying.gif)
 
@@ -300,13 +300,13 @@ You should see "Result Status" field on the top showing that it is Completed.
 Attributes                                            |Data Type     |Size       |Validation Rule                           |Required/Optional 
 ------------------------------------------------------|--------------|-----------|------------------------------------------|--------------------
 **Lab**                                               |Id            |id         |Can choose from the option available      |Required
-External Case #                                       |Alphanumeric  |32 chars   |Can only contain letters and numericals   |Optional
-**Isotope Batch Number**                              |Alphanumeric  |32 chars   |Can only contain letters and numericals   |Required
+External Case #                                       |Alphanumeric  |32 chars   |Can only contain letters and numerals     |Optional
+**Isotope Batch Number**                              |Alphanumeric  |32 chars   |Can only contain letters and numerals     |Required
 **Status**                                            |String        |32 chars   |valid statuses are Open, Associating Isotopes, Cleaning, Demineralizing, Removal Humic Acids, Solubilizing, Freeze Drying Collagen, Determining Collagen Yield and closed                                          |Required
 **Cleaning start date**                               |Date          |           |                                          |Required
 **Label tubes and caps**                              |Boolean       |           |true/false toggle                         |Required
-**Remove all visible signs of surface contaminatio**n |Boolean       |           |true/false toggle                         |Required
-**Ringes sample with dH~2~O**                         |Boolean       |           |true/false toggle                         |Required
+**Remove all visible signs of surface contamination** |Boolean       |           |true/false toggle                         |Required
+**Rinse sample with dH~2~O**                          |Boolean       |           |true/false toggle                         |Required
 **Sonicate samples with dH~2~O-cycle1**               |Boolean       |           |true/false toggle                         |Required
 **Sonicate samples with dH~2~O-cycle1 Start Date**    |Date          |           |                                          |Required
 **Sonicate samples with dH~2~O-cycle2**               |Boolean       |           |true/false toggle                         |Required
@@ -319,7 +319,7 @@ External Case #                                       |Alphanumeric  |32 chars  
 **Dry sample start date**                             |Date          |           |                                          |Required
 **Dry samples end**                                   |Boolean       |           |true/false toggle                         |Required
 **Dry sample end date**                               |Date          |           |                                          |Required
-**Cleaning initials**                                 |Alphanumeric  |32 chars   |Can only contain letters and numericals   |Required
+**Cleaning initials**                                 |Alphanumeric  |32 chars   |Can only contain letters and numerals     |Required
 **Demineralizing Treatment Start**                    |Boolean       |           |true/false toggle                         |Required
 **Demineralizing Treatment End**                      |Boolean       |           |true/false toggle                         |Required
 **Demineralizing Treatment Start Date**               |Date          |           |                                          |Required
@@ -351,7 +351,7 @@ External Case #                                       |Alphanumeric  |32 chars  
 **Removal Humic Acids treatment rinse 5 End Date**    |Date          |           |                                          |Required
 **Solubilizing clean vials and lids**                 |Boolean       |           |true/false toggle                         |Required
 **Solubilizing clean vials and lids date**            |Date          |           |                                          |Required
-**Solubilizing add solubale**                         |Boolean       |           |true/false toggle                         |Required
+**Solubilizing add soluble**                          |Boolean       |           |true/false toggle                         |Required
 **Solubilizing place in oven**                        |Boolean       |           |true/false toggle                         |Required
 **Solubilizing centrifuge tubes**                     |Boolean       |           |true/false toggle                         |Required
 **Solubilizing num acid heat treatment**              |Number        |32 chars   |numeric                                   |Required

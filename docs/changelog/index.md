@@ -28,10 +28,10 @@
 - Includes all available Anomalies, Pathologies, Traumas, and Taphonomies.
 - Added documentation for CoRA Data Export and Import (of measurements for Osteometric Sorting Algorithms).- 
 
-### 1.0.0 <small>Feburary 13, 2019</small> { id="1.0.0" }
+### 1.0.0 <small>February 13, 2019</small> { id="1.0.0" }
 
 - This is the first Open Community Release.
 
-### 0.3.0 alpha <small>Feburary 13, 2019</small> { id="0.3.0" }
+### 0.3.0 alpha <small>February 13, 2019</small> { id="0.3.0" }
 
 - This is the alpha release used for the AAFS Conference Workshop.
