@@ -68,7 +68,7 @@ Click on Save if any of the fields were updated
 
 !!! tip
 
-    The DNA profile has attributes to track Mito, autosomal and ystr components of the specimen DNA.
+    The DNA profile has attributes to track Mito, Autosomal and Ystr components of the specimen DNA.
 
 ### Mito
 

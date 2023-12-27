@@ -178,7 +178,7 @@ The FRS Status section of the case detail page is dedicated to tracking of Famil
 
 The Checklist section of the case detail page is dedicated to keeping track of the tasks to perform in reference to the specific case being viewed. The following fields can be found here and modified:
 
-- Add Family members from Geno Report to DCIPS
+- Add Family members from Genealogy Report to DCIPS
 - Attempt contact of family members in DCIPS
 - Send Outreach letters to family members unreachable by phone
 - Records sent to family
