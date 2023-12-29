@@ -25,6 +25,7 @@ specimen. Note you can create multiple Isotope samples for a specimen.
     CoRA allows you to create multiple Isotope samples for a specimen. If you have multiple isotope samples, CoRA will create a
     Consensus Isotope Profile for you with data from the multiple samples. Consensus Isotope Profile is a powerful feature of CoRA.
 
+> Need to insert screenshot gif here.
 
 ![](media/new-dna-profile.gif)
 
@@ -38,6 +39,8 @@ External Case Number |String         |32 chars   |                              
 
 Clicking Save will take you to the Isotope Profile screen. You can visit the Isotope Profile screen once you have received data from your
 Isotope processing lab to enter Isotope related data.
+
+> Need to insert screenshot gif here.
 
 ![](media/new-dna-profile-creation.gif)
 
@@ -66,12 +69,13 @@ Recommended for Resampling |Boolean        |           |true/false toggle       
 
 Click on Save if any of the fields were updated
 
+> Need to insert screenshot gif here.
+
 ![](media/new-dna-profile-edit.gif)
 
 !!! tip
 
     The Isotope profile has attributes to track Carbon, Oxygen, Nitrogen, Sulphur and respective deltas and ratios for further analysis.
-
 
 
 ## Isotope Batch
@@ -87,7 +91,7 @@ document at which step the Isotope Batch is currently in and tracks its' progres
 
 !!! tip
     You must be logged in as an Isotope Analyst in order to create a new isotope batch.
-       
+
 
 ![](media/isotope-batch-first-screen.gif)
 
