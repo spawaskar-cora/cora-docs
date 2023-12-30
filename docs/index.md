@@ -18,3 +18,15 @@ In the near future, we plan to be in compliance with the Cybersecurity Maturity 
 ## Contribution Guidelines
 
 If you are submitting documentation for the **current stable release**, submit it to the corresponding branch. For example, documentation for CoRA 1.0 would be submitted to the `1.0` branch, documentation for CoRA 2.0 would be submitted to the `2.0` branch and so on. Documentation intended for the next release of CoRA should be submitted to the `master` branch.
+
+## How to Cite CoRA?
+
+!!! question "How do I Cite CoRA?"
+
+    (Pawaskar et al., 2021)
+
+    ```php
+    (Pawaskar et al., 2021) as
+        
+    Sachin Pawaskar, E. Streetman, C. LeGarde, N. Jensen, S. Raut, F. Damann, V. Rahangdale, J. Smith, W. Wetzel, C. Venkatesan, L. Biehler-Gomez, K. East, T. V. Deest, J. Lynch, b. New, & Sihley Pawaskar. (2021). spawaskar-cora/cora-docs: Open Community Release (v2.1.0). Zenodo. https://doi.org/10.5281/zenodo.5694496
+    ```
