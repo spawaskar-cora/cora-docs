@@ -25,9 +25,7 @@ specimen. Note you can create multiple Isotope samples for a specimen.
     CoRA allows you to create multiple Isotope samples for a specimen. If you have multiple isotope samples, CoRA will create a
     Consensus Isotope Profile for you with data from the multiple samples. Consensus Isotope Profile is a powerful feature of CoRA.
 
-> Need to insert screenshot gif here.
-
-![](media/new-dna-profile.gif)
+![](media/create-isotope-sample.png)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -40,9 +38,7 @@ External Case Number |String         |32 chars   |                              
 Clicking Save will take you to the Isotope Profile screen. You can visit the Isotope Profile screen once you have received data from your
 Isotope processing lab to enter Isotope related data.
 
-> Need to insert screenshot gif here.
-
-![](media/new-dna-profile-creation.gif)
+![](media/view-isotope-profile-list.png)
 
 -------------
 
@@ -54,28 +50,46 @@ the relevant Isotope attributes and are editable via action (user must have appr
 You can visit the Isotope Profile screen once you have received data from your Isotope processing lab to enter Isotope related data to build
 the Isotope Profile for the specimen. On this screen click the pencil icon on the top right corner to edit the Isotope profile. 
 
+![](media/view-isotope-profile.png)
+
 > The screen fields are shown below. Fields in bold are required.
 
-Attributes                 |Data Type      |Size       |Validation Rule                                        |Required/Optional
----------------------------|---------------|-----------|-------------------------------------------------------|-------------
-**Lab**                    |Id             |id         |valid labs via dropdown setup for the org              |Required
-External Case Number       |String         |32 chars   |                                                       |Optional
-BTB Request Date           |Date           |           |                                                       |Optional
-BTB Receive Date           |Date           |           |must be greater than BTB Request Date                  |Optional
-Disposition                |String         |16 chars   |valid disposition via dropdown                         |Optional
-Sample Condition           |String         |16 chars   |valid sample condition via dropdown                    |Optional
-Weight Sample Remaining    |Decimal        |           |                                                       |Optional
-Recommended for Resampling |Boolean        |           |true/false toggle                                      |Optional
+Attributes                          |Data Type      |Size       |Validation Rule                                        |Required/Optional
+------------------------------------|---------------|-----------|-------------------------------------------------------|-------------
+**Sample Number**                   |Alphanumeric   |8 chars    |an only contain letters and numbers                    |Required
+**Lab**                             |Id             |id         |valid labs via dropdown setup for the org              |Required
+External Case Number                |String         |32 chars   |                                                       |Optional
+Isotope Batch Number                |Number         |           |valid numeric value                                    |Optional
+Results Status                      |String         |32 chars   |valid results status via dropdown                      |Optional
+Sample Cleaned Weight               |Decimal        |           |                                                       |Optional
+Demineraliing Start Date            |Date           |           |                                                       |Optional
+Demineraliing End Date              |Date           |           |                                                       |Optional
+Sample Vial and Lid Weight          |Decimal        |           |                                                       |Optional
+Weight Collagen                     |Decimal        |           |                                                       |Optional
+Yield Collagen                      |Decimal        |           |                                                       |Optional
+Collagen Weight used for Analysis   |Decimal        |           |                                                       |Optional
+Analysis Requested                  |String         |           |                                                       |Optional
+Well Location                       |String         |           |                                                       |Optional
+Carbon Delta                        |Decimal        |           |                                                       |Optional
+Carbon Weight                       |Decimal        |           |                                                       |Optional
+Carbon Percentage                   |Decimal        |           |                                                       |Optional
+Nitrogen Delta                      |Decimal        |           |                                                       |Optional
+Nitrogen Weight                     |Decimal        |           |                                                       |Optional
+Nitrogen Percentage                 |Decimal        |           |                                                       |Optional
+Carbon/Nitrogen Ratio               |Decimal        |           |                                                       |Optional
+Oxygen Delta                        |Decimal        |           |                                                       |Optional
+Oxygen Weight                       |Decimal        |           |                                                       |Optional
+Oxygen Percentage                   |Decimal        |           |                                                       |Optional
+Carbon/Oxygen Ratio                 |Decimal        |           |                                                       |Optional
+Sulphur Delta                       |Decimal        |           |                                                       |Optional
+Sulphur Weight                      |Decimal        |           |                                                       |Optional
+Sulphur Percentage                  |Decimal        |           |                                                       |Optional
 
 Click on Save if any of the fields were updated
 
-> Need to insert screenshot gif here.
-
-![](media/new-dna-profile-edit.gif)
-
 !!! tip
 
-    The Isotope profile has attributes to track Carbon, Oxygen, Nitrogen, Sulphur and respective deltas and ratios for further analysis.
+    The Isotope profile has attributes to track Carbon, Nitrogen, Oxygen, Sulphur and respective deltas, weight, percentage and relevant ratios for further analysis.
 
 
 ## Isotope Batch
