@@ -31,7 +31,7 @@ specimen. Note you can create multiple Isotope samples for a specimen.
 
 Attributes           |Data Type      |Size       |Validation Rule                                        |Required/Optional
 ---------------------|---------------|-----------|-------------------------------------------------------|-------------
-**Sample Number**    |Alphanumeric   |8 chars    |an only contain letters and numbers                    |Required
+**Sample Number**    |Alphanumeric   |8 chars    |can only contain letters and numbers                   |Required
 **Lab**              |Id             |id         |valid labs via dropdown setup for the org              |Required
 External Case Number |String         |32 chars   |                                                       |Optional
 
@@ -56,7 +56,7 @@ the Isotope Profile for the specimen. On this screen click the pencil icon on th
 
 Attributes                          |Data Type      |Size       |Validation Rule                                        |Required/Optional
 ------------------------------------|---------------|-----------|-------------------------------------------------------|-------------
-**Sample Number**                   |Alphanumeric   |8 chars    |an only contain letters and numbers                    |Required
+**Sample Number**                   |Alphanumeric   |8 chars    |can only contain letters and numbers                   |Required
 **Lab**                             |Id             |id         |valid labs via dropdown setup for the org              |Required
 External Case Number                |String         |32 chars   |                                                       |Optional
 Isotope Batch Number                |Number         |           |valid numeric value                                    |Optional
@@ -114,7 +114,7 @@ document at which step the Isotope Batch is currently in and tracks its' progres
 
 Attributes           |Data Type      |Size       | Validation Rule                                       | Required/Optional
 ---------------------|---------------|-----------|-------------------------------------------------------| -------------
-**Batch Number**     |Alphanumeric   |8 chars    |an only contain letters and numbers                    | Required
+**Batch Number**     |Alphanumeric   |8 chars    |can only contain letters and numbers                   | Required
 **Lab**              |Id             |id         |valid labs via dropdown setup for the org              | Required
 External Case Number |String         |32 chars   |                                                       | Optional
 

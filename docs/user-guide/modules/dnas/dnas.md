@@ -30,7 +30,7 @@ specimen. Note you can create multiple DNA samples for a specimen.
 
 Attributes           |Data Type      |Size       |Validation Rule                                        |Required/Optional
 ---------------------|---------------|-----------|-------------------------------------------------------|-------------
-**Sample Number**    |Alphanumeric   |8 chars    |an only contain letters and numbers                    |Required
+**Sample Number**    |Alphanumeric   |8 chars    |can only contain letters and numbers                   |Required
 **Lab**              |Id             |id         |valid labs via dropdown setup for the org              |Required
 External Case Number |String         |32 chars   |                                                       |Optional
 
