@@ -45,7 +45,31 @@ Once these details are filled and the specimen is saved, a new specimen with an 
 1.  The toolbar shows the options to the Edit/Save button and the Expand/Collapse button.
 2.  The Details button lists all specimen associations.
 
-![](media/specimen-view.png)
+![View and Edit Specimen](media/specimen-view.png)
+
+> The screen fields are shown below. Fields in bold are required.
+
+Attributes          |Data Type      |Size       | Validation Rule                                                              | Required/Optional
+--------------------|---------------|-----------|------------------------------------------------------------------------------| -------------
+**Accession**       |String         |32 chars   |Can only contain letters, numbers, dash and space and should have min 3 chars | Required
+Provenance1         |String         |32 chars   |Can only contain letters, numbers, dash and space                             | Optional
+Provenance2         |String         |32 chars   |Can only contain letters, numbers, dash and space                             | Optional
+**Designator**      |Alphanumeric   |32 chars   |Can only contain letters and numbers                                          | Required
+**Bone**            |Id             |id         |valid bones via dropdown                                                      | Required
+**Side**            |String         |8 chars    |valid sides via dropdown (Left, Right, Middle, Unsided)                       | Required
+**Completeness**    |String         |8 chars    |valid completeness via dropdown (Complete, Incomplete)                        | Required
+Measured            |Boolean        |           |true/false toggle                                                             | Optional
+DNA Sampled         |Boolean        |           |true/false toggle                                                             | Optional
+Isotope Sampled     |Boolean        |           |true/false toggle                                                             | Optional
+Inventory Completed |Boolean        |           |true/false toggle                                                             | Optional
+Reviewed            |Boolean        |           |true/false toggle                                                             | Optional
+CT Scanned          |Boolean        |           |true/false toggle                                                             | Optional
+X-ray Scanned       |Boolean        |           |true/false toggle                                                             | Optional
+3D Scanned          |Boolean        |           |true/false toggle                                                             | Optional
+Individual Number   |String         |32 chars   |can only contain letters, numbers, dash and space                             | Optional
+Remain Status       |String         |16 chars   |valid sides via dropdown (In Lab, Released)                                   | Optional
+
+Click "Save" When you are done making changes. 
 
 A specimen can be deleted by clicking on the delete icon and then confirming the deletion in the pop-up. 
 
@@ -81,6 +105,26 @@ The fields to create a new bone group are:
     - Taphonomy
     
 The bolded fields are required. Once you have created a new bone group, you can edit the fields and click "Save" to update the bone group.
+ 
+Attributes              |Data Type      |Size           |Validation Rule                                                               | Required/Optional
+------------------------| ------------- | --------------|------------------------------------------------------------------------------| -------------
+Bone Group              |String         |64 chars       |can only contain letters                                                      | Required
+Bone Group Id           |String         |64 chars       |valid UUID, auto generated                                                    | Required
+**Side**                |String         |8 chars        |valid sides via dropdown (Left, Right, Middle, Unsided)                       | Required
+**Completeness**        |String         |8 chars        |valid completeness via dropdown (Complete, Incomplete)                        | Required
+**Accession**           |String         |32 chars       |can only contain letters, numbers, dash and space and should have min 3 chars | Required
+Provenance1             |String         |32 chars       |can only contain letters, numbers, dash and space                             | Optional
+Provenance2             |String         |32 chars       |can only contain letters, numbers, dash and space                             | Optional
+**Starting Designator** |Alphanumeric   |32 chars       |can only contain letters and numbers                                          | Required
+**Bone**                |Id             |id             |valid bones via dropdown                                                      | Required
+                             
+Once you have created a new bone group, you can edit the fields and click "Save" to update the bone group.
+
+!!! tip
+
+    When creating specimens via bone groups, you only have to specify the starting designator and CoRA will automatically create the specimens 
+    with that starting designator and increment it for subsequent specimens within the bone group.
+
 
 ![](media/create-new-bone-group.gif)
 

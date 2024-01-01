@@ -34,6 +34,78 @@ the user with the most appropriate or valid search options for the selected proj
 
 ## Specimen Search
 
+The easiest way to search for specimens is to use the top search bar in the nav bar.
+To complete a search, first select the project you wish to search on the left-most select field, you will only be able to view projects which are assigned to your user profile. 
+
+![SE Search](../../assets/screenshots/specimens/topNavBar.png)
+
+![SE Project Categories](../../assets/screenshots/specimens/projectCategories.png)
+
+By default, "Bone" is selected as the search option. Select the desired search category before typing your search text into the search bar. Then click the magnifying glass to execute your search.
+
+![SE Search Categories](../../assets/screenshots/specimens/searchCategories.png)
+
+Once you complete your search, you are taken to the Specimens search screen. The following columns are visible for all the specimens search:
+
+- Key
+- Bone
+- Side
+- Bone Group
+- Individual Number
+- DNA Sampled
+- Mito Sequence Number
+- Measured
+- Isotope Sampled
+- Clavicle Triage
+- CT Scanned
+- Xray Scanned
+
+There are some columns which are not displayed at the screen but can be made visible by checking the column visibility section. The names of those columns are given below:
+- Inventoried
+- Reviewed
+- Inventoried By
+- Inventoried At
+- Reviewed By
+- Reviewed At
+- Created By
+- Created At
+- Updated By
+- Updated At
+
+
+![SE Search Results](../../assets/screenshots/specimens/seSearch.gif)
+
+On this page you can filter how many results are shown per page, as well as search the results.
+To view the details of a skeletal elements, click on the key in the search results. You can also export the search results in Excel and PDF format. 
+
+### Search Options
+Two search options are available to the user inside the User Profile Project tab.
+
+![Search Option View](../../assets/screenshots/specimens/searchOption.png)
+
+*Client-Side Pagination - **Ideal for small projects***
+
+**Max Search Limit 500**
+
+![Old Search View](../../assets/screenshots/specimens/oldSearch.png)
+
+The server renders all results queried from the project search bar request, allowing the user to paginate and search through the entire response. Limitations with this search options, include longer response times or application overload for projects with large sets of data.  
+
+*Server-Side Pagination (Default) - **Ideal for large projects***
+
+**Max Search Limit 250**
+
+![New Search View](../../assets/screenshots/specimens/newSearch.gif)
+
+The server will render only the selected quantity of data provided by show rows options at the top left corner of the page. 
+
+![Show Row View](../../assets/screenshots/specimens/showRows.png)
+
+Each tab will generate a new call to the server and retrieve the next set of data. This search option is ideal for project with larger sets of data. Search result filter is not available with this option.  
+
+![Search Tabs View](../../assets/screenshots/specimens/searchPagination.png)
+
+---------------
 
 ## DNA Search
 
