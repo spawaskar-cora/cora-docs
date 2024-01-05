@@ -251,12 +251,10 @@ nav:
     - Modules:
       - user-guide/modules/index.md
       - Specimens: user-guide/modules/specimens/specimens.md
-      # - Old Specimens: user-guide/specimens.md
       - DNA: user-guide/modules/dnas/dnas.md
-      # - Old DNA: user-guide/dnas.md
       - Dental: user-guide/modules/dental/dental.md
       - Isotopes: user-guide/modules/isotopes/isotopes.md
-      - Individuals: user-guide/modules/individuals.md
+      - Individuals: user-guide/modules/individuals/individuals.md
       - Missing Persons: user-guide/modules/missing-persons/missing-persons.md
     - Search: 
       - user-guide/search/index.md

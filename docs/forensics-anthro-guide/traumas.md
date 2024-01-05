@@ -3,7 +3,7 @@
 In this section we present the traumas available within CoRA for assignment to individual specimens. 
 Traumas are organized by timing
 
-!!! question "How can I add a new traumas to CoRA?"
+!!! question "How can I add new traumas to CoRA?"
 
     You can request new traumas to be added to CoRA if the one you are looking for is not present 
     by creating an issue on our [issue tracker].

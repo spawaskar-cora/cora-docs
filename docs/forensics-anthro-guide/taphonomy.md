@@ -3,7 +3,7 @@
 In this section we present the taphonomies available within CoRA for assignment to individual specimens. 
 We currently only have Bio Taphonomy within CoRA as it is most relevant to forensic anthropologists.
 
-!!! question "How can I add a new taphonomies to CoRA?"
+!!! question "How can I add new taphonomies to CoRA?"
 
     You can request new taphonomies to be added to CoRA if the one you are looking for is not present 
     by creating an issue on our [issue tracker].

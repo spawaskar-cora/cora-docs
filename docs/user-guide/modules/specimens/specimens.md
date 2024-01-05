@@ -37,7 +37,7 @@ Provenance2      |String         |32 chars   |Can only contain letters, numbers,
 **Designator**   |Alphanumeric   |32 chars   |Can only contain letters and numbers                                          | Required
 **Bone**         |Id             |id         |valid bones via dropdown                                                      | Required
 **Side**         |String         |8 chars    |valid sides via dropdown (Left, Right, Middle, Unsided)                       | Required
-**Completeness** |String         |8 chars    |valid completeness via dropdown (Complete, Incomplete)                        | Required
+**Completeness** |String         |16 chars   |valid completeness via dropdown (Complete, Incomplete)                        | Required
 
 
 Once these details are filled and the specimen is saved, a new specimen with an appropriate `id` is generated and the user is navigated to the below screen. The screen is in View state and the user can edit it by clicking on the edit icon.
@@ -57,7 +57,7 @@ Provenance2         |String         |32 chars   |Can only contain letters, numbe
 **Designator**      |Alphanumeric   |32 chars   |Can only contain letters and numbers                                          | Required
 **Bone**            |Id             |id         |valid bones via dropdown                                                      | Required
 **Side**            |String         |8 chars    |valid sides via dropdown (Left, Right, Middle, Unsided)                       | Required
-**Completeness**    |String         |8 chars    |valid completeness via dropdown (Complete, Incomplete)                        | Required
+**Completeness**    |String         |16 chars   |valid completeness via dropdown (Complete, Incomplete)                        | Required
 Measured            |Boolean        |           |true/false toggle                                                             | Optional
 DNA Sampled         |Boolean        |           |true/false toggle                                                             | Optional
 Isotope Sampled     |Boolean        |           |true/false toggle                                                             | Optional
@@ -111,7 +111,7 @@ Attributes              |Data Type      |Size           |Validation Rule        
 Bone Group              |String         |64 chars       |can only contain letters                                                      | Required
 Bone Group Id           |String         |64 chars       |valid UUID, auto generated                                                    | Required
 **Side**                |String         |8 chars        |valid sides via dropdown (Left, Right, Middle, Unsided)                       | Required
-**Completeness**        |String         |8 chars        |valid completeness via dropdown (Complete, Incomplete)                        | Required
+**Completeness**        |String         |16 chars       |valid completeness via dropdown (Complete, Incomplete)                        | Required
 **Accession**           |String         |32 chars       |can only contain letters, numbers, dash and space and should have min 3 chars | Required
 Provenance1             |String         |32 chars       |can only contain letters, numbers, dash and space                             | Optional
 Provenance2             |String         |32 chars       |can only contain letters, numbers, dash and space                             | Optional

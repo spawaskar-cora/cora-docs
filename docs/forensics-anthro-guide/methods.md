@@ -2,7 +2,7 @@
 
 In this section we present an annotated bibliography of analytical methods available in CoRA. This list will be updated as new methods are developed, published and added to the CoRA environment.
 
-!!! question "How can I add a new methods to CoRA?"
+!!! question "How can I add new methods to CoRA?"
 
     You can request new methods to be added to CoRA if the one you are looking for is not present 
     by creating an issue on our [issue tracker].
