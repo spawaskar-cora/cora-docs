@@ -2,15 +2,20 @@
 
 The missing persons module in CoRA is where you create and manage records of missing persons. In CoRA there are two roles that manage this module. The role of missing persons administrator (mp admin) and missing persons case manager (mp case manager) administer and manage the missing person cases.
 
-!!! warning
 
-    This page is work in progress.
+# Navigation
 
+![Navigation Bar](media/mp-navigate.png)
+![Navigation Bar](media/mp-navigation.gif)
+
+Navigate to the Missing Persons section by opening the navigation bar and selecting the Missing Persons dropdown. From there select Advanced Search to go to the Missing Persons Search page.
+
+For Missing Persons Report Dashboard - please see the **Reports** documentation.
 ## Searching Cases
 
-Users can search missing persons cases by navigate to Left Sidebar Menu -\> Missing Persons-\> Advanced Search.
+Users can search missing persons cases by navigate to Left Sidebar Menu -> Missing Persons-> Advanced Search.
 
-![Navigate to Advance Search](media/mp-navigate.png)
+![Navigate to Advance Search](media/missing-persons-navigation.gif)
 
 You are now in the advanced search for the Missing Persons section of the CoRA application. 
 
@@ -79,10 +84,15 @@ The search results will return the following columns if available. Additional co
 - Service Member Service
 - Full Name
 - Conflict
+- Incident
 - Case Manager
+- Project
 - Priority DPAA
-- Updated
-- Updated By
+- DPAA Case Status
+- Followed Up
+- Updated DCIPS
+- Priority PCRB
+- Genealogy Status
 
 #### Download Result Cases
 
@@ -99,7 +109,7 @@ Selecting this option will export the search results in the selected file format
 
 Making changes to many cases at the same time can be performed with the batch editing feature. Once you select multiple cases using the check boxes on the left side of the results of an advanced search an actions menu will appear.
 
-![MP Batch Edit Page](media/mp-batch-edit.png)
+![MP Batch Edit Page](media/missing-persons-batch-edit.gif)
 
 Here you will be able to select "Batch Edit" and update one or more fields for each of the selected cases.
 
@@ -111,7 +121,7 @@ CoRA allows you to look at and manage missing person cases with ease and flexibi
 
 Once you have the case open, interact with the different fields to make the changes you need.
 
-![MP Case Details Page](media/mp-save-edit.png)
+![MP Case Details Page](media/missing-persons-edit.gif)
 
 *Note: Some of the fields may be grayed out, these are fields that you cannot change and are changed in the system of record or by an individual with more access*
 
@@ -156,6 +166,7 @@ The card is also outlined in a color to represent the status. These colors corre
 The DPAA section of the case detail page is dedicated to DPAA. The following fields can be found here and modified:
 
 - Project
+- DPAA Case Status
 - DPAA Priority
 - Possible Remains in Lab
 - XFile
@@ -182,6 +193,8 @@ The Checklist section of the case detail page is dedicated to keeping track of t
 - Attempt contact of family members in DCIPS
 - Send Outreach letters to family members unreachable by phone
 - Records sent to family
+- Followed Up
+- Updated DCIPS
 
 This section of the case details also provides the status for the various records relating to the case:
 
@@ -202,6 +215,22 @@ The pdf will have two sections of information, Service Member Data and Genealogy
 
 ![Sample Genealogy PDF](media/pdf-sample.png)
 
+The editable fields on this report are
+- Rank
+- Number of FRS in eLISA
+- Case Status
+- Priority Level
+- Remarks
+- Other field
+- Case Manager Signature
+- Supervisor Signature
+- Company
+- Branch Chief Signature
+- Billing Official Signature
+- GPC Holder Signature
+- Date fields
+- All checkboxes
+
 ### Comments
 
 The Comments section of the case detail page is dedicated to viewing and logging the comments and notes related to the specific case.
@@ -217,13 +246,15 @@ The Audits section allows users to view all changes made to a missing persons re
 
 To view the audit data, select the arrow on the right side of the Audits section to view any relevant audit records.
 
+![](media/mp-audits.png)
+
 ### Tags
 The tags section enables users to associate additional information (aka Tags) to missing persons records.
 
 
 ## Importing Data
 
-Importing case changes and new cases from DCIPS is made easy with CoRA's robust import capability. To start the file import process, navigate to Left Sidebar Menu -\> File Export/Import-\> File Import.
+Importing case changes and new cases from DCIPS is made easy with CoRA's robust import capability. To start the file import process, navigate to Left Sidebar Menu -> File Export/Import-> File Import.
 
 ![File Import Navigate](media/mp-file-import.png)
 
