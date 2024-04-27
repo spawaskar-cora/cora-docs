@@ -2,8 +2,7 @@
 
 The missing persons module in CoRA is where you create and manage records of missing persons. In CoRA there are two roles that manage this module. The role of missing persons administrator (mp admin) and missing persons case manager (mp case manager) administer and manage the missing person cases.
 
-
-# Navigation
+## Navigation
 
 ![Navigation Bar](media/mp-navigate.png)
 ![Navigation Bar](media/mp-navigation.gif)
