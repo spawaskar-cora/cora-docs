@@ -4,50 +4,62 @@
 
     This page is work in progress.
 
-## Refits Zones
+## Refits Zone
+Refits is a process used in osteological analysis where partial bones are attempted to be pieced/refit back together based on their physical fits and associations. This method is crucial for providing more complete skeletal reconstructions.
 
-This will allow you visualize bone refits based on zones.
+The following table shows the required and optional fields required for refits.
 
-### Create Refits-Zones
+Attributes        | Required/Optional |
+----------------- |-------------------|
+Bones             | Required          |
+Completeness      | Required          |
+Side              | Optional          |
+Zones             | Optional          |
+Specimen          | Optional          |
 
-Left Sidebar Menu -\> Data Visualization -\> Refits
+### Steps to generate Refit-Zones Visualization
+![](media/refits.gif)
 
-In order to create Refits-Zone, click on the 'Data visualization' on the left navigation bar.
-This will take you to the Data visualization page. 
-This page lists different types of project visualizations that can be used on CoRA.
 
-### Generate Refits-Zones
+#### Step-1: Select a bone
 
-***The bolded fields are required.***
+![](media/refits-bone-select.png)
 
-*The Italic fields can be multi-select*
-- **Bone**
-- *Side*
-- Completeness
-- *Zones*
-- *Specimens*
+Select a desired type of bone that requires refits.
 
-Clicking on 'Go' button under 'Refits', it will bring to to the main page of 'Refits-Zones' with the filter selection.  Only 'Bone' required field, 'Side','Completeness','Zones' and 'Specimen' are optional for generating the graph. 
+#### Step-2: Select Completeness
 
-#### Step 1: Select a Bone
+![](media/refits-completeness-select.png)
 
-Once 'Bone' field is selected, the other three filter fields show up.
+Completeness of a bone is set to incomplete by default as incomplete bones are the ones that need refits.
 
-![Refits Zones Select Bone](media/refits-select-bone.png)
+#### Step-3: Select side of the bone
 
-#### Step 2: Click the generate button
+![](media/refits-side-select.png)
 
-#### Step 3: Select a zone
+Select appropriate bone side that requires refits.
 
-After the generation, you will able to select a zone or multiple zones. The chosen zone will be highlighted and appear bolded line.
+#### Step-4: Select zones
 
-![Refits Zones Filter](media/refits-zones-filter.png)
+![](media/refits-zone-select.png)
 
-#### Step 4: Select a specimen
+Select a single or multiple zones from the list of available zones that will be highlighted in the graph.
 
-You will able to select a specimen or multiple specimens which if a chosen specimen refits the chosen zone, the chosen specimens will appear dotted line.
+#### Step-5: Generate the refits visualization
 
-![Refits Zones Visualization](media/refits-visualization.png)
+![](media/refits.png)
+
+Click on the 'eye' icon to generate a graph with all the relevant specimens and their refit zones. Under specimens select
+specimens to highlight them in red and find a fit to them.
+
+### More Options/Filters:
+
+![](media/refits-more-options.png)
+
+Click on the kebab menu icon to view more options. These options include 
+- Possible refit options and 
+- DNA Options (Specimens with same/different/no DNA)
+
 
 ### Possible Refit Options
 
@@ -60,5 +72,26 @@ You will able to select a specimen or multiple specimens which if a chosen speci
 - 2-Overlap
 - 3-Overlap
 
-![Refits Possible Refits Options](media/refits-possible-refits-options.png)
+
+
+![](media/refits-exact-refits.png)
+
+For possible refit options, for example, if we select exact refits all the possible refits will be highlighted in blue.
+
+Use the 'reset' button to reset the graph and generate a new one.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -5,64 +5,83 @@
     This page is work in progress.
 
 
-The measurements scatterplot can be used to narrow down your search space for likely pair matches. It can be used with any bones 
-that allow for the capture of measurements such as Humerus, Ulna, Radius, Femur, Tibia, etc.
+The measurements scatterplot can be used to narrow down your search space for likely pair matches. It can be used with any bones that allow for the capture of measurements such as Humerus, Ulna, Radius, Femur, Tibia, etc.
 
 !!! note
     Here is a complete list of [bones measurements](../../forensics-anthro-guide/measurements.md)
 
-The measurement scatterplot is useful for identifying or narrowing down for a given specimen which possible specimens are likely
-pair matches that deserve a more closer inspection. You can navigate to the measurements scatterplot screen from 
-Left Sidebar Menu -\> Data Visualization -\> Measurement Scatterplot.
 
-## Generate Measurement Scatterplot
+## Measurement Scatter Plot
+A measurement scatter plot is useful for identifying or narrowing down for a given specimen which possible specimens are likely pair matches that deserve a more closer inspection
 
-***The bolded fields are required.***
-- **Bone**
-- **X-Axis**
-- **Y-Axis**
-- Completeness
+The following table shows the required and optional fields to generate a measurement scatter plot.
+
+Attributes        | Required/Optional
+----------------- | -------------- 
+Bone              | Required
+Side              | Required
+X-Axis Measurement| Required
+Y-Axis Measurement| Optional
+Specimen          | Required
+
+
+### Steps to generate a Measurement Scatter Plot.
+![](media/measurement-scatter-plot.gif)
+
+
+#### Step-1: Select bone
+
+![](media/measurement-scatter-plot-bones.png)
+Select the bone type of the specimen from the available list of the bones required for the Measurement scatter plot generation and this will enable other field to show.
+
 - Side
+- X-Axis Measurement
+- Y-Axis Measurement
 
-Clicking on 'Go' button under 'Measurements Scatter Plot', it will bring to to the main page of 'Measurements Scatter Plot' with the filter selection.Pick unique field for filters then the generate button will be working.
+#### Step-2: Select side
 
-#### Step 1: Select a bone
+![](media/measurement-scatter-plot-side.png)
+elect the Side to march the bone and the specimen from the available list of the sides.  The following are the list of Sides available:
 
-Once you select a Bone, the rest of the fields will be show and enabled.
+- Left
+- Right
+- Unsided
 
-![Measurement Scatterplot Bone](media/measurement-scatterplot-bone.png)
+#### Step-3: Select X-Axis Measurement
 
-#### Step 2: Select X-Axis & Y-Axis, Other Fields
+Select the X-Axis Measurement for the Scatter plot.
 
-'X-Axis Measurement' and 'Y-Axis Measurement' are required field, 'Side' and 'Completeness' optional for generating the graph. You will not able to click on the generate button if 'X-Axis Measurement' and 'Y-Axis Measurement' have same field.
+![](media/measurement-scatter-plot-x-axis-measurement.png)
 
-![Measurement Scatterplot Filter](media/measurement-scatterplot-generate.png)
 
-#### Step 3: Click the generate button
+#### Step-4: Select Y-Axis Measurement
 
-Click the generate button on the right side after fields are selected.
+Select the Y-Axis Measurement for the Scatter plot, after selecting the Y-Axis Measurement proceed to click on the 'eye' to generate the scatter plot.
 
-#### Step 4: Select a specimen
+![](media/measurement-scatter-plot-y-axis-measurement.png)
 
-After the generation, you will able to select a specimen and get the visualization.
 
-![Measurement Scatterplot Visualization](media/measurement-scatterplot-visualization.png)
+![](media/measurement-scatter-plot-generation-1.png)
 
-### Get specimen name when hovered over
 
-You will able to get the specimen name, bone, side, X-Axis and Y-Axis when hovered over.
+#### Step-5: Select a specimen
 
-### More graph options
+![](media/measurement-scatter-plot-specimen.png)
 
-In the menu on the right side, you can see more options on how your measurement scatterplot display and graph detail information.
+Select one or more Specimen based on the project requirement and click on the 'eye' icon to generate the visualization.
 
-![Measurement Scatterplot More Graph Options](media/measurement-scatterplot-more-graph-options.png)
+![](media/measurement-scatter-plot-generation.png)
+
+### More Options/Filters
+![](media/measurement-scatter-plot-more-filters.png)
+Click on the kebab menu icon to view more options to adjust the scatter plot to march the project requirement. The following are available when you click on the 'kebab'.
+
+- Completeness
+- Adjust Target Area
+- DNA (Optional)
 
 ***The bolded fields are selectable.***
 - **Don't show Zero Measured Specimens**
 - **Remove outliers that don't meet min/max**
 - Graph Statistics Analysis
 - Graph Legend
-
-
-

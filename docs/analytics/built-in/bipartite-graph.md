@@ -4,48 +4,51 @@
 
     This page is work in progress.
 
-## Bipartite
+## Bipartite Graph
 
-This will allow you visualize Bipartite.
+A Bipartite Graph allows you to visualize the bipartite data effectively. Here CoRA use it to demonstrate the matching specimens and its
+relationships in the form of a bipartite graph.
 
-### Create Bipartite
+The following table shows the required and optional fields to generate a bipartite graph.
 
-Left Sidebar Menu -\> Data Visualization -\> Bipartite
+Attributes  | Required/Optional
+------------| -------------- 
+Relations   | Required
+Bones       | Required
+Side        | Required
+Specimen    | Required
 
-In order to create Bipartite, click on the 'Data visualization' on the left navigation bar.
-This will take you to the Data visualization page. 
-This page lists different types of project visualizations that can be used on CoRA.
+### Steps to generate a Bipartite Graph.
+![](media/bipartite.gif)
+
 
 #### Step 1: Select a relation
+![](media/bipartite-relations-select.png)
 
-After a relation was selected, Bone & Side field will be available.
-There are total 4 relations available:
+Select one from the four (4) association relations based on the requirement. The four (4) association relations available are:
 
 - Pair Matching
 - Articulation
 - Refits
 - Morphology
 
-![Bipartite Search Filter](media/bipartite-filter.png)
+#### Step 2: Select a bone
+![](media/bipartite-bones-select.png)
 
-#### Step 2: Select a Bone & Search Specimens
+Select the bone type of the specimen from the available list of the bones required for the bipartite graph generation.
 
-After a bone was selected, specimens search will be available. Once you click on the search icon, you can select one or multiple specimens to generate the visualization.
+#### Step 3: Select a side
+![](media/bipartite-side-select.png)
+Select the bone side from the available dropdown list. After selecting the side click on the 'search' icon to generate the list of specimens based on the options selected previously. The following are the list of sides available:
 
-![Bipartite Search Specimen Icon](media/bipartite-search-specimen-icon.png)
+- Left
+- Right
+- Unsided
 
-#### Step 3: Generate Bipartite
+#### Step 4: Select a Specimen
+![](media/bipartite-specimen-select.png)
+Select one or more specimen based on the analytics requirement and click on the 'eye' icon to generate the visualization. Now click on any of the colors on the generation to view the relationship in the specimen selected.
 
-***The bolded fields are required.***
-
-*The Italic fields can be multi-select*
-
-- **Relations**
-- **Bone**
-- *Side*
-- ***Specimens***
-
-Clicking on 'Go' button under 'Bipartite', it will bring to to the main page of 'Bipartite' with the filter selection. Once 'Bone' field is selected, the other two filter fields show up. 'Bone', 'Relations' and Specimens' required field, 'Side' is optional for generating the graph. 
-
-![Bipartite Visualization](media/bipartite-visualization.png)
-
+### More Options/Filters
+![](media/bipartite-more-options-filter-select.png)
+Click on the kebab menu icon to view more options  of the list of specimens Found/Not Found for the relation and interact with the visualization.

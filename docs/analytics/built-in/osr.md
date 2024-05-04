@@ -4,39 +4,62 @@
 
     This page is work in progress.
 
-## OSR 
+## Osteometric Sorting Regression
 
-This will allow you visualize OSR (Osteometric Sorting Regression).
+Osteometric Sorting Regression (OSR) is a statistical method used in the analysis of skeletal remains to sort and match 
+bones based on their measurements.
 
-### Create OSR
+The following table shows the required and optional fields required for osteometric sorting regression.
 
-Left Sidebar Menu -\> Data Visualization -\> OSR
+Attributes         | Required/Optional |
+------------------ |-------------------|
+Bone               | Required          |
+x-axis measurement | Required          |
+y-axis measurement | Required          |
+Specimen           | Required          |
 
-In order to create OSR, click on the 'Data visualization' on the left navigation bar.
-This will take you to the Data visualization page. 
-This page lists different types of project visualizations that can be used on CoRA.
 
-#### Step 1: Select Bones
+### Steps to use Osteometric sorting regression
+![](media/osr.gif)
 
-Select bone fields to generate the specimens.
+#### Step-1: Select bones
 
-![OSR Filter](media/osr-filter.png)
+![](media/osr-bone1-select.png)
+![](media/osr-bone2-select.png)
 
-![OSR Filter 2](media/osr-filter-2.png)
+Select two bones from the two available dropdowns that are to be matched based on their measurements. (For example, Humerus
+and Tibia).
 
-#### Step 2: Generate OSR
+#### Step-2: Select x-axis and y-axis measurements
 
-Select specimens fields and X-Axis or Y-Axis, you will able to click the generate button on the right side for the visualization.
+![](media/osr-x-axis-select.png)
+![](media/osr-y-axis-select.png)
 
-***The bolded fields are required.***
 
-***To generate the OSR, either X-Axis or Y-Axis is mandatory***
+Select the x-axis measurement for the first bone and y-axis measurement for the second bone respectively. CLick on the
+search icon to generate a list of specimens (first bone type) with the selected x-axis measurement.
 
-- **Bone**
-- **Specimens**
-- X-Axis
-- Y-Axis
+#### Step-3: Select a specimen
 
-Clicking on 'Go' button under 'OSR', it will bring to to the main page of 'OSR' with the filter selection. Once 'Bone' field are selected, the search icon is available for specimens. 'Bone', 'Relations' and Specimens' required field for generating the graph.
+![](media/osr-specimen-select.png)
 
-![OSR Visualization](media/osr-visualization.png)
+Select a desired specimen to be used in the sorting in order to find its match.
+
+#### Step-4: Generate the Oseometric Sorting Regression Graph
+
+![](media/osr.png)
+
+Click on the 'eye' icon to generate the osteometric sorting regression graph with the selected
+specimen highlighted in red.
+
+### More Options/Filters:
+
+![](media/osr-more-options.png)
+
+Click on the kebab menu to see more options. These options include
+- List of specimens for the second bone type that will be highlighted in blue when selected.
+- x-axis and y-axis bone sides and completeness to filter the specimens.
+- Reference population (Byrd and LeGarde 2014 selected by default).
+- Removing outliers that doesn't meet min/max thresholds.
+- DNA options (Specimens with same/different/no DNA)
+- Count of number of specimens available with the selected bone type and measurements.
