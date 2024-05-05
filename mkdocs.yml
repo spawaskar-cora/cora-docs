@@ -293,7 +293,7 @@ nav:
       - Measurements Scatterplot: analytics/built-in/measurements-scatterplot.md
       - Osteometric Sorting Regression: analytics/built-in/osr.md
       - Refits: analytics/built-in/refits.md
-      - Relationships graph: analytics/built-in/relationships-graph.md
+      - Relationships graph: analytics/built-in/single-multiple-relationship-graph.md
   - Reference:
     - Country Language Timezone: reference/country-language-timezone.md
     - Contributing: reference/contributing.md
