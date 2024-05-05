@@ -8,6 +8,9 @@ in CoRA. A critical first step is to cut a sample of the specimen for Isotope an
 for tracking purposes and after you get results from your Isotope lab you can capture Isotope information here to create a
 Isotope Profile for further analysis.
 
+![](media/isotope-navigation.gif)
+
+
 ### Create a Isotope Sample
 
 The Isotope sample and Profile are associated with a specimen, so you must first choose a specimen for which you want to create
@@ -25,7 +28,7 @@ specimen. Note you can create multiple Isotope samples for a specimen.
     CoRA allows you to create multiple Isotope samples for a specimen. If you have multiple isotope samples, CoRA will create a
     Consensus Isotope Profile for you with data from the multiple samples. Consensus Isotope Profile is a powerful feature of CoRA.
 
-![](media/create-isotope-sample.png)
+![](media/create-Isotope.gif)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -50,7 +53,7 @@ the relevant Isotope attributes and are editable via action (user must have appr
 You can visit the Isotope Profile screen once you have received data from your Isotope processing lab to enter Isotope related data to build
 the Isotope Profile for the specimen. On this screen click the pencil icon on the top right corner to edit the Isotope profile. 
 
-![](media/view-isotope-profile.png)
+![](media/update-isotope.gif)
 
 > The screen fields are shown below. Fields in bold are required.
 
