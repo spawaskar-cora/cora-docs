@@ -10,7 +10,9 @@ This section will explore navigating the specimens and their associations screen
 
 ## Specimen Navigation
 
-![Specimen Navigation](../../../assets/screenshots/specimens/specimen_navigation.png)
+![Specimen Navigation](media/specimen-nav.png)
+
+![Specimen Navigation](media/specimen-navigation.gif)
 
 On the left side bar - you can access the main options for specimens. For Report Dashboard - please see the **Reports** documentation.
 
@@ -25,55 +27,62 @@ but that is on our dream list.
 To create a new specimen navigate to the Left Sidebar Menu -\> Specimen -\> New Specimen.
 You will be taken to the new specimen screen as shown below. 
 
-![New Specimen](media/specimen-create.png)
+![New Specimen](media/create-specimen.gif)
 
 > The screen fields are shown below. Fields in bold are required.
 
-Attributes       |Data Type      |Size       | Validation Rule                                                              | Required/Optional
------------------|---------------|-----------|------------------------------------------------------------------------------| -------------
-**Accession**    |String         |32 chars   |Can only contain letters, numbers, dash and space and should have min 3 chars | Required
-Provenance1      |String         |32 chars   |Can only contain letters, numbers, dash and space                             | Optional
-Provenance2      |String         |32 chars   |Can only contain letters, numbers, dash and space                             | Optional
-**Designator**   |Alphanumeric   |32 chars   |Can only contain letters and numbers                                          | Required
-**Bone**         |Id             |id         |valid bones via dropdown                                                      | Required
-**Side**         |String         |8 chars    |valid sides via dropdown (Left, Right, Middle, Unsided)                       | Required
-**Completeness** |String         |16 chars   |valid completeness via dropdown (Complete, Incomplete)                        | Required
+Attributes       | Data Type    |Size       | Validation Rule                                                               | Required/Optional
+-----------------|--------------|-----------|-------------------------------------------------------------------------------| -------------
+**Accession**    | String       |32 chars   | Can only contain letters, numbers, dash and space and should have min 3 chars | Required
+Provenance1      | String       |32 chars   | Can only contain letters, numbers, dash and space                             | Optional
+Provenance2      | String       |32 chars   | Can only contain letters, numbers, dash and space                             | Optional
+**Designator**   | Alphanumeric |32 chars   | Can only contain letters and numbers                                          | Required
+**External ID**  | String       |32 chars   | Can only contain numbers and decimals                                         | Required
+**Bone**         | Id           |id         | valid bones via dropdown                                                      | Required
+**Side**         | String       |8 chars    | valid sides via dropdown (Left, Right, Middle, Unsided)                       | Required
+**Completeness** | String       |16 chars   | valid completeness via dropdown (Complete, Incomplete)                        | Required
 
 
-Once these details are filled and the specimen is saved, a new specimen with an appropriate `id` is generated and the user is navigated to the below screen. The screen is in View state and the user can edit it by clicking on the edit icon.
+Once these details are filled and the user can either select 'SAVE AND EDIT' or 'SAVE AND ADD'. If the user selects 'SAVE AND EDIT', a new specimen with an appropriate `id` is generated and the user is navigated to the below screen. The screen is in View state.
 
-1.  The toolbar shows the options to the Edit/Save button and the Expand/Collapse button.
-2.  The Details button lists all specimen associations.
+1.  Edit button enables the user to edit the specimen.
+2.  The Kebab menu button consists of DNA profile, Isotope Analysis, Zone Classification, Taphonomy, all specimen associations and pathology, and Review.
 
-![View and Edit Specimen](media/specimen-view.png)
+To edit a specimen, you can search for it using the advanced search feature under specimen menu or the search function available on the home page.
 
+Edit a specimen via the home page search
+![View and Edit Specimen](media/specimen-edit-homepagesearch.gif)
+Edit specimen via Specimen-->Advanced Search
+
+![View and Edit Specimen](media/specimen-edit-advancedsearch.gif)
 > The screen fields are shown below. Fields in bold are required.
 
-Attributes          |Data Type      |Size       | Validation Rule                                                              | Required/Optional
---------------------|---------------|-----------|------------------------------------------------------------------------------| -------------
-**Accession**       |String         |32 chars   |Can only contain letters, numbers, dash and space and should have min 3 chars | Required
-Provenance1         |String         |32 chars   |Can only contain letters, numbers, dash and space                             | Optional
-Provenance2         |String         |32 chars   |Can only contain letters, numbers, dash and space                             | Optional
-**Designator**      |Alphanumeric   |32 chars   |Can only contain letters and numbers                                          | Required
-**Bone**            |Id             |id         |valid bones via dropdown                                                      | Required
-**Side**            |String         |8 chars    |valid sides via dropdown (Left, Right, Middle, Unsided)                       | Required
-**Completeness**    |String         |16 chars   |valid completeness via dropdown (Complete, Incomplete)                        | Required
-Measured            |Boolean        |           |true/false toggle                                                             | Optional
-DNA Sampled         |Boolean        |           |true/false toggle                                                             | Optional
-Isotope Sampled     |Boolean        |           |true/false toggle                                                             | Optional
-Inventory Completed |Boolean        |           |true/false toggle                                                             | Optional
-Reviewed            |Boolean        |           |true/false toggle                                                             | Optional
-CT Scanned          |Boolean        |           |true/false toggle                                                             | Optional
-X-ray Scanned       |Boolean        |           |true/false toggle                                                             | Optional
-3D Scanned          |Boolean        |           |true/false toggle                                                             | Optional
-Individual Number   |String         |32 chars   |can only contain letters, numbers, dash and space                             | Optional
-Remain Status       |String         |16 chars   |valid sides via dropdown (In Lab, Released)                                   | Optional
+Attributes          |Data Type      |Size       | Validation Rule                                                               | Required/Optional
+--------------------|---------------|-----------|-------------------------------------------------------------------------------| -------------
+**Accession**       |String         |32 chars   | Can only contain letters, numbers, dash and space and should have min 3 chars | Required
+Provenance1         |String         |32 chars   | Can only contain letters, numbers, dash and space                             | Optional
+Provenance2         |String         |32 chars   | Can only contain letters, numbers, dash and space                             | Optional
+**Designator**      |Alphanumeric   |32 chars   | Can only contain letters and numbers                                          | Required
+**External ID**     |Alphanumeric   |32 chars   | Can only contain numbers and decimals                                         | Required
+**Bone**            |Id             |id         | valid bones via dropdown                                                      | Required
+**Side**            |String         |8 chars    | valid sides via dropdown (Left, Right, Middle, Unsided)                       | Required
+**Completeness**    |String         |16 chars   | valid completeness via dropdown (Complete, Incomplete)                        | Required
+Measured            |Boolean        |           | true/false toggle                                                             | Optional
+DNA Sampled         |Boolean        |           | true/false toggle                                                             | Optional
+Isotope Sampled     |Boolean        |           | true/false toggle                                                             | Optional
+Inventory Completed |Boolean        |           | true/false toggle                                                             | Optional
+Reviewed            |Boolean        |           | true/false toggle                                                             | Optional
+CT Scanned          |Boolean        |           | true/false toggle                                                             | Optional
+X-ray Scanned       |Boolean        |           | true/false toggle                                                             | Optional
+3D Scanned          |Boolean        |           | true/false toggle                                                             | Optional
+Individual Number   |String         |32 chars   | can only contain letters, numbers, dash and space                             | Optional
+Remain Status       |String         |16 chars   | valid sides via dropdown (In Lab, Released)                                   | Optional
 
 Click "Save" When you are done making changes. 
 
 A specimen can be deleted by clicking on the delete icon and then confirming the deletion in the pop-up. 
 
-![](media/specimen-delete.png)
+![](media/delete-specimen.gif)
 
 ### Multiple via Bone Group
 
@@ -95,14 +104,14 @@ The fields to create a new bone group are:
     - **Side** (defaulted to 'Left')
     - **Completeness** (defaulted to 'Complete')
 - Accession
-    - **Accession**
+    - **Accession Number**
     - Provenance 1
     - Provenance 2
-    - **Starting Designator**
+    - **Designator**
 - Pathology
-    - Trauma
-    - Pathology
-    - Taphonomy
+    - Traumas
+    - Pathologies
+    - Taphonomies
     
 The bolded fields are required. Once you have created a new bone group, you can edit the fields and click "Save" to update the bone group.
  
@@ -143,7 +152,7 @@ To create a multiple specimens via homunculus - click the "New via homunculus" l
 The screenshot below shows the Actions or Details menu for the selected specimen. Here you can enter association data for the specimen.
 Each of the Action or Details menu option is explained in the following section.
 
-![](media/list-of-specimen.png)
+![](media/list-of-specimen.gif)
 
 
 ### Biological Profile
@@ -186,7 +195,7 @@ The DNA Profile screen displays the following elements about a bone:
 
 On this screen, you can also view the "Mito", "auSTR", and "Y-STR" forms and navigate by clicking the form name or by clicking the Next button.
 
-![](media/dna.gif )
+![](media/dna.gif)
 
 
 ### Isotope Analysis
@@ -196,9 +205,9 @@ The 'Create Isotope' section allows to create a isotope for the given bone. This
 - External Case # 
 - Isotope Sample Number
 
-After you create the Isotope, you will receive the <font color="green">"success"</font> message. By selecting the sample number, the Isotope screen pops up. Click on the Edit button to edit the information under each section.CLick on the Save button under each section saves the information and navigates the user to the next section of information. All the updated information can be saved at once by clicking on the ‘Save All’ button.
+After you create the Isotope, you will receive the <font color="green">"success"</font> message. By selecting the sample number, the Isotope screen pops up. Click on the Edit button to edit the information under each section.Click on the Save button under each section saves the information and navigates the user to the next section of information. All the updated information can be saved at once by clicking on the ‘Save All’ button.
 
-![](media/isotope.gif)
+![](media/isotope-analysis.gif)
 
 
 ### Taphonomy
@@ -210,38 +219,43 @@ The Taphonomies section allows you to view Taphonomies for the given bone. To ad
 
 ### Zonal Classification
 
-The Zones pane displays various zones of the bone. For example below are the following zones about the bone Radius:
+The Zones pane displays various zones of the bone. For example below are the following zones about the Cervical Vertebra:
 
-- Lateral half of radial head
-- Medial half of radial head
-- Lateral portion of distal articulation
-- Medial portion of distal articulation
-- Proximal diaphysis
-- Lateral half of diaphysis
-- Medial half of diaphysis
-- Superior half of distal third
-- Lateral distal third
-- Medial distal third
-- Styloid process
+- Body
+- Right Transverse Process
+- Left Transverse Process
+- Spinous Process
 
 These fields are read only - to edit then click the pencil icon. Multiple zones can be selected. All the listed Zones can be selected or deselected by clicking the ‘Select all’ check box. Click the save icon to save the changes.
 
-![](media/zones.gif)
+![](media/zones-classification.gif)
 
 
 ### Measurements
 
-The measurements pane displays various measurements of the given bone. The following are the measurements for a given bone Radius: 
-- Rad_01 Maximum Length 
-- Rad_02 Maximum Diameter of the Radius at Midshaft 
-- Rad_03 Minimum Diameter of the Radius at Midshaft 
-- Rad_04 Maximum Diameter of the Head 
-- Rad_05 Anterior-Posterior (Sagittal) Diameter at Midshaft 
-- Rad_06 Medial-Lateral (Transverse) Diameter at Midshaft 
-- Rad_07 Maximum Diameter at the Radial Tuberosity 
-- Rad_08 Maximum Diameter of the Diaphysis Distal to the Radial Tuberosity 
-- Rad_09 Minimum Diameter of the Diaphysis Distal to the Radial Tuberosity 
-- Rad_10 Breadth of the Distal Epiphysis
+The measurements pane displays various measurements of the given bone.
+Only the specimens associated with a bone that is measured will have measurements for that bone. Bones associated with a specimen that are not measured will not have any measurements.
+The measurements generally vary from one bone to another and following are the measurements for a given bone Femur:
+
+- Fem_01 Maximum Length
+- Fem_02 Bicondylar Length
+- Fem_03 Epicondylar Breadth
+- Fem_04 Maximum Head Diameter
+- Fem_05 Medial-Lateral (Transverse) Subtrochanteric Diameter
+- Fem_06 Anterior-Posterior (Sagittal) Subtrochanteric Diameter
+- Fem_07 Anterior-Posterior (Sagittal) Midshaft Diameter
+- Fem_08 Medial-Lateral (Transverse) Midshaft Diameter
+- Fem_09 Maximum Midshaft Diameter of the Femur
+- Fem_10 Minimum Midshaft Diameter of the Femur
+- Fem_11 Midshaft Circumference
+- Fem_12 Maximum Anterio-posterior Length of the Lateral Condyle
+- Fem_13 Maximum Anterio-posterior Length of the Medial Condyle
+- Fem_14 Minimum Anterior-Posterior Diameter of the Diaphysis
+- Fem_15 Minimum Medial-Lateral Diameter of the Diaphysis
+- Fem_16 Minimum Superior-Inferior Neck Diameter
+- Fem_17 Maximum Diameter along the Linea Aspera
+- Fem_18 Upper Breadth of Femur
+- Fem_19 Lateral Condyle Height
 
 These fields are read only - to edit, click the pencil icon. the minimum value, threshold limit and maximum limit are indicated to the user through the alerts. Click the save icon to save the changes or ‘Undo’ icon to undo all the changes made. The blue badge on top of the bone name indicates the number of measurements filled out of the total number of available measurements for that particular bone.  The pane can be expanded or collapsed by clicking on the arrow icon.
 
@@ -271,27 +285,25 @@ There are four types of associations. Process of adding each association is show
 
 ### Pathology, Anomaly & Trauma
 
-Pathology, Trauma and Anomaly can be accessed on one screen as different tabs. The user can create a new item by clicking on the create button. 
+Pathology, Trauma and Anomaly can be accessed on one screen as different tabs. The user can create a new item by clicking on the create button.
 
 #### Pathology
 
-![](media/pathology.gif )
+![](media/pathology.gif)
 
 #### Anomaly
 
-![](media/pathology.gif )
+![](media/anomaly.gif)
 
 #### Trauma
 
-![](media/pathology.gif )
-
+![](media/trauma.gif)
 
 ## Specimen Review
 
 The review tab is a pane which displays all other sub reports in one area. All reports are editable in the pane. For information on individual reports - see their detailed documentation.
 
-![](media/review.gif)
-
+![](media/specimen-review.gif)
 
 ## Specimen Bulk Edit
 
@@ -301,15 +313,15 @@ Several specimen fields can be bulk-edited. To bulk edit, select multiple specim
 
 In the popup, select the changes you wish to make. When you mark a specimen as scanned, completed, or reviewed, the date for the change is auto-filled to the current date. 
 
-![](media/specimen-edit.png)
+![](media/specimen-edit.gif)
 
 If the remains are marked as in the lab, there is no corresponding date.
 
-![](media/lab.png)
+![](media/release-date.png)
 
 If the remains are marked as released, there is a date field.
 
-![](media/released.png)
+![](media/release.png)
 
 ## Specimen Search
 
