@@ -6,7 +6,7 @@ Data can be exported from and imported into CoRA via the File Export/Import and 
 
 In order to export data from CoRA, navigate to Left Sidebar Menu -\> File Export/Import-\> File Export. Please note that users can only export data for the current project.
 
-![Navigate File Export](media/file-export-navigate.png)
+![](media/file-export-navigate.png)
 
 This will take you to the File Export page. This page lists the different types of files exports available in CoRA. 
 
@@ -20,8 +20,7 @@ This will take you to the File Export page. This page lists the different types 
 | org administrator | Specimens,Zones,Measurements,DNA,Pairs,Articulations,Missing Persons, Missing Persons-DCIPS, Osteometric Sorting   |
 | mp administrator  | Missing Persons, Missing Persons-DCIPS                                                                             |
 
-
-![Click on Action](../../assets/screenshots/file-import-export/Export.png)
+![](media/file-export-types.png)
 
 ### Osteometric Sorting
 
@@ -59,44 +58,47 @@ CoRA creates a background job for the file export process. A notification will a
 
 Clicking on a file export button will not result in an immediate file(s) download. Instead, a request is made to CoRA to begin a file export job in the background. This may take several minutes depending on the number of records to be exported and the number of background jobs that are currently queued in CoRA. Once the file export job is competed a real-time notification will be seen under the notifications bell located on the top right header of the CoRA application.      
 
-![Click on Action](../../assets/screenshots/file-import-export/CompletedExport.png)
+![](media/file-export-notification.png)
 
 To get rid of the notification, click on mark as read.
 
-![Click on Action](../../assets/screenshots/file-import-export/MarkAsRead.png)
-
 ### Advanced Exports Feature
 
-The anthropologist and mp admin role can only see the export button option, which will export the entire column from that table. The org admin role had both the export and advanced button. The feature of the advanced button is that we can export specific columns from that table to export. Selecting the include timestamp check box, adds the four columns 'created_by,created_at,updated_by,updated_at,deleted_at' in the excel.
+The anthropologist and mp admin role can only see the export button option, which will export the entire column from that table. The org admin role had both the export and advanced button. The feature of the advanced button is that we can export specific columns from that table to export. Selecting the include timestamp check box, adds the four columns 'created_by, created_at, updated_by, updated_at, deleted_at' in the excel.
  
 
 ## File Manager
 
 All files exported and imported into CoRA can be accessed at a central location called the File Manager. The file(s) that you just exported will be located here after CoRA completes the file export job. To access the File Manager, navigate to Left Sidebar Menu -\> File Export/Import-\> File Manager.
 
-![Navigate File Manager](media/file-manager-navigate.png)
+![](media/file-manager-navigate.png)
 
-The File Manager will list all of the file export/import jobs that have been completed by CoRA with most recent export/import jobs listed first. To download a file export, click download.  A file export does not become available on this page until the requested file export job has been completed by CoRA. 
+The File Manager will list all the file export/import jobs that have been completed by CoRA with most recent export/import jobs listed first. To download a file export, click download.  A file export does not become available on this page until the requested file export job has been completed by CoRA. 
 
-![Click on Action](../../assets/screenshots/file-import-export/DownloadExport.png)
+![](media/file-manager.png)
 
 ## File Import
 
 In order to import a file, navigate to Left Sidebar Menu -\> File Export/Import-\> File Import
 
-![Navigate File Import](media/file-import-navigate.png)
+![](media/file-import-navigate.png)
 
-On the file import screen, select the import file type that you wish to upload. A template can be download for the file type that you are importing. CoRA will not allow you to import a file unless the file import type is selected.
+On the file import screen, select the import file type that you wish to upload. A template can be downloaded for the 
+file type that you are importing. CoRA will not allow you to import a file unless the file import type is selected.
 
-![Click on Action](../../assets/screenshots/file-import-export/MissingFileType.png)
+![](media/file-import-types.png)
 
-The pairs file type is shown as selected in the screenshot below. Click on browse to select a file to upload from your computer. Once selected, hit upload to upload the file to CoRA. 
+The pairs file type is shown as selected in the screenshot below. Click on browse to select a file to upload from your 
+computer. Once selected, hit upload to upload the file to CoRA.
 
-![Click on Action](../../assets/screenshots/file-import-export/FileUpload.png)
+![](media/file-import-upload.png)
 
-As with file export, CoRA creates a background job for the file import process. A notification will appear when the job has completed. You may need to refresh your screen to see the notification. The notification will indicate whether your import was successful or not. The imported records will appear in CoRA after a successful import. 
+As with file export, CoRA creates a background job for the file import process. A notification will appear when the job 
+has completed. You may need to refresh your screen to see the notification. 
+The notification will indicate whether your import was successful or not. 
+The imported records will appear in CoRA after a successful import. Click on 'view notification' to read the import 
+information in detail.
 
-![Click on Action](../../assets/screenshots/file-import-export/ImportNotification.png)
 
 ### Import Types
 
@@ -110,8 +112,6 @@ This section details the type of file import types available to the user. Templa
 6. Articulations (Results From Osteometric Sorting Tools)
 7. Missing Persons
 8. Missing Persons-DCIPS
-
-![Select Import Type](media/file-import-select-file-type.png)
 
 The file being imported must contain a specific word depending on the import type. The filename can contain other words and characters, but it must contain one of the following words.  
 
@@ -136,18 +136,25 @@ The file being imported must contain a specific word depending on the import typ
 
 ### File Upload
 
-Click on browse to select a file to upload from your computer. Once selected, click upload to upload the file to CoRA. The upload button will be disabled until the import type selected and file is attached. Both are the mandatory input for the upload to get triggered.
+Click on browse to select a file to upload from your computer. Once selected, click upload to upload the file to CoRA. 
+The upload button will be disabled until the import type selected and file is attached. Both are the mandatory input for 
+the upload to get triggered.
 
-![File Import Upload](media/file-import-upload.png)
+![](media/file-import-upload-started.png)
 
 !!! tip
     CoRA validates that the type chosen and file name attached match, it will throws an error if they don't match.
 
 ### File Import Notification
 
-As with file export, CoRA creates a background job for the file import process. A notification will appear when the job has completed. You may need to refresh your screen to see the notification. The notification will indicate whether your import was successful or not. The imported records will appear in CoRA after a successful import. You can click the eye icon under the Action menu to see the detailed result of the import process. It explains how many records were successfully imported and if there were failures it will also provide the reason for the failure rows. Click the green bell sign on the top right corner to view and mark all notifications.
+As with file export, CoRA creates a background job for the file import process. A notification will appear when the job 
+has completed. You may need to refresh your screen to see the notification. The notification will indicate whether your 
+import was successful or not. The imported records will appear in CoRA after a successful import. You can click the eye 
+icon under the Action menu to see the detailed result of the import process. It explains how many records were successfully 
+imported and if there were failures it will also provide the reason for the failure rows. Click the green bell sign in 
+the top right corner to view and mark all notifications.
 
-![File Import Notification Button](media/file-import-notification.png)
+![](media/file-import-notification.png)
 
 ### Osteometric Sorting  
 
