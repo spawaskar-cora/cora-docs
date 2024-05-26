@@ -245,7 +245,8 @@ nav:
       - Adding translations: contributing/adding-translations.md
       - Asking a question: https://github.com/spawaskar-cora/cora-docs/discussions
   - User Guide:
-    - Site Navigation: user-guide/site-navigation.md
+    - Site Navigation:
+      - user-guide/site-navigation/index.md
     - Org Users Projects: user-guide/org-users-projects.md
     - User Roles Permissions: user-guide/user-roles-permissions.md
     - Modules:
