@@ -35,7 +35,7 @@ Click on eye icon to generate the single/multiple relationship graph.
 Choose a desired specimen that will be highlighted in the graph.
 
 ### More Options/Filters:
-![](media/single-multiple-relationship-options%3Afilters.png)
+![](media/single-multiple-relationship-more-options.png)
 Click on the kebab menu to find more options. These options include 
 
 - Filtering the specimens by Accession number, Provenance 1 and Provenance 2.
