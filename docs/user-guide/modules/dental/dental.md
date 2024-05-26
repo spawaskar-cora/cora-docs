@@ -104,6 +104,15 @@ The fields to create a new bone group are:
 
 Your new dental chart will now be saved.
 
+if the bone group selected is Mandibular dentition, below dental chart will be presented
+
+![](media/mandibullar-chart.png)
+
+if the bone group selected is Maxillary dentition, below dental chart will be presented
+
+![](media/maxillary-chart.png)
+
+
 
 
 
