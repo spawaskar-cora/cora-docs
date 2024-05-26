@@ -47,13 +47,13 @@ Anyone who uses CoRA must have a user account and must be assigned a role (such 
 ## Org Administrator
 Every Org must have an Org Administrator (Org Admin for short) who is one of the Users with a privileged role. The Org Admin has the ability to create and manage the Users, Projects, Accession, Instruments, Haplogroups etc. Users with the Org Administrator role will be presented with the Administration menu to perform these functions. Lets look at some of these functions
                                                                                       
-![Click on Action](assets/screenshots/administration/org-administration.png)
+![Click on Action](../assets/screenshots/administration/org-administration.png)
 
 ### Navigation to Administration
 
 An Org Admin can click on the hamburger and go to 'Administration' to find all the Administration pages.
 
-![Click on Action](assets/screenshots/administration/administration-navigation.png)
+![Click on Action](../assets/screenshots/administration/administration-navigation.png)
 
 ### User Management
 
@@ -65,13 +65,13 @@ The user management screen provides a data table of all the users with informati
     1. You can edit the user by clicking the user name link.
     2. The column visibility will allow you to add more columns/details to the data table list.
     3. The Search box can be used to search any details in the data table list.
-![Click on Action](assets/screenshots/administration/user-management.gif)
+![Click on Action](../assets/screenshots/administration/user-management.gif)
 
 #### Create User
 
 On the user management screen, click the Create button/icon to create a new user. Navigation to the user Management screen is shown below. 
 
-![Click on Action](assets/screenshots/administration/user-management-create.png)
+![Click on Action](../assets/screenshots/administration/user-management-create.png)
 
 The Create button opens a dialog box to prompt to create a new user. Enter the information for the new user record, including the the "Role" field. Various user roles can be selected such as Org Admin, Anthropologist, Manager, DNA Analyst, Historian, Isotope Analyst. Intern, etc. Once all information is entered, click "Save", and a success message *“User successfully added”* will appear at the top.
 
@@ -100,7 +100,7 @@ Alternate phone      |String         |32 chars     |contains numbers and dash   
 
 To edit an existing users information, simply click on the Name and the edit dialog box will open for editing the existing user information. The following fields are available for update, click "Save" when finished editing, or "Close" to cancel the changes.
 
-![Click on Action](assets/screenshots/administration/user-management-edit.png)
+![Click on Action](../assets/screenshots/administration/user-management-edit.png)
 
 > The screen fields are shown below. Fields in bold are required.
  
@@ -126,7 +126,7 @@ API Token            |String         |255 chars    |valid token string          
 The user management screen allows for batch editing of multiple user records. This can be useful to administrators for passwords resets, change user active status flag, etc. To batch edit, select multiple users by clicking on the boxes to the left of their names, this will show the "Actions" menu in the top-left menu, select the **Actions \> Batch Edit** menu.
 
 
-![Click on Action](assets/screenshots/administration/user-management-batch-edit.png)
+![Click on Action](../assets/screenshots/administration/user-management-batch-edit.png)
 
 > The screen fields for batch edit are shown below.
 
@@ -146,13 +146,13 @@ If a user is inactive for too many days (configured by organization), their acco
 
 To reactivate their account, click on the Reset Inactivity Lock icon, an open the padlock, on the far right side of the user row. 
 
-![Click on Action](assets/screenshots/administration/user-management-user-access.png)
+![Click on Action](../assets/screenshots/administration/user-management-user-access.png)
 
 To reactivate multiple accounts, select multiple users by clicking on the boxes to the left of their names. Then, select Actions in the top-left menu, then click on Batch Edit. In the popup, click on Reset Inactivity Lock.
 
 To reset an account password, click on the Password Reset icon to open the Reset Password dropbox. Enter the new password and confirm the newly entered password to reset the password 
 
-![Click on Action](assets/screenshots/administration/user-management-reset-password.png)
+![Click on Action](../assets/screenshots/administration/user-management-reset-password.png)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -173,7 +173,7 @@ The project management screen provides a data table of all the projects with inf
     1. You can edit the project by clicking the project name link. 
     2. The column visibility will allow you to add more columns/details to the data table list. 
     3. The Search box can be used to search any details in the data table list.
-![Click on Action](assets/screenshots/administration/project-management.gif)
+![Click on Action](../assets/screenshots/administration/project-management.gif)
 
 #### Create Project
 
@@ -181,7 +181,7 @@ On the project management screen, click the Create button/icon to create a new p
 
 The Create button opens a dialog box to prompt to create a new project. Enter the information for the new project record, including the the "Manager" field. Once all information is entered, click "Save", and a success message *“Project successfully added”* will appear at the top.
 
-![Click on Action](assets/screenshots/administration/project-management-create.png)
+![Click on Action](../assets/screenshots/administration/project-management-create.png)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -211,7 +211,7 @@ Slack Channel                         |String       |255 chars    |valid url    
 
 To edit an existing projects information, simply click on the Name and the edit dialog box will open for editing the existing project information. The following fields are available for update, click "Save" when finished editing, or "Close" to cancel the changes.
 
-![Click on Action](assets/screenshots/administration/project-management-edit.png)
+![Click on Action](../assets/screenshots/administration/project-management-edit.png)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -238,7 +238,7 @@ Assigned Instruments                  |Id           |             |valid options
 
 The Project Management screen allows for batch editing of multiple project records. This can be useful  to change project status,to make a public, etc. To batch edit, select multiple projects by clicking on the boxes to the left of their names, this will show the "Actions" menu in the top-left menu, select the **Actions \> Batch Edit** menu. this will open a batch edit dropbox.
 
-![Click on Action](assets/screenshots/administration/project-management-batchedit.png)
+![Click on Action](../assets/screenshots/administration/project-management-batchedit.png)
 
 > The screen fields for batch edit are shown below.
 
@@ -261,7 +261,7 @@ The accession management screen provides a data table of all the accessions in t
     1. You can edit the accession by clicking the accession key link. 
     2. The column visibility will allow you to add more columns/details to the data table list. 
     3. The Search box can be used to search any details in the data table list.
-![Click on Action](assets/screenshots/administration/accession-management.gif)
+![Click on Action](../assets/screenshots/administration/accession-management.gif)
 
 #### Create Accession
 
@@ -269,7 +269,7 @@ On the accession management screen, click the Create button/icon to create a new
 
 The Create button opens a dialog box to prompt to create a new accession. Enter the information for the new accession record, the "Project" field is defaulted to current project. Once all information is entered, click "Save", and a success message *Accession successfully added”* will appear at the top.
 
-![Click on Action](assets/screenshots/administration/accession-management-create.png)
+![Click on Action](../assets/screenshots/administration/accession-management-create.png)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -285,7 +285,7 @@ Attributes               |Data Type    |Size         |Validation Rule           
 
 To edit an existing accession information, simply click on the Key and the edit dialog box will open for editing the existing accession information. The following fields are available for update, click "Save" when finished editing, or "Close" to cancel the changes.
 
-![Click on Action](assets/screenshots/administration/accession-management-edit-.png)
+![Click on Action](../assets/screenshots/administration/accession-management-edit-.png)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -317,14 +317,14 @@ The instrument management screen provides a data table of all the instruments in
     2. The column visibility will allow you to add more columns/details to the data table list. 
     3. The Search box can be used to search any details in the data table list.
 
-![Click on Action](assets/screenshots/administration/instrument-management.gif)
+![Click on Action](../assets/screenshots/administration/instrument-management.gif)
 
 #### Create Instrument
 
 On the instrument management screen, click the Create button/icon to create a new instrument. Navigation to the instrument management screen is shown below. 
 
 The Create button opens a dialog box to prompt to create a new instrument. Enter the information for the new instrument record, the "Active Status" field is defaulted to true. Once all information is entered, click "Save", and a success message *Instrument successfully added”* will appear at the top.
-![Click on Action](assets/screenshots/administration/instrument-management-create.png)
+![Click on Action](../assets/screenshots/administration/instrument-management-create.png)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -340,7 +340,7 @@ Reference                |String         |255 chars    |contains alphanumeric va
 
 To edit an existing instrument information, simply click on the Code and the edit dialog box will open for editing the existing instrument information. The following fields are available for update, click "Save" when finished editing, or "Close" to cancel the changes.
 
-![Click on Action](assets/screenshots/administration/instrument-management-batch.png)
+![Click on Action](../assets/screenshots/administration/instrument-management-batch.png)
 
 
 > The screen fields are shown below. Fields in bold are required.
@@ -358,7 +358,7 @@ Assigned Users           |Id             |             |valid options via dropdo
 
 The Instrument Management screen allows for batch editing of multiple instruments. To batch edit, select multiple instruments by clicking on the checkboxes to the left of their names, this will show the "Actions" menu in the top-left menu, select the **Actions \> Batch Edit** menu. this will open a batch edit dropbox.
 
-![Click on Action](assets/screenshots/administration/instrument-management-batch.png)
+![Click on Action]../assets/screenshots/administration/instrument-management-batch.png)
 
 > The screen fields for batch edit are shown below.
 
@@ -380,7 +380,7 @@ The haplogroup management screen provides a data table of all the haplogroups in
     2. The column visibility will allow you to add more columns/details to the data table list. 
     3. The Search box can be used to search any details in the data table list.
 
-![Click on Action](assets/screenshots/administration/haplogroup-management.gif)
+![Click on Action](../assets/screenshots/administration/haplogroup-management.gif)
 
 #### Create Haplogroup
 
@@ -388,7 +388,7 @@ On the haplogroup management screen, click the Create button/icon to create a ne
 
 The Create button opens a dialog box to prompt to create a new haplogroup. Enter the information for the new haplogroup record. Once all information is entered, click "Save", and a success message *Haplogroup successfully added”* will appear at the top.
 
-![Click on Action](assets/screenshots/administration/haplogroup-management-create.png)
+![Click on Action](../assets/screenshots/administration/haplogroup-management-create.png)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -403,7 +403,7 @@ Ancestry                 |String         |32 chars     |valid options via dropdo
 
 To edit an existing haplogroup information, simply click on the Letter and the edit dialog box will open for editing the existing haplogroup information. The following fields are available for update, click "Save" when finished editing, or "Close" to cancel the changes.
 
-![Click on Action](assets/screenshots/administration/haplogroup-management-edit.png)
+![Click on Action](../assets/screenshots/administration/haplogroup-management-edit.png)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -427,7 +427,7 @@ Color and Icon. The tags list will be initially sorted on the name. The data tab
     2. The column visibility will allow you to add more columns/details to the data table list. 
     3. The Search box can be used to search any details in the data table list.
 
-![Click on Action](assets/screenshots/administration/tag-management.gif)
+![Click on Action](../assets/screenshots/administration/tag-management.gif)
 
 #### Create Tag
 
@@ -435,7 +435,7 @@ On the tag management screen, click the Create button/icon to create a new tag. 
 
 The Create button opens a dialog box to prompt to create a new tag. Enter the information for the new tag record. Once all information is entered, click "Save", and a success message *Tag successfully added”* will appear at the top.
 
-![Click on Action](assets/screenshots/administration/tag-management-create.png)
+![Click on Action](../assets/screenshots/administration/tag-management-create.png)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -453,7 +453,7 @@ Icon                     |String         |32 chars     |mdi icon (see material d
 
 To edit an existing tag information, simply click on the Name and the edit dialog box will open for editing the existing tag information. The following fields are available for update, click "Save" when finished editing, or "Close" to cancel the changes.
 
-![Click on Action](assets/screenshots/administration/tag-management-edit.png)
+![Click on Action](../assets/screenshots/administration/tag-management-edit.png)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -476,18 +476,18 @@ CoRA has a very powerful and flexible design which allows every organization to 
 
 #### About
 
-![Click on Action](assets/screenshots/administration/org-profile-about.png)
+![Click on Action](../assets/screenshots/administration/org-profile-about.png)
 
 
 In the About tab the org administrator can edit the Organization Name, Description, Address, Website URL, Phone, Fax, Contact Name, Contact Email, GeoLatitude and GeoLongitude
 
 #### General
-![Click on Action](assets/screenshots/administration/org-profile-general.png)
+![Click on Action](../assets/screenshots/administration/org-profile-general.png)
 
 In the General tab the org administrator can configure the URL for the welcome screen that is displayed to the user on startup when the user logs into the application and turn on a switch to automatically add the CoRA Demo project for new users created in their organization.
 
 #### Unit of Measure
-![Click on Action](assets/screenshots/administration/org-profile-unit-measure.png)
+![Click on Action](../assets/screenshots/administration/org-profile-unit-measure.png)
 
 In the Unit of Measure tab the org administrator can configure the unit of measure used for mass/weight and length/measurement fields within all projects in their organization.
 
@@ -495,12 +495,12 @@ In the Unit of Measure tab the org administrator can configure the unit of measu
 2. length/measurement, valid values are mm, cm and inches
 
 #### Localization
-![Click on Action](assets/screenshots/administration/org-profile-localization.png)
+![Click on Action](../assets/screenshots/administration/org-profile-localization.png)
 
 In the Localization tab the org administrator can configure to set the default County, Language and Timezone for all new users created in their organization.
 
 #### API Keys
-![Click on Action](assets/screenshots/administration/org-profile-api-keys.png)
+![Click on Action](../assets/screenshots/administration/org-profile-api-keys.png)
 
 In the API Keys tab the org administrator can configure the following for their organization
 

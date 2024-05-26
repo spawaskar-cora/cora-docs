@@ -67,11 +67,11 @@ CoRA has a very powerful and flexible design which allows every user to customiz
 
 In the About tab the user can view their current details and can edit the Name, Cell Phone, Alternative Phone, Slack Channel. The Email and the Organization name are readonly.
 
-![](assets/screenshots/administration/user-profile.png)
+![](../assets/screenshots/administration/user-profile.png)
 
 ### General
 
-![](assets/screenshots/administration/user-general.png)
+![](../assets/screenshots/administration/user-general.png)
 
 In the General tab the user can update the following
 
@@ -99,7 +99,7 @@ In the Projects tab the user can update the following within expansion panels.
     2. User can an save the last used Search By criteria and the search will be defaulted to this saved Search By criteria. 
     3. User can choose to open the Specimen screen in a new tab via the Search results screen.
 
-![](assets/screenshots/administration/user-project.png)
+![](../assets/screenshots/administration/user-project.png)
 
 ### Notification
 
@@ -109,22 +109,22 @@ In the Notification tab the user can choose to receive a notification when
 3. When changes are made to the DPAA Priority field in Missing Persons records.
 4. User can select which methods for notification they want to use. The notification can be through Email, SMS, or Slack.
 
-![](assets/screenshots/administration/user-notification.png)
+![](../assets/screenshots/administration/user-notification.png)
 
 ### Localization
 
 In the Localization tab the user can update their default County, Language and Timezone.
 
-![](assets/screenshots/administration/user-localization.png)
+![](../assets/screenshots/administration/user-localization.png)
 
 ### Last Login
 
 In the Last Login tab the user can view information such as last login time, Device, Total Number of logins, IP address and Password last changed.
 
-![](assets/screenshots/administration/user-last-login.png)
+![](../assets/screenshots/administration/user-last-login.png)
 
 ### User Activity
 
 In the User Activity tab the user can view the user activity feed for specimens as a table with columns such as Key, Name, Side, Completeness and Updated At details. Also there is the user activity feed table for DNA with the fields such as key, Mito sequence Number, Mito sequence subgroup and Update at columns with details.
 
-![](assets/screenshots/administration/useractivity.png)
+![](../assets/screenshots/administration/useractivity.png)
