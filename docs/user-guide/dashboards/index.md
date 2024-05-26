@@ -25,10 +25,108 @@ There are three different dashboards available in CoRA with each view being driv
   
 Widgets come with a handful of standard features/functions. 
 
-1.  Last Updated Timestamp
-2.  Mouse Over Detail
-3.  View Details (Drill Into The Data)
-4.  Widget Controls
+1.  Last Updated Timestamp :-  It shows the latest date when the data was updated. From the above image the last updated timestamp is shown at bottom left corner
+
+2.  Mouse Over Detail :- On hovering over the graphs present in the widgets provides information on data.
+![](media/mouse-over-data.png)
+
+3.  View Details (Drill Into The Data) :- On click of details from the widget gives all the details of the visual data represented.
+![](media/view-details.png)
+
+4.  Widget Controls :- The common widget controls present on all the widgets are
+* Collapse
+* Close
+![](media/widget-control.png)
+* Help-Cora Docs
+  ![](media/widget-control-help.png)
+
+## Pie Chart
+
+The widgets that shows data in pie chart has different options to view data.
+
+
+1. Semi Circle:- Clicking on the semi-circle option provides a dynamic semicircle view, offering a perspective on data representation.
+
+![](media/semi-circle-widget.png)
+
+![](media/semi-circle-pie-chart.png)
+
+2. Full Circle:- Clicking on the full-circle option provides a dynamic full circle view, offering a perspective on data representation.
+
+![](media/full-circle-widget.png)
+
+![](media/full-circle-pie-chart.png)
+
+3. Show Donut:- Clicking on Donut option provides a dynamic donut view of data representation.
+
+![](media/donut-widget.png)
+
+![](media/donut-pie-chart.png)
+
+4. Show Pie:- Clicking on Pie option provides a dynamic Pie view of data representation.
+
+![](media/pie-widget.png)
+
+![](media/pie-chart-main.png)
+
+## Bar Graph & Stacked Bar Graph
+
+The widgets for bar graph has a toggle switch. 
+
+The toggle switch has 2 options:
+
+1. Show all
+2. Show MNI Data
+
+If the toggle switch is deactivated, bar graph/stacked bar graph would show data for all.
+
+![](media/bar-graph-all.png)
+![](media/stacked-bar-graph-all.png)
+
+If the toggle switch is activated, bar graph/stacked bar graph would show data related to MNI Only
+
+![](media/bar-graph-mni.png)
+
+
+## Line Graph
+
+The widgets that shows data in Line graph has different options to view data.
+
+Line graph has below widget controls:
+
+1. Line Step
+2. Days
+3. Point Style
+
+### Line Step
+
+Line step is a dropdown which shows 4 options to select from
+
+![](media/line-step-options.png)
+
+The view of data in line graph changes depending on the Line step chosen. Below image shows data for line step selected as "before".
+
+![](media/line-step.png)
+
+### Days
+
+Days is a dropdown which shows 4 options to select from
+
+![](media/days-options.png)
+
+The view of data in line graph changes depending on the days selected. If the days selected is 180 or 1 year then the line graph will show a lot of data compared to days selected as 30 or 90. Below image shows data for days selected as "180 days".
+
+![](media/days.png)
+
+### Point Style
+
+Point style is also a dropdown which shows 4 options to select from
+
+![](media/point-style-options.png)
+
+The view of data in line graph changes depending on the point style chosen. Below image shows data when point style selected is "Triangle".
+
+![](media/point-style.png)
 
 
 ## Org Admin Dashboard
@@ -72,7 +170,9 @@ The dashboard is comprised of *widgets*, which are individual visual representat
   * Mito sequence Information
   * Inventory Process
   
-Those *widgets* can be added and removed via the *widget selector*.  
+Those *widgets* can be added and removed via the *widget selector*.
+
+![](media/project-manager-dashboard.gif)
 
 The data in the dashboard is represented in 4 different formats:
  
@@ -98,6 +198,8 @@ Clicking on show pie provides a dynamic pie view, offering a perspective on data
 ![](media/pie-chart.png)
 
 On Click of details present on widgets, provides a detailed view of the visualization along with column details.
+
+![](media/pie-chart-details.gif)
 
 Below are the fields that are visible:
 
@@ -129,6 +231,8 @@ Bar Graph helps provide comparisons between discrete categories or groups.
 
 On Click of details present on widgets, provides a detailed view of the visualization along with column details.
 
+![](media/bar-graph.gif)
+
 Below are the fields that are visible:
  
 * Mito Sequence Number
@@ -144,6 +248,8 @@ Stacked bar graph is divided into segments or "stacks" to represent different ca
 ![](media/stacked-bar-graph.png)
 
 On Click of details present on widgets, provides a detailed view of the visualization along with column details.
+
+![](media/stacked-bar-graph.gif)
 
 Below are the fields that are visible:
 
@@ -168,7 +274,6 @@ Line graph widget contains the following:
  
 ## User Dashboard
 The User Dashboard serves as a high level view of both summary and aggregated user data. 
-
 ### User Activity
 
 User activity contains *widgets*, which are individual visual representations of data.  Examples of those widgets include:
