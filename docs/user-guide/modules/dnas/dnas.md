@@ -6,6 +6,11 @@ in CoRA. A critical first step is to cut a sample of the specimen for DNA analys
 for tracking purposes and after you get results from your DNA lab you can capture DNA information here to create a
 DNA Profile for further analysis.
 
+## Navigation
+![](media/dna-navigation.png)
+
+Navigate to the Dental section by opening the navigation bar and selecting the Dental dropdown.
+
 ## Create a DNA Sample
 
 The DNA sample and Profile are associated with a specimen, so you must first choose a specimen for which you want to create
@@ -24,20 +29,18 @@ specimen. Note you can create multiple DNA samples for a specimen.
     Consensus DNA Profile for you with data from the multiple samples. Consensus DNA Profile is a powerful feature of CoRA.
 
 
-![](media/new-dna-profile.gif)
+![](media/dna-sample-creation.gif)
 
 > The screen fields are shown below. Fields in bold are required.
 
-Attributes           |Data Type      |Size       |Validation Rule                                        |Required/Optional
----------------------|---------------|-----------|-------------------------------------------------------|-------------
-**Sample Number**    |Alphanumeric   |8 chars    |can only contain letters and numbers                   |Required
-**Lab**              |Id             |id         |valid labs via dropdown setup for the org              |Required
-External Case Number |String         |32 chars   |                                                       |Optional
+| Attributes           | Data Type    | Size     | Validation Rule                           | Required/Optional |
+|----------------------|--------------|----------|-------------------------------------------|-------------------|
+| **Sample Number**    | Alphanumeric | 8 chars  | can only contain letters and numbers      | Required          |
+| **Lab**              | Id           | id       | valid labs via dropdown setup for the org | Required          |
+| External Case Number | String       | 32 chars |                                           | Optional          |
 
 Clicking Save will take you to the DNA Profile screen. You can visit the DNA Profile screen once you have received data from your
 DNA processing lab to enter DNA related data.
-
-![](media/new-dna-profile-creation.gif)
 
 -------------
 
@@ -51,20 +54,20 @@ the DNA Profile for the specimen. On this screen click the pencil icon on the to
 
 > The screen fields are shown below. Fields in bold are required.
 
-Attributes                 |Data Type      |Size       |Validation Rule                                        |Required/Optional
----------------------------|---------------|-----------|-------------------------------------------------------|-------------
-**Lab**                    |Id             |id         |valid labs via dropdown setup for the org              |Required
-External Case Number       |String         |32 chars   |                                                       |Optional
-BTB Request Date           |Date           |           |                                                       |Optional
-BTB Receive Date           |Date           |           |must be greater than BTB Request Date                  |Optional
-Disposition                |String         |16 chars   |valid disposition via dropdown                         |Optional
-Sample Condition           |String         |16 chars   |valid sample condition via dropdown                    |Optional
-Weight Sample Remaining    |Decimal        |           |                                                       |Optional
-Recommended for Resampling |Boolean        |           |true/false toggle                                      |Optional
+| Attributes                 | Data Type | Size     | Validation Rule                           | Required/Optional |
+|----------------------------|-----------|----------|-------------------------------------------|-------------------|
+| **Lab**                    | Id        | id       | valid labs via dropdown setup for the org | Required          |
+| External Case Number       | String    | 32 chars |                                           | Optional          |
+| BTB Request Date           | Date      |          |                                           | Optional          |
+| BTB Receive Date           | Date      |          | must be greater than BTB Request Date     | Optional          |
+| Disposition                | String    | 16 chars | valid disposition via dropdown            | Optional          |
+| Sample Condition           | String    | 16 chars | valid sample condition via dropdown       | Optional          |
+| Weight Sample Remaining    | Decimal   |          |                                           | Optional          |
+| Recommended for Resampling | Boolean   |          | true/false toggle                         | Optional          |
 
 Click on Save if any of the fields were updated
 
-![](media/new-dna-profile-edit.gif)
+![](media/edit-dna.gif)
 
 !!! tip
 
@@ -76,30 +79,31 @@ Click the pencil icon on the top right corner to update the DNA Mito information
 
 > The screen fields are shown below. Fields in bold are required.
 
-Attributes                 |Data Type      |Size       |Validation Rule                                        |Required/Optional
----------------------------|---------------|-----------|-------------------------------------------------------|--------------
-**Method**                 |Id             |id         |valid methods via dropdown setup for the org           |Required
-Request Date               |Date           |           |                                                       |Optional
-Receive Date               |Date           |           |must be greater than Request Date                      |Optional
-Results Status             |String         |32 chars   |valid results status via dropdown                      |Optional
-Mito Sequence Number       |String         |16 chars   |                                                       |Optional
-Mito Sequence Subgroup     |String         |16 chars   |                                                       |Optional
-Mito Sequence Similar      |String         |16 chars   |                                                       |Optional
-Base Pairs                 |String         |256 chars  |                                                       |Optional
-Count                      |Number         |           |                                                       |Optional
-Population Frequency       |Number         |           |                                                       |Optional
-Confirmed Regions          |String         |256 chars  |                                                       |Optional
-Mito Polymorphisms         |String         |256 chars  |                                                       |Optional
-Mito Haplogroup            |Id             |id         |valid haplogroups via dropdown setup for the org       |Optional
-MCC Date                   |Date           |           |                                                       |Optional
+| Attributes             | Data Type | Size      | Validation Rule                                  | Required/Optional |
+|------------------------|-----------|-----------|--------------------------------------------------|-------------------|
+| **Method**             | Id        | id        | valid methods via dropdown setup for the org     | Required          |
+| Request Date           | Date      |           |                                                  | Optional          |
+| Receive Date           | Date      |           | must be greater than Request Date                | Optional          |
+| Results Status         | String    | 32 chars  | valid results status via dropdown                | Optional          |
+| Mito Sequence Number   | String    | 16 chars  |                                                  | Optional          |
+| Mito Sequence Subgroup | String    | 16 chars  |                                                  | Optional          |
+| Mito Sequence Similar  | String    | 16 chars  |                                                  | Optional          |
+| Base Pairs             | String    | 256 chars |                                                  | Optional          |
+| Count                  | Number    |           |                                                  | Optional          |
+| Population Frequency   | Number    |           |                                                  | Optional          |
+| Confirmed Regions      | String    | 256 chars |                                                  | Optional          |
+| Mito Polymorphisms     | String    | 256 chars |                                                  | Optional          |
+| Mito Haplogroup        | Id        | id        | valid haplogroups via dropdown setup for the org | Optional          |
+| MCC Date               | Date      |           |                                                  | Optional          |
 
 Click on Save if any of the fields were updated
 
 You will be able to see how many fields that were completed under Mito Form. You will see X/14 fields are filled. 
 
-![](media/new-dna-profile-mito.gif)
 
 ### Auto / AuStr
+
+![](media/dna-auSTR-edit.png)
 
 Click on the auto / austr Tab to update the autosomal DNA fields. 
 
@@ -107,26 +111,27 @@ Click the pencil icon on the top right corner and then click on the auto/austr t
 
 > The screen fields are shown below. Fields in bold are required.
 
-Attributes                 |Data Type      |Size       |Validation Rule                                        |Required/Optional
----------------------------|---------------|-----------|-------------------------------------------------------|-------------
-**Method**                 |Id             |id         |valid methods via dropdown setup for the org           |Required
-Request Date               |Date           |           |                                                       |Optional
-Receive Date               |Date           |           |must be greater than Request Date                      |Optional
-Results Status             |String         |32 chars   |valid results status via dropdown                      |Optional
-Auto Sequence Number       |String         |16 chars   |                                                       |Optional
-Auto Sequence Subgroup     |String         |16 chars   |                                                       |Optional
-Auto Sequence Similar      |String         |16 chars   |                                                       |Optional
-Number of Loci             |String         |256 chars  |                                                       |Optional
-Loci                       |String         |256 chars  |                                                       |Optional
-MCC Date                   |Date           |           |                                                       |Optional
+| Attributes             | Data Type | Size      | Validation Rule                              | Required/Optional |
+|------------------------|-----------|-----------|----------------------------------------------|-------------------|
+| **Method**             | Id        | id        | valid methods via dropdown setup for the org | Required          |
+| Request Date           | Date      |           |                                              | Optional          |
+| Receive Date           | Date      |           | must be greater than Request Date            | Optional          |
+| Results Status         | String    | 32 chars  | valid results status via dropdown            | Optional          |
+| Auto Sequence Number   | String    | 16 chars  |                                              | Optional          |
+| Auto Sequence Subgroup | String    | 16 chars  |                                              | Optional          |
+| Auto Sequence Similar  | String    | 16 chars  |                                              | Optional          |
+| Number of Loci         | String    | 256 chars |                                              | Optional          |
+| Loci                   | String    | 256 chars |                                              | Optional          |
+| MCC Date               | Date      |           |                                              | Optional          |
 
 Click on Save if any of the fields were updated
 
 You will be able to see how many fields that were completed under auto / austr tab. You will see X/10 fields are filled.
 
-![](media/new-dna-profile-auto.gif)
 
 ### Ystr
+
+![](media/dna-Y-STR-edit.png)
 
 Click on the Ystr Tab to the update the Ystr DNA fields. 
 
@@ -134,36 +139,38 @@ Click the pencil icon on the top right corner and then click on the Ystr tab to 
 
 > The screen fields are shown below. Fields in bold are required.
 
-Attributes                 |Data Type      |Size       |Validation Rule                                        |Required/Optional
----------------------------|---------------|-----------|-------------------------------------------------------|--------------
-**Method**                 |Id             |id         |valid methods via dropdown setup for the org           |Required
-Request Date               |Date           |           |                                                       |Optional
-Receive Date               |Date           |           |must be greater than Request Date                      |Optional
-Results Status             |String         |32 chars   |valid results status via dropdown                      |Optional
-Ystr Sequence Number       |String         |16 chars   |                                                       |Optional
-Ystr Sequence Subgroup     |String         |16 chars   |                                                       |Optional
-Ystr Sequence Similar      |String         |16 chars   |                                                       |Optional
-Number of Loci             |String         |256 chars  |                                                       |Optional
-Loci                       |String         |256 chars  |                                                       |Optional
-Count                      |Number         |           |                                                       |Optional
-Population Frequency       |Number         |           |                                                       |Optional
-Ystr Haplogroup            |Id             |id         |valid haplogroups via dropdown setup for the org       |Optional
-MCC Date                   |Date           |           |                                                       |Optional
+| Attributes             | Data Type | Size      | Validation Rule                                  | Required/Optional |
+|------------------------|-----------|-----------|--------------------------------------------------|-------------------|
+| **Method**             | Id        | id        | valid methods via dropdown setup for the org     | Required          |
+| Request Date           | Date      |           |                                                  | Optional          |
+| Receive Date           | Date      |           | must be greater than Request Date                | Optional          |
+| Results Status         | String    | 32 chars  | valid results status via dropdown                | Optional          |
+| Ystr Sequence Number   | String    | 16 chars  |                                                  | Optional          |
+| Ystr Sequence Subgroup | String    | 16 chars  |                                                  | Optional          |
+| Ystr Sequence Similar  | String    | 16 chars  |                                                  | Optional          |
+| Number of Loci         | String    | 256 chars |                                                  | Optional          |
+| Loci                   | String    | 256 chars |                                                  | Optional          |
+| Count                  | Number    |           |                                                  | Optional          |
+| Population Frequency   | Number    |           |                                                  | Optional          |
+| Ystr Haplogroup        | Id        | id        | valid haplogroups via dropdown setup for the org | Optional          |
+| MCC Date               | Date      |           |                                                  | Optional          |
 
 Click on Save if any of the fields were updated
 
 You will be able to see how many fields that were completed under auto / austr tab. You will see X/13 fields are filled.
-
-![](media/new-dna-profile-ystr.gif)
 
 
 ## Batch Edit DNA
 
 Select multiple DNA profiles by clicking on the boxes next to the ones you wish to edit, go to the Actions tab, and select Batch Edit.
 
-![](media/dna-batch-edit.png)
+![](media/dna-batch-edit.gif)
 
 In the popup, select the changes you wish to make and then click on the save icon.
 
-![](media/dna-popup.png)
+## Delete DNA
+
+To delete a dna profile the user will have to delete the entire specimen.
+
+![](media/dna-delete.gif)
 
