@@ -1,15 +1,28 @@
 # Search
 
-!!! warning
-
-    This page is work in progress.
 
 CoRA provides a powerful search engine allowing you to search any modules such as Specimens, DNA, Isotopes, Dental, Missing Persons. 
 Each module can be searched using multiple criteria which are related to that module. 
 
 ## Search History and Favorites
-The search capability also comes with a search history and favorites, which allows the user to look at their search history and
-create favorites from their search history. This allows the user to quick access previous searches they may have done in a project.
+The search capability also comes with a search history and favorites, which allows the user to look at their search history and create favorites from their search history. This allows the user to quick access previous searches they may have done in a project.
+
+![](media/search-history.png)
+
+
+
+![](media/search-history.gif)
+
+The searched type can be added to favorites. By clicking on the favorites from the history tab.
+
+
+![](media/favorite.gif)
+
+To delete the favorites history from favorites tab click on delete
+
+
+![](media/favorite-delete.gif)
+
 
 ## Quick Search
 The quick search capability in CoRA is available in the header. It has 3 main components, the project, the search module, search criteria.
