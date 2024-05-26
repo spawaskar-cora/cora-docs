@@ -406,4 +406,4 @@ Each tab will generate a new call to the server and retrieve the next set of dat
 
 Along with the quick search capability CoRA also provides an advanced search and reporting capability via the reports dashboard feature. 
 The reports dashboard has many reports and each report provides the ability to search using multiple search criteria. See the documentation
-on the [reports dashboard](../Reports/project-reports.md)  
+on the [reports dashboard](../reports/project-reports.md)  

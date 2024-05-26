@@ -1,6 +1,6 @@
 # Org Reports
 
-The project reports dashboard is accessible to only the org administrator. This dashboard has a card view listing of all the project reports.
+This dashboard has a card view listing of all the org reports.
 
 ## Customize Dashboard
 
@@ -162,6 +162,7 @@ The report will return results of of the following if it is available:
  - Side
  - Bone Group
  - Individual Number
+ - Result Confidence
  - Sample Number
  - Collagen Yield
  - Collagen Weight
@@ -176,31 +177,51 @@ The report will return results of of the following if it is available:
  - Carbon-to-Nitrogen Ratio
  - Carbon-to-Oxygen Ratio
 
-![](media/org-isotope-report.gif)
+![](media/org-isotopes-report.gif)
 
-## Specimen by Individual Number Details Report
 
-The Specimen by Individual Number Details Report allows a user to select by project, individual number or bone. Either individual number or bone is required to run the report. If project is blank, the report will retrieve by individual number or bone for all projects. 
+## Missing Persons Report
 
-***The bolded fields are required. The user is required to select a bone or an individual number for this report.***
+The Missing Persons Report allows a user to select by case status, owner service, service member service, conflict, indident, DPAA case status, DPAA priority, case number, name, project, case manager, PCRB priority, genealogy status, updated date, and toggles for the fields DPAA prioritized only, followed up, and updated DCIPS.
+
+***There are no fields required to generate the report.***
 
 The search fields that are available are: 
 
- - Projects
- - **Individual Number**
- - **Bone**
- - Side
+ - Case Status
+ - Owner Service
+ - Service Member Service
+ - Conflict
+ - Incident
+ - DPAA Case Status
+ - DPAA Priority
+ - Case Number
+ - Name
+ - Project
+ - Case Manager
+ - PCRB Priority
+ - Genealogy Status
+ - Updated At
+ - DPAA Prioritized Only
+ - Followed Up
+ - Updated DCIPS
 
 The report will return results of of the following if it is available: 
+ - Case Number
+ - Owner Service
+ - Service Member Service
+ - Case Status
+ - Full Name
+ - Conflict
+ - Incident
+ - Case Manger
  - Project
- - Key
- - Individual Number
- - Bone
- - Side
- - DNA Sample Number
- - DNA Sequence Number
- - Traumas
- - Pathologies
- - Anomalies
+ - Priority DPAA
+ - DPAA Case Status
+ - Followed Up
+ - Updated DCIPS
+ - Priority PCRB
+ - Genealogy Status
 
-![](media/org-specimen-by-individual-number-detail-report.gif)
+![](media/org-missing-persons-report.gif)
+
