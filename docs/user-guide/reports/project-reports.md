@@ -3,18 +3,23 @@
 The project reports dashboard is accessible by all users who have access to specimens. This dashboard has a card view listing of all the project reports.
 
 ## Customize Dashboard
-
 The project reports dashboard is highly customizable. You can expand/collapse all the report tabs or individual tabs and also drag and rearrange the tab arrangement. This arrangement is saved even after the user logs out. This state is saved in your local storage until browser cache is cleared. Each report pane displays an image of its respective sample report showing column names of that report.  
 
 ![](media/project-reports-dashboard.gif)
 
-### Common Actions
-
+## Common Actions
 Each report has a set of search/report criteria that the user can select before generating a report. Once the report is generated the user can perform the following actions that are common across all the reports.
 - Collapse or expand the report criteria.  
 - Choose visible columns on the report  
 - Export as PDF or Excel  
 - Reset the whole report  
+
+## Project Specific Reports
+Below you will find the list of project specific reports available in CoRA.
+
+!!! question
+
+    If you feel like there is a project specific report that is missing or not available, please create a new issue with your report requirements and we will review it and add it to the list of project specific reports.
 
 ### Advanced Specimen Report
 
@@ -236,7 +241,7 @@ The generated report will include the following details in the result:
 
 ![](media/dna-ystr-report.gif)
 
-## Individual Number Report
+### Individual Number Report
 
 The Individual Number Report allows a user to view all individual numbers and related specimen counts. 
 
@@ -501,7 +506,7 @@ The generated report will include the following details in the result:
 
 ![](media/trauma-report.gif)
 
-## Zones Report
+### Zones Report
 
 The Zones Report is designed to allow a user to locate bones by specific zones. 
 
