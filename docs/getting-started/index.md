@@ -14,14 +14,7 @@ The Commingled Remains Analytics (CoRA)[^1] web application, database and APIs a
 (CoRA)[^1] is a powerful web application ecosystem with an open, flexible, scalable, plug-n-play architecture and framework.
 
   [^1]:
-    In 2016, CoRA started out as a simple specimen inventory system for Forensic 
-    Anthropologists. It was first showcased at the [AAFS] 70th Annual Conference 
-    in Seattle, WA in February 2018, but over the course of several years, it's now
-    much more than that – with the many built-in modules such as specimens, dnas, dental,
-    isotopes, missing persons, dashboards, reports, search, analytics, visualizations, 
-    administration, projects, user settings, and countless customization abilities,
-    CoRA is now one of the simplest and most powerful frameworks for managing a 
-    single individual remains project or a complex commingled remains project.
+    In 2016, CoRA started out as a simple specimen inventory system for Forensic Anthropologists. It was first showcased at the [AAFS] 70th Annual Conference in Seattle, WA in February 2018, but over the course of several years, it's now much more than that – with the many built-in modules such as specimens, dnas, dental, isotopes, missing persons, dashboards, reports, search, analytics, visualizations, administration, projects, user settings, and countless customization abilities. CoRA is now one of the simplest and most powerful frameworks for managing a single individual remains project or a complex commingled remains project.
 
   [CoRA-web-app]: https://www.coracore.org
   [AAFS]: ../reference/aafs-2018.md
@@ -31,11 +24,20 @@ The Commingled Remains Analytics (CoRA)[^1] web application, database and APIs a
 If you are wondering what you need to install to start using CoRA for your forensic anthropology project, the answer is **NOTHING** Yes I know its hard to believe, but its true CoRA is built and deployed as a Software as a Service (Saas) model. Why? you ask, because we believe that **you should focus on what you are good at** and leave the mundane technical software and hardware stuff to us.
 
 ### How do I get started
-To get started with CoRA you can reach out to to the author [Dr. Sachin Pawaskar - Personal Email](email:sachinpawaskar@msn.com) or [Dr. Sachin Pawaskar - University Email](email:spawaskar@unomaha.edu) with information about who you are? what is the project that you want to use CoRA for, who are you affiliated with? to start of with. Dr. Pawaskar with get back to you to get the process of using CoRA for your project.
+To get started with CoRA you can reach out to to the author Dr. Sachin Pawaskar on this personal email <sachinpawaskar@msn.com> or his university <spawaskar@unomaha.edu> with information about who you are? what is the project that you want to use CoRA for, who are you affiliated with? to start of with. Dr. Pawaskar with get back to you to get the process of using CoRA for your project.
 
 ### Orgs, Projects and Users
 The CoRA application is structured around the concept of organization, users and projects. What does this mean for you?
 CoRA was designed to be used by both organizations and single users. Organizations can be **government organizations, non-profits, universities or any entity that deals with the identification of missing persons, or segregation of human remains**. Single users could be any single individual who wants to use CoRA for their own project, **a use case might be for university students of forensic anthropology for their Dissertation, Thesis, or Graduate Project work**.
+
+### Who might benefit from the use of CoRA?
+CoRA was designed to be used by both government agencies, universities and single users such as students. 
+
+1. Organizations can be **government organizations**, both federal and local governments or law enforcement.
+2. Non-profits organizations whose mission is to seek social justice for those missing.
+3. Universities who have any medical exemplars of human remains for teaching purposes. 
+4. Students or Individual users who wants to use CoRA for their own project, **a use case might be for university students of forensic anthropology for their Dissertation, Thesis, or Graduate Project work**.
+5. Any entity that deals with the **identification of missing persons, or segregation of human remains**. 
 
 <!-- 
 !!! Note "Testimonial from a student"
@@ -44,7 +46,7 @@ CoRA was designed to be used by both organizations and single users. Organizatio
 -->
 
 ### Reach out over email
-Yoy can reach out to to the author [Dr. Sachin Pawaskar - Personal Email](email:sachinpawaskar@msn.com) or [Dr. Sachin Pawaskar - University Email](email:spawaskar@unomaha.edu)
+You can reach out to to the author Dr. Sachin Pawaskar on this personal email <sachinpawaskar@msn.com> or his university <spawaskar@unomaha.edu>
 
 ### Fill out an issue template
 On Github
