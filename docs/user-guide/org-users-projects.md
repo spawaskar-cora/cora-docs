@@ -2,9 +2,7 @@
 
 The CoRA application is structured around the concept of organization, users and projects. What does this mean for you?
 CoRA was designed to be used by both organizations and single users. Organizations can be government organizations, non-profits, 
-universities or any entity that deals with the identification of missing persons, or segregation of human remains. Single users could be
-any single individual who wants to use CoRA for their own project (although this is rarely the case), a use case might be for university students
-of forensic anthropology. 
+universities or any entity that deals with the identification of missing persons, or segregation of human remains. Single users could be any single individual who wants to use CoRA for their own project, a use case might be for university students of forensic anthropology. 
 
 ``` mermaid
 erDiagram

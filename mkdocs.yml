@@ -46,7 +46,7 @@ theme:
 
     - content.code.annotate
     - content.code.copy
-    # - content.code.select
+    - content.code.select
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
@@ -290,7 +290,7 @@ nav:
       - Bipartite graph: analytics/built-in/bipartite-graph.md
       - Collapsible Tree: analytics/built-in/collapsible-tree.md
       - Hierarchical Clustering: analytics/built-in/hierarchical-clustering.md
-      - Hierarchical Edge Buldling: analytics/built-in/hierarchical-edge-bundling.md
+      - Hierarchical Edge Bundling: analytics/built-in/hierarchical-edge-bundling.md
       - Measurements Scatterplot: analytics/built-in/measurements-scatterplot.md
       - Osteometric Sorting Regression: analytics/built-in/osr.md
       - Refits: analytics/built-in/refits.md
