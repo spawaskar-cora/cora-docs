@@ -262,7 +262,7 @@ These fields are read only - to edit, click the pencil icon. the minimum value, 
 ![](media/measurements.gif)
 
 
-### Association
+### Associations
 
 There are four types of associations. Process of adding each association is shown below. After the association is added, refresh the page to see the Details button updated. The details button opens a data table of all available associations under that specimen.
 
@@ -270,13 +270,13 @@ There are four types of associations. Process of adding each association is show
 
 ![](media/pair-match.gif)
 
-#### Refits
-
-![](media/refits.gif)
-
 #### Articulations
 
 ![](media/articulation.gif)
+
+#### Refits
+
+![](media/refits.gif)
 
 #### Morphology
 
