@@ -147,6 +147,13 @@ To create a multiple specimens via homunculus - click the "New via homunculus" l
     :material-flask-outline: This is an experimental feature and is work in progress. We will keep you posted when this feature is available.
 
 
+## Associate Specimen By Bone Group
+
+!!! warning
+
+     The following section on this page is work in progress.
+
+
 ## Specimen Actions or Details
 
 The screenshot below shows the Actions or Details menu for the selected specimen. Here you can enter association data for the specimen.

@@ -257,6 +257,7 @@ nav:
       - Isotopes: user-guide/modules/isotopes/isotopes.md
       - Individuals: user-guide/modules/individuals/individuals.md
       - Missing Persons: user-guide/modules/missing-persons/missing-persons.md
+      - Tags: user-guide/modules/tags/tags.md
     - Search: 
       - user-guide/search/index.md
     - Reports: 

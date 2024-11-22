@@ -22,7 +22,9 @@
 *[LIMS]: Laboratory Information Management System
 *[MD]: Markdown
 *[ML]: Machine Learning
+*[MVP]: Minimum Viable Product
 *[npm]: Node Package Manager
+*[O&M]: Operations and Maintenance
 *[OS]: Operating System
 *[pgAdmin]: PostgreSQL Database Administration & Development Tool
 *[pgsql]: PostgreSQL Database

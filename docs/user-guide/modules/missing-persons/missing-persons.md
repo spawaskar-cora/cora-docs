@@ -112,6 +112,12 @@ Making changes to many cases at the same time can be performed with the batch ed
 
 Here you will be able to select "Batch Edit" and update one or more fields for each of the selected cases.
 
+## MissingPersonChatbot
+
+!!! warning
+
+     The following section on this page is work in progress.
+
 ## Managing Cases
 
 CoRA allows you to look at and manage missing person cases with ease and flexibility. Select a specific case by selecting the case number underlined in blue. Once you select the case, a page will open with the details of the selected case.
