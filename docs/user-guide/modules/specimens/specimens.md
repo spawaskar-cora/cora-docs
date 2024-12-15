@@ -149,9 +149,15 @@ To create a multiple specimens via homunculus - click the "New via homunculus" l
 
 ## Associate Specimen By Bone Group
 
-!!! warning
+The screenshot below shows the  navigation to associate specimen by bone group.
 
-     The following section on this page is work in progress.
+![](media/associate-bonegroup-nav.gif)
+
+
+The screenshot below shows the  Details to associate selected bone groups. Here you can enter association data for the specimen.
+Each of the Action is explained in the following section.
+
+![](media/associate-specimen-by-bonegroup.gif)
 
 
 ## Specimen Actions or Details
