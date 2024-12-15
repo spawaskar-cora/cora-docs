@@ -36,5 +36,6 @@
 *[SLIM]: Specimen Level Inventory Management
 *[SVG]: Scalable Vector Graphics
 *[UI]: User Interface
+*[UUID]: Universally Unique Identifier
 *[UX]: User Experience
 *[W3C]: World Wide Web Consortium
