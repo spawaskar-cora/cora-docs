@@ -4,6 +4,7 @@
 *[API]: Application Programming Interface
 *[APIs]: Application Programming Interfaces
 *[ARIA]: Accessible Rich Internet Applications
+*[CLI]: Command Line Interface
 *[CMMC]: Cybersecurity Maturity Model Certification
 *[CRUD]: Create Read Update and Delete
 *[CSS]: Cascading Style Sheet
