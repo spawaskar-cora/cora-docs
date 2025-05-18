@@ -70,24 +70,37 @@ The different search category for Specimen search are:
 
 Once you complete your search, you are taken to the Specimens search screen. The following columns are visible for all the specimens search:
 
-- Key
-- Bone
-- Side
-- Bone Group
-- Individual Number
-- DNA Sample Number
-- Mito Sequence Number
-- Dental Codes
-- Associations
-- Methods
-- Pathology
-- Measured
-- Isotope Sampled
-- Clavicle Triage
-- CT Scanned
-- Xray Scanned
+**The columns that are bolded are sortable.**
+*The columns that are italicized are searchable.*
+(Columns can be both sortable and searchable)
 
-There are some columns which are not displayed at the screen but can be made visible by checking the column visibility section. The names of those columns are given below:
+- **Key**
+- **Bone**
+- **Side**
+- **Bone Group**
+- ***Individual Number***
+- ***DNA Sample Number***
+- ***Mito Sequence Number***
+- Associations
+- Pathology
+- Methods
+- **Complete**
+- **Isotope Sampled**
+
+
+
+
+There are some columns which are not displayed on the screen but can be made visible by checking via the column visibility section. The names of those columns are given below:
+
+- **Accession Number**
+- ***Provenance1***
+- ***Provenance2***
+- Designator
+- Taphonomy
+- Tags
+- Dental Codes
+- Measured
+- Clavicle Triage
 - Count
 - Mass
 - Min Age
@@ -95,10 +108,14 @@ There are some columns which are not displayed at the screen but can be made vis
 - Custom Field 1
 - Custom Field 2
 - Custom Field 3
+- CT Scanned
+- CT Scanned At
+- Xray Scanned
+- Xray Scanned At
 - Inventoried
-- Reviewed
 - Inventoried By
 - Inventoried At
+- Reviewed
 - Reviewed By
 - Reviewed At
 - Created By
@@ -142,20 +159,30 @@ The different search category for DNA search are:
 
 Once you complete your search, you are taken to the DNA search screen. The following columns are visible for all the DNA search:
 
+**The columns that are bolded are sortable.**
+*The columns that are italicized are searchable.*
+(Columns can be both sortable and searchable)
+
 - Key
 - Bone
 - Side
 - Bone Group
-- Individual Number
-- DNA Sample Number
-- External Case ID
-- Result Status
-- Mito Sequence Number
-- Mito Sequence Subgroup
+- *Individual Number*
+- ***Sample Number***
+- **External Case ID**
+- **External Sample Number**
+- **Result Status**
+- ***Mito Sequence Number***
+- **Mito Sequence Subgroup**
 - Mito Sequence Similar
-- Receive Date
+- **Receive Date**
 
-There are some columns which are not displayed at the screen but can be made visible by checking the column visibility section. The names of those columns are given below:
+There are some columns which are not displayed on the screen but can be made visible by checking the column visibility section. The names of these columns are given below:
+
+- Accession Number
+- *Provenance 1*
+- *Provenance 2*
+- Designator
 - Created By
 - Created At
 - Updated By
@@ -195,21 +222,36 @@ The different search category for Isotope search are:
 
 Once you complete your search, you are taken to the Isotope search screen. The following columns are visible for all the Isotope search:
 
+**The columns that are bolded are sortable.**
+*The columns that are italicized are searchable.*
+(Columns can be both sortable and searchable)
+
 - Key
 - Bone
 - Side
-- Isotope ID
-- Batch ID
-- Bone Group
-- DNA Sample Number
+- *Isotope ID*
+- Lab ID
+- *Batch ID*
+- *Sample Number*
 - External Case ID
 - WeightSample Cleaned
 - Yield Collagen
-- Lab ID
-- Demineralization start Date
-- Demineralization End Date
+- Weight Vial Lid
 
 There are some columns which are not displayed at the screen but can be made visible by checking the column visibility section. The names of those columns are given below:
+
+- Bone Group
+- *Individual Number*
+- Demineralization start Date
+- Demineralization End Date
+- C Delta
+- C Percent
+- C Weight
+- C to N Ratio
+- C to O Ratio
+- N Delta
+- N Percent
+- N Weight
 - O Percent
 - O Weight
 - S Delta
@@ -249,6 +291,10 @@ The different search category for Dental search are:
 
 Once you complete your search, you are taken to the Dental search screen. The following columns are visible for all the Dental search:
 
+**The columns that are bolded are sortable.**
+*The columns that are italicized are searchable.*
+(Columns can be both sortable and searchable)
+
 - Key
 - Bone
 - Side
@@ -265,6 +311,7 @@ Once you complete your search, you are taken to the Dental search screen. The fo
 - Clavicle Triage
 
 There are some columns which are not displayed at the screen but can be made visible by checking the column visibility section. The names of those columns are given below:
+
 - Count
 - Mass
 - Min Age
@@ -315,7 +362,11 @@ The different search category for missing person search are:
 
 Once you complete your search, you are taken to the Dental search screen. The following columns are visible for all the Dental search:
 
-- Case Number
+**The columns that are bolded are sortable.**
+*The columns that are italicized are searchable.*
+(Columns can be both sortable and searchable)
+
+- *Case Number*
 - Case Status
 - Full Name
 - Conflict
@@ -413,7 +464,6 @@ The server renders all results queried from the project search bar request, allo
 Each tab will generate a new call to the server and retrieve the next set of data. This search option is ideal for project with larger sets of data. Search result filter is not available with this option.
 
 ![](media/specimen-row-data.png)
-
 
 ## Advanced Search & Reporting
 

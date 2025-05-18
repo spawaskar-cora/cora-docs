@@ -81,28 +81,38 @@ The bolded fields are required.
 
 ### Multiple via Dental Chart
 
-To create a multiple specimens via Dental Chart - navigate to the Left Sidebar Menu -> dental -> New via Dental Chart. You will be taken to the create dental specimen screen.
+To create a multiple specimens via Dental Chart - navigate to the Left Sidebar Menu -> dental -> New via Dental Chart. You will be taken to the create Teeth by Dental Chart.
 
 ![](media/create-specimen-dentition-chart-navigation.png)
 
 You are now in the create page for the new dental via dental chart of the CoRA application. User can create following the below steps.
 
-![](media/create-specimen-dentition-chart.gif)
+![](media/dentalchart-navigation.gif)
 
+***The bolded fields are required. The user is required to select Tooth or Dental Code for this report.***
+ 
+*The italicized fields are optional if one of the required fields is selected*
+ 
 The fields to create a new bone group are:
+ 
+- ***Accession Number***
+- Provenance1
+- Provenance2
+- ***Starting Designator Number***
+- Bone Group* (defaulted to 'Skull')
+- ***Completeness***
+- Numbering System* (defaulted to 'Universal')
+- Tooth Selection (defaulted to 'Whole Tooth' but we can select from the required options)
+- Dental Code
+ 
+- Apply Dental Codes on click: When selected, clicking on a tooth assigns the selected Dental Code to that tooth.
+- Clear Dental Codes on click: When selected, clicking on a tooth removes any assigned Dental Code.
+ 
+Your new dental chart will now be saved, when clicked on save option
 
-- **Accession Number**
-- Provenance 1
-- Provenance 2
-- **Designator**
-- **Bone group**
-- **Completeness** (defaulted to 'Complete')
-- **Teeth**
-- **Numbering System** (defaulted to 'Universal')
-- **Tooth Selection** (defaulted to 'Whole Tooth')
-- **Dental Code** (defaulted to 'Missing Postmortem')
+![](media/dental-createbychart.gif)
 
-Your new dental chart will now be saved.
+![](media/dental-createbychart-data.gif)
 
 if the bone group selected is Mandibular dentition, below dental chart will be presented
 
@@ -111,18 +121,3 @@ if the bone group selected is Mandibular dentition, below dental chart will be p
 if the bone group selected is Maxillary dentition, below dental chart will be presented
 
 ![](media/maxillary-chart.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

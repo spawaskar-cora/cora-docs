@@ -583,15 +583,17 @@ The Dental Report allows a user to generate report for the tooth and the selecte
 
 On Project Reports Dashboard, Click on Go button for Dental Report to view the report.
 
-***The bolded fields are required. The user is required to select Tooth and Dental Code for this report.***
+***The bolded fields are required. The user is required to select Tooth or Dental Code for this report.***
+
+*The italicized fields are optional if one of the required fields is selected*
 
 The search fields that are available are:
 
 * Accession Number
 * Provenance 1
 * Provenance 2
-* **Tooth**
-* **Dental Code**
+* ***Tooth***
+* ***Dental Code***
 * Request Dates From
 * Request Dates To
 * Receive Date From
@@ -606,16 +608,12 @@ The generated report will include the following details in the result:
 * Side
 * Bone Group
 * Individual Number
-* DNA Sampled
-* Mito Sequence Number
 * Dental Code
-* Associations
-* Pathology
-* Methods
+* DNA Sampled
+* Sample Number
+* Mito Sequence Number
 * Measured
-* Isotope
-* Sampled
-* Clavicle Triage
+* Isotope Sampled
 
 ![](media/dental-report.gif)
 

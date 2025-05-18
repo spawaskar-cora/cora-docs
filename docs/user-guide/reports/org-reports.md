@@ -206,7 +206,7 @@ The search fields that are available are:
  - Followed Up
  - Updated DCIPS
 
-The report will return results of of the following if it is available: 
+The report will return results of the following if it is available: 
  - Case Number
  - Owner Service
  - Service Member Service
@@ -225,8 +225,68 @@ The report will return results of of the following if it is available:
 
 ![](media/org-missing-persons-report.gif)
 
-## Missing Persons Report
+## User Report
+
+The User Report allows the Org Administrator to see what actions different users have taken, such as creating bones, 
+specimens, and even their login events.
+
+***There are no fields required to generate the report.***
+
+The search fields that are available are:
+
+- Project
+- User
+- Activity
+- From
+- To
 
 !!! warning
 
-     The following section on this page is work in progress.
+    This report is a work in progress.
+
+![](media/)
+
+
+
+### Dental Report
+
+The Dental Report allows a user to generate report for the tooth and the selected dental code.
+
+On Project Reports Dashboard, Click on Go button for Dental Report to view the report.
+
+***The bolded fields are required. The user is required to select Tooth or Dental Code for this report.***
+
+*The italicized fields are optional if one of the required fields is selected*
+
+The search fields that are available are:
+
+* Accession Number
+* Provenance 1
+* Provenance 2
+* ***Tooth***
+* ***Dental Code***
+* Request Dates From
+* Request Dates To
+* Receive Date From
+* Receive Dates To
+
+Once the required fields are selected, click on the generate button at the top to view the report.
+
+The generated report will include the following details in the result:
+
+* Key
+* Project Name
+* Bone
+* Side
+* Bone Group
+* Individual Number
+* Dental Code
+* DNA Sampled
+* Sample Number
+* Mito Sequence Number
+* Measured
+* Isotope Sampled
+
+![](media/org-dental-report.gif)
+
+
