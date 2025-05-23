@@ -225,30 +225,7 @@ The report will return results of the following if it is available:
 
 ![](media/org-missing-persons-report.gif)
 
-## User Report
-
-The User Report allows the Org Administrator to see what actions different users have taken, such as creating bones, 
-specimens, and even their login events.
-
-***There are no fields required to generate the report.***
-
-The search fields that are available are:
-
-- Project
-- User
-- Activity
-- From
-- To
-
-!!! warning
-
-    This report is a work in progress.
-
-![](media/)
-
-
-
-### Dental Report
+## Dental Report
 
 The Dental Report allows a user to generate report for the tooth and the selected dental code.
 
@@ -288,5 +265,26 @@ The generated report will include the following details in the result:
 * Isotope Sampled
 
 ![](media/org-dental-report.gif)
+
+## User Report
+
+The User Report allows the Org Administrator to see what actions different users have taken, such as creating bones, 
+specimens, and even their login events.
+
+***There are no fields required to generate the report.***
+
+The search fields that are available are:
+
+- Project
+- User
+- Activity
+- From
+- To
+
+!!! warning
+
+    This report is a work in progress.
+
+
 
 
