@@ -11,6 +11,7 @@
 *[CSV]: Comma Separated Values
 *[CUI]: Controlled Unclassified Information
 *[DB]: Database
+*[DBMS]: Database Management System
 *[DCIPS]: Defense Civilian Intelligence Personnel System
 *[DDL]: Data Definition Language
 *[dH~2~O]: Distilled Water

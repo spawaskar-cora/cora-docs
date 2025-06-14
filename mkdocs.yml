@@ -296,10 +296,12 @@ nav:
       - Osteometric Sorting Regression: analytics/built-in/osr.md
       - Refits: analytics/built-in/refits.md
       - Relationships graph: analytics/built-in/single-multiple-relationship-graph.md
+    - Knowledge Graphs:
+      - analytics/knowledge-graphs/index.md
   - Reference:
     - Country Language Timezone: reference/country-language-timezone.md
     - Contributing: reference/contributing.md
     - Reference list: reference/references.md
     - Icons, Emojis: reference/icons-emojis.md
     - AAFS 2018 Conference: reference/aafs-2018.md
-
+  
