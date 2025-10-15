@@ -290,12 +290,14 @@ nav:
       - analytics/built-in/index.md
       - Bipartite graph: analytics/built-in/bipartite-graph.md
       - Collapsible Tree: analytics/built-in/collapsible-tree.md
+      - DNA Mito: analytics/built-in/dna-mito.md
       - Hierarchical Clustering: analytics/built-in/hierarchical-clustering.md
       - Hierarchical Edge Bundling: analytics/built-in/hierarchical-edge-bundling.md
       - Measurements Scatterplot: analytics/built-in/measurements-scatterplot.md
       - Osteometric Sorting Regression: analytics/built-in/osr.md
       - Refits: analytics/built-in/refits.md
       - Relationships graph: analytics/built-in/single-multiple-relationship-graph.md
+      - Stature Estimation: analytics/built-in/stature-estimation.md
     - Knowledge Graphs:
       - analytics/knowledge-graphs/index.md
   - Reference:
