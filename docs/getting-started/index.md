@@ -51,7 +51,10 @@ CoRA was designed to be used by both government agencies, universities and singl
 -->
 
 ### Reach out over email
-You can reach out to to the author Dr. Sachin Pawaskar on this personal email <sachinpawaskar@msn.com> or his university <spawaskar@unomaha.edu>
+You can reach out to to the author Dr. Sachin Pawaskar on his personal email <sachinpawaskar@msn.com> or his university <spawaskar@unomaha.edu>. 
+
+### Initial Setup Template
+Once we establish the usage of CoRA for your organization or project, you will have to provide some initial setup information related to the organization, project and its users by filling out the following [cora new organization projects and users template](../assets/templates/new-organization-project-user-template.docx)
 
 ### Fill out an issue template
 On Github
