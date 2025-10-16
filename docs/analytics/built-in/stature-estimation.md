@@ -12,7 +12,7 @@ From the left navigation:
 
 This section enables users to estimate the stature of an individual using specific skeletal remains and reference methods.
 
-### Step 1: Select Parameters
+## Select Parameters
 
 Use the filter bar at the top of the page to configure your input:
 
@@ -28,7 +28,7 @@ This module estimates the likely height of an individual based on bone measureme
 
 ## Two Approaches to Stature Estimation
 
-###  Approach 1: Visualization Using a Single Specimen
+###  Approach 1: Single Specimen
 
 1. **Select**:
    - **Individual Number**
@@ -46,9 +46,8 @@ This module estimates the likely height of an individual based on bone measureme
 
  This approach is ideal for quick, visual insights using one specific bone.
 
----
 
-### Approach 2: Aggregated Calculation Using All Specimens for Selected Individual Number
+### Approach 2: Specimens in Individual
 
 1. **Select**:
    - **Individual Number**
@@ -89,9 +88,6 @@ The **Precedence Order** checkbox allows users to **prioritize the order of spec
 
 > Use this feature when you want consistent and scientifically prioritized height estimations based on bone type.
 
----
----
-
 ## Interface Overview
 
 ###  Filter Panel Options
@@ -104,15 +100,12 @@ The **Precedence Order** checkbox allows users to **prioritize the order of spec
 
 ![Stature Filter Selection](media/stature-estimation-dropdowns.png)
 
----
 
 ###  Visualization Tab
 
 Displays a visual skeleton aligned with a height chart based on selected method.
 
 ![Stature Filter Selection](media/stature-estimation-single-specimen.png)
-
----
 
 ### Stature Calculations Tab
 
@@ -126,7 +119,5 @@ Provides a tabular view of:
      - **Minimum, Maximum, and Average** height for the individual
 
 ![Stature Filter Selection](media/stature-estimation-calculations.png)
-
----
 
 *This module supports detailed forensic reporting and anthropological research by leveraging scientifically validated height estimation models.*
