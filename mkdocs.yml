@@ -267,7 +267,10 @@ nav:
       - Project reports: user-guide/reports/project-reports.md
     - Dashboards: 
       - user-guide/dashboards/index.md
+      - DNA dashboard: user-guide/dashboards/dna-dashboard.md
+      - Isotope dashboard: user-guide/dashboards/isotope-dashboard.md
       - Org dashboard: user-guide/dashboards/org-dashboard.md
+      - Missing Person dashboard: user-guide/dashboards/missing-person-dashboard.md
       - User dashboard: user-guide/dashboards/user-dashboard.md
       - Project dashboard: user-guide/dashboards/project-dashboard.md
     - File Export Import: 
@@ -306,4 +309,3 @@ nav:
     - Reference list: reference/references.md
     - Icons, Emojis: reference/icons-emojis.md
     - AAFS 2018 Conference: reference/aafs-2018.md
-  
