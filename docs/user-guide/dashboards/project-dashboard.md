@@ -1,5 +1,5 @@
 # Project Dashboard
- 
+
 ## Ca'Granda Project Manager Dashboard
  
 From the left sidebar, navigate to the Dashboard to access the main interface for Ca'Granda
@@ -14,7 +14,7 @@ On the left side bar - you can access the main options for dashboards.
  
 We can see the dashboard for Ca'Granda
  
-### View Chambers in Ca’Granda
+## Ca’Granda Chambers
  
 ![](media/cagranda-chamber.png)
  
@@ -30,7 +30,7 @@ The details shown include:
 * Total Chamber Bone Count
 * All Shafts (c19, c21 only have data)
  
-### View Shafts in the Chambers
+## Chamber Shafts
  
 ![](media/cagranda-shaft.png)
  
@@ -46,7 +46,7 @@ The details include:
 * Created By
 * Total Shaft Bone Count
  
-### Using Filters
+## Filters
  
 ![](media/cagranda-filter.png)
  
