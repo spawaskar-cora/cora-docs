@@ -11,7 +11,7 @@ Currently Tags can be created of the following types:
 
 ## Create Tags
 
-### Create Tags via Specimen 
+### Create Tags via Specimen
 
 Tags can be created and assigned to individuals skeletal elements using the Specimen Screen. Follow the steps below to do it:
 
@@ -21,11 +21,11 @@ Tags can be created and assigned to individuals skeletal elements using the Spec
 - It display multiple sections for modifications.
 
 ![edit specimen screen](media/edit-specimen-screen.png)
-   
+
 for example you can locate the specimen as below:
 
 ![search specimens](media/search-specimens.gif)
-   
+
 
 2. **Navigate to the Tags Section and Create a New Tag:**
 
@@ -54,7 +54,7 @@ for example you can locate the specimen as below:
 
 ![assign tag to specimen](media/assign-tag-to-specimen.gif)
 
-### Create Tags Through DNA 
+### Create Tags Through DNA
 
 Tags can be created and assigned to individuals skeletal elements using the DNA Screen. Follow the steps below to do it:
 

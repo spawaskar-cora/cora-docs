@@ -1,8 +1,8 @@
 # Search
 
 
-CoRA provides a powerful search engine allowing you to search any modules such as Specimens, DNA, Isotopes, Dental, Missing Persons. 
-Each module can be searched using multiple criteria which are related to that module. 
+CoRA provides a powerful search engine allowing you to search any modules such as Specimens, DNA, Isotopes, Dental, Missing Persons.
+Each module can be searched using multiple criteria which are related to that module.
 
 ## Search History and Favorites
 The search capability also comes with a search history and favorites, which allows the user to look at their search history and create favorites from their search history. This allows the user to quick access previous searches they may have done in a project.
@@ -37,7 +37,7 @@ You can change your model criteria anytime you want via this dropdown.
 
 ### Search String/Value
 The search string or value is provided by the user by either typing the search string or selecting a value from a the dropdown.
-The values in the dropdown will change based on the module selected iby the user. CoRA has a built in `intellisense engine` that will provide 
+The values in the dropdown will change based on the module selected iby the user. CoRA has a built in `intellisense engine` that will provide
 the user with the most appropriate or valid search options for the selected project and module.
 
 
@@ -128,7 +128,7 @@ There are some columns which are not displayed on the screen but can be made vis
 ![](media/specimen-search.gif)
 
 On this page you can filter how many results are shown per page, as well as search the results.
-To view the details of a skeletal elements, click on the key in the search results. You can also export the search results in Excel and PDF format. 
+To view the details of a skeletal elements, click on the key in the search results. You can also export the search results in Excel and PDF format.
 
 ![](media/specimen-filter.png)
 
@@ -389,7 +389,7 @@ There are some columns which are not displayed at the screen but can be made vis
 - OMPF Status
 - CSR Status
 - Awards Status
-- Updated 
+- Updated
 - Updated by
 
 ![](media/missing-person-search.gif)
@@ -467,6 +467,6 @@ Each tab will generate a new call to the server and retrieve the next set of dat
 
 ## Advanced Search & Reporting
 
-Along with the quick search capability CoRA also provides an advanced search and reporting capability via the reports dashboard feature. 
+Along with the quick search capability CoRA also provides an advanced search and reporting capability via the reports dashboard feature.
 The reports dashboard has many reports and each report provides the ability to search using multiple search criteria. See the documentation
 on the [reports dashboard](../reports/project-reports.md)  

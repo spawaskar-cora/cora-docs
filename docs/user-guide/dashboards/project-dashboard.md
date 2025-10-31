@@ -1,5 +1,5 @@
 # Project Dashboard
-
+ 
 ## Ca'Granda Project Manager Dashboard
  
 From the left sidebar, navigate to the Dashboard to access the main interface for Ca'Granda
@@ -29,7 +29,7 @@ The details shown include:
 * Created By
 * Total Chamber Bone Count
 * All Shafts (c19, c21 only have data)
- 
+
 ## Chamber Shafts
  
 ![](media/cagranda-shaft.png)
@@ -45,7 +45,7 @@ The details include:
 * Provenance
 * Created By
 * Total Shaft Bone Count
- 
+
 ## Filters
  
 ![](media/cagranda-filter.png)
