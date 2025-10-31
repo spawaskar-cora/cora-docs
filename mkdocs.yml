@@ -249,6 +249,7 @@ nav:
       - user-guide/site-navigation/index.md
     - Org Users Projects: user-guide/org-users-projects.md
     - User Roles Permissions: user-guide/user-roles-permissions.md
+    - Login & Authentication: user-guide/auth/user-authentication.md
     - Modules:
       - user-guide/modules/index.md
       - Specimens: user-guide/modules/specimens/specimens.md
@@ -267,12 +268,13 @@ nav:
       - Project reports: user-guide/reports/project-reports.md
     - Dashboards: 
       - user-guide/dashboards/index.md
+      - Project dashboard: user-guide/dashboards/project-dashboard.md
       - DNA dashboard: user-guide/dashboards/dna-dashboard.md
+      - Individual dashboard: user-guide/dashboards/individual-dashboard.md
       - Isotope dashboard: user-guide/dashboards/isotope-dashboard.md
-      - Org dashboard: user-guide/dashboards/org-dashboard.md
       - Missing Person dashboard: user-guide/dashboards/missing-person-dashboard.md
       - User dashboard: user-guide/dashboards/user-dashboard.md
-      - Project dashboard: user-guide/dashboards/project-dashboard.md
+      - Org dashboard: user-guide/dashboards/org-dashboard.md
     - File Export Import: 
       - user-guide/file-export-import/index.md
     - Mobile Readiness: 
