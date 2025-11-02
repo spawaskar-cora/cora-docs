@@ -127,4 +127,52 @@ In the Last Login tab the user can view information such as last login time, Dev
 
 In the User Activity tab the user can view the user activity feed for specimens as a table with columns such as Key, Name, Side, Completeness and Updated At details. Also there is the user activity feed table for DNA with the fields such as key, Mito sequence Number, Mito sequence subgroup and Update at columns with details.
 
-![](../assets/screenshots/administration/useractivity.png)
+![](../assets/screenshots/administration/useractivity.png) 
+
+# User Notifications
+
+The **User Notifications** feature keeps users informed about important updates, activities, or system events related to their work in CoRA. Notifications appear in two areas
+1. The popup panel
+2. The Notifications Management page.
+
+![](media/user-notifications.gif)
+
+## Popup Notifications
+
+Users can access notifications by clicking the **bell icon** beside their profile avatar at the top-right corner of the screen.  
+When selected, a popup appears showing a summary of recent notifications.
+
+Within this popup:
+
+- **Unread Notifications Count** – Displays the total number of unread notifications for the user.
+- **Type** – The category of the notification, such as *System*, *User*, or *Project*.
+- **Details** – A short message summarizing the event or action.
+- **Actions** –
+   - **View All (eye icon):** Opens the Notifications Management page.
+   - **Mark All as Read (checkmark icon):** Marks all displayed notifications as read.
+
+If there are no notifications available, the message **“No data available”** is displayed.
+
+<img src="media/popup-panel.png" width="400px" alt="popup-panel">
+
+## Notifications Management
+
+Clicking the **eye icon** from the popup opens the **Notifications Management** screen.  
+This page lists all notifications for the user, allowing them to review, filter, or manage notifications as needed.
+
+Fields in this table include:
+
+- **Type** – Identifies the type of notification (for example, *System*, *User*, or *Project*).
+- **Description** – Provides a short summary of the event or update.
+- **Details** – Displays additional information related to the notification, such as specimen ID or user activity.
+- **Read** – Indicates whether the notification has been viewed.
+- **Created At** – Shows the date and time the notification was generated.
+- **Actions** – Allows the user to mark a notification as read or perform other related actions.
+
+![](media/notification-management.png)
+
+At the bottom of the page, the **Items per page** dropdown lets users control how many notifications are visible at once.
+
+If there are no notifications to display, the message **“No data available”** will appear.
+
+
