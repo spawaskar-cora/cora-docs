@@ -129,15 +129,15 @@ In the User Activity tab the user can view the user activity feed for specimens 
 
 ![](../assets/screenshots/administration/useractivity.png) 
 
-# User Notifications
+## User Notifications
 
 The **User Notifications** feature keeps users informed about important updates, activities, or system events related to their work in CoRA. Notifications appear in two areas
 1. The popup panel
 2. The Notifications Management page.
 
-![](media/user-notifications.gif)
+![user-notification](media/user-notifications.gif)
 
-## Popup Notifications
+### Popup Notifications
 
 Users can access notifications by clicking the **bell icon** beside their profile avatar at the top-right corner of the screen.  
 When selected, a popup appears showing a summary of recent notifications.
@@ -153,9 +153,9 @@ Within this popup:
 
 If there are no notifications available, the message **“No data available”** is displayed.
 
-<img src="media/popup-panel.png" width="400px" alt="popup-panel">
+![user-notification](media/popup-panel.png)
 
-## Notifications Management
+### Notifications Management
 
 Clicking the **eye icon** from the popup opens the **Notifications Management** screen.  
 This page lists all notifications for the user, allowing them to review, filter, or manage notifications as needed.
@@ -169,7 +169,7 @@ Fields in this table include:
 - **Created At** – Shows the date and time the notification was generated.
 - **Actions** – Allows the user to mark a notification as read or perform other related actions.
 
-![](media/notification-management.png)
+![notification-management](media/notification-management.png)
 
 At the bottom of the page, the **Items per page** dropdown lets users control how many notifications are visible at once.
 

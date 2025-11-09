@@ -1,10 +1,6 @@
 # Dashboards
 
-!!! warning
-
-    This page is work in progress.
-
-# Dashboard Navigation
+## Dashboard Navigation
 
 ![](media/dashboard-navigation.png)
 
@@ -12,10 +8,111 @@
 
 On the left side bar - you can access the main options for dashboards. 
 
-There are three different dashboards available in CoRA with each view being driven by the user's profile attributes.
-1.  The Org Admin Dashboard
-2.  The Project Manager Dashboard
-3.  The User Dashboard
+There are many different dashboards available in CoRA with each view being driven by the user's profile attributes.
+1. The Org Admin Dashboard
+2. The Project Manager Dashboard
+3. The User Dashboard
+4. The DNA Dashboard
+5. The Isotope Dashboard
+6. The Missing Person Dashboard
+7. The Individual Analytics Dashboard
+8. The Individual Dashboard - coming soon
+
+## User Preferences for Dashboard
+
+CoRA dashboards provide several user preference options that allow you to customize your dashboard layout and view according to your workflow needs. These preferences enable you to personalize widget arrangement, visibility, and overall dashboard organization.
+
+### Accessing the Dashboard
+
+There are two ways to access your project dashboard:
+
+1. **Dashboard Icon Method**: Click the dashboard icon located next to the "Current Project" dropdown in the top navigation bar
+2. **Sidebar Method**: Click "Dashboard" from the left sidebar navigation menu
+
+![Accessing Dashboard Methods](media/accessing-dashboard.gif){ width="700" }
+
+Both methods will navigate you to the project dashboard view where you can utilize the user preference features.
+
+### Collapse and Expand
+
+The collapse and expand feature allows you to quickly manage the visibility of all widgets on your dashboard simultaneously.
+
+![Collapse and Expand All Widgets](media/collapse-expand-widgets.gif){ width="700" }
+
+**To collapse all widgets:**
+1. Locate the collapse/expand icon in the top toolbar (positioned before the help icon)
+2. Click the icon once to collapse all dashboard widgets
+3. All widgets will minimize, showing only their titles and basic information
+
+**To expand all widgets:**
+1. Click the same collapse/expand icon again
+2. All widgets will return to their full expanded view, displaying their complete data visualizations
+
+This feature is particularly useful when you need to:
+- Get a quick overview of available widgets without scrolling
+- Temporarily reduce visual clutter on the dashboard
+- Quickly navigate between different sections of a large dashboard
+
+### Drag and Drop Widgets
+
+The drag and drop functionality enables you to rearrange widgets on your dashboard to create a personalized layout that matches your workflow preferences.
+
+![Drag and Drop Widget Rearrangement](media/drag-drop-widgets.gif){ width="700" }
+
+**To move widgets:**
+1. Position your cursor over the widget you want to move
+2. Click and hold on the widget's header area
+3. Drag the widget to your desired location on the dashboard
+4. Release the mouse button to drop the widget in its new position
+
+**Layout Benefits:**
+- Prioritize frequently used widgets by placing them at the top
+- Group related widgets together for easier data comparison
+- Create a workflow-optimized arrangement based on your daily tasks
+
+The drag and drop feature maintains your custom layout throughout your session, allowing you to work more efficiently with your preferred widget organization.
+
+### Remove Widgets
+
+You can remove individual widgets from your dashboard view to focus only on the data that's relevant to your current work.
+
+![Remove Widgets from Dashboard](media/remove-widgets.gif){ width="700" }
+
+**To remove a widget:**
+1. Locate the widget you want to remove
+2. Click the "X" (cross) icon in the widget's control area (top-right corner of the widget)
+3. The widget will immediately disappear from your dashboard view
+
+**Important Notes:**
+- Removing a widget only hides it from your current dashboard view
+- The widget and its data are not permanently deleted
+- You can restore removed widgets using the Reset Dashboard feature
+- This feature helps create a cleaner, more focused workspace
+
+### Reset Preferences
+
+The reset dashboard feature allows you to quickly restore your dashboard to its original default state, undoing all customizations you've made.
+
+**To reset your dashboard:**
+1. Locate the reset dashboard icon in the top toolbar
+2. Click the reset icon
+3. Your dashboard will immediately return to the default layout
+
+![Reset Dashboard Button Location](media/reset-dashboard.png){ width="700" }
+
+**What gets reset:**
+- **Widget positions**: All widgets return to their original default positions
+- **Removed widgets**: Any widgets you've closed/removed will reappear on the dashboard
+- **Custom arrangements**: Your personalized drag-and-drop layout will be restored to the system default
+
+**When to use reset:**
+- When you want to start fresh with widget arrangement
+- If you've accidentally removed important widgets and want them back quickly
+- When switching between different types of analysis work that require different layouts
+- To restore the dashboard after experimenting with different configurations
+
+The reset feature provides a quick way to return to a known working state without having to manually restore each individual change.
+
 
 ## Dashboard Widgets
 
@@ -322,5 +419,5 @@ Below are the fields that are visible:
 
 
 
- 
- 
+
+
