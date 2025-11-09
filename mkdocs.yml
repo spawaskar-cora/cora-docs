@@ -116,9 +116,15 @@ theme:
 
 plugins:
   - search
+  - glightbox
   - git-revision-date-localized:
       enable_creation_date: true
       type: timeago
+  - print-site:
+      add_to_navigation: true
+      print_page_title: 'Print'
+      print_page_basename: 'print_cora_docs'
+      combined: true # Generates a single PDF for the entire site
   # - git-committers:
   #     repository: spawaskar-cora/cora-docs
   #     branch: master
