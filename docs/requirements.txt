@@ -8,3 +8,4 @@ pymdown-extensions==10.5
 mkdocs-git-revision-date-localized-plugin==1.2.1
 mkdocs-git-committers-plugin-2==0.3.0
 mkdocs-git-authors-plugin==0.1.2
+mkdocs-glightbox==0.5.2
