@@ -13,12 +13,12 @@ Security Notes - brief, non-technical context for the checks happening during si
 
 ## How to Log In as a User
 
-### Go to the Login Page.
-Select the "LOGIN" button on the top right hand corner of the screen.
+### Go to the Login Page
+Select the "LOGIN" button on the top right-hand corner of the screen.
 
 ![Login Page](./media/login-page.png)
 
-### Enter User Credentials.
+### Enter User Credentials
 Enter the credentials associated with your user.
 
 ![User Credentials](./media/user-creds.png)
@@ -33,16 +33,47 @@ If the ID/password match an active account that isn’t deleted and the password
 
 ![Successful Login](./media/home-page.png)
 
+## How to Login as New User
+
+### Go to the Login Page
+Select the "LOGIN" button on the top right-hand corner of the screen.
+
+![Login Page](./media/login-page.png)
+
+### Enter User Credentials
+Enter the credentials associated with your user. For a user logging in for the first time, this is set by your admin.
+
+![User Credentials](./media/user-creds.png)
+
+### Check Boxes and Login
+Agree to the Terms and Conditions and Data Privacy and Security Policy, then click Login.
+
+![Verify Terms](./media/verify-terms.png)
+
+### Enter CoRA and Reset Password
+After logging in for the first time, users will be asked to reset their password. Enter in the temporary password, enter in the new password, and then enter in the new password to confirm.
+
+![First Time Password Reset](./media/first-time-reset.png)
+
+### Login with new Credentials
+Enter the new credentials set in the previous step.
+
+![User Credentials](./media/user-creds.png)
+
+### Successful Outcome
+If the ID/password match the credentials associated with the account, users will be redirected to the home page and will have access to CoRA.
+
+![Successful Login](./media/home-page.png)
 
 ## Outcome and Causes of Unsuccessful Login Attempts
 
 ### Incorrect Credentials
-If the user enters an invalid email addressor password, the following message "Attempt to read property "name" on null" will display.
+If the user enters an invalid email address or password, the following message "Invalid credentials. Please try again." will display.
 
 ![Incorrect Credentials](./media/invalid_credentials.png)
 
 ### Account Inactive
-If the user's account has been inactive or if deleted by an administrator, the user will receive no error but will not be redirected to the CoRA homepage.
+If the user's account has been inactive or if deleted by an administrator, the user will receive a "Your user account has been inactive beyond 60 days. Please contact your System Administrator" notification and will not be taken to the CoRA homepage.
 
 ![Account Inactive](./media/account_inactive.png)
 
@@ -53,11 +84,11 @@ If the user's current password has expired, the user will be prompted to create 
 
 After 60 days, the user will be able to login, but will be prompted to change their password and will be locked from any action until they do so.
 
-![Password Expired](./media/password-reset.png)
+![Password Expired](./media/60-day-password-reset.png)
 
 The new password set by the user cannot be the same as any of the previous three passwords used by the user. If this is attempted, the password will not be accepted.
 
-![Same Password Attempts](./media/recent-password.png)
+![Same Password Attempts](./media/password-reset.png)
 
 
 ### Too Many Failed Attempts

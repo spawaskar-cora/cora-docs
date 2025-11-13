@@ -8,7 +8,7 @@ It summarizes key performance indicators (KPIs) from mitochondrial (Mito), autos
 From the main sidebar, click on DNA Dashboard under the DNA section.
 The interface will display a set of visual KPI widgets and line chart representing summarized data for all DNA records.
 
-![Navigation](media/dna/dna-navigation.gif){width="300"}
+![Navigation](media/dna/dna-navigation.gif){width="700"}
 
 This dashboard integrates live data from the DNA module - including fields such as sample methods, received dates, sequencing counts, and report statuses.
 
@@ -22,26 +22,29 @@ Each widget in the DNA Dashboard comes with standard features similar to other d
 
 2. Mouse Over Detail - Hover over charts for detailed DNA statistics
 
-![Mouse Over Detail](media/dna/dna-widgethover.gif){width="300"}
+![Mouse Over Detail](media/dna/dna-widgethover.gif){width="400"}
 
 3. View Details (Drill Into The Data) - Click for detailed DNA sample information
 
-![View Details](media/dna/dna-drilldown.gif){width+"300"}
+![View Details](media/dna/dna-drilldown.gif){width="700"}
 
 4. Widget Controls:
 
    * Collapse - Minimize the widget to save space while keeping it accessible
 
-   ![Collapse](media/dna/dna-widgetcollapse.gif){width="300"}
+   ![Collapse](media/dna/dna-widgetcollapse.gif){width="700"}
+   &nbsp;
 
    * Close - Remove the widget from the dashboard view
 
-   ![Close](media/dna/dna-widgetclose.gif){width="300"}
+   ![Close](media/dna/dna-widgetclose.gif){width="700"}
+   &nbsp;
 
    * Help-Cora Docs - Access detailed documentation and usage guides
 
-   ![Help-Cora Docs](media/dna/dna-helpdocs.png){width="300"}
-
+   ![Help-Cora Docs](media/dna/dna-helpdocs.png){width="400"}
+   
+   
 ### Pie Chart Visualization
 Most DNA metrics are displayed as pie charts showing:
 * Clear color coding for different categories
@@ -59,7 +62,7 @@ The traditional 360-degree circular chart that shows the complete proportion of 
 * Showing percentage distributions
 * Visualizing complete data sets with clear segment differences
 
-![Full Pie Chart](media/dna/dna-fullpiechart.png){ width="300" }
+![Full Pie Chart](media/dna/dna-fullpiechart.png){ width="400" }
 
 #### 2 Half Pie Chart
 A 180-degree semicircular visualization that offers a more compact view. Ideal for:
@@ -68,7 +71,7 @@ A 180-degree semicircular visualization that offers a more compact view. Ideal f
 * Dashboard layouts where vertical space is limited
 * Emphasizing simple proportional relationships
 
-![Half Pie Chart](media/dna/dna-widgetsemicircle.gif){ width="300" }
+![Half Pie Chart](media/dna/dna-widgetsemicircle.gif){ width="400" }
 
 #### 3 Donut Chart
 A circular chart with a hollow center that emphasizes individual segments. Particularly effective for:
@@ -77,7 +80,7 @@ A circular chart with a hollow center that emphasizes individual segments. Parti
 * Multi-layer data presentation
 * Emphasizing the relationship between parts while maintaining visual distinction
 
-![Donut Chart](media/dna/dna-widgetdonut.gif){ width="300" }
+![Donut Chart](media/dna/dna-widgetdonut.gif){ width="400" }
 
 Each chart type maintains interactive features such as hover tooltips, click-through capabilities, and real-time updates.
 
@@ -101,14 +104,14 @@ The widgets are categorized into three main DNA testing areas:
 2. Autosomal DNA (AuSTR) - Genetic inheritance patterns
 3. Y-chromosome DNA (Y-STR) - Paternal lineage tracking
 
-![Pie Chart Visualization](media/dna/dna-widgets.gif){width="300"}
+![Pie Chart Visualization](media/dna/dna-widgets.gif){width="700"}
 
 Below is a comprehensive description of each widget available in the DNA Dashboard, including their purpose, data interpretation guidelines, and practical applications in DNA analysis workflows.
 
 ### DNA Mito Results
 A comprehensive pie chart showing the distribution of mitochondrial DNA testing results
 
-![DNA Mito Results](media/dna/dna-mito-results.png){width="300"}
+![DNA Mito Results](media/dna/dna-mito-results.png){width="400"}
 
 Pie Chart Segments:
 * Reportable
@@ -122,7 +125,7 @@ This widget helps analysts track testing progress and identify potential bottlen
 ### DNA Mito Methods 
 A comprehensive view of DNA sequencing methods used in the laboratory
 
-![DNA Mito Methods](media/dna/dna-mito-methods.png){width="300"}
+![DNA Mito Methods](media/dna/dna-mito-methods.png){width="400"}
 
 Pie Chart Segments:
 * Mito Method NGS
@@ -133,7 +136,7 @@ This widget helps track the adoption of different sequencing technologies and mo
 ### DNA Mito Counts 
 A statistical overview of DNA sample matching status
 
-![DNA Mito Counts](media/dna/dna-mito-counts.png){width="300"}
+![DNA Mito Counts](media/dna/dna-mito-counts.png){width="400"}
 
 Pie Chart Segments:
 * Match Count
@@ -144,7 +147,7 @@ This widget provides insights into the success rate of DNA matching processes an
 ### DNA Mito Dates 
 A timeline analysis of DNA sample processing status
 
-![DNA Mito Dates](media/dna/dna-mito-dates.png){width="300"}
+![DNA Mito Dates](media/dna/dna-mito-dates.png){width="400"}
 
 Pie Chart Segments:
 * Received
@@ -155,7 +158,7 @@ This widget helps monitor laboratory workflow efficiency and identify potential 
 ### DNA Mito Sequence 
 A detailed breakdown of DNA sequence categorization
 
-![DNA Mito Sequence](media/dna/dna-mito-sequence.png){width="300"}
+![DNA Mito Sequence](media/dna/dna-mito-sequence.png){width="400"}
 
 Pie Chart Segments:
 * Number 
@@ -167,7 +170,7 @@ This widget facilitates the identification of sequence patterns and potential fa
 ### DNA Mito Haplogroup 
 A tracking system for ancestral lineage classification
 
-![DNA Mito Haplogroup](media/dna/dna-mito-haplogroup.png){width="300"}
+![DNA Mito Haplogroup](media/dna/dna-mito-haplogroup.png){width="400"}
 
 Pie Chart Segments:
 * Assigned 
@@ -178,7 +181,7 @@ This widget monitors the progress of maternal lineage classification and geograp
 ### DNA Mito Confirmed Regions
 A quality assurance overview of DNA region verification
 
-![DNA Mito Confirmed Regions](media/dna/dna-mito-confirmed-regions.png){width="300"}
+![DNA Mito Confirmed Regions](media/dna/dna-mito-confirmed-regions.png){width="400"}
 
 Pie Chart Segments:
 * Confirmed
@@ -189,7 +192,7 @@ This widget is essential for quality control processes and helps ensure the accu
 ### DNA Mito Base Pairs 
 A detailed view of base pair sequencing completion
 
-![DNA Mito Base Pairs](media/dna/dna-mito-base-pairs.png){width="300"}
+![DNA Mito Base Pairs](media/dna/dna-mito-base-pairs.png){width="400"}
 
 Pie Chart Segments:
 * Sequenced
@@ -200,7 +203,7 @@ This widget monitors the granular progress of DNA sequencing at the base pair le
 ### DNA Mito Polymorphisms
 An analysis of genetic variation patterns in mitochondrial DNA
 
-![DNA Mito Polymorphisms](media/dna/dna-mito-polymorphisms.png){width="300"}
+![DNA Mito Polymorphisms](media/dna/dna-mito-polymorphisms.png){width="400"}
 
 Pie Chart Segments:
 * Polymorphisms
@@ -211,7 +214,7 @@ This widget helps identify genetic diversity by tracking the presence of DNA seq
 ### DNA Mito Fasta Sequence
 A tracker for standardized DNA sequence file availability
 
-![DNA Mito Fasta Sequence](media/dna/dna-mito-fasta-sequence.png){width="300"}
+![DNA Mito Fasta Sequence](media/dna/dna-mito-fasta-sequence.png){width="400"}
 
 Pie Chart Segments:
 * Available
@@ -222,7 +225,7 @@ This widget monitors the availability of DNA sequences in the standardized FASTA
 ### DNA Mito Haplosubgroup
 A detailed breakdown of mitochondrial DNA subgroup classifications
 
-![DNA Mito Haplosubgroup](media/dna/dna-mito-haplosubgroup.png){width="300"}
+![DNA Mito Haplosubgroup](media/dna/dna-mito-haplosubgroup.png){width="400"}
 
 Pie Chart Segments:
 * Assigned
@@ -233,7 +236,7 @@ This widget tracks the detailed classification of maternal lineages into specifi
 ### DNA Mito Loci 
 A status overview of genetic marker analysis progress
 
-![DNA Mito Loci](media/dna/dna-mito-loci.png){width="300"}
+![DNA Mito Loci](media/dna/dna-mito-loci.png){width="400"}
 
 Pie Chart Segments:
 * Loci Typed
@@ -244,7 +247,7 @@ This widget monitors the progress of genetic marker typing, essential for compre
 ### DNA Mito MCC Dates 
 A tracking system for Multi-Copy Control review status
 
-![DNA Mito MCC Dates](media/dna/dna-mito-mcc-dates.png){width="300"}
+![DNA Mito MCC Dates](media/dna/dna-mito-mcc-dates.png){width="400"}
 
 Pie Chart Segments:
 * Reviewed
@@ -255,7 +258,7 @@ This widget monitors the progress of Multi-Copy Control (MCC) reviews, which are
 ### DNA Sample Condition 
 A comprehensive tracker for physical DNA sample status
 
-![DNA Sample Condition](media/dna/dna-sample-condition.png){width="300"}
+![DNA Sample Condition](media/dna/dna-sample-condition.png){width="400"}
 
 Pie Chart Segments:
 * Stored
@@ -267,7 +270,7 @@ This widget provides crucial inventory management information, tracking the phys
 ### DNA Resampled 
 A tracking system for DNA sample retesting status
 
-![DNA Resampled](media/dna/dna-resampled.png){width="300"}
+![DNA Resampled](media/dna/dna-resampled.png){width="400"}
 
 Pie Chart Segments:
 * Resampled 
@@ -278,7 +281,7 @@ This widget monitors the frequency of DNA resampling, helping identify quality c
 ### DNA BTB Dates 
 A timeline comparison of DNA testing requests and results
 
-![DNA BTB Dates](media/dna/dna-btb-dates.png){width="300"}
+![DNA BTB Dates](media/dna/dna-btb-dates.png){width="400"}
 
 Pie Chart Segments:
 * Request Date
@@ -289,7 +292,7 @@ This widget helps track the turnaround time between DNA test requests and result
 ### DNA Austr Methods
 A comprehensive overview of austr DNA testing method assignments
 
-![DNA Austr Methods](media/dna/dna-austr-methods.png){width="300"}
+![DNA Austr Methods](media/dna/dna-austr-methods.png){width="400"}
 
 Pie Chart Segments:
 * Assigned 
@@ -300,7 +303,7 @@ This widget helps track the status of method assignments for austr DNA testing, 
 ### DNA Austr Results 
 A comprehensive overview of austr DNA testing outcomes
 
-![DNA Austr Results](media/dna/dna-austr-results.png){width="300"}
+![DNA Austr Results](media/dna/dna-austr-results.png){width="400"}
 
 Pie Chart Segments:
 * Reportable 
@@ -315,7 +318,7 @@ This widget provides a complete view of austr DNA testing outcomes, helping anal
 ### DNA Austr Dates
 A timeline analysis of austr DNA sample processing
 
-![DNA Austr Dates](media/dna/dna-austr-dates.png){width="300"}
+![DNA Austr Dates](media/dna/dna-austr-dates.png){width="400"}
 
 Pie Chart Segments:
 * Requested 
@@ -326,7 +329,7 @@ This widget monitors the flow of austr DNA samples through the laboratory system
 ### DNA Austr Sequence
 A categorical analysis of austr DNA sequence data
 
-![DNA Austr Sequence](media/dna/dna-austr-sequence.png){width="300"}
+![DNA Austr Sequence](media/dna/dna-austr-sequence.png){width="400"}
 
 Pie Chart Segments:
 * Number 
@@ -338,7 +341,7 @@ This widget provides insight into the distribution and relationships of austr DN
 ### DNA Austr Loci 
 A status overview of austr DNA marker analysis
 
-![DNA Austr Loci](media/dna/dna-austr-loci.png){width="300"}
+![DNA Austr Loci](media/dna/dna-austr-loci.png){width="400"}
 
 Pie Chart Segments:
 * Loci Typed 
@@ -349,7 +352,7 @@ This widget tracks the progress of genetic marker typing for austr DNA, essentia
 ### DNA Austr MCC Dates 
 A tracking system for austr DNA Multi-Copy Control review status
 
-![DNA Austr MCC Dates](media/dna/dna-austr-mcc-dates.png){width="300"}
+![DNA Austr MCC Dates](media/dna/dna-austr-mcc-dates.png){width="400"}
 
 Pie Chart Segments:
 * Reviewed 
@@ -360,7 +363,7 @@ This widget monitors the progress of Multi-Copy Control (MCC) reviews for autoso
 ### DNA YStr Methods 
 A comprehensive overview of YStr DNA testing method assignments
 
-![DNA YStr Methods](media/dna/dna-ystr-methods.png){width="300"}
+![DNA YStr Methods](media/dna/dna-ystr-methods.png){width="400"}
 
 Pie Chart Segments:
 * Assigned
@@ -371,7 +374,7 @@ This widget tracks the status of method assignments for YStr DNA testing, ensuri
 ### DNA YStr Results 
 A comprehensive overview of YStr DNA testing outcomes
 
-![DNA YStr Results](media/dna/dna-ystr-results.png){width="300"}
+![DNA YStr Results](media/dna/dna-ystr-results.png){width="400"}
 
 Pie Chart Segments:
 * Reportable 
@@ -386,7 +389,7 @@ This widget provides a complete view of YStr DNA testing outcomes, helping analy
 ### DNA YStr Dates
 A timeline analysis of YStr DNA sample processing status
 
-![DNA YStr Dates](media/dna/dna-ystr-dates.png){width="300"}
+![DNA YStr Dates](media/dna/dna-ystr-dates.png){width="400"}
 
 Pie Chart Segments:
 * Requested
@@ -397,7 +400,7 @@ This widget helps monitor laboratory workflow efficiency and identify potential 
 ### DNA YStr Sequence
 A categorical analysis of Y-STR DNA sequence data
 
-![DNA YStr Sequence](media/dna/dna-ystr-sequence.png){width="300"}
+![DNA YStr Sequence](media/dna/dna-ystr-sequence.png){width="400"}
 
 Pie Chart Segments:
 * Number
@@ -409,7 +412,7 @@ This widget provides insight into the distribution and relationships of YStr DNA
 ### DNA YStr Loci
 A status overview of Y-STR DNA genetic marker analysis
 
-![DNA YStr Loci](media/dna/dna-ystr-loci.png){width="300"}
+![DNA YStr Loci](media/dna/dna-ystr-loci.png){width="400"}
 
 Pie Chart Segments:
 * Loci Typed
@@ -420,7 +423,7 @@ This widget tracks the progress of genetic marker typing for YStr DNA samples, e
 ### DNA YStr Counts
 A statistical overview of Y-STR DNA sample matching status
 
-![DNA YStr Counts](media/dna/dna-ystr-counts.png){width="300"}
+![DNA YStr Counts](media/dna/dna-ystr-counts.png){width="400"}
 
 Pie Chart Segments:
 * Match Count
@@ -431,7 +434,7 @@ This widget provides insights into the success rate of YStr DNA matching process
 ### DNA YStr MCC Dates
 A tracking system for Y-STR DNA Multi-Copy Control review status
 
-![DNA YStr MCC Dates](media/dna/dna-ystr-mcc-dates.png){width="300"}
+![DNA YStr MCC Dates](media/dna/dna-ystr-mcc-dates.png){width="400"}
 
 Pie Chart Segments:
 * Reviewed
@@ -442,7 +445,7 @@ This widget monitors the progress of Multi-Copy Control (MCC) reviews for YStr D
 ### DNA line Chart
 The bottom section features a comprehensive DNA timeline showing multiple data series in a line graph format:
 
-![DNA Timeline Graph](media/dna/dna-linechart.png){width="300"}
+![DNA Timeline Graph](media/dna/dna-linechart.png){width="500"}
 
 Data Series:
 * Specimens Sampled 

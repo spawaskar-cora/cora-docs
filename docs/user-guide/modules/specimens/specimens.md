@@ -160,6 +160,13 @@ Each of the Action is explained in the following section.
 ![](media/associate-specimen-by-bonegroup.gif)
 
 
+## Assign Specimen to Bone Group
+
+!!! warning
+
+    This section is work in progress.
+
+
 ## Specimen Actions or Details
 
 The screenshot below shows the Actions or Details menu for the selected specimen. Here you can enter association data for the specimen.

@@ -1,31 +1,25 @@
 # Isotope Dashboard
 
 The **Isotope Dashboard** provides a comprehensive visual overview of isotopic data and laboratory progress within CoRA.  
-It helps analysts, isotope specialists, and researchers monitor the entire workflow — from **demineralization** and **collagen extraction** to **isotope measurement** and **ratio analysis** — through interactive charts and analytical metrics.
+It helps analysts, isotope specialists, and researchers monitor the entire workflow from **demineralization** and **collagen extraction** to **isotope measurement** and **ratio analysis** through interactive charts and analytical metrics.
 
----
 
 ## Accessing the Isotope Dashboard
 
 To open the Isotope Dashboard:
 
-![Accessing the Isotope Dashboard](media/isotope/access-isotope-dashboard.gif){ width="600" }
+![Accessing the Isotope Dashboard](media/isotope/access-isotope-dashboard.gif){ width="700" }
 
-
-
----
 
 ## Dashboard Overview
 
 Once the page loads, you’ll see a collection of **draggable**, **collapsible**, and **interactive widgets**.  
-Each widget represents a unique phase or analytical aspect of isotope processing — from **sample results** to **elemental isotope analyses**.
+Each widget represents a unique phase or analytical aspect of isotope processing from **sample results** to **elemental isotope analyses**.
 
 The dashboard includes **pie charts**, **donut charts**, and a **timeline chart** that visually summarize data completeness and lab progress across projects.
 
-![Dashboard Overview](media/isotope/widget-overview.png){ width="600" }
+![Dashboard Overview](media/isotope/widget-overview.png){ width="700" }
 
-
----
 
 ## Widget Interaction
 
@@ -33,37 +27,34 @@ Each widget in the dashboard is fully interactive and customizable:
 
 ### Collapse / Expand
 
-![Collapse / Expand](media/isotope/collapse.gif){ width="300" }
-
-- Use the **“–” or “+”** icons in the top-right corner of a widget.  
+![Collapse / Expand](media/isotope/collapse.gif){ width="700" }
+  
 - To manage all widgets at once, use the **Collapse All / Expand All** buttons at the top of the dashboard.
 
 
 ### Drilldown
 
-![Drilldown](media/isotope/isotope-drilldown.gif){ width="300" }
+![Drilldown](media/isotope/isotope-drilldown.gif){ width="700" }
 
-- Click any **pie segment** or **chart bar** to view detailed, filtered data for that specific category (e.g., Reportable Results).
+- Click any **pie segment** or chart bar to view detailed, filtered data for that specific category (e.g., Reportable Results).
 
 ### Reorder Widgets
 
 - Click and drag widgets to rearrange them on the dashboard.  
-- The layout is automatically saved in your browser’s **localStorage**, so your preferences persist between sessions.
+- The layout is automatically saved in your browser’s localStorage, so your preferences persist between sessions.
 
 ### Timestamp
 
-![Timestamp](media/isotope/time-stamp.png){ width="300" }
+![Timestamp](media/isotope/time-stamp.png){ width="200" }
 
 - Each widget shows a **timestamp** (e.g., *2025-11-05 18:24*) at the bottom, indicating when its data was last refreshed.
 
----
 
 ## Chart Controls and Visualization Modes
 
-Every widget contains a set of **chart control icons** in the top-right corner.  
-These controls help users customize visualization, open documentation, and manage layout — making interpretation of isotope data more intuitive.
+Every widget contains a set of **chart control icons** in the top right corner.  
+These controls help users customize visualization, open documentation, and manage layout making interpretation of isotope data more intuitive.
 
----
 
 ### Chart Control Icons
 
@@ -71,40 +62,36 @@ These controls help users customize visualization, open documentation, and manag
 |-----------|-----------|-----------------------------|
 | **? (Help Link)** | **Documentation Access** | Opens the related **CoRA User Documentation** in a new tab. This helps users understand the scientific process behind that widget (e.g., Demineralization, Collagen Yield, or Isotope Analysis). |
 | **⭘ / ◉ / ◔** | **Chart Type Toggle** | Switches between:<br> - **Full Pie:** complete dataset view.<br> - **Half Pie:** highlights progress (e.g., completed vs pending).<br> - **Donut:** shows a ringed chart emphasizing proportions. |
-| **⤢ (Expand)** | **Full-View Mode** | Enlarges the widget to full width for detailed review or presentation purposes. |
 | **⇵ (Collapse)** | **Toggle Visibility** | Minimizes or expands the widget body while keeping its title visible. |
 | **× (Close)** | **Remove Widget** | Temporarily hides the widget from the view; restoring it requires page refresh. |
 
----
 
 ### Chart Visualization Types
 
 #### 1 Full Pie Chart
 
-![Full Pie Chart](media/isotope/sample-results-status.png){ width="300" }
+![Full Pie Chart](media/isotope/sample-results-status.png){ width="400" }
 
 - Displays the **complete dataset** as a 360° circle.  
-- Best for viewing category distribution (e.g., all result types).  
+- Best for viewing category distribution.  
 - Each color segment shows its proportional share out of the total.
 
 **Use when:** You want a full snapshot of how data is distributed across categories.
 
----
 
 #### 2 Half Pie Chart
 
-![Half Pie Chart](media/isotope/isotope-halfpie.gif){ width="300" }
+![Half Pie Chart](media/isotope/halfpie-isotope.gif){ width="400" }
 
-- Shows only the **top half** of the chart — ideal for **progress visualization** (e.g., completed vs pending).  
+- Shows only the **top half** of the chart ideal for **progress visualization** (e.g., completed vs pending).  
 - Provides a clean comparison of workflow completion rates.
 
 **Use when:** You want to monitor lab progress or readiness visually.
 
----
 
 #### 3 Donut Chart
 
-![Donut Chart](media/isotope/donut-isotope.gif){ width="300" }
+![Donut Chart](media/isotope/donut-isotope.gif){ width="400" }
 
 - Displays the chart as a **ring** with a hollow center.  
 - The empty middle area draws attention to completed vs remaining work.  
@@ -112,10 +99,9 @@ These controls help users customize visualization, open documentation, and manag
 
 **Use when:** You want to emphasize proportional completeness or compare processed vs unprocessed data.
 
----
 ###  4 “?” Help Link Integration
 
-Each widget contains a **question mark (?)** icon linking directly to **CoRA’s official User Documentation**.  
+Each widget contains a **question mark (?)** icon linking directly to CoRA’s official User Documentation.  
 This feature connects real-time analytics to the lab procedures that generate the data.
 
 
@@ -123,23 +109,29 @@ This feature connects real-time analytics to the lab procedures that generate th
 
 - Use **Donut Mode** for visual progress tracking.  
 - Use **Half Pie Mode** for workflow monitoring.  
-- Click **?** to access the relevant **CoRA docs** for step-by-step explanations.  
-- Expand (**⤢**) and switch to **Full Pie** for detailed reviews.
+- Click **?** to access the relevant **CoRA docs** for step by step explanations.  
+- Expand (**⤢**) and switch to Full Pie for detailed reviews.
 
----
 
 ## Understanding the Dashboard Widgets
 
 Each widget in the Isotope Dashboard visualizes a specific isotopic analysis process or metric.  
-All are **color-coded, interactive**, and **linked to drilldown views** for deeper exploration.
+All are color-coded, interactive, and linked to drilldown views for deeper exploration.
 
----
+### General Notes
+- Each chart segment is clickable and supports drilldown exploration.  
+- Hovering over segments shows precise counts and percentages.  
+- Widgets update automatically when isotope data changes or seeding is rerun.  
+- Timestamps indicate the last data refresh.
+
+Together, these widgets offer both qualitative (status, workflow completion) and quantitative (ratios, percentages) insights into isotope analysis.  
+They enable analysts to monitor sample quality, detect irregularities, and validate isotopic data across projects and organizations.
 
 ### 1 Isotope Results
 **Purpose:**  
 Displays isotopic sample results based on reporting status.
 
-![Sample Results Status](media/isotope/sample-results-status.png){ width="300" }
+![Sample Results Status](media/isotope/sample-results-status.png){ width="400" }
 
 **Pie Chart Segments:**
 - **Reportable:** Verified isotopic results ready for reporting.  
@@ -151,13 +143,12 @@ Displays isotopic sample results based on reporting status.
 **How to Use:**  
 Track analytical output and pending workload. Click on any segment to drill down to project-level data.
 
----
 
 ### 2 Demineralization Status
 **Purpose:**  
-Tracks sample demineralization progress — essential for collagen extraction.
+Tracks sample demineralization progress essential for collagen extraction.
 
-![Demineralization Status](media/isotope/demineralization.png){ width="300" }
+![Demineralization Status](media/isotope/demineralization.png){ width="400" }
 
 **Pie Chart Segments:**
 - **Started:** Demineralization initiated.  
@@ -167,29 +158,27 @@ Tracks sample demineralization progress — essential for collagen extraction.
 **How to Use:**  
 Confirm progress of sample preparation. High *Completed* means readiness for further processing.
 
----
 
 ### 3 Vial Weight Measurements
 **Purpose:**  
 Monitors vial-based weighing consistency.
 
-![Vial Weight Measurements](media/isotope/vial-weight-measurements.png){ width="300" align="center" }
+![Vial Weight Measurements](media/isotope/vial-weight-measurements.png){ width="400" }
 
 **Pie Chart Segments:**
 - **Vial & Lid:** Empty container weight.  
-- **Sample + Vial & Lid:** Sample-included weight.  
+- **Sample + Vial & Lid:** Sample included weight.  
 - **Pending:** Measurements not done.
 
 **How to Use:**  
-Used for verifying pre- and post-weighting consistency to ensure analytical accuracy.
+Used for verifying pre- and post weighting consistency to ensure analytical accuracy.
 
----
 
 ### 4 Collagen Measurements
 **Purpose:**  
 Shows extracted collagen weight and yield.
 
-![Collagen Measurements](media/isotope/collagen-measurements.png){ width="300" }
+![Collagen Measurements](media/isotope/collagen-measurements.png){ width="400" }
 
 **Pie Chart Segments:**
 - **Collagen Weight:** Extracted weight recorded.  
@@ -199,13 +188,12 @@ Shows extracted collagen weight and yield.
 **How to Use:**  
 Tracks collagen recovery efficiency. High *Pending* means incomplete or delayed extractions.
 
----
 
 ### 5 Carbon/Nitrogen Ratio (C:N)
 **Purpose:**  
 Evaluates collagen preservation via C:N ratio.
 
-![Carbon/Nitrogen Ratio](media/isotope/carbon-nitrogen-ratio.png){ width="300" }
+![Carbon/Nitrogen Ratio](media/isotope/carbon-nitrogen-ratio.png){ width="400" }
 
 **Pie Chart Segments:**
 - **High (>3.6):** Indicates contamination or degradation.  
@@ -216,30 +204,28 @@ Evaluates collagen preservation via C:N ratio.
 **How to Use:**  
 Healthy samples fall mostly under *Normal*. Alerts if ratio trends deviate.
 
----
 
 ### 6 Carbon/Oxygen Ratio (C:O)
 **Purpose:**  
 Analyzes isotopic stability via C:O ratio.
 
-![Carbon Oxygen Ratio](media/isotope/carbon-oxygen-ratio.png){ width="300" }
+![Carbon Oxygen Ratio](media/isotope/carbon-oxygen-ratio.png){ width="400" }
 
 **Pie Chart Segments:**
 - **High (>1.4):** Oxygen deficiency.  
 - **Normal (1.1–1.4):** Balanced.  
-- **Low (<1.1):** Oxygen-rich contamination.  
+- **Low (<1.1):** Oxygen rich contamination.  
 - **Pending:** Not calculated.
 
 **How to Use:**  
 Used for consistency checks in isotope balance assessments.
 
----
 
 ### 7 Carbon Analysis (δ¹³C)
 **Purpose:**  
 Visualizes completeness of carbon isotopic readings.
 
-![Carbon Analysis](media/isotope/carbon-analysis.png){ width="300" }
+![Carbon Analysis](media/isotope/carbon-analysis.png){ width="400" }
 
 **Pie Chart Segments:**
 - **Delta (δ¹³C):** Delta value recorded.  
@@ -250,13 +236,12 @@ Visualizes completeness of carbon isotopic readings.
 **How to Use:**  
 Ensures all carbon-related fields are filled before analysis.
 
----
 
 ### 8 Nitrogen Analysis (δ¹⁵N)
 **Purpose:**  
 Displays nitrogen isotope data completeness.
 
-![Nitrogen Analysis](media/isotope/nitrogen-analysis.png){ width="300" }
+![Nitrogen Analysis](media/isotope/nitrogen-analysis.png){ width="400" }
 
 **Pie Chart Segments:**
 - **Delta (δ¹⁵N):** Delta measured.  
@@ -267,13 +252,12 @@ Displays nitrogen isotope data completeness.
 **How to Use:**  
 Used by analysts studying dietary or ecological nitrogen variations.
 
----
 
 ### 9 Oxygen Analysis (δ¹⁸O)
 **Purpose:**  
 Shows isotopic completeness for oxygen.
 
-![Oxygen Analysis](media/isotope/oxygen-analysis.png){ width="300" }
+![Oxygen Analysis](media/isotope/oxygen-analysis.png){ width="400" }
 
 **Pie Chart Segments:**
 - **Delta (δ¹⁸O):** Delta recorded.  
@@ -284,13 +268,12 @@ Shows isotopic completeness for oxygen.
 **How to Use:**  
 Ensures oxygen-related readings are sufficient for isotopic comparison.
 
----
 
 ### 10 Sulphur Analysis (δ³⁴S)
 **Purpose:**  
 Summarizes sulphur isotope analysis results.
 
-![Sulphur Analysis](media/isotope/sulphur-analysis.png){ width="300" }
+![Sulphur Analysis](media/isotope/sulphur-analysis.png){ width="400" }
 
 **Pie Chart Segments:**
 - **Delta (δ³⁴S):** Delta measured.  
@@ -301,13 +284,12 @@ Summarizes sulphur isotope analysis results.
 **How to Use:**  
 Helps evaluate trace element (sulphur) data completeness.
 
----
 
 ### 11 Isotopes (Line Chart)
 **Purpose:**  
 Displays time-based progress of isotope sample processing.
 
-![Isotopes Line Chart](media/isotope/isotopes-linechart.png){ width="300" }
+![Isotopes Line Chart](media/isotope/linechart-isotope.png){ width="500" }
 
 **Chart Axes:**
 - **X-Axis:** Processing or entry date.  
@@ -315,17 +297,3 @@ Displays time-based progress of isotope sample processing.
 
 **How to Use:**  
 Used to track throughput trends or identify bottlenecks.
-
----
-
-## General Notes
-- Each chart segment is clickable and supports drilldown exploration.  
-- Hovering over segments shows precise counts and percentages.  
-- Widgets update automatically when isotope data changes or seeding is rerun.  
-- Timestamps indicate the last data refresh.
-
----
-
-## Interpretation Tip
-Together, these widgets offer both qualitative (status, workflow completion) and quantitative (ratios, percentages) insights into isotope analysis.  
-They enable analysts to monitor sample quality, detect irregularities, and validate isotopic data across projects and organizations.

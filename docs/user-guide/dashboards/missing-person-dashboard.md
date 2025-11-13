@@ -7,7 +7,7 @@ The Missing Person Dashboard provides a centralized interface for tracking, visu
 
 To access the Missing Person Dashboard, use the left sidebar and select 'Dashboards.' From the dashboards menu, choose 'Missing Person Dashboard.' The dashboard will appear with various widgets and visual summaries.
 
-![Dashboard Overview](media/missing-person/missing-person-dashboard-navigation.gif)
+![Dashboard Overview](media/missing-person/missing-person-dashboard-navigation.gif){width="700"}
 
 On the left side bar - you can access the main options for dashboards. 
 
