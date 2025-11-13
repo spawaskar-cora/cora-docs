@@ -281,6 +281,13 @@ nav:
       - Missing Person dashboard: user-guide/dashboards/missing-person-dashboard.md
       - User dashboard: user-guide/dashboards/user-dashboard.md
       - Org dashboard: user-guide/dashboards/org-dashboard.md
+      - Specimen dashboard: user-guide/dashboards/specimen-dashboard.md
+      - Drilldowns: 
+        - DNA: user-guide/dashboards/drilldowns/dna.md
+        - Individual: user-guide/dashboards/drilldowns/individual.md
+        - Isotope: user-guide/dashboards/drilldowns/isotope.md
+        - Missing Person: user-guide/dashboards/drilldowns/missing-person.md
+        - Specimen: user-guide/dashboards/drilldowns/specimen.md
     - File Export Import: 
       - user-guide/file-export-import/index.md
     - Mobile Readiness: 
