@@ -1,7 +1,7 @@
-# DNA Dashboard Drillthroughs
+# DNA Dashboard Drilldowns
 
 !!! warning
 
     This page is work in progress.
 
-The dashboard drillthrough page provides information on the the drillthrough charts and graphs from the dashboard.
+The dashboard drilldown page provides information on the the drilldowns charts and graphs from the dashboard.

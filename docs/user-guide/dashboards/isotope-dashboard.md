@@ -8,7 +8,7 @@ It helps analysts, isotope specialists, and researchers monitor the entire workf
 
 To open the Isotope Dashboard:
 
-![Accessing the Isotope Dashboard](media/isotope/access-isotope-dashboard.gif){ width="700" }
+![Accessing the Isotope Dashboard](media/isotope/access-isotope-dashboard.gif){ width="800" }
 
 
 ## Dashboard Overview
@@ -18,7 +18,7 @@ Each widget represents a unique phase or analytical aspect of isotope processing
 
 The dashboard includes **pie charts**, **donut charts**, and a **timeline chart** that visually summarize data completeness and lab progress across projects.
 
-![Dashboard Overview](media/isotope/widget-overview.png){ width="700" }
+![Dashboard Overview](media/isotope/widget-overview.png){ width="800" }
 
 
 ## Widget Interaction
@@ -27,14 +27,14 @@ Each widget in the dashboard is fully interactive and customizable:
 
 ### Collapse / Expand
 
-![Collapse / Expand](media/isotope/collapse.gif){ width="700" }
+![Collapse / Expand](media/isotope/collapse.gif){ width="800" }
   
 - To manage all widgets at once, use the **Collapse All / Expand All** buttons at the top of the dashboard.
 
 
 ### Drilldown
 
-![Drilldown](media/isotope/isotope-drilldown.gif){ width="700" }
+![Drilldown](media/isotope/isotope-drilldown.gif){ width="800" }
 
 - Click any **pie segment** or chart bar to view detailed, filtered data for that specific category (e.g., Reportable Results).
 

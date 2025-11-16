@@ -5,9 +5,9 @@ The Missing Person Dashboard provides a centralized interface for tracking, visu
 
 ## Navigation
 
-To access the Missing Person Dashboard, use the left sidebar and select 'Dashboards.' From the dashboards menu, choose 'Missing Person Dashboard.' The dashboard will appear with various widgets and visual summaries.
+To access the Missing Person Dashboard, use the left sidebar and select 'Missing Person Dashboard'. The dashboard will appear with various widgets and visual summaries.
 
-![Dashboard Overview](media/missing-person/missing-person-dashboard-navigation.gif){width="700"}
+![Dashboard Overview](media/missing-person/missing-person-dashboard-navigation.gif){width="800"}
 
 On the left side bar - you can access the main options for dashboards. 
 
@@ -18,7 +18,7 @@ We can see the dashboard for Missing person.
 
 The Missing Person Dashboard provides visual insights into the status and progress of missing persons cases through a variety of widgets. These include pie charts and bar graphs that display case statuses, genealogical statuses, conflict categories, and case manager workloads. Each widget is interactive, allowing users to view detailed data, apply filters, and drill into specific case information. This centralized dashboard supports efficient case management and monitoring for organization administrators and case managers.
 
-![Dashboard Overview](media/missing-person/missingperson-dashboard.png){width="700"}
+![Dashboard Overview](media/missing-person/missingperson-dashboard.png){width="800"}
 
 This dashboard provides essential tools to support effective case management and monitoring of missing persons within organization. For further information, detailed instructions, and troubleshooting, please refer to the comprehensive help documentation.
 
@@ -31,14 +31,14 @@ This dashboard supports the following user interactions and controls:
 * Expand, Collapse & Close - Adjust widget layout for optimal viewing.
 * Help/Info Icon - Access widget usage details and documentation links.
 
-![Command Controles example](media/missing-person/command-controls.gif){width="700"}
+![Command Controles example](media/missing-person/command-controls.gif){width="800"}
 
 **Interactivity**
 
 * Hover for Details - Move your mouse over chart segments or bars to view tooltips and counts.
 * Drill Down - Click chart elements to reveal detailed tables or filtered records for deeper investigation.
 
-![Interactivity example](media/missing-person/interactivity.gif){width="700"}
+![Interactivity example](media/missing-person/interactivity.gif){width="800"}
 
 **Data Operations**
 
@@ -46,7 +46,7 @@ This dashboard supports the following user interactions and controls:
 * Column Visibility - Choose which data columns to display.
 * Search & Filter - Use the built-in table search for rapid filtering.
 
-![Data Operations example](media/missing-person/data-operations.gif){width="700"}
+![Data Operations example](media/missing-person/data-operations.gif){width="800"}
 
 **Data Freshness**
 * Timestamp - A 'Last Updated' timestamp is shown below each widget, so you can confirm the data is up to date.

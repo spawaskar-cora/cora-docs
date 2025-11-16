@@ -30,7 +30,7 @@ There are two ways to access your project dashboard:
 1. **Dashboard Icon Method**: Click the dashboard icon located next to the "Current Project" dropdown in the top navigation bar
 2. **Sidebar Method**: Click "Dashboard" from the left sidebar navigation menu
 
-![Accessing Dashboard Methods](media/accessing-dashboard.gif){ width="700" }
+![Accessing Dashboard Methods](media/accessing-dashboard.gif){ width="800" }
 
 Both methods will navigate you to the project dashboard view where you can utilize the user preference features.
 
@@ -38,7 +38,7 @@ Both methods will navigate you to the project dashboard view where you can utili
 
 The collapse and expand feature allows you to quickly manage the visibility of all widgets on your dashboard simultaneously.
 
-![Collapse and Expand All Widgets](media/collapse-expand-widgets.gif){ width="700" }
+![Collapse and Expand All Widgets](media/collapse-expand-widgets.gif){ width="800" }
 
 **To collapse all widgets:**
 1. Locate the collapse/expand icon in the top toolbar (positioned before the help icon)
@@ -58,7 +58,7 @@ This feature is particularly useful when you need to:
 
 The drag and drop functionality enables you to rearrange widgets on your dashboard to create a personalized layout that matches your workflow preferences.
 
-![Drag and Drop Widget Rearrangement](media/drag-drop-widgets.gif){ width="700" }
+![Drag and Drop Widget Rearrangement](media/drag-drop-widgets.gif){ width="800" }
 
 **To move widgets:**
 1. Position your cursor over the widget you want to move
@@ -77,7 +77,7 @@ The drag and drop feature maintains your custom layout throughout your session, 
 
 You can remove individual widgets from your dashboard view to focus only on the data that's relevant to your current work.
 
-![Remove Widgets from Dashboard](media/remove-widgets.gif){ width="700" }
+![Remove Widgets from Dashboard](media/remove-widgets.gif){ width="800" }
 
 **To remove a widget:**
 1. Locate the widget you want to remove
@@ -99,7 +99,7 @@ The reset dashboard feature allows you to quickly restore your dashboard to its 
 2. Click the reset icon
 3. Your dashboard will immediately return to the default layout
 
-![Reset Dashboard Button Location](media/reset-dashboard.png){ width="700" }
+![Reset Dashboard Button Location](media/reset-dashboard.png){ width="800" }
 
 **What gets reset:**
 - **Widget positions**: All widgets return to their original default positions

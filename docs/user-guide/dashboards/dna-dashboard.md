@@ -8,7 +8,7 @@ It summarizes key performance indicators (KPIs) from mitochondrial (Mito), autos
 From the main sidebar, click on DNA Dashboard under the DNA section.
 The interface will display a set of visual KPI widgets and line chart representing summarized data for all DNA records.
 
-![Navigation](media/dna/dna-navigation.gif){width="700"}
+![Navigation](media/dna/dna-navigation.gif){width="800"}
 
 This dashboard integrates live data from the DNA module - including fields such as sample methods, received dates, sequencing counts, and report statuses.
 
@@ -26,18 +26,18 @@ Each widget in the DNA Dashboard comes with standard features similar to other d
 
 3. View Details (Drill Into The Data) - Click for detailed DNA sample information
 
-![View Details](media/dna/dna-drilldown.gif){width="700"}
+![View Details](media/dna/dna-drilldown.gif){width="800"}
 
 4. Widget Controls:
 
    * Collapse - Minimize the widget to save space while keeping it accessible
 
-   ![Collapse](media/dna/dna-widgetcollapse.gif){width="700"}
+   ![Collapse](media/dna/dna-widgetcollapse.gif){width="800"}
    &nbsp;
 
    * Close - Remove the widget from the dashboard view
 
-   ![Close](media/dna/dna-widgetclose.gif){width="700"}
+   ![Close](media/dna/dna-widgetclose.gif){width="800"}
    &nbsp;
 
    * Help-Cora Docs - Access detailed documentation and usage guides
@@ -104,7 +104,7 @@ The widgets are categorized into three main DNA testing areas:
 2. Autosomal DNA (AuSTR) - Genetic inheritance patterns
 3. Y-chromosome DNA (Y-STR) - Paternal lineage tracking
 
-![Pie Chart Visualization](media/dna/dna-widgets.gif){width="700"}
+![Pie Chart Visualization](media/dna/dna-widgets.gif){width="800"}
 
 Below is a comprehensive description of each widget available in the DNA Dashboard, including their purpose, data interpretation guidelines, and practical applications in DNA analysis workflows.
 

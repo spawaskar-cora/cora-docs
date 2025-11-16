@@ -1,7 +1,7 @@
-# Isotope Dashboard Drillthroughs
+# Isotope Dashboard Drilldowns
 
 !!! warning
 
     This page is work in progress.
 
-The dashboard drillthrough page provides information on the the drillthrough charts and graphs from the dashboard.
+The dashboard drilldown page provides information on the the drilldown charts and graphs from the dashboard.
