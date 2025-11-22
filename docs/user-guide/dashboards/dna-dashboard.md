@@ -47,6 +47,7 @@ Each widget in the DNA Dashboard comes with standard features similar to other d
    
 ### Pie Chart Visualization
 Most DNA metrics are displayed as pie charts showing:
+
 * Clear color coding for different categories
 * Percentage distribution
 * Interactive tooltips on hover
@@ -57,6 +58,7 @@ The DNA Dashboard offers three different chart styles to effectively visualize d
 
 #### 1 Full Pie Chart
 The traditional 360-degree circular chart that shows the complete proportion of all components. Best used for:
+
 * Displaying part-to-whole relationships
 * Comparing multiple categories
 * Showing percentage distributions
@@ -66,6 +68,7 @@ The traditional 360-degree circular chart that shows the complete proportion of 
 
 #### 2 Half Pie Chart
 A 180-degree semicircular visualization that offers a more compact view. Ideal for:
+
 * Space-efficient data presentation
 * Binary comparisons (e.g., Completed vs. Pending)
 * Dashboard layouts where vertical space is limited
@@ -75,6 +78,7 @@ A 180-degree semicircular visualization that offers a more compact view. Ideal f
 
 #### 3 Donut Chart
 A circular chart with a hollow center that emphasizes individual segments. Particularly effective for:
+
 * Focusing on individual segment values
 * Displaying additional information in the center
 * Multi-layer data presentation
@@ -114,6 +118,7 @@ A comprehensive pie chart showing the distribution of mitochondrial DNA testing 
 ![DNA Mito Results](media/dna/dna-mito-results.png){width="400"}
 
 Pie Chart Segments:
+
 * Reportable
 * Inconclusive
 * Unable to assign
@@ -128,6 +133,7 @@ A comprehensive view of DNA sequencing methods used in the laboratory
 ![DNA Mito Methods](media/dna/dna-mito-methods.png){width="400"}
 
 Pie Chart Segments:
+
 * Mito Method NGS
 * Mito Method Sanger
 
@@ -139,6 +145,7 @@ A statistical overview of DNA sample matching status
 ![DNA Mito Counts](media/dna/dna-mito-counts.png){width="400"}
 
 Pie Chart Segments:
+
 * Match Count
 * Total Count
 
@@ -150,6 +157,7 @@ A timeline analysis of DNA sample processing status
 ![DNA Mito Dates](media/dna/dna-mito-dates.png){width="400"}
 
 Pie Chart Segments:
+
 * Received
 * Requested
 
@@ -161,6 +169,7 @@ A detailed breakdown of DNA sequence categorization
 ![DNA Mito Sequence](media/dna/dna-mito-sequence.png){width="400"}
 
 Pie Chart Segments:
+
 * Number 
 * Subgroup
 * Similar 
@@ -173,6 +182,7 @@ A tracking system for ancestral lineage classification
 ![DNA Mito Haplogroup](media/dna/dna-mito-haplogroup.png){width="400"}
 
 Pie Chart Segments:
+
 * Assigned 
 * Not Assigned 
 
@@ -184,6 +194,7 @@ A quality assurance overview of DNA region verification
 ![DNA Mito Confirmed Regions](media/dna/dna-mito-confirmed-regions.png){width="400"}
 
 Pie Chart Segments:
+
 * Confirmed
 * Not Confirmed
 
@@ -195,6 +206,7 @@ A detailed view of base pair sequencing completion
 ![DNA Mito Base Pairs](media/dna/dna-mito-base-pairs.png){width="400"}
 
 Pie Chart Segments:
+
 * Sequenced
 * Not Sequenced
 
@@ -206,6 +218,7 @@ An analysis of genetic variation patterns in mitochondrial DNA
 ![DNA Mito Polymorphisms](media/dna/dna-mito-polymorphisms.png){width="400"}
 
 Pie Chart Segments:
+
 * Polymorphisms
 * No Polymorphisms
 
@@ -217,6 +230,7 @@ A tracker for standardized DNA sequence file availability
 ![DNA Mito Fasta Sequence](media/dna/dna-mito-fasta-sequence.png){width="400"}
 
 Pie Chart Segments:
+
 * Available
 * Not Available
 
@@ -228,6 +242,7 @@ A detailed breakdown of mitochondrial DNA subgroup classifications
 ![DNA Mito Haplosubgroup](media/dna/dna-mito-haplosubgroup.png){width="400"}
 
 Pie Chart Segments:
+
 * Assigned
 * Not Assigned
 
@@ -239,6 +254,7 @@ A status overview of genetic marker analysis progress
 ![DNA Mito Loci](media/dna/dna-mito-loci.png){width="400"}
 
 Pie Chart Segments:
+
 * Loci Typed
 * Loci Not Typed
 
@@ -250,6 +266,7 @@ A tracking system for Multi-Copy Control review status
 ![DNA Mito MCC Dates](media/dna/dna-mito-mcc-dates.png){width="400"}
 
 Pie Chart Segments:
+
 * Reviewed
 * Not Reviewed 
 
@@ -261,6 +278,7 @@ A comprehensive tracker for physical DNA sample status
 ![DNA Sample Condition](media/dna/dna-sample-condition.png){width="400"}
 
 Pie Chart Segments:
+
 * Stored
 * Consumed
 * Returned 
@@ -273,6 +291,7 @@ A tracking system for DNA sample retesting status
 ![DNA Resampled](media/dna/dna-resampled.png){width="400"}
 
 Pie Chart Segments:
+
 * Resampled 
 * Not Resampled 
 
@@ -284,6 +303,7 @@ A timeline comparison of DNA testing requests and results
 ![DNA BTB Dates](media/dna/dna-btb-dates.png){width="400"}
 
 Pie Chart Segments:
+
 * Request Date
 * Results Date 
 
@@ -295,6 +315,7 @@ A comprehensive overview of austr DNA testing method assignments
 ![DNA Austr Methods](media/dna/dna-austr-methods.png){width="400"}
 
 Pie Chart Segments:
+
 * Assigned 
 * Not Assigned 
 
@@ -306,6 +327,7 @@ A comprehensive overview of austr DNA testing outcomes
 ![DNA Austr Results](media/dna/dna-austr-results.png){width="400"}
 
 Pie Chart Segments:
+
 * Reportable 
 * Inconclusive 
 * Unable to assign 
@@ -321,6 +343,7 @@ A timeline analysis of austr DNA sample processing
 ![DNA Austr Dates](media/dna/dna-austr-dates.png){width="400"}
 
 Pie Chart Segments:
+
 * Requested 
 * Received 
 
@@ -332,6 +355,7 @@ A categorical analysis of austr DNA sequence data
 ![DNA Austr Sequence](media/dna/dna-austr-sequence.png){width="400"}
 
 Pie Chart Segments:
+
 * Number 
 * Subgroup 
 * Similar 
@@ -344,6 +368,7 @@ A status overview of austr DNA marker analysis
 ![DNA Austr Loci](media/dna/dna-austr-loci.png){width="400"}
 
 Pie Chart Segments:
+
 * Loci Typed 
 * Loci Not Typed 
 
@@ -355,6 +380,7 @@ A tracking system for austr DNA Multi-Copy Control review status
 ![DNA Austr MCC Dates](media/dna/dna-austr-mcc-dates.png){width="400"}
 
 Pie Chart Segments:
+
 * Reviewed 
 * Not Reviewed 
 
@@ -366,6 +392,7 @@ A comprehensive overview of YStr DNA testing method assignments
 ![DNA YStr Methods](media/dna/dna-ystr-methods.png){width="400"}
 
 Pie Chart Segments:
+
 * Assigned
 * Not Assigned 
 
@@ -377,6 +404,7 @@ A comprehensive overview of YStr DNA testing outcomes
 ![DNA YStr Results](media/dna/dna-ystr-results.png){width="400"}
 
 Pie Chart Segments:
+
 * Reportable 
 * Inconclusive 
 * Unable to assign 
@@ -392,6 +420,7 @@ A timeline analysis of YStr DNA sample processing status
 ![DNA YStr Dates](media/dna/dna-ystr-dates.png){width="400"}
 
 Pie Chart Segments:
+
 * Requested
 * Received
 
@@ -403,6 +432,7 @@ A categorical analysis of Y-STR DNA sequence data
 ![DNA YStr Sequence](media/dna/dna-ystr-sequence.png){width="400"}
 
 Pie Chart Segments:
+
 * Number
 * Subgroup
 * Similar
@@ -415,6 +445,7 @@ A status overview of Y-STR DNA genetic marker analysis
 ![DNA YStr Loci](media/dna/dna-ystr-loci.png){width="400"}
 
 Pie Chart Segments:
+
 * Loci Typed
 * Loci Not Typed
 
@@ -426,6 +457,7 @@ A statistical overview of Y-STR DNA sample matching status
 ![DNA YStr Counts](media/dna/dna-ystr-counts.png){width="400"}
 
 Pie Chart Segments:
+
 * Match Count
 * Total Count
 
@@ -437,6 +469,7 @@ A tracking system for Y-STR DNA Multi-Copy Control review status
 ![DNA YStr MCC Dates](media/dna/dna-ystr-mcc-dates.png){width="400"}
 
 Pie Chart Segments:
+
 * Reviewed
 * Not Reviewed
 
@@ -448,6 +481,7 @@ The bottom section features a comprehensive DNA timeline showing multiple data s
 ![DNA Timeline Graph](media/dna/dna-linechart.png){width="500"}
 
 Data Series:
+
 * Specimens Sampled 
 * DNA (Re)Samples 
 * Mito Sequences 
@@ -458,6 +492,7 @@ Data Series:
 The Y-axis shows the count (ranging from 0 to 15,000) while the X-axis shows the date range.
 
 Graph Controls:
+
 * No step/Step options - Toggle between continuous or stepped line visualization
 * 30 days time range selector - Adjust the time window for analysis
 * Circle point style option - Toggle data point markers

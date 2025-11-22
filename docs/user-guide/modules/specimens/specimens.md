@@ -286,7 +286,7 @@ These fields are read only - to edit, click the pencil icon. the minimum value, 
 
 There are four types of associations. Process of adding each association is shown below. After the association is added, refresh the page to see the Details button updated. The details button opens a data table of all available associations under that specimen.
 
-#### Pair Matching
+#### Pair
 
 ![](media/pair-match.gif)
 

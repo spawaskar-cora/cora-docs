@@ -110,6 +110,155 @@ Line graph widget contains the following:
 * Days
 * Point Style
 
+### Complete
+
+!!! warning
+
+    This section is work in progress.
+
+### Individual Assigned
+
+!!! warning
+
+    This section is work in progress.
+### DNA Sampled
+
+!!! warning
+
+    This section is work in progress.
+
+### DNA Mito Results
+
+!!! warning
+
+    This section is work in progress.
+
+### DNA YSTR Results
+
+!!! warning
+
+    This section is work in progress.
+
+### DNA AUSTR Results
+
+!!! warning
+
+    This section is work in progress.
+
+### Measured
+
+!!! warning
+
+    This section is work in progress.
+
+### CT Scanned
+
+!!! warning
+
+    This section is work in progress.
+
+### XRAY Scanned
+
+!!! warning
+
+    This section is work in progress.
+
+### Clavicle Triage
+
+!!! warning
+
+    This section is work in progress.
+
+### Isotope Sampled
+
+!!! warning
+
+    This section is work in progress.
+
+### Remains Status
+
+!!! warning
+
+    This section is work in progress.
+
+### Inventoried
+
+!!! warning
+
+    This section is work in progress.
+
+### Reviewed
+
+!!! warning
+
+    This section is work in progress.
+
+### Mito Sequence Number
+
+!!! warning
+
+    This section is work in progress.
+
+### MNI Bones
+
+!!! warning
+
+    This section is work in progress.
+
+### MNI Zones
+
+!!! warning
+
+    This section is work in progress.
+
+### MNI Mito Bones Side
+
+!!! warning
+
+    This section is work in progress.
+
+### MNI Bones Side
+
+!!! warning
+
+    This section is work in progress.
+
+### MNI Zones Side
+
+!!! warning
+
+    This section is work in progress.
+
+### MNI Bone Groups
+
+!!! warning
+
+    This section is work in progress.
+
+### MNI Bone Groups and Side
+
+!!! warning
+
+    This section is work in progress.
+
+### Specimens
+
+!!! warning
+
+    This section is work in progress.
+
+### DNAS
+
+!!! warning
+
+    This section is work in progress.
+
+### Isotopes
+
+!!! warning
+
+    This section is work in progress.
+   
 ## Ca'Granda Project Manager Dashboard
  
 From the left sidebar, navigate to the Dashboard to access the main interface for Ca'Granda

@@ -119,6 +119,7 @@ Each widget in the Isotope Dashboard visualizes a specific isotopic analysis pro
 All are color-coded, interactive, and linked to drilldown views for deeper exploration.
 
 ### General Notes
+
 - Each chart segment is clickable and supports drilldown exploration.  
 - Hovering over segments shows precise counts and percentages.  
 - Widgets update automatically when isotope data changes or seeding is rerun.  
@@ -127,13 +128,14 @@ All are color-coded, interactive, and linked to drilldown views for deeper explo
 Together, these widgets offer both qualitative (status, workflow completion) and quantitative (ratios, percentages) insights into isotope analysis.  
 They enable analysts to monitor sample quality, detect irregularities, and validate isotopic data across projects and organizations.
 
-### 1 Isotope Results
+### Isotope Results
 **Purpose:**  
 Displays isotopic sample results based on reporting status.
 
 ![Sample Results Status](media/isotope/sample-results-status.png){ width="400" }
 
 **Pie Chart Segments:**
+
 - **Reportable:** Verified isotopic results ready for reporting.  
 - **Inconclusive:** Data analyzed but not definitive.  
 - **Unable to Assign:** Data insufficient for conclusion.  
@@ -144,13 +146,14 @@ Displays isotopic sample results based on reporting status.
 Track analytical output and pending workload. Click on any segment to drill down to project-level data.
 
 
-### 2 Demineralization Status
+### Demineralization Status
 **Purpose:**  
 Tracks sample demineralization progress essential for collagen extraction.
 
 ![Demineralization Status](media/isotope/demineralization.png){ width="400" }
 
 **Pie Chart Segments:**
+
 - **Started:** Demineralization initiated.  
 - **Completed:** Process finished.  
 - **Pending:** Not started.
@@ -159,13 +162,14 @@ Tracks sample demineralization progress essential for collagen extraction.
 Confirm progress of sample preparation. High *Completed* means readiness for further processing.
 
 
-### 3 Vial Weight Measurements
+### Vial Weight Measurements
 **Purpose:**  
 Monitors vial-based weighing consistency.
 
 ![Vial Weight Measurements](media/isotope/vial-weight-measurements.png){ width="400" }
 
 **Pie Chart Segments:**
+
 - **Vial & Lid:** Empty container weight.  
 - **Sample + Vial & Lid:** Sample included weight.  
 - **Pending:** Measurements not done.
@@ -174,13 +178,14 @@ Monitors vial-based weighing consistency.
 Used for verifying pre- and post weighting consistency to ensure analytical accuracy.
 
 
-### 4 Collagen Measurements
+### Collagen Measurements
 **Purpose:**  
 Shows extracted collagen weight and yield.
 
 ![Collagen Measurements](media/isotope/collagen-measurements.png){ width="400" }
 
 **Pie Chart Segments:**
+
 - **Collagen Weight:** Extracted weight recorded.  
 - **Yield Calculated:** Yield percentage computed.  
 - **Pending:** Not yet completed.
@@ -189,13 +194,14 @@ Shows extracted collagen weight and yield.
 Tracks collagen recovery efficiency. High *Pending* means incomplete or delayed extractions.
 
 
-### 5 Carbon/Nitrogen Ratio (C:N)
+### Carbon/Nitrogen Ratio (C:N)
 **Purpose:**  
 Evaluates collagen preservation via C:N ratio.
 
 ![Carbon/Nitrogen Ratio](media/isotope/carbon-nitrogen-ratio.png){ width="400" }
 
 **Pie Chart Segments:**
+
 - **High (>3.6):** Indicates contamination or degradation.  
 - **Normal (2.9–3.6):** Ideal preservation range.  
 - **Low (<2.9):** Possible underprocessing.  
@@ -205,13 +211,14 @@ Evaluates collagen preservation via C:N ratio.
 Healthy samples fall mostly under *Normal*. Alerts if ratio trends deviate.
 
 
-### 6 Carbon/Oxygen Ratio (C:O)
+### Carbon/Oxygen Ratio (C:O)
 **Purpose:**  
 Analyzes isotopic stability via C:O ratio.
 
 ![Carbon Oxygen Ratio](media/isotope/carbon-oxygen-ratio.png){ width="400" }
 
 **Pie Chart Segments:**
+
 - **High (>1.4):** Oxygen deficiency.  
 - **Normal (1.1–1.4):** Balanced.  
 - **Low (<1.1):** Oxygen rich contamination.  
@@ -220,14 +227,44 @@ Analyzes isotopic stability via C:O ratio.
 **How to Use:**  
 Used for consistency checks in isotope balance assessments.
 
+### Sample Results Status
+**Purpose:**
+Displays overall isotope sample distribution by result status for tracking analytical completion.
+![Sample Results Status](media/isotope/sample-results-status.png){ width="400"}
 
-### 7 Carbon Analysis (δ¹³C)
+**Pie Chart Segments:**
+
+- **Reportable:** Verified isotopic results ready for reporting.
+- **Inconclusive:** Data analyzed but not definitive.
+- **Unable to Assign:** Insufficient data to categorize.
+- **Pending:** Samples awaiting processing.
+
+**How to Use:**
+Monitor lab analysis completion and identify pending or inconclusive samples. A higher Reportable ratio indicates improved analysis progress.
+
+### Weight Analysis Status
+**Purpose:**
+Shows progress of sample weighing during isotope preparation.
+
+![Weight Analysis Status](media/isotope/weight-analysis-status.png){ width="400"}
+
+**Pie Chart Segments:**
+
+- **Measured:** Samples successfully weighed.
+- **Not Measured:** Samples yet to be weighed.
+- **Pending:** Awaiting confirmation or data entry.
+
+**How to Use:**
+Use this chart to verify weighing consistency and data completeness before analysis. A high Measured ratio indicates accurate preparation workflow.
+
+### Carbon Analysis (δ¹³C)
 **Purpose:**  
 Visualizes completeness of carbon isotopic readings.
 
 ![Carbon Analysis](media/isotope/carbon-analysis.png){ width="400" }
 
 **Pie Chart Segments:**
+
 - **Delta (δ¹³C):** Delta value recorded.  
 - **Weight:** Carbon weight data present.  
 - **Percentage:** Percent value entered.  
@@ -237,13 +274,14 @@ Visualizes completeness of carbon isotopic readings.
 Ensures all carbon-related fields are filled before analysis.
 
 
-### 8 Nitrogen Analysis (δ¹⁵N)
+### Nitrogen Analysis (δ¹⁵N)
 **Purpose:**  
 Displays nitrogen isotope data completeness.
 
 ![Nitrogen Analysis](media/isotope/nitrogen-analysis.png){ width="400" }
 
 **Pie Chart Segments:**
+
 - **Delta (δ¹⁵N):** Delta measured.  
 - **Weight:** Weight recorded.  
 - **Percentage:** Percent recorded.  
@@ -253,13 +291,14 @@ Displays nitrogen isotope data completeness.
 Used by analysts studying dietary or ecological nitrogen variations.
 
 
-### 9 Oxygen Analysis (δ¹⁸O)
+### Oxygen Analysis (δ¹⁸O)
 **Purpose:**  
 Shows isotopic completeness for oxygen.
 
 ![Oxygen Analysis](media/isotope/oxygen-analysis.png){ width="400" }
 
 **Pie Chart Segments:**
+
 - **Delta (δ¹⁸O):** Delta recorded.  
 - **Weight:** Weight recorded.  
 - **Percentage:** Percentage calculated.  
@@ -269,13 +308,14 @@ Shows isotopic completeness for oxygen.
 Ensures oxygen-related readings are sufficient for isotopic comparison.
 
 
-### 10 Sulphur Analysis (δ³⁴S)
+### Sulphur Analysis (δ³⁴S)
 **Purpose:**  
 Summarizes sulphur isotope analysis results.
 
 ![Sulphur Analysis](media/isotope/sulphur-analysis.png){ width="400" }
 
 **Pie Chart Segments:**
+
 - **Delta (δ³⁴S):** Delta measured.  
 - **Weight:** Weight captured.  
 - **Percentage:** Percent value recorded.  
@@ -285,13 +325,14 @@ Summarizes sulphur isotope analysis results.
 Helps evaluate trace element (sulphur) data completeness.
 
 
-### 11 Isotopes (Line Chart)
+### Isotopes (Line Chart)
 **Purpose:**  
 Displays time-based progress of isotope sample processing.
 
 ![Isotopes Line Chart](media/isotope/linechart-isotope.png){ width="500" }
 
 **Chart Axes:**
+
 - **X-Axis:** Processing or entry date.  
 - **Y-Axis:** Number of analyzed samples.
 

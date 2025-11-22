@@ -41,15 +41,18 @@ The collapse and expand feature allows you to quickly manage the visibility of a
 ![Collapse and Expand All Widgets](media/collapse-expand-widgets.gif){ width="800" }
 
 **To collapse all widgets:**
+
 1. Locate the collapse/expand icon in the top toolbar (positioned before the help icon)
 2. Click the icon once to collapse all dashboard widgets
 3. All widgets will minimize, showing only their titles and basic information
 
 **To expand all widgets:**
+
 1. Click the same collapse/expand icon again
 2. All widgets will return to their full expanded view, displaying their complete data visualizations
 
 This feature is particularly useful when you need to:
+
 - Get a quick overview of available widgets without scrolling
 - Temporarily reduce visual clutter on the dashboard
 - Quickly navigate between different sections of a large dashboard
@@ -61,12 +64,14 @@ The drag and drop functionality enables you to rearrange widgets on your dashboa
 ![Drag and Drop Widget Rearrangement](media/drag-drop-widgets.gif){ width="800" }
 
 **To move widgets:**
+
 1. Position your cursor over the widget you want to move
 2. Click and hold on the widget's header area
 3. Drag the widget to your desired location on the dashboard
 4. Release the mouse button to drop the widget in its new position
 
 **Layout Benefits:**
+
 - Prioritize frequently used widgets by placing them at the top
 - Group related widgets together for easier data comparison
 - Create a workflow-optimized arrangement based on your daily tasks
@@ -80,11 +85,13 @@ You can remove individual widgets from your dashboard view to focus only on the 
 ![Remove Widgets from Dashboard](media/remove-widgets.gif){ width="800" }
 
 **To remove a widget:**
+
 1. Locate the widget you want to remove
 2. Click the "X" (cross) icon in the widget's control area (top-right corner of the widget)
 3. The widget will immediately disappear from your dashboard view
 
 **Important Notes:**
+
 - Removing a widget only hides it from your current dashboard view
 - The widget and its data are not permanently deleted
 - You can restore removed widgets using the Reset Dashboard feature
@@ -95,6 +102,7 @@ You can remove individual widgets from your dashboard view to focus only on the 
 The reset dashboard feature allows you to quickly restore your dashboard to its original default state, undoing all customizations you've made.
 
 **To reset your dashboard:**
+
 1. Locate the reset dashboard icon in the top toolbar
 2. Click the reset icon
 3. Your dashboard will immediately return to the default layout
@@ -102,11 +110,13 @@ The reset dashboard feature allows you to quickly restore your dashboard to its 
 ![Reset Dashboard Button Location](media/reset-dashboard.png){ width="800" }
 
 **What gets reset:**
+
 - **Widget positions**: All widgets return to their original default positions
 - **Removed widgets**: Any widgets you've closed/removed will reappear on the dashboard
 - **Custom arrangements**: Your personalized drag-and-drop layout will be restored to the system default
 
 **When to use reset:**
+
 - When you want to start fresh with widget arrangement
 - If you've accidentally removed important widgets and want them back quickly
 - When switching between different types of analysis work that require different layouts
@@ -132,6 +142,7 @@ Widgets come with a handful of standard features/functions.
 ![](media/view-details.png){ width="400" }
 
 4.  Widget Controls :- The common widget controls present on all the widgets are
+
 * Collapse
 * Close
 ![](media/widget-control.png){ width="400" }

@@ -45,3 +45,10 @@ Below are the fields that are visible:
 
 
 ***These fields will vary depending on type of module selected***
+
+### User Activity Specimen
+
+!!! warning
+
+    This section is work in progress.
+

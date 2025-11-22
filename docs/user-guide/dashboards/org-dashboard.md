@@ -15,15 +15,15 @@ The markers displayed on the map showcase the latitude and longitude of a partic
 On mouse over additional project details as well as a link ![dashboard icon](../../assets/screenshots/dashboard/dashboard-icon.png)
 to the corresponding project dashboard can be found in the in popup window.
 
-### DNA Summary
-A data table provides a link to a project dashboard and shows high level DNA summary details for each project
-
-![](media/dna-summary.png)
-
 ### Specimen Summary
 A data table provides a link to a project dashboard and shows high level Skeletal Elements summary details for each project
 
 ![](media/specimen-summary.png)
+
+### DNA Summary
+A data table provides a link to a project dashboard and shows high level DNA summary details for each project
+
+![](media/dna-summary.png)
 
 ### Isotope Summary
 A data table provides a link to a project dashboard and shows high level Isotope summary details for each project
@@ -34,3 +34,15 @@ A data table provides a link to a project dashboard and shows high level Isotope
 A data table provides a link to a project dashboard and shows high level Missing Person summary details for each project
 
 ![](media/missing-person-summary.png)
+
+### User Activity Specimen
+
+!!! warning
+
+    This section is work in progress.
+
+### User Activity DNA
+
+!!! warning
+
+    This section is work in progress.
