@@ -230,6 +230,7 @@ Used for consistency checks in isotope balance assessments.
 ### Sample Results Status
 **Purpose:**
 Displays overall isotope sample distribution by result status for tracking analytical completion.
+
 ![Sample Results Status](media/isotope/sample-results-status.png){ width="400"}
 
 **Pie Chart Segments:**

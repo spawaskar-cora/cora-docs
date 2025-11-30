@@ -6,8 +6,11 @@ in CoRA. A critical first step is to cut a sample of the specimen for DNA analys
 for tracking purposes and after you get results from your DNA lab you can capture DNA information here to create a
 DNA Profile for further analysis.
 
-## Navigation
-![](media/dna-navigation.png)
+## DNA Navigation
+
+![DNA Navigation](media/dna-navigation.png){ width="250" }
+
+![DNA Navigation](media/dna-nav.gif)
 
 Navigate to the Dental section by opening the navigation bar and selecting the Dental dropdown.
 
@@ -29,7 +32,7 @@ specimen. Note you can create multiple DNA samples for a specimen.
     Consensus DNA Profile for you with data from the multiple samples. Consensus DNA Profile is a powerful feature of CoRA.
 
 
-![](media/dna-sample-creation.gif)
+![DNA Sample Creation](media/dna-sample-creation.gif)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -41,6 +44,45 @@ specimen. Note you can create multiple DNA samples for a specimen.
 
 Clicking Save will take you to the DNA Profile screen. You can visit the DNA Profile screen once you have received data from your
 DNA processing lab to enter DNA related data.
+
+-------------
+
+## DNA List Status Indicators
+
+When viewing the DNA List, you'll see color-coded status indicator bars that provide a quick visual overview of DNA profile completion for each specimen. These progress indicators help you track data entry completion across the three main DNA testing categories.
+
+![DNA List Status Indicators](media/dna-list-status-indicators.gif)
+
+### Understanding the Status Bars
+
+Each DNA sample displays four indicator sections from left to right:
+
+1. **DNA Sample Count** - Shows the total number of DNA samples for the specimen
+   - **Green bar**: DNA sample(s) exist
+   - **Orange bar**: No DNA samples
+   - Displays the number of samples and their sample numbers
+
+2. **Mito (Mitochondrial DNA)** - Tracks completion of mitochondrial DNA fields
+   - **Green bar**: At least one Mito field is completed
+   - **Orange bar**: No Mito fields completed
+   - Displays a ratio showing completed fields out of total available fields
+   - Shows Mito sequence number, sequence subgroup,sequence similar and field count when available
+
+3. **au-STR (Autosomal DNA)** - Tracks completion of autosomal DNA fields
+   - **Green bar**: At least one au-STR field is completed
+   - **Orange bar**: No au-STR fields completed
+   - Displays a ratio showing completed fields out of total available fields
+   - Shows au-STR sequence number, sequence subgroup, sequence similar and field count when available
+
+4. **y-STR (Y-Chromosome DNA)** - Tracks completion of Y-chromosome DNA fields
+   - **Green bar**: At least one y-STR field is completed
+   - **Orange bar**: No y-STR fields completed
+   - Displays a ratio showing completed fields out of total available fields
+   - Shows y-STR sequence number, sequence subgroup, sequence similar and field count when available
+
+!!! tip
+    
+    Click on any status indicator card to navigate directly to the corresponding DNA profile tab (Mito, au-STR, or y-STR) to complete or review the data fields. The color-coding provides instant feedback on which DNA profiles need attention.
 
 -------------
 
@@ -67,7 +109,7 @@ the DNA Profile for the specimen. On this screen click the pencil icon on the to
 
 Click on Save if any of the fields were updated
 
-![](media/edit-dna.gif)
+![Edit DNA](media/edit-dna.gif)
 
 !!! tip
 
@@ -103,7 +145,7 @@ You will be able to see how many fields that were completed under Mito Form. You
 
 ### Auto / AuStr
 
-![](media/dna-auSTR-edit.png)
+![DNA auSTR Edit](media/dna-auSTR-edit.png){ width="500" }
 
 Click on the auto / austr Tab to update the autosomal DNA fields. 
 
@@ -131,7 +173,7 @@ You will be able to see how many fields that were completed under auto / austr t
 
 ### Ystr
 
-![](media/dna-Y-STR-edit.png)
+![DNA Y-STR Edit](media/dna-Y-STR-edit.png){ width="500" }
 
 Click on the Ystr Tab to the update the Ystr DNA fields. 
 
@@ -164,7 +206,7 @@ You will be able to see how many fields that were completed under auto / austr t
 
 Select multiple DNA profiles by clicking on the boxes next to the ones you wish to edit, go to the Actions tab, and select Batch Edit.
 
-![](media/dna-batch-edit.gif)
+![DNA Batch Edit](media/dna-batch-edit.gif)
 
 In the popup, select the changes you wish to make and then click on the save icon.
 
@@ -172,5 +214,5 @@ In the popup, select the changes you wish to make and then click on the save ico
 
 To delete a dna profile the user will have to delete the entire specimen.
 
-![](media/dna-delete.gif)
+![DNA Delete](media/dna-delete.gif)
 

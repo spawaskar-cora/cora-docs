@@ -2,16 +2,18 @@
 
 Dental remains are extremely important to the identification process. An individual’s dental records are often the best way to identify remains as they have unique individual characteristics and may contain surviving mtDNA. If your project chooses to use Dental analysis as part of your identification process then you have come to the right place. Ideally, the project forensic odontologists will have antemortem (before death) X-rays to use for comparison, but even handwritten charts and treatment notes can be critical to the research and identification process. Here you will learn more about the Dental module in CoRA.
 
-- Dental Navigation
-- Create New Dental Specimen
-  - New tooth
-  - Multiple via Dentition Bone Group
-  - Multiple via Dental Chart
+The Dental navigation menu includes:
 
+- New Tooth
+- New via Dentition Group
+- New via Dental Chart
+- Missing Person Dental Comparision Report
 
-## Navigation
+## Dental Navigation
 
-![](media/dental-navigation.png)
+![Dental Navigation](media/dental-navigation.png){ width="250" }
+
+![Dental Navigation](media/dental-nav.gif)
 
 Navigate to the Dental section by opening the navigation bar and selecting the Dental dropdown. For Report Dashboard - please see the **Reports** documentation.
 
@@ -22,11 +24,11 @@ Users can create a new dental specimen in multiple ways. For example you can cre
 ### New Tooth
 User can create a New Tooth by navigate to Left Sidebar Menu -> Dental-> New Tooth. User will be taken to the new dental screen as shown below.
 
-![](media/dental-navigation-tooth.gif)
+![Dental Navigation to New Tooth](media/dental-navigation-tooth.gif)
 
 You are now in the create page for the New tooth of the CoRA application. User can create following the below steps.
 
-![](media/create-dental-tooth.gif)
+![Create Dental Tooth](media/create-dental-tooth.gif)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -39,15 +41,15 @@ You are now in the create page for the New tooth of the CoRA application. User c
 | **Tooth**        | Id           | id       | valid bones via dropdown                                                      | Required          |
 | **Completeness** | String       | 16 chars | valid completeness via dropdown (Complete, Incomplete)                        | Required          |
 
-### Multiple via Dentition Bone Group
+### New via Dentition Bone Group
 
 To create a multiple specimens via dentition bone group - navigate to the Left Sidebar Menu -> dental -> New via Dentition Bone Group. You will be taken to the new specimens via bone group screen. Here you can create multiple dental specimens that belong to the same dentition bone group.
 
-![](media/create-specimens-dentition-group-navigation.png)
+![Create Specimens Dentition Group Navigation](media/create-specimens-dentition-group-navigation.png){ width="250" }
 
 You are now in the create page for the new dental via dentition bne group of the CoRA application. User can create following the below steps.
 
-![](media/create-specimen-dentition-bone-group.gif)
+![Create Specimen Dentition Bone Group](media/create-specimen-dentition-bone-group.gif)
 
 The fields to create a new bone group are:
 
@@ -79,15 +81,15 @@ The bolded fields are required.
 | Provenance2             | String       | 32 chars | can only contain letters, numbers, dash and space                             | Optional          |
 | **Starting Designator** | Alphanumeric | 32 chars | can only contain letters and numbers                                          | Required          |
 
-### Multiple via Dental Chart
+### New via Dental Chart
 
-To create a multiple specimens via Dental Chart - navigate to the Left Sidebar Menu -> dental -> New via Dental Chart. You will be taken to the create Teeth by Dental Chart.
+To create a new specimens via Dental Chart - navigate to the Left Sidebar Menu -> dental -> New via Dental Chart. You will be taken to the create Teeth by Dental Chart.
 
-![](media/create-specimen-dentition-chart-navigation.png)
+![Create Specimen Dentition Chart Navigation](media/create-specimen-dentition-chart-navigation.png){ width="250" }
 
 You are now in the create page for the new dental via dental chart of the CoRA application. User can create following the below steps.
 
-![](media/dentalchart-navigation.gif)
+![Dental Chart Navigation](media/dentalchart-navigation.gif)
 
 ***The bolded fields are required. The user is required to select Tooth or Dental Code for this report.***
  
@@ -110,14 +112,20 @@ The fields to create a new bone group are:
  
 Your new dental chart will now be saved, when clicked on save option
 
-![](media/dental-createbychart.gif)
+![Dental Create by Chart](media/dental-createbychart.gif)
 
-![](media/dental-createbychart-data.gif)
+![Dental Create by Chart Data](media/dental-createbychart-data.gif)
 
 if the bone group selected is Mandibular dentition, below dental chart will be presented
 
-![](media/mandibullar-chart.png)
+![Mandibular Chart](media/mandibullar-chart.png){ width="500" }
 
 if the bone group selected is Maxillary dentition, below dental chart will be presented
 
-![](media/maxillary-chart.png)
+![Maxillary Chart](media/maxillary-chart.png){ width="500" }
+
+### Missing Person Dental Comparison Report
+
+![Missing Person Dental Comparison Report Navigation](media/missing-person-dental-comparison-navigation.png){ width="250" }
+
+For more information on this report, please go here: [Missing Person Dental Comparison Report](https://docs.coracore.org/en/latest/user-guide/reports/project-reports/#missing-person-dental-comparison-report).

@@ -8,11 +8,11 @@ The Org dashboard provides at a glance high level charts and tables
 of org data, information, statistics and charts for the current org.
 
 ### Project Map
-![orgAdminDashboard](../../assets/screenshots/dashboard/orgAdminDashboard.png)
+![orgAdminDashboard](media/orgAdminDashboard.png)
 
 ### Markers
 The markers displayed on the map showcase the latitude and longitude of a particular project. 
-On mouse over additional project details as well as a link ![dashboard icon](../../assets/screenshots/dashboard/dashboard-icon.png)
+On mouse over additional project details as well as a link ![dashboard icon](media/dashboard-icon.png)
 to the corresponding project dashboard can be found in the in popup window.
 
 ### Specimen Summary

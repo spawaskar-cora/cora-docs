@@ -9,7 +9,7 @@ CoRA is built on an architectural framework consisting of various components inc
 CoRA is structured around some core modules such as Specimens, DNA, Isotopes, Dental, Missing Persons and Individuals modules. Each of these modules 
 is described in more detail below.
 
-![currentModules1](../../assets/screenshots/dashboard/currentModules.png)
+![currentModules1](media/currentModules.png)
 
 ### Specimens
 

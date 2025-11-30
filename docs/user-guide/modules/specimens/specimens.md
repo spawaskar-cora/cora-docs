@@ -2,15 +2,17 @@
 Specimen are individual human remains which can be categorized. Many of the modules on the site are focused on specimens and their association details such as Biological Profile, DNA Profile, Measurements, Zones, Articulation, Pair Matching, Refits, Morphology, Pathology, Trauma, Taphonomy, etc.
 This section will explore navigating the specimens and their associations screen related characteristics.
 
-- Specimen Navigation
-- Creating a New Specimen 
-- Creating a New Specimen Group
-- Specimen Search
-- Specimen Details
+The Specimen navigation menu includes:
+
+- New Specimen
+- New via Bone Group
+- Associate Bone Groups
+- Assign Specimens to Bone Group
+- Advanced Search
 
 ## Specimen Navigation
 
-![Specimen Navigation](media/specimen-nav.png)
+![Specimen Navigation](media/specimen-nav.png){ width="250" }
 
 ![Specimen Navigation](media/specimen-navigation.gif)
 
@@ -82,7 +84,7 @@ Click "Save" When you are done making changes.
 
 A specimen can be deleted by clicking on the delete icon and then confirming the deletion in the pop-up. 
 
-![](media/delete-specimen.gif)
+![Delete Specimen](media/delete-specimen.gif)
 
 ### Multiple via Bone Group
 
@@ -94,7 +96,7 @@ To create a multiple specimens via bone group - navigate to the Left Sidebar Men
     relationship amongst them. You can also apply Pathology, Trauma and Taphonomy to these specimens at the time of creation 
     simplifying and speeding up the data entry process.
 
-![](media/new-bone-group.gif)
+![New Bone Group](media/new-bone-group.gif)
 
 The fields to create a new bone group are:
 
@@ -135,7 +137,7 @@ Once you have created a new bone group, you can edit the fields and click "Save"
     with that starting designator and increment it for subsequent specimens within the bone group.
 
 
-![](media/create-new-bone-group.gif)
+![Create New Bone Group](media/create-new-bone-group.gif)
 
 
 ### Multiple via Homunculus
@@ -151,13 +153,12 @@ To create a multiple specimens via homunculus - click the "New via homunculus" l
 
 The screenshot below shows the  navigation to associate specimen by bone group.
 
-![](media/associate-bonegroup-nav.gif)
-
+![Associate Bone Group Navigation](media/associate-bonegroup-nav.gif)
 
 The screenshot below shows the  Details to associate selected bone groups. Here you can enter association data for the specimen.
 Each of the Action is explained in the following section.
 
-![](media/associate-specimen-by-bonegroup.gif)
+![Associate Specimen by Bone Group](media/associate-specimen-by-bonegroup.gif)
 
 
 ## Assign Specimen to Bone Group
@@ -172,7 +173,44 @@ Each of the Action is explained in the following section.
 The screenshot below shows the Actions or Details menu for the selected specimen. Here you can enter association data for the specimen.
 Each of the Action or Details menu option is explained in the following section.
 
-![](media/list-of-specimen.gif)
+![List of Specimen](media/list-of-specimen.gif)
+
+### DNA Status Indicators in Specimen List
+
+When viewing specimen lists or search results, you'll see color-coded DNA status indicator bars that provide a quick visual overview of DNA profile completion for each specimen. These progress indicators help you track data entry completion across the three main DNA testing categories.
+
+![DNA Status Indicators](media/dna-status-indicators.gif)
+
+#### Understanding the DNA Status Bars
+
+Each specimen displays four DNA indicator sections from left to right:
+
+1. **DNA Sample Count** - Shows the total number of DNA samples for the specimen
+   - **Green bar**: DNA sample(s) exist
+   - **Orange bar**: No DNA samples
+   - Displays the number of samples and their sample numbers
+
+2. **Mito (Mitochondrial DNA)** - Tracks completion of mitochondrial DNA fields
+   - **Green bar**: At least one Mito field is completed
+   - **Orange bar**: No Mito fields completed
+   - Displays a ratio showing completed fields out of total available fields
+   - Shows Mito sequence number, sequence subgroup, sequence similar and field count when available
+
+3. **au-STR (Autosomal DNA)** - Tracks completion of autosomal DNA fields
+   - **Green bar**: At least one au-STR field is completed
+   - **Orange bar**: No au-STR fields completed
+   - Displays a ratio showing completed fields out of total available fields
+   - Shows au-STR sequence number, sequence subgroup, sequence similar and field count when available
+
+4. **y-STR (Y-Chromosome DNA)** - Tracks completion of Y-chromosome DNA fields
+   - **Green bar**: At least one y-STR field is completed
+   - **Orange bar**: No y-STR fields completed
+   - Displays a ratio showing completed fields out of total available fields
+   - Shows y-STR sequence number, sequence subgroup, sequence similar and field count when available
+
+!!! tip
+    
+    Click on any DNA status indicator card to navigate directly to the corresponding DNA profile tab (Mito, au-STR, or y-STR) to complete or review the data fields. The color-coding provides instant feedback on which DNA profiles need attention.
 
 
 ### Biological Profile
@@ -183,15 +221,15 @@ The user can add, edit or delete a method.
 
 #### Age
 
-![](media/age.gif)
+![Age](media/age.gif)
 
 #### Sex
 
-![](media/sex.gif)
+![Sex](media/sex.gif)
 
 #### Ancestry
 
-![](media/ancestry.gif)
+![Ancestry](media/ancestry.gif)
 
 #### Stature
 
@@ -215,7 +253,7 @@ The DNA Profile screen displays the following elements about a bone:
 
 On this screen, you can also view the "Mito", "auSTR", and "Y-STR" forms and navigate by clicking the form name or by clicking the Next button.
 
-![](media/dna.gif)
+![DNA Profile](media/dna.gif)
 
 
 ### Isotope Analysis
@@ -230,11 +268,13 @@ After you create the Isotope, you will receive the <font color="green">"success"
 ![](media/isotope-analysis.gif)
 
 
+
+
 ### Taphonomy
 
 The Taphonomies section allows you to view Taphonomies for the given bone. To add Taphonomy, click the pencil icon to edit and select Taphonomies. Click the Save icon to save the changes.
 
-![](media/taphonomy.gif)
+![Taphonomy](media/taphonomy.gif)
 
 
 ### Zonal Classification
@@ -288,19 +328,19 @@ There are four types of associations. Process of adding each association is show
 
 #### Pair
 
-![](media/pair-match.gif)
+![Pair Match](media/pair-match.gif)
 
 #### Articulations
 
-![](media/articulation.gif)
+![Articulation](media/articulation.gif)
 
 #### Refits
 
-![](media/refits.gif)
+![Refits](media/refits.gif)
 
 #### Morphology
 
-![](media/morphology.gif)
+![Morphology](media/morphology.gif)
 
 
 ### Pathology, Anomaly & Trauma
@@ -309,39 +349,39 @@ Pathology, Trauma and Anomaly can be accessed on one screen as different tabs. T
 
 #### Pathology
 
-![](media/pathology.gif)
+![Pathology](media/pathology.gif)
 
 #### Anomaly
 
-![](media/anomaly.gif)
+![Anomaly](media/anomaly.gif)
 
 #### Trauma
 
-![](media/trauma.gif)
+![Trauma](media/trauma.gif)
 
 ## Specimen Review
 
 The review tab is a pane which displays all other sub reports in one area. All reports are editable in the pane. For information on individual reports - see their detailed documentation.
 
-![](media/specimen-review.gif)
+![Specimen Review](media/specimen-review.gif)
 
 ## Specimen Bulk Edit
 
 Several specimen fields can be bulk-edited. To bulk edit, select multiple specimens by clicking in the boxes next to the specimens you want to edit, click on the Actions tab, and then select Batch Edit.
 
-![](media/select-specimen.png)
+![Select Specimen](media/select-specimen.png){ width="500" }
 
 In the popup, select the changes you wish to make. When you mark a specimen as scanned, completed, or reviewed, the date for the change is auto-filled to the current date. 
 
-![](media/specimen-edit.gif)
+![Specimen Edit](media/specimen-edit.gif)
 
 If the remains are marked as in the lab, there is no corresponding date.
 
-![](media/release-date.png)
+![Release Date](media/release-date.png){ width="500" }
 
 If the remains are marked as released, there is a date field.
 
-![](media/release.png)
+![Release](media/release.png){ width="500" }
 
 ## Specimen Search
 
