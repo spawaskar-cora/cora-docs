@@ -262,7 +262,9 @@ nav:
       - DNA: user-guide/modules/dnas/dnas.md
       - Dental: user-guide/modules/dental/dental.md
       - Isotopes: user-guide/modules/isotopes/isotopes.md
-      - Individuals: user-guide/modules/individuals/individuals.md
+      - Individuals:
+        - Home: user-guide/modules/individuals/individuals.md
+        - Individual Analytics: user-guide/modules/individuals/individual-analytic.md
       - Missing Persons: user-guide/modules/missing-persons/missing-persons.md
       - Tags: user-guide/modules/tags/tags.md
     - Search: 
