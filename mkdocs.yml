@@ -264,7 +264,7 @@ nav:
       - Isotopes: user-guide/modules/isotopes/isotopes.md
       - Individuals:
         - Home: user-guide/modules/individuals/individuals.md
-        - Individual Analytics: user-guide/modules/individuals/individual-analytic.md
+        - Individual Analytics: user-guide/modules/individuals/individual-analytics.md
       - Missing Persons: user-guide/modules/missing-persons/missing-persons.md
       - Tags: user-guide/modules/tags/tags.md
     - Search: 
