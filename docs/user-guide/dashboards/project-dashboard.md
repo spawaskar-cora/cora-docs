@@ -110,213 +110,285 @@ Line graph widget contains the following:
 * Days
 * Point Style
 
-### Complete
+### Widget Details
 
-!!! warning
+Below is a detailed description of each widget included in the Project Dashboard, their purpose, and interaction capabilities.
 
-    This section is work in progress.
+#### Complete
 
-### Individual Assigned
+![Complete Pie Chart](media/project-dashboard-complete-pie-chart.png){width="400"}
 
-!!! warning
+The details shown include:
 
-    This section is work in progress.
-### DNA Sampled
+* Complete
+* Incomplete
 
-!!! warning
+This widget provides a visual breakdown of record completion status across all projects on the Project Dashboard. The pie chart displays the proportion of records that are complete versus incomplete, helping users quickly assess overall progress. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-    This section is work in progress.
+#### Individual Assigned
 
-### DNA Mito Results
+![Individual Assigned Pie Chart](media/project-dashboard-individual-assigned-pie-chart.png){width="400"}
 
-!!! warning
+The details shown include:
 
-    This section is work in progress.
+* Associated
+* Unassociated
 
-### DNA YSTR Results
+This widget provides a visual breakdown of how many individual records are currently associated versus unassociated on the Project Dashboard. The pie chart displays the proportion of individuals in each category, helping users quickly see whether most individuals have been properly linked to projects. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-!!! warning
+#### DNA Sampled
 
-    This section is work in progress.
+![DNA Sampled Pie Chart](media/project-dashboard-dna-sampled-pie-chart.png){width="400"}
 
-### DNA AUSTR Results
+The details shown include:
 
-!!! warning
+* Sampled
+* Not Sampled
 
-    This section is work in progress.
+This widget provides a visual breakdown of DNA sampling status across all relevant records on the Project Dashboard. The pie chart displays the proportion of records that have been sampled versus not sampled, helping users quickly assess overall sampling coverage. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-### Measured
+#### DNA Mito Results
 
-!!! warning
+![DNA Mito Results Pie Chart](media/project-dashboard-dna-mito-results-pie-chart.png){width="400"}
 
-    This section is work in progress.
+The details shown include:
 
-### CT Scanned
+* Reportable
+* Inconclusive
+* Unable to assign
+* Cancelled
+* No Results
+* Pending
 
-!!! warning
+This widget provides a visual breakdown of mitochondrial DNA (Mito) test results across all relevant records on the Project Dashboard. The pie chart displays the proportion of records in each result category, helping users quickly understand overall identification outcomes and remaining work. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-    This section is work in progress.
 
-### XRAY Scanned
 
-!!! warning
+#### DNA YSTR Results
 
-    This section is work in progress.
+![DNA YSTR Results Pie Chart](media/project-dashboard-dna-ystr-results-pie-chart.png){width="400"}
 
-### Clavicle Triage
+The details shown include:
 
-!!! warning
+* Reportable
+* Inconclusive
+* Unable to assign
+* Cancelled
+* No Results
+* Pending
 
-    This section is work in progress.
+This widget provides a visual breakdown of YStr DNA test results across all relevant records on the Project Dashboard. The pie chart displays the proportion of records in each result category, helping users quickly understand overall YStr testing outcomes and where additional work may be required. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-### Isotope Sampled
+#### DNA AUSTR Results
 
-!!! warning
+![DNA AUSTR Results Pie Chart](media/project-dashboard-dna-austr-results-pie-chart.png){width="400"}
 
-    This section is work in progress.
+The details shown include:
 
-### Remains Status
+* Reportable
+* Inconclusive
+* Unable to assign
+* Cancelled
+* No Results
+* Pending
 
-!!! warning
+This widget provides a visual breakdown of AUSTR DNA test results across all relevant records on the Project Dashboard. The pie chart displays the proportion of records in each result category, helping users quickly understand overall AUSTR testing outcomes and where additional follow-up may be required. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-    This section is work in progress.
+#### Measured
 
-### Inventoried
+![Measured Pie Chart](media/project-dashboard-measured-pie-chart.png){width="400"}
 
-!!! warning
+The details shown include:
 
-    This section is work in progress.
+* Measured
+* Not Measured
 
-### Reviewed
+This widget provides a visual breakdown of measurement status across all relevant records on the Project Dashboard. The pie chart displays the proportion of records that have been measured versus those that have not, helping users quickly assess coverage of required measurements. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-!!! warning
+#### CT Scanned
 
-    This section is work in progress.
+![CT Scanned Pie Chart](media/project-dashboard-measured-pie-chart.png){width="400"}
 
-### Mito Sequence Number
+The details shown include:
+* Scanned
+* Not Scanned
 
-!!! warning
+This widget provides a visual breakdown of CT scanning status across all relevant records on the Project Dashboard. The pie chart displays the proportion of records that have undergone CT scanning versus those that have not, helping users quickly gauge imaging coverage. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-    This section is work in progress.
+#### XRAY Scanned
 
-### MNI Bones
+![XRAY Scanned Pie Chart](media/project-dashboard-xray-scanned-pie-chart.png){width="400"}
 
-!!! warning
+The details shown include:
 
-    This section is work in progress.
+* Xray-Scanned
+* Not Xray-Scanned
 
-### MNI Zones
+This widget provides a visual breakdown of X-ray scanning status across all relevant records on the Project Dashboard. The pie chart displays the proportion of records that have been X-ray scanned versus those that have not, helping users quickly assess imaging coverage. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-!!! warning
+#### Clavicle Triage
 
-    This section is work in progress.
+![Clavicle Triage Pie Chart](media/project-dashboard-clavicle-triage-pie-chart.png){width="400"}
 
-### MNI Mito Bones Side
+The details shown include:
 
-!!! warning
+* Triaged
+* Not Triaged
 
-    This section is work in progress.
+This widget provides a visual breakdown of clavicle triage status across all relevant records on the Project Dashboard. The pie chart displays the proportion of records that have been triaged versus those that have not, helping users quickly assess progress on clavicle evaluations and identify remaining cases needing review. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-### MNI Bones Side
+#### Isotope Sampled
 
-!!! warning
+![Isotope Sampled Pie Chart](media/project-dashboard-isotope-sampled-pie-chart.png){width="400"}
 
-    This section is work in progress.
+The details shown include:
 
-### MNI Zones Side
+* Sampled
+* Not Sampled
 
-!!! warning
+This widget provides a visual breakdown of isotope sampling status across all relevant records on the Project Dashboard. The pie chart displays the proportion of records that have isotope samples collected versus those that have not, helping users quickly identify the current level of isotope sampling coverage and remaining cases needing sampling. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-    This section is work in progress.
+#### Remains Status
 
-### MNI Bone Groups
+![Remains Status Pie Chart](media/project-dashboard-remains-status-pie-chart.png){width="400"}
 
-!!! warning
+The details shown include:
 
-    This section is work in progress.
+* In Lab
+* Released
+* Null
 
-### MNI Bone Groups and Side
+This widget provides a visual breakdown of the current status of remains across all relevant records on the Project Dashboard. The pie chart displays the proportion of remains that are still in the lab, those that have been released, and those with a null or unspecified status, helping users quickly understand overall case disposition and remaining lab workload. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-!!! warning
+#### Inventoried
 
-    This section is work in progress.
+![Inventoried Pie Chart](media/project-dashboard-inventoried-pie-chart.png){width="400"}
 
-### Specimens
+The details shown include:
 
-!!! warning
+* Inventoried
+* Not Inventoried
 
-    This section is work in progress.
+This widget provides a visual breakdown of inventory status across all relevant records on the Project Dashboard. The pie chart displays the proportion of records that have been fully inventoried versus those that have not, helping users quickly assess inventory completion and identify any remaining items requiring cataloging. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
+
+#### Reviewed
+
+![Reviewed Pie Chart](media/project-dashboard-reviewed-pie-chart.png){width="400"}
+
+The details shown include:
+
+* Reviewed
+* Not Reviewed
+
+This widget provides a visual breakdown of review status across all relevant records on the Project Dashboard. The pie chart displays the proportion of records that have been formally reviewed versus those still awaiting review, helping users quickly see overall QA progress and identify items that need attention. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
+
+#### Mito Sequence Number
+
+![Mito Sequence Number Pie Chart](media/project-dashboard-mito-sequence-number-pie-chart.png){width="400"}
+
+This widget displays the distribution of mitochondrial DNA (mito) sequence groups across all relevant records on the Project Dashboard. Each bar represents a different sequence group (for example, Seq 1, Seq 5, Seq 63), and the bar height shows how many records fall into that sequence, allowing users to see which mito sequences are most common and to spot patterns that may inform comparative or kinship analysis. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
+
+
+#### MNI Bones
+
+![MNI Bones Pie Chart](media/project-dashboard-mni-bones-pie-chart.png){width="400"}
+
+This widget shows the distribution of bones by either minimum number of individuals (MNI) or element frequency across all records on the Project Dashboard. Each bar represents a specific skeletal element (for example, unseriated ribs, tibia, os coxa, fibula, cranium), and the bar height indicates how many occurrences of that element are recorded, helping users see which bones are most frequently represented in the assemblage and guiding sampling or analysis priorities. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
+
+#### MNI Zones
+
+![MNI Zones Pie Chart](media/project-dashboard-mni-zones-pie-chart.png){width="400"}
+
+This widget shows the distribution of anatomical zones (for example, specific rib zones and femur zones) by minimum number of individuals (MNI) or occurrence frequency across all records on the Project Dashboard. Each bar represents a particular zone label (such as unseriated rib zones 1–4 or numbered femur zones), and the bar height indicates how many times that zone is present, helping users pinpoint which skeletal zones are most commonly observed and prioritize detailed recording or analysis. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
+
+#### MNI Mito Bones Side
+
+![MNI Mito Bones Sides Pie Chart](media/project-dashboard-mni-mito-bones-sides-pie-chart.png){width="400"}
+
+This widget uses a stacked bar chart to display, for each mitochondrial sequence group (for example, Seq 1, Seq 5, Seq 63), the minimum number of individuals (MNI) broken down by skeletal element and body side. Each vertical bar represents one sequence group, and the colored segments stacked within that bar correspond to different bones and left/right sides, so the total bar height shows the overall MNI for that sequence while the segment heights show how much each element and side contributes to that total. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
+
+#### MNI Bones Side
+
+![MNI Bones Side Pie Chart](media/project-dashboard-mni-bones-sides-pie-chart.png){width="400"}
+
+This widget shows, for each major skeletal element (for example, unseriated rib, femur, tibia, humerus, os coxa), the count or minimum number of individuals (MNI) broken down by body side. Each vertical bar represents one bone, and the stacked segments within that bar correspond to left and right sides (and, if used, midline or unspecified), so the total bar height reflects the overall frequency or MNI for that element while the segment heights show how much each side contributes. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
+
+#### MNI Zones Side
+
+![MNI Zones Side Pie Chart](media/project-dashboard-mni-zones-sides-pie-chart.png){width="400"}
+
+This widget shows, for each defined anatomical zone group, the count or minimum number of individuals (MNI) broken down by body side. Each vertical stacked bar represents one zone group, and the darker and lighter segments within the bar correspond to left and right (and, where applicable, midline or unspecified) sides, so the total bar height reflects the overall frequency or MNI for that zone while the segment heights show the contribution of each side. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
+
+
+#### MNI Bone Groups
+
+![MNI Bone Groups Pie Chart](media/project-dashboard-mni-bone-groups-pie-chart.png){width="400"}
+
+This widget shows the count or minimum number of individuals (MNI) summarized by higher-level skeletal groups, such as ribs, hand, thoracic vertebrae, foot, cervical vertebrae, and lumbar vertebrae. Each bar represents one bone group, and its height indicates how many occurrences or individuals are represented in that group, helping users quickly see which skeletal regions are most prevalent in the assemblage. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
+
+
+#### MNI Bone Groups and Side
+
+![MNI Bone Groups  and side Pie Chart](media/project-dashboard-mni-bone-groups-side-pie-chart.png){width="400"}
+
+This widget shows the count or minimum number of individuals (MNI) summarized by higher-level skeletal groups, such as ribs, hand, thoracic vertebrae, foot, cervical vertebrae, and lumbar vertebrae. Each bar represents one bone group, and its height indicates how many occurrences or individuals are represented in that group, helping users quickly see which skeletal regions are most prevalent in the assemblage. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
+
+#### Specimens
+
+![Specimens Pie Chart](media/project-dashboard-speciments-pie-chart.png){width="400"}
+
+This widget is a time‑series line chart that tracks specimen workflow activity over the selected 30‑day period. Each line represents a different status count-Created, Inventory Complete, Reviewed, Measured, and Unique Individuals so users can see how many specimens are in each state on each date and quickly assess whether work volume or completion is changing over time. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
 ### DNAS
 
-!!! warning
+![DNAS Pie Chart](media/project-dashboard-dnas-pie-chart.png){width="400"}
 
-    This section is work in progress.
+This widget is a time‑series line chart that tracks key DNA‑related workflow metrics over the selected 30‑day period. Each line represents a different metric—Specimens Sampled, DNA (Re)Samples, Mito Sequences, Sanger, NGS, and Requests (with dates),so users can see how many items fall into each category on each date and monitor trends or stability in DNA sampling, sequencing, and request activity across the month. Users can hover over each segment to view the exact counts and click to export the supporting table to Excel or PDF. Column visibility options are available in the integrated data table beneath the chart.
 
-### Isotopes
-
-!!! warning
-
-    This section is work in progress.
    
-## Ca'Granda Project Manager Dashboard
+## Cabanatuan Project Manager Dashboard
  
-From the left sidebar, navigate to the Dashboard to access the main interface for Ca'Granda
- 
-The dashboard displays an interactive site map with chambers and bone shafts. Clicking on any chamber or shaft will reveal detailed information on the right panel.
- 
-![](media/dashboard-navigation.png)
- 
-![](media/cagranda-dashboard-navigation.gif)
- 
-On the left side bar - you can access the main options for dashboards.
- 
-We can see the dashboard for Ca'Granda
- 
-## Ca’Granda Chambers
- 
-![](media/cagranda-chamber.png)
- 
-![](media/cagranda-chamber.gif)
- 
-Click on a chamber (e.g., Chamber O) in the site layout to view data.
- 
-The details shown include:
- 
-* Provenance
-* Accession number
-* Created By
-* Total Chamber Bone Count
-* All Shafts (c19, c21 only have data)
+The dashboard displays an interactive cemetery map with numbered grave plots. Selecting a highlighted grave will update the panels and widgets to show information for the related burials and accessions.
 
-## Chamber Shafts
- 
-![](media/cagranda-shaft.png)
- 
-![](media/cagranda-shaft.gif)
- 
-Click on a shaft (e.g., c019) to see more specific information.
- 
-The details include:
- 
-* Shaft
-* Accession number
-* Provenance
-* Created By
-* Total Shaft Bone Count
+### Navigation
 
-## Filters
+From the top navigation, select Project Dashboard to open the main interface for the Cabanatuan POW Camp.
+
+![Cabanatuan Navigation](media/cabanatuan-navigation.gif)
  
-![](media/cagranda-filter.png)
+We can see the dashboard for Cabanatuan
+
+### Cabanatuan Cemetery Map
+
+The Cabanatuan dashboard map shows a simple layout of the POW cemetery, with each grave drawn as a numbered rectangle so you can quickly see where plots are located. Highlighted plots show the graves that are currently in view for the project, and clicking one of these plots focuses the dashboard on that grave and its related accessions, helping you connect the cemetery layout to the underlying case records.
+
+![Cabanatuan Cemetery Map](media/cabanatuan-cemetery-map.gif)
+
+
+### Filters
  
-![](media/cagranda-filter.gif)
- 
-Click the filter icon to refine the data based on the following criteria:
- 
-* Filter by Side
-* Filter by Completeness
-* Filter by Measured
-* Filter by DNA Sampled
-* Fiter by CT Scanned
- 
-Click Apply to activate the filters or Clear All to reset them.
+![Filters](media/cabanatuan-filter.gif)
+
+Use the filters above the map to refine which graves and records are shown.
+You can filter by:
+
+* Accessions
+* Common Graves / Provenance
+* Dates From
+* Dates To
+
+Click Apply to activate the filters or Reset to clear them and return to the full Cabanatuan view.
+
+### Widgets
+
+Widgets below the map summarize key information about the Cabanatuan project.
+
+![Widgets](media/cabanatuan-widgets.gif)
+
+The main widget groups include:
+
+* Workflow Status – Complete, Individuals Assigned, Inventoried, Reviewed, Measured, X‑ray Scanned, CT Scanned, Isotope Sampled, Clavicle Triage, Remains Status.
+* DNA Sampling and Results – DNA Sampled, DNA Mito Results, DNA YSTR Results, DNA AUSTR Results, Mito Sequences.
+* Skeletal Representation (MNI/Frequency) – Bones, Bones & Side, Zones, Zones & Side, Bone Groups.
+* Activity Over Time – 30‑day lines for specimen steps (Created, Inventory Complete, Reviewed, Measured, Unique Individuals) and for DNA steps (Specimens Sampled, DNA (Re)Samples, Mito Sequences, Sanger, NGS, Requests).
+

@@ -7,7 +7,7 @@ Each module can be searched using multiple criteria which are related to that mo
 ## Search History and Favorites
 The search capability also comes with a search history and favorites, which allows the user to look at their search history and create favorites from their search history. This allows the user to quick access previous searches they may have done in a project.
 
-![](media/search-history.png)
+![](media/search-history.png){width="400"}
 
 
 
@@ -45,413 +45,387 @@ the user with the most appropriate or valid search options for the selected proj
 
     CoRA has a built in `intellisense engine` that will provide context sensitive information, options and values for the selected project and model.
 
-## Specimen Search
+#### Search by Specimen
 
-The easiest way to search for specimens is to use the top search bar in the nav bar.
+The user can search by the below Specimen search options under the Specimen Section in the search dropdown. Below you will see some examples of how to complete searches.
 
-To complete a search, first select the project you wish to search on the left-most select field, you will only be able to view projects which are assigned to your user profile.
+**Specimen Search Options:**
 
-![](media/specimen-search-navbar.png)
-
-By default, "Bone" is selected as the search option. Select the desired search category before typing your search text into the search bar. Then click the magnifying glass to execute your search.
-
-![](media/specimen-search-category.png)
-
-The different search category for Specimen search are:
-
-* If the selected Specimens search is Bone, Select a Bone from the dropdown to search for.
-* If the selected Specimens search is Composite Key, Type the Composite Key into search bar.
-* If the Selected Specimens search is Accession, Select Accession from the dropdown to search for.
-* If the Selected Specimens search is Provenance 1, Select provenance 1 from the dropdown to search for.
-* If the Selected Specimens search is Provenance 2, Select provenance 2 from the dropdown to search for.
-* If the Selected Specimens search is Designator, Type the Designator into search bar.
-* If the Selected Specimens search is Individual Number, Select Individual Number from the dropdown to search for.
-* If the Selected Specimens search is Tags, Select a Tag from the dropdown to search for.
-
-Once you complete your search, you are taken to the Specimens search screen. The following columns are visible for all the specimens search:
-
-**The columns that are bolded are sortable.**
-*The columns that are italicized are searchable.*
-(Columns can be both sortable and searchable)
-
-- **Key**
-- **Bone**
-- **Side**
-- **Bone Group**
-- ***Individual Number***
-- ***DNA Sample Number***
-- ***Mito Sequence Number***
-- Associations
-- Pathology
-- Methods
-- **Complete**
-- **Isotope Sampled**
-
-
-
-
-There are some columns which are not displayed on the screen but can be made visible by checking via the column visibility section. The names of those columns are given below:
-
-- **Accession Number**
-- ***Provenance1***
-- ***Provenance2***
+- Bone
+- External Specimen ID
+- Composite Key
+- Accession
+- Provenance 1
+- Provenance 2
 - Designator
-- Taphonomy
+- Individual Number
 - Tags
-- Dental Codes
-- Measured
-- Clavicle Triage
-- Count
-- Mass
-- Min Age
-- Max Age
-- Custom Field 1
-- Custom Field 2
-- Custom Field 3
-- CT Scanned
-- CT Scanned At
-- Xray Scanned
-- Xray Scanned At
-- Inventoried
-- Inventoried By
-- Inventoried At
-- Reviewed
-- Reviewed By
-- Reviewed At
-- Created By
-- Created At
-- Updated By
-- Updated At
 
-**These fields will change depending on the search criteria**
+![Search Menu Specimen](media/specimen-search-menu.png){ width="200"}
 
-![](media/specimen-search.gif)
+##### Bone
 
-On this page you can filter how many results are shown per page, as well as search the results.
-To view the details of a skeletal elements, click on the key in the search results. You can also export the search results in Excel and PDF format.
+With the Bone option, an user can search specimens by selecting a bone name. As seen in the image above, user can search for the specimen by the bone names such as Humerus, Tiba etc.
+The SE eg Humerus, Tibia, Cranium indicates you are searching for the Skeletal elements either by bone Humerus or Tiba or Cranium etc.
+At one time, you can only search for one bone name in this search category.
 
-![](media/specimen-filter.png)
+![Search Spec Bone](media/search-spec-by-bone.png){ width="400"}
 
-## DNA Search
+1. Make sure you are on the project you want to search the specimen in.
+2. Under the Specimen Search select the 'Bone' option.
+3. Then select the bone you would like to search for.
+4. Next click on the magnifying glass search icon to show the search results.
 
-The easiest way to search for DNA is to use the top search bar in the nav bar.
+Below is the search result obtained from specimen search by bone 'Accessory Rib'.
 
-To complete a search, first select the project you wish to search on the left-most select field, you will only be able to view projects which are assigned to your user profile.
 
-![](media/dna-search-navbar.png)
+![Search Spec Bone](media/search-spec-by-bone-results.png)
 
-By default, "Bone" is selected as the search option. Select the desired search category before typing your search text into the search bar. Then click the magnifying glass to execute your search.
 
-![](media/dna-search-category.png)
+##### External Specimen ID
 
-The different search category for DNA search are:
+With the 'External Specimen ID' option, the user can search specimens by typing in the 'External Specimen ID'. 
 
-* If the selected DNA search is Bone, Select a Bone from the dropdown to search for.
-* If the selected DNA search is Composite Key, Type the Composite Key into search bar.
-* If the Selected DNA search is Accession, Select Accession from the dropdown to search for.
-* If the Selected DNA search is Provenance 1, Select provenance 1 from the dropdown to search for.
-* If the Selected DNA search is Provenance 2, Select provenance 2 from the dropdown to search for.
-* If the Selected DNA search is Designator, Type the Designator into search bar.
-* If the selected DNA search is Mito Sequence Number, Type the Mito Sequence Number into search bar.
-* If the Selected DNA search is Sample Number, Type Sample Number into search bar.
-* If the Selected DNA search is External, Type External into search bar.
-* If the Selected DNA search is Tags, Select a Tag from the dropdown to search for.
 
-Once you complete your search, you are taken to the DNA search screen. The following columns are visible for all the DNA search:
+![Searh External ID](media/search-by-external-id.png){ width="800"}
 
-**The columns that are bolded are sortable.**
-*The columns that are italicized are searchable.*
-(Columns can be both sortable and searchable)
+1. Make sure you are on the project you want to search the specimen in.
+2. Under the Specimen Search select the 'External Specimen ID' option.
+3. Then enter in the 'External Specimen ID' (e.g. 333.1).
+4. Next click on the magnifying glass search icon to show the search results.
 
-- Key
+Search results by External Specimen ID equal to 333.1.
+
+![Searh External ID](media/search-by-external-id-results.png) 
+
+
+##### Composite key
+
+When searching by composite key, use the comma separator "," to differentiate between accession number, provenance1, provenance2 and designator fields.
+
+![SSearch Comp Key](media/search-spec-by-comp-key.png) 
+
+1. Make sure you are on the project you want to search the specimen in.
+2. Under the Specimen Search select the 'Composite key' option.
+3. Then enter in the 'Composite key' (includes key of specimen, accession number, provenance1, provenance2, designator, etc, fields).
+4. Next click on the magnifying glass search icon to show the search results.
+
+Below is the search result obtained from specimen search by composite key **'CIL 2003-116,G-03,,,712'**.
+
+![SSearch Comp Key](media/search-spec-by-comp-key-results.png) 
+
+The pattern for the composite search is 'Accession,Provenance1,Provenance2,Designator'. 
+If any of fields are not there or if you want to skip some fields, then you can keep the fields empty and use the comma separator.
+
+For example, in the below search criteria, we do not have Provenance 2. So we can lookup for the specimens with accession number, provenance 1 and designator with empty field for provenance 2 with ',' separator.
+**CIL 2003-116,,X-219B,712**
+
+![Specimen Search](media/specimen-search-compositekey-2.png) 
+
+Similarly, in the screenshot below you can see we have excluded provenance 1 and provenance 2 from our search but have kept the comma separator for them.
+
+![Specimen Search](media/specimen-search-compositekey-1.png) 
+   
+##### Accession
+
+With the Accession option, the user can search specimens by choosing the their Accession number from the drop down menu. A user can search for the specimen from the Accession numbers such as 'CIL 2003-116', 'CIL 2018-337' etc, a drop down list of available accession numbers will appear.At one time, you can only search for one accession number in this search category.
+
+![Search Spec Accession](media/search-spec-by-accession.png)
+
+1. Make sure you are on the project you want to search the specimen in.
+2. Under the Specimen Search select the 'Accession' option.
+3. Then from the drop down select the accession number you would like to search for.
+4. Next click on the magnifying glass search icon to show the search results.
+
+Below is the search result obtained from specimen search by Accession number 'CIL 2003-116'.
+   
+![Search Spec Accession](media/search-spec-by-accession-results.png)
+
+##### Provenance 1
+      
+With the Provenance 1 option, the user can search specimens by writing their Provenance 1. As seen in the image above, user can search for the specimen by providing the Provenance 1 such as G-21, G-212 etc.
+The SE eg G-21 0r G-212 indicates you are searching for the Skeletal elements either by Provenance 1 'G-21' or 'G-212'
+At one time, you can only search for one Provenance 1 in this search category.
+Below is the search result obtained from specimen search by Provenance 1 'G-57E'.
+   
+##### Provenance 2
+         
+With the Provenance 2 option, the user can search specimens by writing their Provenance 2. As seen in the image above, user can search for the specimen by providing the Provenance 2 such as X-1 etc.
+The SE eg X-1 0r Trench 3 indicates you are searching for the Skeletal elements either by Provenance 2 'X-1' or 'Trench 3'
+At one time, you can only search for one Provenance 2 in this search category.
+Below is the search result obtained from specimen search by Provenance 2 'X-299C'.
+
+   
+##### Designator
+            
+With the Designator option, the user can search specimens by writing their Designator. As seen in the image above, user can search for the specimen by providing the Designator such as 201, 602 etc.
+The SE eg 201 or 602 indicates you are searching for the Skeletal elements either by Designator '201' or '602'.
+At one time, you can only search for one Designator in this search category.
+
+##### Individual Number
+               
+With the Individual Number option, the user can search specimens by writing their Individual Number. As seen in the image above, user can search for the specimen by providing the Individual Number such as I-01 etc.
+While searching for the specimen using individual number, one has to add its Accession number together with the individual.
+For example, in order to search for the specimen having I-01 individual number one has to type '2016-235-I-01' or 'CIL 2003-116-I-01'. 
+At one time, you can only search for one Individual Number in this search category.
+
+##### Tags
+               
+With the Tags option, the user can search specimens by their Tag from the dropdown. As seen in the image above, user can search for the specimen by providing the Tag such as "Specimen".
+
+At one time, you can select multiple Tags to search by in this search category.
+
+
+#### Search by DNA
+   
+The user can search by the below DNA search options under the DNA Section in the search dropdown. The DNA search options are similar to the Specimen search options. 
+
+**DNA Search Options:**
+
 - Bone
-- Side
-- Bone Group
-- *Individual Number*
-- ***Sample Number***
-- **External Case ID**
-- **External Sample Number**
-- **Result Status**
-- ***Mito Sequence Number***
-- **Mito Sequence Subgroup**
-- Mito Sequence Similar
-- **Receive Date**
-
-There are some columns which are not displayed on the screen but can be made visible by checking the column visibility section. The names of these columns are given below:
-
-- Accession Number
-- *Provenance 1*
-- *Provenance 2*
+- Composite Key
+- Accession
+- Provenance 1
+- Provenance 2
 - Designator
-- Created By
-- Created At
-- Updated By
-- Updated At
-
-**These fields will change depending on the search criteria**
-
-![](media/dna-search.gif)
-
-On this page you can filter how many results are shown per page, as well as search the results.
-To view the details of a DNA, click on the key in the search results. You can also export the search results in Excel and PDF format.
-
----------------
-
-## Isotope Search
-
-The easiest way to search for Isotope is to use the top search bar in the nav bar.
-
-To complete a search, first select the project you wish to search on the left-most select field, you will only be able to view projects which are assigned to your user profile.
-
-![](media/isotope-search-navbar.png)
-
-By default, "Bone" is selected as the search option. Select the desired search category before typing your search text into the search bar. Then click the magnifying glass to execute your search.
-
-![](media/isotope-search-category.png)
-
-The different search category for Isotope search are:
-
-* If the selected Isotope search is Bone, Select a Bone from the dropdown to search for.
-* If the selected Isotope search is Composite Key, Type the Composite Key into search bar.
-* If the Selected Isotope search is Accession, Select Accession from the dropdown to search for.
-* If the Selected Isotope search is Provenance 1, Select provenance 1 from the dropdown to search for.
-* If the Selected Isotope search is Provenance 2, Select provenance 2 from the dropdown to search for.
-* If the Selected Isotope search is Designator, Type the Designator into search bar.
-* If the Selected Isotope search is Sample Number, Type Sample Number into search bar.
-* If the Selected Isotope search is Tags, Select a Tag from the dropdown to search for.
-
-Once you complete your search, you are taken to the Isotope search screen. The following columns are visible for all the Isotope search:
-
-**The columns that are bolded are sortable.**
-*The columns that are italicized are searchable.*
-(Columns can be both sortable and searchable)
-
-- Key
-- Bone
-- Side
-- *Isotope ID*
-- Lab ID
-- *Batch ID*
-- *Sample Number*
+- Sample Number
+- Mito Sequence Number
 - External Case ID
-- WeightSample Cleaned
-- Yield Collagen
-- Weight Vial Lid
+- External Sample Number
+- Tags
 
-There are some columns which are not displayed at the screen but can be made visible by checking the column visibility section. The names of those columns are given below:
+![DNA Search Menu](media/search-dna-menu.png){ width="200"}
 
-- Bone Group
-- *Individual Number*
-- Demineralization start Date
-- Demineralization End Date
-- C Delta
-- C Percent
-- C Weight
-- C to N Ratio
-- C to O Ratio
-- N Delta
-- N Percent
-- N Weight
-- O Percent
-- O Weight
-- S Delta
-- S Percent
-- s Weight
-- Created By
-- Created At
-- Updated By
-- Updated At
+##### Sample Number
 
-**These fields will change depending on the search criteria**
+With the Sample Number option, the user can search DNA by their Sample numbers. As seen in the image above, user can search for the DNA by the sample numbers such as 68A or 4619A.
+The DNA eg 68A or 4619A indicates you are searching for the DNA either by sample numbers '68A' or '4619A' etc.
+At one time, you can only search for one sample number in this search category.
 
-![](media/isotope-search.gif)
+![Sample Number](media/search-by-dna-sample-number.png)
 
-On this page you can filter how many results are shown per page, as well as search the results.
-To view the details of a DNA, click on the key in the search results. You can also export the search results in Excel and PDF format.
+1. Make sure you are on the project you want to search in.
+2. Under the DNA Search select the 'Sample Number' option.
+3. Then type in the sameple number you would like to search for.
+4. Next click on the magnifying glass search icon to show the search results.
 
----------------
+Below is the search result obtained from DNA search by sample number '68A'.
 
+![Sample Number](media/search-dna-sample-number.png) 
 
-## Dental Search
+##### Mito Seq Number
+ 
+With the Mito Seq Number option, the user can search DNA by their Mito Seq Numbers. As seen in the image above, user can search for the DNA by the Mito Seq Number such as 1 or 76.
+The DNA eg 1 or 76 indicates you are searching for the DNA either by mito seq numbers '1' or '76' etc.
+At one time, you can only search for one mito seq number in this search category.
 
-The easiest way to search for Dental is to use the top search bar in the nav bar.
+![DNA Mito](media/search-by-dna-mito-seq-number.png) 
 
-To complete a search, first select the project you wish to search on the left-most select field, you will only be able to view projects which are assigned to your user profile.
+1. Make sure you are on the project you want to search in.
+2. Under the DNA Search select the 'Mito Seq Number' option.
+3. Then type in the mito seq number you would like to search for.
+4. Next click on the magnifying glass search icon to show the search results.
+         
+Below is the search result obtained from DNA search by mito seq number '76'.
 
-![](media/dental-search-navbar.png)
+![DNA Mito](media/search-dna-mito-seq-num.png) 
 
-By default, "Bone" is selected as the search option. Select the desired search category before typing your search text into the search bar. Then click the magnifying glass to execute your search.
+##### External Case ID
+ 
+With the External Case ID option, the user can search DNA by their External IDs. As seen in the image above, user can search for the DNA by the External ID such as 2004H201 or 2015HO860.
+The DNA eg. AFDIL # like 2004H2001 or 2015HO860 indicates you are searching for the DNA either by external id '2004H2001' or '2015HO860' etc. In order to search for the DNA, you just have to give the external id without the lab name as shown below.
 
-![](media/dental-search-category.png)
+At one time, you can only search for one external case id in this search category.
 
-The different search category for Dental search are:
+![DNA Ext Case ID](media/search-by-dna-ext-case-id.png)
+            
+Below is the search result obtained from DNA search by external id '2015H1002'.
 
-* If the selected Dental search is Tooth, Select a Tooth from the dropdown to search for.
-* If the selected Dental search is Dental Code, Select a Dental Code from the dropdown to search for.
+![DNA Ext Case ID](media/search-dna-ext-case-id.png) 
 
-Once you complete your search, you are taken to the Dental search screen. The following columns are visible for all the Dental search:
+#### Search by Isotope
+   
+The user can search by the below Isotope search options under the Isotope Section in the search dropdown. The options are similar to the Specimen and DNA searh options.
 
-**The columns that are bolded are sortable.**
-*The columns that are italicized are searchable.*
-(Columns can be both sortable and searchable)
+**Isotope Search Options:**
 
-- Key
 - Bone
-- Side
-- Bone Group
-- Individual Number
-- DNA Sample Number
-- Mito Sequence Number
-- Dental Codes
-- Associations
-- Methods
-- Pathology
-- Measured
-- ISotope Sampled
-- Clavicle Triage
+- Composite Key
+- Accession
+- Provenance 1
+- Provenance 2
+- Designator
+- Sample Number
+- Tags
 
-There are some columns which are not displayed at the screen but can be made visible by checking the column visibility section. The names of those columns are given below:
+![Search Menu Isotope](media/search-isotope-menu.png){ width="200"}
 
-- Count
-- Mass
-- Min Age
-- Max Age
-- Custom Field 1
-- Custom Field 2
-- Custom Field 3
-- Inventoried
-- Reviewed
-- Inventoried By
-- Inventoried At
-- Reviewed By
-- Reviewed At
-- Created By
-- Created At
-- Updated By
-- Updated At
+##### Sample Number
 
-**These fields will change depending on the search criteria**
 
-![](media/dental-search.gif)
+With the Sample Number option, the user can search Isotopes by a Sample number. As seen in the image above, user can search for the Isotope by the sample numbers such as 38B.
 
-On this page you can filter how many results are shown per page, as well as search the results.
-To view the details of a DNA, click on the key in the search results. You can also export the search results in Excel and PDF format.
+The Isotope eg 38B indicates the user is searching for the Isotope by sample number.
+At one time, the user can only search for one sample number.
+   
+Below is the search result obtained from DNA search by sample number '38B'.
 
----------------
+![Isotope Sample Number](media/search-isotope-by-sample-number.png)
 
-## Missing Persons Search
+#### Search by Dental
 
-The easiest way to search for Missing Person is to use the top search bar in the nav bar.
+The user can search by the below Dental search options under the Dental Section in the search dropdown. 
 
-To complete a search, first select the project you wish to search on the left-most select field, you will only be able to view projects which are assigned to your user profile.
+**Dental Search Options:**
 
-![](media/missing-person-search-navbar.png)
+- Tooth
+- Dental Code
 
-By default, "Bone" is selected as the search option. Select the desired search category before typing your search text into the search bar. Then click the magnifying glass to execute your search.
+![Search Individual](media/search-dental-menu.png){ width="200"}
 
-![](media/missing-person-search-category.png)
+##### Tooth
+!!! 
+      This section is a work in progress
 
-The different search category for missing person search are:
+##### Dental Code
+!!!
+      This section is a work in progress
 
-* If the selected Missing Person search is Case Manager, Select a Case Manager from the dropdown to search for.
-* If the selected Missing Person search is Case Status, Select a Case Status from the dropdown to search for.
-* If the Selected Missing person search is Conflict, Select a Conflict from the dropdown to search for.
-* If the Selected Missing person search is Genealogy Status, Select a Genealogy Status from the dropdown to search for.
-* If the Selected Missing person search is First Name, Type the First Name into search bar.
-* If the Selected Missing person search is Last Name, Type the Last Name into search
 
-Once you complete your search, you are taken to the Dental search screen. The following columns are visible for all the Dental search:
+#### Search by Missing Person
 
-**The columns that are bolded are sortable.**
-*The columns that are italicized are searchable.*
-(Columns can be both sortable and searchable)
+The user can search by the below Missing Person search options under the Missing Person Section in the search dropdown. 
 
-- *Case Number*
-- Case Status
-- Full Name
-- Conflict
-- Incident
+**Missing Person Search Options:**
+
 - Case Manager
-- Project
-- Priority DPAA
-- Priority PCRB
+- Case Status
+- Conflict
 - Genealogy Status
+- First Name
+- Last Name
 
-There are some columns which are not displayed at the screen but can be made visible by checking the column visibility section. The names of those columns are given below:
-- 1st mtDNA
-- 2nd mtDNA
-- 3rd mtDNa
-- 1st ytDNA
-- 2nd yDNA
-- 1st Nuclear
-- 2nd Nuclear
-- IDPF Status
-- OMPF Status
-- CSR Status
-- Awards Status
-- Updated
-- Updated by
+![Search Individual](media/search-missing-person-menu.png){ width="200"}
 
-![](media/missing-person-search.gif)
+##### Case Manager
 
-**These fields will change depending on the search criteria**
+With the Case Manager option, the user can select different case managers associated under the project and click on the search button will display missing person details under that selected case manager.
 
-On this page you can filter how many results are shown per page, as well as search the results.
-To view the details of a DNA, click on the key in the search results. You can also export the search results in Excel and PDF format.
+![Case Manager](media/search-by-case-manager.png){ width="400"}
 
----------------
+1. Make sure you are on the project you want to search the missing person in.
+2. Under the Missing Person Search select the 'Case Manager' option.
+3. Then from the drop down select the name of the case manager you would like to search for.
+4. Next click on the magnifying glass search icon to show the search results.
 
-## Individual Search
+Below displays missing person details assigned for case manager named as **Mr. Charlie Johnson**
 
-The easiest way to search for Individual is to use the top search bar in the nav bar.
+![Case Manager](media/search-missing-person-case-manager.png)
 
-To complete a search, first select the project you wish to search on the left-most select field, you will only be able to view projects which are assigned to your user profile.
+##### Case Status
 
-![](media/individual-search-navbar.png)
+With the Case Status option, the user can select different case status associated under the project and click on the search button will display missing person details under that selected case status.
 
-By default, "Bone" is selected as the search option. Select the desired search category before typing your search text into the search bar. Then click the magnifying glass to execute your search.
+![Case Status](media/search-by-case-status.png){ width="400"}
 
-![](media/individual-search-category.png)
+1. Make sure you are on the project you want to search the missing person in.
+2. Under the Missing Person Search select the 'Case Status' option.
+3. Then from the drop down select the case status you would like to search for.
+4. Next click on the magnifying glass search icon to show the search results.
 
-The different search category for Individual Number search are:
 
-* If the selected Isotope search is Individual Number, Select a Individual Number from the dropdown to search for.
+Below displays missing person details whose case status is **completed**.
 
-Once you complete your search, you are taken to the Individual search screen. The following columns are visible for all the Dental search:
+![Case Status](media/search-missing-person-case-status.png)
 
-- Key
-- Bone
-- Side
-- Bone Group
+##### Conflict
+
+With the Conflict option, the user can select different Conflict associated under the project and click on the search button will display missing person details under that selected conflict.
+
+![Conflict](media/search-by-conflict.png){ width="400"}
+
+1. Make sure you are on the project you want to search the missing person in.
+2. Under the Missing Person Search select the 'Conflict' option.
+3. Then from the drop down select the conflict you would like to search for.
+4. Next click on the magnifying glass search icon to show the search results.
+
+Below displays missing person details assigned to conflict named **World War I**.
+
+![](media/search-missing-person-conflict.png)
+
+##### Genealogy Status
+
+With the Genealogy Status option, the user can select different Genealogy status associated under the project and click on the search button will display missing person details under that selected genealogy status.
+
+![Genealogy](media/search-by-genealogy.png){ width="400"}
+
+1. Make sure you are on the project you want to search the missing person in.
+2. Under the Missing Person Search select the 'Genealogy Status' option.
+3. Then from the drop down select the genealogy status you would like to search for.
+4. Next click on the magnifying glass search icon to show the search results.
+
+Below displays missing person details of genealogy status as **requested**.
+
+![Genealogy Requested](media/search-missing-person-genealogy.png)
+
+##### First and Last Name
+
+With the First/Last Name option, the user can search for different case numbers associated with the given first/last name under a project and click on the search icon will display missing person details for that selected first/last name.
+
+![First Last Name](media/search-by-first-last-name.png){ width="400"}
+
+1. Make sure you are on the project you want to search the missing person in.
+2. Under the Missing Person Search select the 'First or Last Name' option.
+3. Then type in the first or last name you would like to search for.
+4. Next click on the magnifying glass search icon to show the search results.
+
+
+Below displays missing person details of first name as **Charlie**
+
+![First Name](media/search-missing-person-first-name.png)
+
+#### Search by Individuals
+
+The user can search by the below Individuals search options under the Individuals Section in the search dropdown. 
+
+**Individuals Search Options:**
+
 - Individual Number
-- DNA Sample Number
-- Mito Sequence Number
-- Measured
-- Isotope Sampled
-- Clavicle Triage
-- CT Scanned
-- Xray Scanned
+- Identification Date
+- Remains Status
+- Remains Release Date
 
-There are some columns which are not displayed at the screen but can be made visible by checking the column visibility section. The names of those columns are given below:
-- Inventoried
-- Reviewed
-- Inventoried By
-- Inventoried At
-- Reviewed By
-- Reviewed At
-- Created By
-- Created At
-- Updated By
-- Updated At
+![Search Individual](media/search-individual-menu.png){ width="200"}
 
-![](media/individual-search.gif)
+##### Indentification Date
 
-**These fields will change depending on the search criteria**
+With the Indentification Date option, the user can search for a range of indentification dates under a project.
 
-On this page you can filter how many results are shown per page, as well as search the results.
-To view the details of a DNA, click on the key in the search results. You can also export the search results in Excel and PDF format.
+![Identifiation Date](media/search-by-identification-date.png)
 
----------------
+1. Make sure you are on the project you want to search the missing person in.
+2. Under the Individual Search select the 'Identification Date' option.
+3. Then select or type in the start and end dates you would like to search for.
+4. Next click on the magnifying glass search icon to show the search results.
+
+Below displays the individuals that have an indentification date range of **11/01/2017 - 11/30/2017**.
+
+![First Name](media/search-ind-indent-date.png)
+
+##### Remains Status
+
+With the Remains Status option, the user can search for a remains status under a project.
+
+![Remain Status](media/search-by-reamains-status.png)
+
+1. Make sure you are on the project you want to search the missing person in.
+2. Under the Individual Search select the 'Remains Status' option.
+3. Then select the remains status you would like to search for.
+4. Next click on the magnifying glass search icon to show the search results.
+
+Below displays the individuals that have a remains status of **In Lab**.
+
+![First Name](media/search-ind-remains-status.png)
 
 
 ### Search Options

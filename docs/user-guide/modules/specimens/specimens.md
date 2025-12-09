@@ -149,25 +149,6 @@ To create a multiple specimens via homunculus - click the "New via homunculus" l
     :material-flask-outline: This is an experimental feature and is work in progress. We will keep you posted when this feature is available.
 
 
-## Associate Specimen By Bone Group
-
-The screenshot below shows the  navigation to associate specimen by bone group.
-
-![Associate Bone Group Navigation](media/associate-bonegroup-nav.gif)
-
-The screenshot below shows the  Details to associate selected bone groups. Here you can enter association data for the specimen.
-Each of the Action is explained in the following section.
-
-![Associate Specimen by Bone Group](media/associate-specimen-by-bonegroup.gif)
-
-
-## Assign Specimen to Bone Group
-
-!!! warning
-
-    This section is work in progress.
-
-
 ## Specimen Actions or Details
 
 The screenshot below shows the Actions or Details menu for the selected specimen. Here you can enter association data for the specimen.
@@ -266,8 +247,6 @@ The 'Create Isotope' section allows to create a isotope for the given bone. This
 After you create the Isotope, you will receive the <font color="green">"success"</font> message. By selecting the sample number, the Isotope screen pops up. Click on the Edit button to edit the information under each section.Click on the Save button under each section saves the information and navigates the user to the next section of information. All the updated information can be saved at once by clicking on the ‘Save All’ button.
 
 ![](media/isotope-analysis.gif)
-
-
 
 
 ### Taphonomy
@@ -382,6 +361,104 @@ If the remains are marked as in the lab, there is no corresponding date.
 If the remains are marked as released, there is a date field.
 
 ![Release](media/release.png){ width="500" }
+
+## Associate Specimen By Bone Group
+
+The **Associate Specimen By Bone Group** feature allows users to pair and manage bone groups interactively. This functionality is enhanced with drag-and-drop capabilities for intuitive association.
+
+### Steps to Associate Specimens by Bone Group
+
+#### 1. Access the Feature:
+   Navigate to the left sidebar menu and select **Specimens > Associate Bone Groups**.
+
+[Assoc Specimen Bone Group Nav](media/associate-specimen-bone-group-nav.gif)   
+
+#### 2. Filter Bone Groups:
+   - Use the dropdown menus to filter by:
+     - **Bone Group**
+     - **Side** (Left, Right, Unsided)
+   - Click the **Load Groups** button to display matching bone groups.
+
+#### 3. Associate Bone Groups:
+   - Select a bone group from the left column (e.g., "Right Bone Groups").
+   - Select or drag to the corresponding bone group from the right column (e.g., "Opposite Side").
+
+#### 4. Save or Cancel:
+   - To save the associations, click the **Associate Groups** button.
+   - To cancel the operation, click the **Cancel** button.
+
+### Key Features
+
+- **Dynamic Filtering**: Quickly locate relevant bone groups using filters for Bone Group and Side.
+- **Column-Based Selection**: Select bone groups from separate columns for pairing.
+- **Association Confirmation**: Use the "Associate Groups" button to confirm pairings.
+- **Real-Time Updates**: Changes are reflected immediately upon saving.
+
+### Example Workflow
+
+1. Filter bone groups by "Hand" and "Right".
+2. Click **Load Groups** to display matching bone groups.
+3. Select a bone group from the "Right Bone Groups" column.
+4. Select or drag to the corresponding bone group from the "Opposite Side" column.
+5. Click the **Associate Groups** button to confirm the pairing.
+
+![Associate Specimen By Bone Group](media/associate-specimen-by-bonegroup.gif)
+
+## Assign Specimen to Bone Group
+
+The **Assign Specimen to Bone Group** feature allows users to associate one or more specimens with a specific bone group. This functionality is particularly useful for organizing specimens into predefined categories such as Arm, Shoulder, Vertebral Column, etc.
+
+### Steps to Assign Specimens to a Bone Group
+
+#### 1. Access the Feature:
+   Navigate to the left sidebar menu and select **Specimens > Assign Specimens to Bone Group**.
+
+[Specimen to bone group nav](media/assign-specimen-to-bone-group-nav.gif)
+
+#### 2. Select Specimen:
+   - If you have pre-selected specimens, they will appear in the "Selected Specimens" section.
+   - To load all project specimens, click the **Load All** button.
+
+#### 3. Apply Filters (Optional):
+   - Use the available filters to refine the list of specimens based on:
+     - **Accession**
+     - **Provenance 1**
+     - **Provenance 2**
+     - **Bone**
+     - **Bone Group**
+     - **Individual Number**
+     - **Side**
+     - **Completeness**
+
+#### 4. Select Bone Group:
+   - Choose the target bone group from the dropdown menu to which the specimens will be assigned.
+
+#### 5. Drag and Drop Specimens:
+   - Select the desired specimens from the list.
+   - Drag and drop the specimens into the bone group selection area.
+
+#### 6. Save or Cancel:
+   - Select the reasons for each assignment.
+   - Then to save the assignments, click the **Save** button.
+   - To cancel the entire process, click the **Cancel** button.
+   - You can also delete individual specimens from the selection by clicking the **X** icon within the card to them.
+
+### Key Features
+
+- **Dynamic Specimen List**: The list updates based on applied filters, ensuring you only see relevant specimens.
+- **Bulk Assignment**: Assign multiple specimens to a bone group in one action using drag-and-drop functionality.
+- **Real-Time Updates**: Changes are reflected immediately in the project database after saving.
+
+### Example Workflow
+
+1. Filter specimens by "Accession" and "Bone Group".
+2. Select all specimens in the filtered list.
+3. Select the "Hand" bone group from the right-hand dropdown.
+4. Drag and drop them into the "Hand" bone group selection area.
+5. Once completed with all selections select the reason for each assignment. 
+6. Click **Save** to finalize the assignments.
+
+![Assign Specimen to Bone Group](media/assign-specimen-to-bone-group.gif)
 
 ## Specimen Search
 
