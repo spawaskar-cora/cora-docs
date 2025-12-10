@@ -51,7 +51,7 @@ The report will return the following results if available:
 * Austr Request Date
 * Austr Receive Date
 
-![](media/org-dna-austr-report.gif)
+![](media/org-dna-austr.gif)
 
 ## DNA Mito Report
 
@@ -88,7 +88,7 @@ The report will return the following results if available:
 * Mito Request Date
 * Mito Receive Date
 
-![](media/org-dna-mito-report.gif)
+![](media/org-dna-mito.gif)
 
 ## DNA Ystr Report
 
@@ -124,8 +124,8 @@ The report will return the following results if available:
 * Ystr Result Status
 * Ystr Request Date
 * Ystr Receive Date
-*
-![](media/org-dna-ystr-report.gif)
+
+![](media/org-dna-ystr.gif)
 
 ## Isotopes Report
 

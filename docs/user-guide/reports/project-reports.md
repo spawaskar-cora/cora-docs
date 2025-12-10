@@ -162,7 +162,7 @@ The generated report will include the following details in the result:
 * Mito Request Date
 * Mito Receive Date
 
-![](media/dna-mito-report.gif)
+![](media/proj-dna-mito.gif)
 
 ### DNA Austr Report
 
@@ -200,7 +200,7 @@ The generated report will include the following details in the result:
 * Austr Request Date
 * Austr Receive Date
 
-![](media/dna-austr-report.gif)
+![](media/proj-dna-austr.gif)
 
 ### DNA Ystr Report
 
@@ -239,7 +239,7 @@ The generated report will include the following details in the result:
 * Ystr Request Date
 * Ystr Receive Date
 
-![](media/dna-ystr-report.gif)
+![](media/proj-dna-ystr.gif)
 
 ### Individual Number Report
 
