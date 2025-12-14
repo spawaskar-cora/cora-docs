@@ -101,14 +101,14 @@ For more information see the [Individual Analytics User Guide](https://docs.cora
 
 ## Assign Specimen to Individual
 
-The **Assign Specimen to Individual** feature allows users to associate one or more specimens with a specific individual. This functionality is essential for grouping skeletal elements under a unique individual profile based on forensic analysis.
+The **Assign Specimen to Individual** feature allows users to associate one or more specimens with a specific individual. This functionality is essential for grouping skeletal elements under a unique individual profile based on forensic analysis. Recent enhancements have introduced several new features to improve usability and functionality.
 
 ### Steps to Assign Specimens to an Individual
 
 #### 1. Access the Feature:
    Navigate to the left sidebar menu and select **Individuals > Assign Specimen to Individual**.
 
-[Assign Specimen to Individual Navigation](media/assign-specimen-to-individual-nav.gif)
+![Assign Specimen to Individual Navigation](media/assign-specimen-to-individual-nav.gif)
 
 #### 2. Select Individual:
    - Choose the target individual from the dropdown menu on the right panel.
@@ -123,9 +123,13 @@ The **Assign Specimen to Individual** feature allows users to associate one or m
      - **Bone**
      - **Side**
      - **Completeness**
+     - **Austr Sequence Number and Subgroup**
+     - **Ystr Sequence Number and Subgroup**
+   - Toggle additional filters for a more refined search.
 
 #### 4. Select DNA Mito Sequence Number (Optional):
    - Choose a DNA Mito Sequence Number from the dropdown menu to view and manage specimens associated with that sequence.
+   - Additional options include filtering by Mito Subgroup, Austr Sequence Number, and Ystr Sequence Number.
 
 #### 5. Select Association Type (Optional):
    - Use the dropdown menu to select an association type (e.g., Articulations, Pairs, Refits, Morphology).
@@ -134,8 +138,9 @@ The **Assign Specimen to Individual** feature allows users to associate one or m
 #### 6. Drag and Drop Specimens:
    - Select the desired specimens from the list on the left panel.
    - Drag and drop the specimens into the individual’s assignment area on the right panel.
+   - Specimens marked for assignment or removal are visually distinguished with color-coded chips (e.g., orange for pending addition, red for pending removal).
 
-#### 5. Select Reason for Assignment:
+#### 7. Select Reason for Assignment:
    - For each specimen, select a reason for the assignment from the dropdown menu.
 
 #### 8. Save or Cancel:
@@ -151,11 +156,12 @@ The **Assign Specimen to Individual** feature allows users to associate one or m
 - **Reason Selection**: Ensure each assignment has a documented reason for traceability.
 - **Bulk Assignment**: Assign multiple specimens to an individual in one action using drag-and-drop functionality.
 - **Real-Time Updates**: Changes are reflected immediately in the project database after saving.
+- **Action Alerts**: Alerts at the bottom of the interface track pending assignments and removals.
 
 ### Example Workflow
 
 1. Select an individual from the dropdown menu.
-2. Filter specimens by "Accession" and "Bone Group".
+2. Filter specimens by "Accession" and "Bone Group" or apply advanced filters like Austr Sequence Number or Ystr Subgroup.
 3. Select a DNA Mito Sequence Number to view related specimens.
 4. Choose an association type (e.g., Articulations) and select a specimen to view associated specimens.
 5. Drag and drop the filtered specimens into the individual’s assignment area.

@@ -22,7 +22,7 @@ list of conventions:
 The skull symbol denotes that the Specimen module is available to the user. Make sure you have the 
 necessary permissions to use the specimen module and its features.
 
-### :material-dna: – DNA { data-toc-label="DNA" }
+### :material-dna: - DNA{data-toc-label="DNA"}
 
 The dna symbol denotes that the DNA module is available to the user. Make sure you have the 
 necessary permissions to use the dna module and its features.
@@ -37,17 +37,17 @@ Make sure you have the necessary permissions to use the isotope module and its f
 The tooth symbol denotes that the Dental module is available to the user. Make sure you have the 
 necessary permissions to use the dental module and its features.
 
-### :material-tag: – Individual { data-toc-label="Individual" }
+### :material-human: – Individual { data-toc-label="Individual" }
 
 The individual symbol denotes that the Individual module is available to the user. Make sure 
 you have the necessary permissions to use the individual module and its features.
 
-### :material-tag: – Missing Person { data-toc-label="Missing Person" }
+### :material-badge-account-horizontal: – Missing Person { data-toc-label="Missing Person" }
 
 The missing persons symbol denotes that the Missing persons module is available to the user. Make 
 sure you have the necessary permissions to use the missing persons module and its features.
 
-### :material-dna: – DNA sampled { data-toc-label="DNA sampled" }
+### :material-dna: - DNA sampled{data-toc-label="DNA sampled"}
 
 The DNA symbol in conjunction with a green <font color="green">&#x2714</font> check mark denotes
 that a specimen has been DNA sampled. A number next to the check mark denotes the mito sequence number
@@ -84,7 +84,7 @@ The CT Scanned symbol in conjunction with a green <font color="green">&#x2714</f
 that a specimen has been CT Scanned. The CT Scanned symbol in conjunction with a red &#10060 cross
 mark denotes that a specimen has not been CT Scanned yet.
 
-### :material-clipboard: – Inventoried { data-toc-label="Inventoried" }
+### :material-clipboard-text: – Inventoried { data-toc-label="Inventoried" }
 
 The Inventoried symbol in conjunction with a green <font color="green">&#x2714</font> check mark denotes
 that a specimen has inventory completed. The Inventoried symbol in conjunction with a red &#10060 cross
@@ -116,7 +116,7 @@ has two parts, the search history part shows the last 10 searches the user has p
 search favorites which allows the user to favorite and run a previous search done by the user. This
 ia a very powerful and useful capability that is liked by most users.
 
-### :material-bell: – Notification { data-toc-label="Notification" }
+### :material-bell-ring: – Notification { data-toc-label="Notification" }
 
 The Notification symbol denotes that you have notifications. A number badge next to the notification
 symbol denotes the number of unread notifications or messages.
@@ -151,7 +151,7 @@ The human male/female symbol denotes that sex methods for a specimen. The sex me
 in the biological profile menu under more actions button on the specimen screens if that specimen bone
 has any associated sex methods.
 
-### :material-leaf: – Ancestry { data-toc-label="Ancestry" }
+### :material-tree: – Ancestry { data-toc-label="Ancestry" }
 
 The leaf symbol denotes that ancestry methods for a specimen. The ancestry methods are available 
 in the biological profile menu under more actions button on the specimen screens if that specimen bone
@@ -163,7 +163,7 @@ The human height symbol denotes that stature methods for a specimen. The stature
 in the biological profile menu under more actions button on the specimen screens if that specimen bone
 has any associated stature methods.
 
-### :material-alpha-t: – Taphonomy { data-toc-label="Taphonomy" }
+### :material-format-text: – Taphonomy { data-toc-label="Taphonomy" }
 
 The "T" symbol denotes that taphonomies can be associated with a specimen. The taphonomies are available 
 under more actions button on the specimen screens.
@@ -215,53 +215,53 @@ has a morphology flag. Typically most bones can be morphologically associated.
 The flask symbol denotes that pathologies can be assigned for a specimen. The pathologies are
 available in the pathology menu under more actions button on the specimen screens.
 
-### :fontawesome-solid-gun: – Trauma { data-toc-label="Trauma" }
+### :material-pistol: – Trauma { data-toc-label="Trauma" }
 
 The gun symbol denotes that traumas can be assigned for a specimen. The trauma are
 available in the pathology menu under more actions button on the specimen screens.
 
-### :material-lightning-bolt:– Anomaly { data-toc-label="Anomaly" }
+### :material-flash: – Anomaly { data-toc-label="Anomaly" }
 
 The lightening symbol denotes that anomalies can be assigned for a specimen. The anomalies are
 available in the pathology menu under more actions button on the specimen screens if that specimen 
 bone has anomalies for that bone.
 
-### :material-eye: – Review { data-toc-label="Review" }
+### :material-eye-outline: – Review { data-toc-label="Review" }
 
 The eye symbol denotes that a review can be performed for a specimen. The review menu is
 available under more actions button on the specimen screens.
 
-### :material-tag-outline: – Tag { data-toc-label="Tag" }
+### :material-tag-multiple: – Tag { data-toc-label="Tag" }
 
 The tag symbol denotes that tags have been assigned for a model (such as specimens, dna, etc). 
 The user can assign multiple tags to a specimen. Tagging is a simple way of grouping, marking or 
 flagging a specimen for further action in the future. Think about tagging as a way collecting, 
 bagging or grouping specimens. It is a powerful feature in CoRA for segregation and analysis purposes.
 
-### :fontawesome-regular-comment-dots: – Comment { data-toc-label="Comment" }
+### :material-comment-text-outline: – Comment { data-toc-label="Comment" }
 
 The comment symbol denotes that tags have been assigned for a model (such as specimens, dna, etc). 
 The user can assign multiple comments to a specimen. Comments are useful to provide additional information
 to the forensic scientist or project team for possible insights in the future. It can also be used by the
 project team to communicate additional information about a specimen.
 
-### :material-file-multiple-outline: – File { data-toc-label="File" }
+### :material-file-multiple: – File { data-toc-label="File" }
 
 The files symbol denotes that the File module is available to the user. Make sure you have the 
 necessary permissions to use the file module and its features which include file export, 
 import and search.
 
-### :material-file-export-outline: – File Export { data-toc-label="File Export" }
+### :material-file-export: – File Export { data-toc-label="File Export" }
 
 The file export symbol denotes that the File export feature is available to the user. Make sure you 
 have the necessary permissions to use the file export feature.
 
-### :material-file-import-outline: – File Import { data-toc-label="File Import" }
+### :material-file-import: – File Import { data-toc-label="File Import" }
 
 The file import symbol denotes that the File import feature is available to the user. Make sure you 
 have the necessary permissions to use the file import feature.
 
-### :material-file-search-outline: – File Search { data-toc-label="File Search" }
+### :material-file-search: – File Search { data-toc-label="File Search" }
 
 The file search symbol denotes that the File search/manage feature is available to the user. 
 Make sure you have the necessary permissions to use the file search/manage feature.

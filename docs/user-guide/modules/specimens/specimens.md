@@ -371,7 +371,7 @@ The **Associate Specimen By Bone Group** feature allows users to pair and manage
 #### 1. Access the Feature:
    Navigate to the left sidebar menu and select **Specimens > Associate Bone Groups**.
 
-[Assoc Specimen Bone Group Nav](media/associate-specimen-bone-group-nav.gif)   
+![Assoc Specimen Bone Group Nav](media/associate-specimen-bone-group-nav.gif)   
 
 #### 2. Filter Bone Groups:
    - Use the dropdown menus to filter by:
@@ -413,7 +413,7 @@ The **Assign Specimen to Bone Group** feature allows users to associate one or m
 #### 1. Access the Feature:
    Navigate to the left sidebar menu and select **Specimens > Assign Specimens to Bone Group**.
 
-[Specimen to bone group nav](media/assign-specimen-to-bone-group-nav.gif)
+![Specimen to bone group nav](media/assign-specimen-to-bone-group-nav.gif)
 
 #### 2. Select Specimen:
    - If you have pre-selected specimens, they will appear in the "Selected Specimens" section.

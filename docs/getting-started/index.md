@@ -13,11 +13,11 @@ The Commingled Remains Analytics (CoRA)[^1] web application, database and APIs a
 
 (CoRA)[^1] is a powerful web application ecosystem with an open, flexible, scalable, plug-n-play architecture and framework.
 
-  [^1]:
-    In 2016, CoRA started out as a simple specimen inventory system for Forensic Anthropologists. It was first showcased at the [AAFS] 70th Annual Conference in Seattle, WA in February 2018, but over the course of several years, it's now much more than that – with the many built-in modules such as specimens, dnas, dental, isotopes, missing persons, dashboards, reports, search, analytics, visualizations, administration, projects, user settings, and countless customization abilities. CoRA is now one of the simplest and most powerful frameworks for managing a single individual remains project or a complex commingled remains project.
+[^1]:
+In 2016, CoRA started out as a simple specimen inventory system for Forensic Anthropologists. It was first showcased at the [AAFS] 70th Annual Conference in Seattle, WA in February 2018, but over the course of several years, it's now much more than that – with the many built-in modules such as specimens, dnas, dental, isotopes, missing persons, dashboards, reports, search, analytics, visualizations, administration, projects, user settings, and countless customization abilities. CoRA is now one of the simplest and most powerful frameworks for managing a single individual remains project or a complex commingled remains project.
 
-  [CoRA-web-app]: https://www.coracore.org
-  [AAFS]: ../reference/aafs-2018.md
+[CoRA-web-app]: https://www.coracore.org
+[AAFS]: ../reference/aafs-2018.md
 
 ----------------------------------------------------------------
 ## Installation
@@ -36,13 +36,13 @@ CoRA was designed to be used by both organizations and single users. Organizatio
     Madeline Grace Kelly used CoRA for her graduate thesis work at Syracuse University. Her research work is titled Analysis and Quantification of Commingled Human Skeletal Remains in Syracuse University. Here is her [graduate thesis work](../assets/sample-student-work/madeline-grace-kelly/Analysis-and-Quantification-of-Commingled-Human-Skeletal-Remains-in-Syracuse-University.pdf) and her [thesis presentation](../assets/sample-student-work/madeline-grace-kelly/Analysis-and-Quantification-of-Commingled-Human-Skeletal-Remains-in-Syracuse-University's-Historic-Medical-Teaching-Collection-Using-the-CoRA-Ecosystem.pdf). You can reach out to [Madeline](mailto:mkelly48@syr.edu) to hear more about her experience with CoRA.
 
 ### Who might benefit from the use of CoRA?
-CoRA was designed to be used by both government agencies, universities and single users such as students. 
+CoRA was designed to be used by both government agencies, universities and single users such as students.
 
 1. Organizations can be **government organizations**, both federal and local governments or law enforcement.
 2. Non-profits organizations whose mission is to seek social justice for those missing.
-3. Universities who have any medical exemplars of human remains for teaching purposes. 
+3. Universities who have any medical exemplars of human remains for teaching purposes.
 4. Students or Individual users who wants to use CoRA for their own project, **a use case might be for university students of forensic anthropology for their Dissertation, Thesis, Independent Study or Graduate Project Work**.
-5. Any entity that deals with the **identification of missing persons, or segregation of human remains**. 
+5. Any entity that deals with the **identification of missing persons, or segregation of human remains**.
 
 <!-- 
 !!! Note "Testimonial from graduate students"
@@ -51,7 +51,7 @@ CoRA was designed to be used by both government agencies, universities and singl
 -->
 
 ### Reach out over email
-You can reach out to to the author Dr. Sachin Pawaskar on his personal email <sachinpawaskar@msn.com> or his university <spawaskar@unomaha.edu>. 
+You can reach out to to the author Dr. Sachin Pawaskar on his personal email <sachinpawaskar@msn.com> or his university <spawaskar@unomaha.edu>.
 
 ### Initial Setup Template
 Once we establish the usage of CoRA for your organization or project, you will have to provide some initial setup information related to the organization, project and its users by filling out the following [cora new organization projects and users template](../assets/templates/new-organization-project-user-template.docx)
@@ -59,4 +59,4 @@ Once we establish the usage of CoRA for your organization or project, you will h
 ### Fill out an issue template
 On Github
 
-  [GitHub]: https://github.com/spawaskar-cora/cora-docs
+[GitHub]: https://github.com/spawaskar-cora/cora-docs

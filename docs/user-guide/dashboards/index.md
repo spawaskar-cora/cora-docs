@@ -2,11 +2,11 @@
 
 ## Dashboard Navigation
 
-![](media/dashboard-navigation.png)
-
-![](media/dashboard-navigation.gif)
+![Menu](media/dashboard-navigation.gif)
 
 On the left side bar - you can access the main options for dashboards. 
+
+![Menu](media/dashboard-navigation.png){ width="200"}
 
 There are many different dashboards available in CoRA with each view being driven by the user's profile attributes.
 
