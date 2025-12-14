@@ -22,7 +22,7 @@ list of conventions:
 The skull symbol denotes that the Specimen module is available to the user. Make sure you have the 
 necessary permissions to use the specimen module and its features.
 
-### :material-dna: - DNA{data-toc-label="DNA"}
+### :material-dna: - DNA { data-toc-label="Dna" }
 
 The dna symbol denotes that the DNA module is available to the user. Make sure you have the 
 necessary permissions to use the dna module and its features.
@@ -47,7 +47,7 @@ you have the necessary permissions to use the individual module and its features
 The missing persons symbol denotes that the Missing persons module is available to the user. Make 
 sure you have the necessary permissions to use the missing persons module and its features.
 
-### :material-dna: - DNA sampled{data-toc-label="DNA sampled"}
+### :material-dna: - DNA sampled { data-toc-label="Dna sampled" }
 
 The DNA symbol in conjunction with a green <font color="green">&#x2714</font> check mark denotes
 that a specimen has been DNA sampled. A number next to the check mark denotes the mito sequence number
