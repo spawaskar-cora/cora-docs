@@ -4,8 +4,8 @@ The missing persons module in CoRA is where you create and manage records of mis
 
 ## Navigation
 
-![Navigation Bar](media/mp-navigate.png)
-![Navigation Bar](media/mp-navigation.gif)
+![Navigation Bar](media/missing-person-menu.png){ width="300"}
+![Navigation Bar](media/missing-person-navigation.gif)
 
 Navigate to the Missing Persons section by opening the navigation bar and selecting the Missing Persons dropdown. From there select Advanced Search to go to the Missing Persons Search page.
 
@@ -14,7 +14,7 @@ For Missing Persons Report Dashboard - please see the **Reports** documentation.
 
 Users can search missing persons cases by navigate to Left Sidebar Menu -> Missing Persons-> Advanced Search.
 
-![Navigate to Advance Search](media/missing-persons-navigation.gif)
+![Navigate to Advance Search](media/missing-person-search-navigation.gif)
 
 You are now in the advanced search for the Missing Persons section of the CoRA application. 
 
@@ -281,3 +281,7 @@ Once the file you wish to import is in the correct format, you may import the fi
 3. Select "Upload"
 
 Your file will now be uploaded into the system and updates will be made.
+
+## Missing Person Dashboard
+
+For more information see the: [Missing Person Dashboard User Guide](https://docs.coracore.org/en/latest/user-guide/dashboards/missing-person-dashboard/).

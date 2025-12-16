@@ -2,33 +2,24 @@
 
 ## Isotope
 
-Isotopes can be an important step in the identification process of missing persons. If your project chooses to use Isotope analysis
-as part of your identification process then you have come to the right place. Here you will learn more about the Isotope module 
-in CoRA. A critical first step is to cut a sample of the specimen for Isotope analysis and then assign a sample number to it
-for tracking purposes and after you get results from your Isotope lab you can capture Isotope information here to create a
-Isotope Profile for further analysis.
+![Isotope Men](media/isotope-menu.png){ width="300"}
 
-![](media/isotope-navigation.gif)
+Isotopes can be an important step in the identification process of missing persons. If your project chooses to use Isotope analysis as part of your identification process then you have come to the right place. Here you will learn more about the Isotope modulein CoRA. A critical first step is to cut a sample of the specimen for Isotope analysis and then assign a sample number to it for tracking purposes and after you get results from your Isotope lab you can capture Isotope information here to create an Isotope Profile for further analysis.
+
+![Isotope Nav](media/isotope-navigation.gif)
 
 
 ### Create a Isotope Sample
 
-The Isotope sample and Profile are associated with a specimen, so you must first choose a specimen for which you want to create
-a Isotope sample for. You can choose a specimen by navigating to the specimen screen from either the specimen search results screen 
-or from any data table row that has a specimen link on it. All search and reports screens have specimen links on them. Simply
-click these links to navigate to the specimen view/edit screen. Once on the specimen screen you can navigate to the Specimen
-Action or Details, and then to the Isotope Profile menu.
+The Isotope sample and Profile are associated with a specimen, so you must first choose a specimen for which you want to create a Isotope sample for. You can choose a specimen by navigating to the specimen screen from either the specimen search results screen or from any data table row that has a specimen link on it. All search and reports screens have specimen links on them. Simply click these links to navigate to the specimen view/edit screen. Once on the specimen screen you can navigate to the Specimen Action or Details, and then to the Isotope Profile menu.
 
-CoRA's intellisense will automatically take you to the Create Isotope sample screen, if this is the first Isotope sample you are 
-trying to create for this specimen or will take you to the Isotope list screen if a Isotope Sample was previously created for this
-specimen. Note you can create multiple Isotope samples for a specimen.
+CoRA's intellisense will automatically take you to the Create Isotope sample screen, if this is the first Isotope sample you are trying to create for this specimen or will take you to the Isotope list screen if a Isotope Sample was previously created for specimen. Note you can create multiple Isotope samples for a specimen.
 
 !!! tip
 
-    CoRA allows you to create multiple Isotope samples for a specimen. If you have multiple isotope samples, CoRA will create a
-    Consensus Isotope Profile for you with data from the multiple samples. Consensus Isotope Profile is a powerful feature of CoRA.
+    CoRA allows you to create multiple Isotope samples for a specimen. If you have multiple isotope samples, CoRA will create a Consensus Isotope Profile for you with data from the multiple samples. Consensus Isotope Profile is a powerful feature of CoRA.
 
-![](media/create-Isotope.gif)
+![Create Isotope](media/create-Isotope.gif)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -38,22 +29,17 @@ Attributes           |Data Type      |Size       |Validation Rule               
 **Lab**              |Id             |id         |valid labs via dropdown setup for the org              |Required
 External Case Number |String         |32 chars   |                                                       |Optional
 
-Clicking Save will take you to the Isotope Profile screen. You can visit the Isotope Profile screen once you have received data from your
-Isotope processing lab to enter Isotope related data.
+Clicking Save will take you to the Isotope Profile screen. You can visit the Isotope Profile screen once you have received data from your Isotope processing lab to enter Isotope related data.
 
-![](media/view-isotope-profile-list.png)
-
--------------
+![Isotope list](media/view-isotope-profile-list.png)
 
 ### Edit Isotope Profile
 
-Specimens which have had a Isotope sample successfully created will have an associated Isotope Profile. The Isotope profile contains all 
-the relevant Isotope attributes and are editable via action (user must have appropriate role and permissions). 
+Specimens which have had a Isotope sample successfully created will have an associated Isotope Profile. The Isotope profile contains all the relevant Isotope attributes and are editable via action (user must have appropriate role and permissions). 
 
-You can visit the Isotope Profile screen once you have received data from your Isotope processing lab to enter Isotope related data to build
-the Isotope Profile for the specimen. On this screen click the pencil icon on the top right corner to edit the Isotope profile. 
+You can visit the Isotope Profile screen once you have received data from your Isotope processing lab to enter Isotope related data to build the Isotope Profile for the specimen. On this screen click the pencil icon on the top right corner to edit the Isotope profile. 
 
-![](media/update-isotope.gif)
+![Update Isotope](media/update-isotope.gif)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -99,18 +85,20 @@ Click on Save if any of the fields were updated
 
 A new isotope batch can be created by navigating to Left Sidebar Menu -\> Isotope -\> New Isotope Batch.
 
-This will allow an Isotope Analyst to first create an isotope batch with a batch number and then associate specimen isotope samples that 
-belong to that batch. After all the isotopes samples are added to the batch we can start processing the isotope batch. The isotope batch 
-will step through multiple processing steps which as detailed below. 
+![Isotope Bacth Nav](media/isotope-batch-menu.png){ width="300"}
 
-We can track the progress throughout the processing cycle of an isotope batch. This functionality will allow the Isotope Analyst digitally
-document at which step the Isotope Batch is currently in and tracks its' progress and status. 
+This will allow an Isotope Analyst to first create an isotope batch with a batch number and then associate specimen isotope samples that belong to that batch. After all the isotopes samples are added to the batch we can start processing the isotope batch. The isotope batch will step through multiple processing steps which as detailed below. 
+
+![Isotope Batch Nav](media/isotope-batch-navigation.gif)
+
+
+We can track the progress throughout the processing cycle of an isotope batch. This functionality will allow the Isotope Analyst digitally document at which step the Isotope Batch is currently in and tracks its' progress and status. 
 
 !!! tip
     You must be logged in as an Isotope Analyst in order to create a new isotope batch.
 
 
-![](media/isotope-batch-first-screen.gif)
+![Isotope Batch](media/isotope-batch-first-screen.gif)
 
 
 > The screen fields are shown below. Fields in bold are required.
@@ -121,16 +109,14 @@ Attributes           |Data Type      |Size       | Validation Rule              
 **Lab**              |Id             |id         |valid labs via dropdown setup for the org              | Required
 External Case Number |String         |32 chars   |                                                       | Optional
 
-Clicking Save will create the isotope batch in the database and will allow you to now associate isotope samples to this batch
+Clicking Save will create the isotope batch in the database and will allow you to now associate isotope samples to this batch.
 
 ### Associate Isotopes Samples
 
 Once an isotope batch has been created the user will be allowed to associate isotope samples to this batch.
-In order to associate isotope samples to this batch the user must first select the project, this will then show you all
-the specimen isotope samples that are available to be added to this batch. Selecting the isotope sample and clicking the associate 
-button will move the sample into the associated isotopes list, meaning that the sample has now been added to this batch.
+In order to associate isotope samples to this batch the user must first select the project, this will then show you all the specimen isotope samples that are available to be added to this batch. Selecting the isotope sample and clicking the associate button will move the sample into the associated isotopes list, meaning that the sample has now been added to this batch.
 
-![](media/isotope-batch-associate.gif)
+![Isotope Batch Assoc](media/isotope-batch-associate.gif)
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -146,11 +132,7 @@ Attributes             |Data Type      |Size       | Validation Rule            
 
 ## Start Batch Processing
 
-The start processing button will be enable once isotope samples are associated with the isotope batch.
-The batch processing has multiple steps and the following sections describe each of these steps in the order
-they are to be performed. You cannot move forward unless all the tasks in a given step are completed, you can move
-back to look the data in the previous steps. Only when all steps have been completed can you close out the
-batch processing. Lets begin by following the steps below.
+The start processing button will be enable once isotope samples are associated with the isotope batch. The batch processing has multiple steps and the following sections describe each of these steps in the order they are to be performed. You cannot move forward unless all the tasks in a given step are completed, you can move back to look the data in the previous steps. Only when all steps have been completed can you close out the batch processing. Lets begin by following the steps below.
 
 !!! note
     Each of these steps might take anywhere from a few minutes to multiple hours.
@@ -162,6 +144,7 @@ Click the pencil icon on the top right corner to edit the fields in this step.
 Each toggle switch must be enabled before moving forwards to the next tab (Demineralizing)
 
 Toggles must be enabled for the following processes:
+
 - Label Tubes and Caps
 - Remove all visible signs of surface contamination using rotary tool
 - Rinse samples w/dH20
@@ -171,58 +154,57 @@ Toggles must be enabled for the following processes:
 - Sonicate samples with 100% ethanol
 - Dry samples in oven
 
-Click Save
+**Click Save**
 
 After the toggles have been enabled and saved, you will see "Start Date" for Sonicate samples with dH20 - cycle 1, Sonicate samples with 95% ethanol, Dry samples in oven, Sonicate samples with dH20 - cycle 2, Removed cooled samples from tubes, weigh, and return. 
 
 ***Note: Dates cannot be edited, the dates are taken from when the toggle switch was enabled.***
 
-After you save the above one new field will appear, enable this toggle once completed and then click save
+After you save the above one new field will appear, enable this toggle once completed and then click save.
 
 - Remove cooled samples from tubes, weigh, and return
 
-Click Save
+**Click Save**
 
 ***If you are not able to go to the next tab, please check and ensure all fields and toggles are filled out properly*** 
 
-![](media/isotope-batch-cleaning.gif)
+![Isotope Batch Clean](media/isotope-batch-cleaning.gif)
 
 ### Demineralizing
 
-Click the pencil icon on the top right corner to edit the fields in this step. 
-
-Each toggle switch must be enabled before moving forwards to the next tab (Remove Humic Acid)
+Click the pencil icon on the top right corner to edit the fields in this step. Each toggle switch must be enabled before moving forwards to the next tab (Remove Humic Acid).
 
 Toggle must be enabled for:
+
 - Treat samples with 40ml 0.25 M hydrochloric acid until spongy. Change acid every 2-4 days. Treat until there are no hard spots; test with dental pick. Discard waste appropriately.
 
-click Save
+**Click Save**
 
-Two new fields will appear, click the pencil icon again to edit to enable the toggle switches
+Two new fields will appear, click the pencil icon again to edit to enable the toggle switches.
 
 Toggles must be enabled for:
+
 - Treatment of samples with 40ml 0.25 M hydrochloric acid complete
 
 ***Note: Dates cannot be edited, the dates are taken from when the toggle switch was enabled.***
 
-Click Save
+**Click Save**
 
-One new field will appear, click the pencil icon again to edit to enable the toggle switch
+One new field will appear, click the pencil icon again to edit to enable the toggle switch.
 
 Toggles must be enabled for:
+
 - Rinse demineralized samples 3x with dH20
 
-Click Save
+**Click Save**
 
 ***You will be moved to the next tab, "Remove Humic Acid", if you are not able to go to the next tab, please check and ensure all fields and toggles are filled out properly***
 
-![](media/isotope-batch-demineralizing.gif)
+![Isotope Demineralizing](media/isotope-batch-demineralizing.gif)
 
 ### Remove Humic Acid
 
-Click the pencil icon on the top right corner to edit the fields in this step. 
-
-Each toggle switch must be enabled before moving forwards to the next tab (Solubilizing). 
+Click the pencil icon on the top right corner to edit the fields in this step. Each toggle switch must be enabled before moving forwards to the next tab (Solubilizing). 
 
 Toggles must be enabled for:
 
@@ -238,7 +220,7 @@ Toggles must be enabled for:
 - Rinse 5 Start
 - Rinse 5 End
 
-Click Save
+**Click Save**
 
 One new field will appear, click the pencil icon again to edit to enable the toggle switches. 
 
@@ -246,17 +228,15 @@ One new field will appear, click the pencil icon again to edit to enable the tog
 
 - Treatment and Rinse Completed
 
-Click Save
+**Click Save**
 
 ***You will be moved to the next tab, "Solubilizing", if you are not able to go to the next tab, please ensure all fields and toggles are filled out properly***
 
-![](media/isotope-batch-remove-humic-acid.gif)
+![Isotope Batch Remove Acid](media/isotope-batch-remove-humic-acid.gif)
 
 ### Solubilizing
 
-Click the pencil icon on the top right corner to edit the fields in this step. 
-
-Each toggle switch must be enabled before moving forwards to the next tab (Freeze Drying). 
+Click the pencil icon on the top right corner to edit the fields in this step. Each toggle switch must be enabled before moving forwards to the next tab (Freeze Drying). 
 
 Toggle must be enabled and fields entered for:
 
@@ -268,17 +248,15 @@ Toggle must be enabled and fields entered for:
 - Number of Collagen Transfers
 - Close vials and freeze until solid. Tilting vials while freezing can help prevent cracking. 
 
-Click Save
+**Click Save**
 
 ***You will be moved to the next tab, "Freeze Drying", if you are not able to go to the next tab, please ensure all fields and toggles are filled out properly.***
 
-![](media/isotope-batch-solubizing.gif)
+![Isotope Batch Solubizing](media/isotope-batch-solubizing.gif)
 
 ### Freeze Drying
 
-Click the pencil icon on the top right corner to edit the fields in this step. 
-
-Each toggle switch must be enabled before moving forwards to the next tab (Collagen Yield).
+Click the pencil icon on the top right corner to edit the fields in this step. Each toggle switch must be enabled before moving forwards to the next tab (Collagen Yield).
 
 Toggles must be enabled for:  
 
@@ -286,31 +264,29 @@ Toggles must be enabled for:
 - Freeze-dry samples - this may take 1 - 3 days. Once collagen is dry, cap vials tightly. 
 - Freeze-dry samples step completed
 
-Click Save
+**Click Save**
 
 ***Note: Dates cannot be edited, the dates are taken from when the toggle switch was enabled.***
 
 ***You will be moved to the next tab, "Collagen Yield", if you are not able to go to the next tab, please ensure all fields and toggles are filled out properly.***
 
-![](media/isotope-batch-freeze-drying.gif)
+![Isotope Batch Freeze](media/isotope-batch-freeze-drying.gif)
 
 ### Collagen Yield
 
-Click the pencil icon on the top right corner to edit the fields in this step. 
-
-Each toggle switch must be enabled before the Isotope Batch can be saved. 
+Click the pencil icon on the top right corner to edit the fields in this step. Each toggle switch must be enabled before the Isotope Batch can be saved. 
 
 Toggle must be enabled for: 
 
 - Weigh dry samples in vials with lids and record combined weight. 
 
-Click Save 
+**Click Save** 
 
 You should see "Result Status" field on the top showing that it is Completed. 
 
-![](media/isotope-batch-collagen-yield.gif)
+![Isotope Batch Collagen](media/isotope-batch-collagen-yield.gif)
 
-## Isotope Batch Fields
+### Isotope Batch Fields
 
 > The screen fields are shown below. Fields in bold are required.
 
@@ -386,4 +362,8 @@ External Case #                                       |Alphanumeric  |32 chars  
 **Freeze Drying Collagen End Date**                   |Date          |           |must be greater than start date           |Required
 Combined Sample Weight                                |Boolean       |           |true/false toggle                         |Optional
 Notes                                                 |String        |256 chars  |Can contains a string alphanumeric values |Optional
+
+## Isotope Dashboard
+
+For more information see the: [Isotope Dashboard User Guide](https://docs.coracore.org/en/latest/user-guide/dashboards/isotope-dashboard/).
 
