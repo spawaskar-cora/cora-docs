@@ -4,7 +4,7 @@ markdown_include==0.8.1
 pygments==2.17.2
 jinja2==3.1.5
 markdown==3.5.1
-pymdown-extensions==10.5
+pymdown-extensions==10.16.1
 mkdocs-git-revision-date-localized-plugin==1.2.1
 mkdocs-git-committers-plugin-2==0.3.0
 mkdocs-git-authors-plugin==0.1.2
