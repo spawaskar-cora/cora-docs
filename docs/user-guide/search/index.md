@@ -459,6 +459,10 @@ Before exporting the data, ensure that the correct dataset is displayed.
 2. Apply any necessary **filters or sorting options**.
 3. Confirm that the table displays the desired results before exporting.
 
+!!! tip "Export"
+
+    Ensure all **search, filter, and sorting options** are applied correctly before exporting.
+
 ---
 
 ### Excel Export
@@ -478,7 +482,8 @@ Follow these steps to download the data in **Excel format**:
 4. If **All Data** is selected, a notification message will appear indicating that the download may take longer depending on the size of the dataset.
 
 5. Once processing is complete, the Excel file will automatically download to your computer.
-![Excel Export All Data Pages](media/excel-all-data-export.png)
+![Excel Export All Data Pages](media/excel-export-all-data.png)
+
 ---
 
 ### PDF Export
@@ -499,9 +504,6 @@ To download the data as a **PDF document**:
 5. Once processing is complete, the PDF file will automatically download to your computer.
 ![PDF Export All Data Pages](media/pdf-export-all-data.png)
 
----
+!!! warning "Export All Data Pages"
 
-### Notes
-
-- Ensure all **search, filter, and sorting options** are applied correctly before exporting.
-- Exporting **all data** may take additional time if the dataset is large.
+    Exporting **all data pages** may take additional time if the dataset is large. So make sure that you have reduced your search space first before exporting data.
