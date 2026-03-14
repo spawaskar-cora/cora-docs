@@ -445,14 +445,13 @@ Along with the quick search capability CoRA also provides an advanced search and
 The reports dashboard has many reports and each report provides the ability to search using multiple search criteria. See the documentation
 on the [reports dashboard](../reports/project-reports.md)  
 
+---
 
-# Guideline: Exporting Data to Excel and PDF
+## Exporting Data
 
 This guide explains how to export data to **Excel** or **PDF** after performing a search or applying filters within the application.
 
----
-
-## 1. Search and Filter the Data
+### Data Search & Filter
 
 Before exporting the data, ensure that the correct dataset is displayed.
 
@@ -462,45 +461,47 @@ Before exporting the data, ensure that the correct dataset is displayed.
 
 ---
 
-## 2. Exporting Data to Excel
+### Excel Export
 
 Follow these steps to download the data in **Excel format**:
 
 1. Locate the **Excel Export** button in the menu bar above the data table.
 2. Click on the **Excel** option.
 
-![](docs/cora25-docs/user-guide/search/media/excel-export-options.png)
+![Excel Export Options](media/excel-export-options.png)
 
 3. After clicking the Excel button, two download options will appear:
 
 - **Current Page** – Downloads only the data displayed on the first page of the table.
 - **All Pages** – Downloads the entire dataset based on the applied search and filter criteria.
 
-
 4. If **All Data** is selected, a notification message will appear indicating that the download may take longer depending on the size of the dataset.
+
 5. Once processing is complete, the Excel file will automatically download to your computer.
-   ![](docs/cora25-docs/user-guide/search/media/excel-all-data-export.png)
+![Excel Export All Data Pages](media/excel-all-data-export.png)
 ---
 
-## 3. Exporting Data to PDF
+### PDF Export
 
 To download the data as a **PDF document**:
 
 1. Locate the **PDF Export** button in the menu bar near the Excel export option.
+
 2. Click the **PDF** button.
 
-![](docs/cora25-docs/user-guide/search/media/pdf-option.png)
+![PDF Export Options](media/pdf-export-options.png)
 
 3. After clicking the Excel button, two download options will appear:
 - **Current Page** – Downloads only the data displayed on the first page of the table.
 - **All Pages** – Downloads the entire dataset based on the applied search and filter criteria.
-
- ![](docs/cora25-docs/user-guide/search/media/pdf-export-options.png)
----
 4. If **All Data** is selected, a notification message will appear indicating that the download may take longer depending on the size of the dataset.
+
 5. Once processing is complete, the PDF file will automatically download to your computer.
-   ![](docs/cora25-docs/user-guide/search/media/pdf-export-all-data.png)
-## Notes
+![PDF Export All Data Pages](media/pdf-export-all-data.png)
+
+---
+
+### Notes
 
 - Ensure all **search, filter, and sorting options** are applied correctly before exporting.
 - Exporting **all data** may take additional time if the dataset is large.

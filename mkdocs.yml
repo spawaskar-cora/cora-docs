@@ -326,3 +326,45 @@ nav:
     - Reference list: reference/references.md
     - Icons, Emojis: reference/icons-emojis.md
     - AAFS 2018 Conference: reference/aafs-2018.md
+  - Technical Guide:
+    - Architecture: 
+      - Home: technical-guide/architecture/index.md
+    - Database:
+      - Home: technical-guide/database/index.md 
+      - Backup & Restore: technical-guide/database/backup-restore/backup-restore.md
+      - ERD: technical-guide/database/erd/erd.md
+      - ETL: technical-guide/database/etl/etl.md
+      - Seeders: technical-guide/database/seeders.md
+      - Tables: technical-guide/database/tables.md
+    - Development: 
+      - Home: technical-guide/development/index.md 
+      - Setup & Configuration: technical-guide/development/setup-n-config-windows.md 
+      - Backend: technical-guide/development/backend/backend.md
+      - Documentation: technical-guide/development/documentation/documentation.md
+      - Frontend: technical-guide/development/frontend/frontend.md
+      - How To: technical-guide/development/how-to/how-to.md
+      - Date Fields: technical-guide/development/how-to/date-input.md
+      - Mobile Readiness: technical-guide/development/mobile-readiness//mobile-readiness.md
+      - SVG Images: technical-guide/development/svg-images/svg-images.md
+      - Troubleshooting: technical-guide/development/troubleshooting/troubleshooting.md
+    - Operations: 
+      - Home: technical-guide/operations/index.md
+      - Commands: technical-guide/commands/commands.md
+    - Security:
+      - Home: technical-guide/security/index.md
+      - Auth: technical-guide/security/auth/user-authentication.md
+      - CMMC 2.0:
+        - Home: technical-guide/security/cmmc-2.0/index.md
+        - Policies: technical-guide/security/cmmc-2.0/policies/policies.md
+        - User Agreements: technical-guide/security/cmmc-2.0/user-agreements/user-agreements.md
+      - Kali: technical-guide/security/kali/kali.md
+      - NIST 800.171: technical-guide/security/nist/nist.md
+      - OWASP Top 10: technical-guide/security/owasp/owasp.md
+    - Testing:
+      - Home: technical-guide/testing/index.md
+      - API: technical-guide/testing/api/api.md
+      - ARIA: technical-guide/testing/aria/aria.md
+      - E2E Cypress: technical-guide/testing/e2e-cypress/e2e-cypress.md
+      - CI/CD pipeline: technical-guide/testing/ci-cd/ci-cd.md
+      - RBAC Permissions: technical-guide/testing/rbac-permissions.md
+      - Unit Testing: technical-guide/testing/unit-test-guide.md
