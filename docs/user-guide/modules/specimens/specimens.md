@@ -39,7 +39,7 @@ Attributes       | Data Type    |Size       | Validation Rule                   
 Provenance1      | String       |32 chars   | Can only contain letters, numbers, dash and space                             | Optional
 Provenance2      | String       |32 chars   | Can only contain letters, numbers, dash and space                             | Optional
 **Designator**   | Alphanumeric |32 chars   | Can only contain letters and numbers                                          | Required
-**External ID**  | String       |32 chars   | Can only contain numbers and decimals                                         | Required
+External ID      | String       |32 chars   | Can only contain numbers and decimals                                         | Optional
 **Bone**         | Id           |id         | valid bones via dropdown                                                      | Required
 **Side**         | String       |8 chars    | valid sides via dropdown (Left, Right, Middle, Unsided)                       | Required
 **Completeness** | String       |16 chars   | valid completeness via dropdown (Complete, Incomplete)                        | Required
