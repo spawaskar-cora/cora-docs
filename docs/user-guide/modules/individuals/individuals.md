@@ -1,14 +1,5 @@
 # Individuals 
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Creating Individuals](#create-individuals)
-3. [Individual Analytics](#individual-analytics)
-4. [Navigating Individual Analytics](#user-guide-navigating-individual-analytics)
-
-
-# Individuals
-
 An individual is a collection of specimens that the forensic anthropologist believes should go together and belong to an unknown individual. The selection of specimens that go together is done in a blind manner to avoid introducing bias towards the segregation process.
 
 ## Overview
@@ -19,13 +10,14 @@ The Individuals module manages the association of skeletal specimens to unknown 
 
 - Individual Number - Unique identifier assigned to each individual (e.g., I001, I002, I003)
 - Specimens - Skeletal elements that are grouped under an individual
+- Blind Assignment - The process of assigning specimens without bias
 - Individual Profile - Aggregate information (age, sex, ancestry, height) computed from assigned specimens
 
 ## Accessing Individuals
 
 Navigate to the Individual section from the main menu. This opens the Individuals Management interface where you can view all individuals in the project and perform various operations.
 
-![Individual Management Interface](media/individuals-navigation.gif)
+![Individual Management Interface](media/individuals-navigation.gif){width="800"}
 
 ## Individual Management
 
@@ -33,7 +25,7 @@ Navigate to the Individual section from the main menu. This opens the Individual
 
 The Individual Management page displays a list of all individuals in your project with key information:
 
-<img src="media/individuals-list.png" alt="View All Individuals" width="800" />
+![View All Individuals](media/individuals-navigation.gif){width="800"}
 
 - Individual Number - Unique identifier for the individual (e.g., CIL 2003-116-G-02)
 - Specimens Count - Total number of skeletal elements assigned to this individual
@@ -60,7 +52,7 @@ The Individual Management page displays a list of all individuals in your projec
 - Sort - Click columns header to sort ascending or descending
 - Row Actions - Click on an individual row to view details, edit, or delete
 
-![Additional Features](media/individuals-additional-features.gif)
+![Additional Features](media/individuals-additional-features.gif){width="800"}
 
 ### Search Individuals
 
@@ -72,7 +64,7 @@ Use the search functionality to quickly find individuals by:
 
 #### Search Results
 
-![Individual Search Results](media/individuals-search.gif)
+![Individual Search Results](media/individuals-search.gif){width="800"}
 
 The search results display matching individuals with their basic information. Click on any result to view detailed information or edit the record.
 
@@ -105,7 +97,7 @@ If an individual has a Mito, Ystr or AuStr Sequence Number of `63-4`, clicking o
 
 ### Manual Creation
 
-![Manual Creation](media/individuals-createnew.gif)
+![Manual Creation](media/individuals-createnew.gif){width="800"}
 
 To create a new individual:
 
@@ -119,7 +111,7 @@ To create a new individual:
 4. Optionally enter the identification date, remains status, and release date
 5. Click **SAVE** to create the individual, or click **CANCEL** to discard changes
 
-<img src="media/individuals-save.png" alt="Create Individual Form" width="800" />
+![Create Individual Form](media/individuals-save.png){width="800"}
 
 After creating the individual, you can add additional information by editing the record:
    - Notes - Any observations or comments
@@ -141,17 +133,10 @@ The **Individual Analytics** page serves as a centralized dashboard within the C
 
 This section ensures the user knows exactly which set of remains they are analyzing.
 
-- **Individual Selection**  
-  A primary dropdown menu to select the unique identifier (e.g., `2003-116-G-02`).
-
-- **Project Context**  
-  Displays the current project (e.g., `USS Oklahoma`) and specimen category (e.g., `Bone`).
-
-- **Processing Status**  
-  Provides a real-time status tag (e.g., `"In Lab"`) and a timestamp of the last data update.
-
-- **Breadcrumbs**  
-  Path tracking: `Home / Individuals`
+- **Individual Selection:** A primary dropdown menu to select the unique identifier (e.g., `2003-116-G-02`).
+- **Project Context:** Displays the current project (e.g., `USS Oklahoma`) and specimen category (e.g., `Bone`).
+- **Processing Status:** Provides a real-time status tag (e.g., `"In Lab"`) and a timestamp of the last data update.
+- **Breadcrumbs:** Path tracking: `Home / Individuals`
 
 ---
 
@@ -159,17 +144,10 @@ This section ensures the user knows exactly which set of remains they are analyz
 
 The core of the page is divided into four main biological profile categories. Each tab displays specific methodology and results:
 
-- **Age**  
-  Methods for estimating chronological age at death.
-
-- **Sex**  
-  Indicators and methods used for biological sex determination.
-
-- **Ancestry**  
-  Estimations of biogeographic origin.
-
-- **Stature**  
-  Mathematical estimations of living height based on long bone measurements.
+- **Age:** Methods for estimating chronological age at death.
+- **Sex:** Indicators and methods used for biological sex determination.
+- **Ancestry:** Estimations of biogeographic origin.
+- **Stature:** Mathematical estimations of living height based on long bone measurements.
 
 ---
 
@@ -202,17 +180,10 @@ To begin your analysis, you must first load the data for a specific set of remai
 
 Once the individual is loaded, navigate through the four core analysis tabs to view forensic estimations:
 
-- **Age**  
-  View the estimated age range and the methods used to reach that conclusion.
-
-- **Sex**  
-  Check the determined biological sex and supporting skeletal indicators.
-
-- **Ancestry**  
-  Review the predicted biogeographic group.
-
-- **Stature**  
-  Analyze height estimations.
+- **Age:** View the estimated age range and the methods used to reach that conclusion.
+- **Sex:** Check the determined biological sex and supporting skeletal indicators.
+- **Ancestry:** Review the predicted biogeographic group.
+- **Stature:** Analyze height estimations.
 
 ![](media/individual-analytics-biological-profile.gif)
 ---
@@ -221,14 +192,9 @@ Once the individual is loaded, navigate through the four core analysis tabs to v
 
 The **Stature** tab is the most data-intensive section. To manage this data:
 
-- **Filter Specimens**  
-  Use the **Specimens** dropdown to focus on specific bones (e.g., `Tibia - Left`).
-
-- **Verify Methodology**  
-  Check the **Method** column to see which forensic standard (e.g., `Trotter and Gleser`) is being applied.
-
-- **Analyze Equations**  
-  Review the **Equation** column to see the mathematical formula used to generate the height range.
+- **Filter Specimens:** Use the **Specimens** dropdown to focus on specific bones (e.g., `Tibia - Left`).
+- **Verify Methodology:** Check the **Method** column to see which forensic standard (e.g., `Trotter and Gleser`) is being applied.
+- **Analyze Equations:** Review the **Equation** column to see the mathematical formula used to generate the height range.
 
 ![](media/individual-analytics-filter.gif)
 ---
@@ -237,14 +203,9 @@ The **Stature** tab is the most data-intensive section. To manage this data:
 
 Use the interactive pie charts at the bottom to track the lab's progress on the individual:
 
-- **Completion Check**  
-  Hover over the **Complete** chart to see the exact ratio of present vs. missing bones.
-
-- **Sampling Status**  
-  Review the **DNA Sampled** and **Measured** charts to ensure all required protocols have been followed.
-
-- **Digital Imaging**  
-  Check the **Scanned**, **X-ray**, and **3D Scanned** charts to confirm that a digital twin of the remains has been created.
+- **Completion Check:** Hover over the **Complete** chart to see the exact ratio of present vs. missing bones.
+- **Sampling Status:** Review the **DNA Sampled** and **Measured** charts to ensure all required protocols have been followed.
+- **Digital Imaging:** Check the **Scanned**, **X-ray**, and **3D Scanned** charts to confirm that a digital twin of the remains has been created.
 
 ![](media/individual-analytics-monitoring.gif)
 ---
@@ -253,19 +214,18 @@ Use the interactive pie charts at the bottom to track the lab's progress on the 
 
 If the screen feels cluttered, you can tailor the view to your needs:
 
-- **Toggle Columns**  
-  Click **Column Visibility** to check or uncheck specific data points (e.g., `Bone Group`, `Method Type`).
-
-- **Switch Layouts**  
-  Use the **List/Grid Toggle** (icon with four squares/lines in the top-right) to switch between the dashboard view and a more condensed data list.
-
-- **Manual Refresh**  
-  If data was recently entered in another module, click the **Refresh/Sync** icon to update the analytics.
+- **Toggle Columns:** Click **Column Visibility** to check or uncheck specific data points (e.g., `Bone Group`, `Method Type`).
+- **Switch Layouts:** Use the **List/Grid Toggle** (icon with four squares/lines in the top-right) to switch between the dashboard view and a more condensed data list.
+- **Manual Refresh:** If data was recently entered in another module, click the **Refresh/Sync** icon to update the analytics.
 
 ![](media/individual-analytics-customize.gif)
 
 ---
 
-### Pro Tip: Status Tracking
+!!! tip
 
-Always check the **Last Updated** timestamp and the **Status Tag** (e.g., `In Lab`) at the top of the page to ensure you are viewing the most current information.
+    Always check the **Last Updated** timestamp and the **Status Tag** (e.g., `In Lab`) at the top of the page to ensure you are viewing the most current information.
+
+
+
+
